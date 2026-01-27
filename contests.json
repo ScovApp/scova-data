@@ -1,0 +1,42 @@
+[
+  {
+    "id": "air-wick-ti-premia-2026-01",
+    "title": "Air Wick Ti Premia",
+    "prize": "Cashback + estrazione finale (2 biglietti per Sanremo)",
+    "platform": "Sito web",
+    "category": "Shopping",
+    "deadline": "2026-01-31T23:59:59+01:00",
+    "url": "https://www.airwicktipremia.airwick.it/registrazione.php",
+    "termsUrl": "https://www.airwicktipremia.airwick.it/regolamento.php"
+  },
+  {
+    "id": "fanta-xbox-vinci-ogni-5-minuti-2026",
+    "title": "Fanta/Sprite: vinci premi Xbox ogni 5 minuti",
+    "prize": "Game Pass, controller e premi Xbox",
+    "platform": "Sito web",
+    "category": "Tech",
+    "deadline": "2026-02-27T17:00:00+01:00",
+    "url": "https://www.coca-cola.com/it/it/offerings/fanta-xbox",
+    "termsUrl": "https://www.coca-cola.com/content/dam/onexp/it/it/promos-2026/fanta/xbox-q1/regolamento_fantaxbox.pdf"
+  },
+  {
+    "id": "esselunga-snow-winners-2026",
+    "title": "Esselunga Snow Winners",
+    "prize": "Settimane bianche per 2 + premi immediati (tramite app)",
+    "platform": "Sito web / App Esselunga",
+    "category": "Viaggi",
+    "deadline": "2026-03-11T23:59:59+01:00",
+    "url": "https://www.esselunga.it/it-it/promo-e-news/landing/collection-salomon.html",
+    "termsUrl": "https://www.esselunga.it/media/promo-e-news/landing/collection-salomon/regolamenti/regolamento-gioco-app-snow-winners.pdf"
+  },
+  {
+    "id": "ariasana-gift-card-2026",
+    "title": "Ariasana: prova a vincere una gift card",
+    "prize": "Gift card digitali da 25€ (instant win)",
+    "platform": "SMS / WhatsApp",
+    "category": "Shopping",
+    "deadline": "2026-02-11T23:59:59+01:00",
+    "url": "https://wa.me/393399957012",
+    "termsUrl": "https://concorsi.donnad.it/brand/donnad/prova-a-vincere-una-gift-card-con-ariasana/regolamento.pdf"
+  }
+]
