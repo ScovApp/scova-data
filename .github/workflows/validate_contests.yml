@@ -4,13 +4,13 @@ on:
   push:
     paths:
       - "contests.json"
-      - "validate_contests.py"
+      - "tools/validate_contests.py"
       - "contests.schema.json"
       - ".github/workflows/validate_contests.yml"
   pull_request:
     paths:
       - "contests.json"
-      - "validate_contests.py"
+      - "tools/validate_contests.py"
       - "contests.schema.json"
       - ".github/workflows/validate_contests.yml"
 
@@ -26,5 +26,4 @@ jobs:
 
       - name: Validate JSON + links (no PDFs as url)
         run: |
-          python validate_contests.py --in contests.json --check-links
-
+          python tools/validate_contests.py --in contests.json --check-links
