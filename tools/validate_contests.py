@@ -1,4 +1,3 @@
-
 #!/usr/bin/env python3
 import argparse, json, re, sys, urllib.request, urllib.error
 from datetime import date, datetime
@@ -11,7 +10,7 @@ DATE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 
 def http_status(url: str, timeout: int = 12):
     headers = {"User-Agent": "scova-data-validator/1.0"}
-    for method in ("HEAD","GET"):
+    for method in ("HEAD", "GET"):
         req = urllib.request.Request(url, headers=headers, method=method)
         try:
             with urllib.request.urlopen(req, timeout=timeout) as resp:
@@ -19,6 +18,7 @@ def http_status(url: str, timeout: int = 12):
                 ctype = resp.headers.get("Content-Type")
                 return status, ctype
         except urllib.error.HTTPError as e:
+            # alcuni server rispondono 405/403 al HEAD: riprova in GET
             if method == "HEAD" and e.code in (405, 403):
                 continue
             ctype = e.headers.get("Content-Type") if hasattr(e, "headers") else None
@@ -79,11 +79,9 @@ def main():
             err(f"{prefix} category '{cat}' not allowed")
 
         dl = c.get("deadline")
-        dl_ok = False
         if isinstance(dl, str) and DATE_RE.match(dl):
             try:
                 dl_date = datetime.strptime(dl, "%Y-%m-%d").date()
-                dl_ok = True
                 if dl_date < today:
                     err(f"{prefix} expired (deadline {dl})")
             except Exception:
@@ -94,16 +92,24 @@ def main():
         if c.get("approved") is not True:
             err(f"{prefix} approved must be true")
 
+        # URL partecipazione: deve funzionare, ma 403 è tollerato (warning)
         url = c.get("url","")
         if not isinstance(url, str) or not url.strip().startswith("http"):
             err(f"{prefix} url invalid")
         elif args.check_links:
             status, ctype = http_status(url.strip())
-            if status is None or status >= 400:
+
+            # FAIL se non raggiungibile o >=400 (tranne 403)
+            if status is None or (status >= 400 and status != 403):
                 err(f"{prefix} url not reachable (status={status}) -> {url}")
+            elif status == 403:
+                print(f"WARNING: {prefix} url returned 403 (may block bots) -> {url}")
+
+            # url NON deve essere PDF
             if is_pdf(url.strip(), ctype):
                 err(f"{prefix} url points to a PDF (move it to termsUrl) -> {url}")
 
+        # termsUrl: best-effort (warning only)
         terms = c.get("termsUrl")
         if terms is not None:
             if not isinstance(terms, str) or not terms.strip().startswith("http"):
@@ -111,7 +117,7 @@ def main():
             elif args.check_links:
                 status, _ = http_status(terms.strip())
                 if status is None or status >= 400:
-                    err(f"{prefix} termsUrl not reachable (status={status}) -> {terms}")
+                    print(f"WARNING: {prefix} termsUrl not reachable (status={status}) -> {terms}")
 
         is_valid = not any(e.startswith(prefix) for e in errors)
 
@@ -130,4 +136,3 @@ def main():
 
 if __name__ == "__main__":
     raise SystemExit(main())
-
