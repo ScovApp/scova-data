@@ -1,42 +1,152 @@
 [
   {
-    "id": "air-wick-ti-premia-2026-01",
-    "title": "Air Wick Ti Premia",
-    "prize": "Cashback + estrazione finale (2 biglietti per Sanremo)",
+    "id": "cc_fanta_xbox_2026",
+    "title": "Fanta XBOX: gioca e prova a vincere",
+    "prize": "Premi XBOX (iniziativa su app Coca-Cola)",
+    "platform": "App Coca-Cola",
+    "category": "Giochi",
+    "deadline": "2026-02-27",
+    "url": "https://www.coca-cola.com/it/it/offerings/fanta-xbox-q1",
+    "termsUrl": "https://www.coca-cola.com/content/dam/onexp/it/it/offerings/ttw/fanta-xbox-q1/regolamento.pdf"
+  },
+  {
+    "id": "cc_cappellino_2026",
+    "title": "Coca-Cola: prova a vincere un cappellino",
+    "prize": "Cappellino Coca-Cola (su app Coca-Cola)",
+    "platform": "App Coca-Cola",
+    "category": "Moda",
+    "deadline": "2026-03-31",
+    "url": "https://www.coca-cola.com/it/it/offerings/vinci-un-cappellino",
+    "termsUrl": "https://www.coca-cola.com/content/dam/onexp/it/it/offerings/coca-cola-app/vinci-un-cappellino/regolamento.pdf"
+  },
+  {
+    "id": "crodino_vinci_2026",
+    "title": "Vinci con Crodino",
+    "prize": "Premi vari (iniziativa ufficiale Crodino)",
+    "platform": "Sito web",
+    "category": "Gastronomia",
+    "deadline": "2026-04-15",
+    "url": "https://vinci.crodino.it/",
+    "termsUrl": "https://vinci.crodino.it/"
+  },
+  {
+    "id": "golia_concorso_2026",
+    "title": "Golia: concorsi e premi",
+    "prize": "Premi e iniziative (pagina concorsi ufficiale)",
+    "platform": "Sito web",
+    "category": "Tempo Libero",
+    "deadline": "2026-03-01",
+    "url": "https://www.golia.it/concorsi/",
+    "termsUrl": "https://www.golia.it/concorsi/"
+  },
+  {
+    "id": "vividanone_fantacarrello_2026",
+    "title": "ViviDanone: Fantacarrello 2026",
+    "prize": "Spesa/Carrello premi (iniziativa ViviDanone)",
+    "platform": "Sito web",
+    "category": "Gastronomia",
+    "deadline": "2026-02-15",
+    "url": "https://www.vividanone.it/fantacarrello2026/",
+    "termsUrl": "https://www.vividanone.it/fantacarrello2026/"
+  },
+  {
+    "id": "elmex_salute_wave2_2026",
+    "title": "elmex: Per la tua salute (Wave 2)",
+    "prize": "Cashback/benefit (iniziativa elmex)",
+    "platform": "Sito web",
+    "category": "Benessere",
+    "deadline": "2026-03-31",
+    "url": "https://www.elmex.it/perlatuasalute/",
+    "termsUrl": "https://www.elmex.it/perlatuasalute/"
+  },
+  {
+    "id": "lines_dreamers_2026",
+    "title": "LINES Dreamers",
+    "prize": "Premi/iniziativa Lines Dreamers",
+    "platform": "Sito web",
+    "category": "Benessere",
+    "deadline": "2026-03-31",
+    "url": "https://www.lines.it/concorsolinesdreamers/",
+    "termsUrl": "https://www.lines.it/concorsolinesdreamers/"
+  },
+  {
+    "id": "conad_scopri_vinci_2026",
+    "title": "Conad: Scopri e Vinci",
+    "prize": "Premi vari (iniziativa Conad)",
     "platform": "Sito web",
     "category": "Shopping",
-    "deadline": "2026-01-31T23:59:59+01:00",
-    "url": "https://www.airwicktipremia.airwick.it/registrazione.php",
-    "termsUrl": "https://www.airwicktipremia.airwick.it/regolamento.php"
+    "deadline": "2026-01-31",
+    "url": "https://www.gustour.it/concorsi-vincii-vacanza/e-conad-scopri-e-vinci",
+    "termsUrl": "https://www.gustour.it/concorsi-vincii-vacanza/e-conad-scopri-e-vinci"
   },
   {
-    "id": "fanta-xbox-vinci-ogni-5-minuti-2026",
-    "title": "Fanta/Sprite: vinci premi Xbox ogni 5 minuti",
-    "prize": "Game Pass, controller e premi Xbox",
+    "id": "regina_vinci_spesa_2026",
+    "title": "Regina: Vinci la spesa 2026",
+    "prize": "Spesa/Gift card (iniziativa Regina)",
     "platform": "Sito web",
-    "category": "Tech",
-    "deadline": "2026-02-27T17:00:00+01:00",
-    "url": "https://www.coca-cola.com/it/it/offerings/fanta-xbox",
-    "termsUrl": "https://www.coca-cola.com/content/dam/onexp/it/it/promos-2026/fanta/xbox-q1/regolamento_fantaxbox.pdf"
-  },
-  {
-    "id": "esselunga-snow-winners-2026",
-    "title": "Esselunga Snow Winners",
-    "prize": "Settimane bianche per 2 + premi immediati (tramite app)",
-    "platform": "Sito web / App Esselunga",
-    "category": "Viaggi",
-    "deadline": "2026-03-11T23:59:59+01:00",
-    "url": "https://www.esselunga.it/it-it/promo-e-news/landing/collection-salomon.html",
-    "termsUrl": "https://www.esselunga.it/media/promo-e-news/landing/collection-salomon/regolamenti/regolamento-gioco-app-snow-winners.pdf"
-  },
-  {
-    "id": "ariasana-gift-card-2026",
-    "title": "Ariasana: prova a vincere una gift card",
-    "prize": "Gift card digitali da 25€ (instant win)",
-    "platform": "SMS / WhatsApp",
     "category": "Shopping",
-    "deadline": "2026-02-11T23:59:59+01:00",
-    "url": "https://wa.me/393399957012",
+    "deadline": "2026-02-14",
+    "url": "https://vincilaspesa.regina.eu/",
+    "termsUrl": "https://vincilaspesa.regina.eu/regolamento/"
+  },
+  {
+    "id": "italpizza_quiz_2026",
+    "title": "Italpizza: quiz e premi",
+    "prize": "Premi vari (iniziativa Italpizza)",
+    "platform": "Sito web",
+    "category": "Gastronomia",
+    "deadline": "2026-02-28",
+    "url": "https://www.italpizza.it/",
+    "termsUrl": "https://www.italpizza.it/wp-content/uploads/2025/12/regolamento-operazione-a-premi-quiz-italpizza-2026.pdf"
+  },
+  {
+    "id": "tim_sogno_olimpico_2026",
+    "title": "TIM: Vinci il sogno olimpico",
+    "prize": "Esperienze/premi (iniziativa TIM)",
+    "platform": "Sito web",
+    "category": "Sport",
+    "deadline": "2026-02-10",
+    "url": "https://www.eventitim.com/mico2026/",
+    "termsUrl": "https://www.eventitim.com/mico2026/"
+  },
+  {
+    "id": "sara_milan_2026",
+    "title": "Sara Assicurazioni x AC Milan",
+    "prize": "Premi/esperienze Milan (iniziativa Sara)",
+    "platform": "Sito web",
+    "category": "Sport",
+    "deadline": "2026-12-31",
+    "url": "https://www.sara.it/assicurazioni/per-privati/vinci-ac-milan",
+    "termsUrl": "https://www.sara.it/assicurazioni/per-privati/vinci-ac-milan"
+  },
+  {
+    "id": "esselunga_snow_winners_2026",
+    "title": "Esselunga: Snow Winners",
+    "prize": "Premi/gioco (iniziativa Esselunga)",
+    "platform": "App Esselunga",
+    "category": "Tempo Libero",
+    "deadline": "2026-01-28",
+    "url": "https://www.esselunga.it/",
+    "termsUrl": "https://www.esselunga.it/it-it/area-aziendale/media-press-area/concorsi/win2reg_snowwinners"
+  },
+  {
+    "id": "winday_express_2026",
+    "title": "WINDAY EXPRESS",
+    "prize": "Premi vari (iniziativa WINDTRE)",
+    "platform": "App WINDTRE",
+    "category": "Tempo Libero",
+    "deadline": "2026-02-15",
+    "url": "https://www.windtre.it/winday-partecipa",
+    "termsUrl": "https://www.windtre.it/winday-express/regolamento-concorso-winday-express.pdf"
+  },
+  {
+    "id": "ariasana_giftcard_2026",
+    "title": "Ariasana: prova a vincere una Gift Card",
+    "prize": "Gift card (iniziativa Ariasana)",
+    "platform": "Sito web",
+    "category": "Shopping",
+    "deadline": "2026-02-11",
+    "url": "https://concorsi.donnad.it/regolamenti",
     "termsUrl": "https://concorsi.donnad.it/brand/donnad/prova-a-vincere-una-gift-card-con-ariasana/regolamento.pdf"
   }
 ]
