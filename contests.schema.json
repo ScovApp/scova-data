@@ -1,0 +1,55 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Scova contests.json",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "additionalProperties": false,
+    "required": [
+      "id",
+      "title",
+      "prize",
+      "platform",
+      "category",
+      "deadline",
+      "url",
+      "approved"
+    ],
+    "properties": {
+      "id": {
+        "type": "string",
+        "minLength": 1
+      },
+      "title": {
+        "type": "string",
+        "minLength": 1
+      },
+      "prize": {
+        "type": "string",
+        "minLength": 1
+      },
+      "platform": {
+        "type": "string",
+        "minLength": 1
+      },
+      "category": {
+        "type": "string",
+        "minLength": 1
+      },
+      "deadline": {
+        "type": "string",
+        "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+      },
+      "url": {
+        "type": "string",
+        "minLength": 1
+      },
+      "termsUrl": {
+        "type": "string"
+      },
+      "approved": {
+        "type": "boolean"
+      }
+    }
+  }
+}
