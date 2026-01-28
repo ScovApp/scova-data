@@ -1,1 +1,30 @@
+name: Validate contests.json
+
+on:
+  push:
+    paths:
+      - "contests.json"
+      - "validate_contests.py"
+      - "contests.schema.json"
+      - ".github/workflows/validate_contests.yml"
+  pull_request:
+    paths:
+      - "contests.json"
+      - "validate_contests.py"
+      - "contests.schema.json"
+      - ".github/workflows/validate_contests.yml"
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Validate JSON + links (no PDFs as url)
+        run: |
+          python validate_contests.py --in contests.json --check-links
 
