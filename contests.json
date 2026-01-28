@@ -20,6 +20,16 @@
     "approved": true
   },
   {
+    "id": "elmex_salute_wave2_2026",
+    "title": "elmex: Per la tua salute (Wave 2)",
+    "prize": "Cashback/benefit (iniziativa elmex)",
+    "platform": "Sito web",
+    "category": "Benessere",
+    "deadline": "2026-03-31",
+    "url": "https://www.elmex.it/perlatuasalute/",
+    "approved": true
+  },
+  {
     "id": "conad_scopri_vinci_2026",
     "title": "Conad: Scopri e Vinci",
     "prize": "Premi vari (iniziativa Conad)",
@@ -27,6 +37,26 @@
     "category": "Shopping",
     "deadline": "2026-01-31",
     "url": "https://www.gustour.it/concorsi-vincii-vacanza/e-conad-scopri-e-vinci",
+    "approved": true
+  },
+  {
+    "id": "regina_vinci_spesa_2026",
+    "title": "Regina: Vinci la spesa 2026",
+    "prize": "Spesa/Gift card (iniziativa Regina)",
+    "platform": "Sito web",
+    "category": "Shopping",
+    "deadline": "2026-02-14",
+    "url": "https://vincilaspesa.regina.eu/",
+    "approved": true
+  },
+  {
+    "id": "italpizza_quiz_2026",
+    "title": "Italpizza: quiz e premi",
+    "prize": "Premi vari (iniziativa Italpizza)",
+    "platform": "Sito web",
+    "category": "Gastronomia",
+    "deadline": "2026-02-28",
+    "url": "https://www.italpizza.it/",
     "approved": true
   },
   {
@@ -40,6 +70,26 @@
     "approved": true
   },
   {
+    "id": "esselunga_snow_winners_2026",
+    "title": "Esselunga: Snow Winners",
+    "prize": "Premi/gioco (iniziativa Esselunga)",
+    "platform": "App Esselunga",
+    "category": "Tempo Libero",
+    "deadline": "2026-01-28",
+    "url": "https://www.esselunga.it/",
+    "approved": true
+  },
+  {
+    "id": "winday_express_2026",
+    "title": "WINDAY EXPRESS",
+    "prize": "Premi vari (iniziativa WINDTRE)",
+    "platform": "App WINDTRE",
+    "category": "Tempo Libero",
+    "deadline": "2026-02-15",
+    "url": "https://www.windtre.it/winday-partecipa",
+    "approved": true
+  },
+  {
     "id": "ariasana_giftcard_2026",
     "title": "Ariasana: prova a vincere una Gift Card",
     "prize": "Gift card (iniziativa Ariasana)",
@@ -47,4 +97,7 @@
     "category": "Shopping",
     "deadline": "2026-02-11",
     "url": "https://concorsi.donnad.it/regolamenti",
-    "terms
+    "termsUrl": "https://concorsi.donnad.it/brand/donnad/prova-a-vincere-una-gift-card-con-ariasana/regolamento.pdf",
+    "approved": true
+  }
+]
