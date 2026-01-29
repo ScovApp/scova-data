@@ -29,7 +29,7 @@
     "category": "Sport",
     "deadline": "2026-01-31",
     "url": "https://promozioni.pgperte.it/2025_1169p_procter_iw_multibrand_12012026_31012026/",
-    "termsUrl": "https://promozioni.pgperte.it/2025_1169p_procter_iw_multibrand_12012026_31012026/",
+    "termsUrl": "https://promozioni.pgperte.it/2025_1169p_procter_iw_multibrand_12012026_31012026/regolamento.php",
     "approved": true
   },
   {
@@ -40,7 +40,7 @@
     "category": "Shopping",
     "deadline": "2026-06-15",
     "url": "https://www.poste.it/pay-e-win",
-    "termsUrl": "https://www.poste.it/pay-e-win",
+    "termsUrl": "https://www.media.poste.it/4e85997f-b9e0-414f-b9b8-2ee7b755be28/file/Postepay-Pay-Win-Regolamento",
     "approved": true
   },
   {
@@ -140,6 +140,29 @@
     "deadline": "2026-12-21",
     "url": "https://www.galbani.it/le-delizie-del-banco-2026/home",
     "termsUrl": "https://www.galbani.it/le-delizie-del-banco-2026/home",
+    "approved": true
+  },
+
+  {
+    "id": "haribo_in_pista_con_orsetto_2026",
+    "title": "Haribo: In Pista con l'Orsetto",
+    "prize": "Gift Card Cisalfa (instant win) + iniziativa Carnevale",
+    "platform": "Sito web",
+    "category": "Gastronomia",
+    "deadline": "2026-03-08",
+    "url": "https://www.hariboconcorsi.it/",
+    "termsUrl": "https://www.hariboconcorsi.it/public/Carnevale_2026/regolamento.pdf",
+    "approved": true
+  },
+  {
+    "id": "suziwan_capodanno_cinese_2026",
+    "title": "Suzi Wan: Capodanno Cinese 2026",
+    "prize": "50 Friggitrici ad aria Philips (instant win)",
+    "platform": "Sito web",
+    "category": "Gastronomia",
+    "deadline": "2026-03-24",
+    "url": "https://www.concorsosuziwan.it/",
+    "termsUrl": "https://www.concorsosuziwan.it/",
     "approved": true
   }
 ]
