@@ -1,197 +1,145 @@
 [
-{
-"id": "pg_vinci_emozioni_lidl_2026",
-"title": "Vinci emozioni con P&G (LIDL)",
-"prize": "Biglietti/esperienze Paralimpiadi Milano Cortina 2026 (instant win)",
-"platform": "Sito web",
-"category": "Sport",
-"deadline": "2026-01-31",
-"url": "https://promozioni.pgperte.it/2025_1169p_procter_iw_multibrand_12012026_31012026/
-",
-"termsUrl": "https://promozioni.pgperte.it/2025_1169p_procter_iw_multibrand_12012026_31012026/
-",
-"approved": true
-},
-{
-"id": "lidl_viaggiare_plus_2026",
-"title": "Viaggiare con Lidl Plus Vale davvero",
-"prize": "Buoni Lidl Viaggi (estrazione)",
-"platform": "App Lidl Plus",
-"category": "Viaggi",
-"deadline": "2026-02-22",
-"url": "https://www.lidl.it/c/concorsi-e-operazioni-a-premio/s10019291
-",
-"termsUrl": "https://www.lidl.it/c/concorsi-e-operazioni-a-premio/s10019291
-",
-"approved": true
-},
-{
-"id": "haribo_in_pista_con_orsetto_2026",
-"title": "Haribo: In Pista con l'Orsetto",
-"prize": "Premi instant win + estrazione (iniziativa Haribo)",
-"platform": "Sito web",
-"category": "Gastronomia",
-"deadline": "2026-03-08",
-"url": "https://www.hariboconcorsi.it/
-",
-"termsUrl": "https://www.hariboconcorsi.it/
-",
-"approved": true
-},
-{
-"id": "suziwan_capodanno_cinese_2026",
-"title": "Suzi Wan: Capodanno Cinese 2026",
-"prize": "Premi instant win (iniziativa Suzi Wan)",
-"platform": "Sito web",
-"category": "Gastronomia",
-"deadline": "2026-03-24",
-"url": "https://www.concorsosuziwan.it/
-",
-"termsUrl": "https://www.concorsosuziwan.it/
-",
-"approved": true
-},
-{
-"id": "donnad_cashback_acchiappacolore_2026",
-"title": "DonnaD: 100% Cashback L'Acchiappacolore",
-"prize": "Rimborso 100% (cashback)",
-"platform": "Sito web",
-"category": "Senza Acquisto",
-"deadline": "2026-03-31",
-"url": "https://concorsi.donnad.it/concorso/100-cashback-l-acchiappacolore
-",
-"termsUrl": "https://concorsi.donnad.it/concorso/100-cashback-l-acchiappacolore
-",
-"approved": true
-},
-{
-"id": "isybank_2026_concorso",
-"title": "isybank 2026 (isyReward)",
-"prize": "Premi/esperienze (concorso annuale in app isybank)",
-"platform": "App isybank",
-"category": "Tempo Libero",
-"deadline": "2026-04-30",
-"url": "https://www.isybank.com/it/isyreward.html
-",
-"termsUrl": "https://www.isybank.com/it/isyreward.html
-",
-"approved": true
-},
-{
-"id": "donnad_syoss_root_retouch_cashback_2026",
-"title": "DonnaD: Syoss Colorazione 100% rimborsato (Root Retouch)",
-"prize": "Rimborso 100% (cashback)",
-"platform": "Sito web",
-"category": "Senza Acquisto",
-"deadline": "2026-04-30",
-"url": "https://concorsi.donnad.it/concorso/syoss-colorazione-100-rimborsato-root-retouch
-",
-"termsUrl": "https://concorsi.donnad.it/concorso/syoss-colorazione-100-rimborsato-root-retouch
-",
-"approved": true
-},
-{
-"id": "zucchi_senti_che_fritto_2026",
-"title": "Zucchi: Senti che Fritto (Fritto Libero!)",
-"prize": "Premi JBL + viaggio (instant win/estrazione)",
-"platform": "Sito web",
-"category": "Gastronomia",
-"deadline": "2026-05-03",
-"url": "https://concorso.frittolibero.it/
-",
-"termsUrl": "https://concorso.frittolibero.it/
-",
-"approved": true
-},
-{
-"id": "pepsi_ucl_2026",
-"title": "PEPSI UCL 2026",
-"prize": "Premi giornalieri + Smart TV settimanali (concorso PepsiCo)",
-"platform": "Sito web",
-"category": "Sport",
-"deadline": "2026-05-31",
-"url": "https://www.pepsiconcorsi.it/concorsi/pepsi-ucl-2026
-",
-"termsUrl": "https://www.pepsiconcorsi.it/regolamenti
-",
-"approved": true
-},
-{
-"id": "postepay_paywin_2026",
-"title": "POSTEPAY PAY&WIN",
-"prize": "Buoni digitali + esperienza (concorso Postepay)",
-"platform": "App Poste Italiane",
-"category": "Shopping",
-"deadline": "2026-06-15",
-"url": "https://www.poste.it/pay-e-win
-",
-"termsUrl": "https://www.poste.it/pay-e-win
-",
-"approved": true
-},
-{
-"id": "mulino_bianco_momenti_piu_buoni_2026",
-"title": "Mulino Bianco: Momenti più buoni",
-"prize": "Premi raccolta punti + concorso (Mulino Bianco)",
-"platform": "Sito web",
-"category": "Gastronomia",
-"deadline": "2026-07-31",
-"url": "https://promozioni.mulinobianco.it/momenti-piu-buoni/partecipa
-",
-"termsUrl": "https://promozioni.mulinobianco.it/momenti-piu-buoni/regolamento
-",
-"approved": true
-},
-{
-"id": "donnad_connessi_pulito_2026",
-"title": "DonnaD: Connessi con il pulito",
-"prize": "Premi instant win + estrazione finale (iniziativa detergenza)",
-"platform": "Sito web",
-"category": "Benessere",
-"deadline": "2026-12-06",
-"url": "https://concorsi.donnad.it/concorso/connessi-con-il-pulito
-",
-"termsUrl": "https://concorsi.donnad.it/concorso/connessi-con-il-pulito
-",
-"approved": true
-},
-{
-"id": "donnad_capelli_wave2_2026",
-"title": "DonnaD: Proteggi e ripara i tuoi capelli (Wave 2)",
-"prize": "Premi (iniziativa cura capelli)",
-"platform": "Sito web",
-"category": "Benessere",
-"deadline": "2026-12-07",
-"url": "https://concorsi.donnad.it/concorso/proteggi-e-ripara-i-tuoi-capelli-wave-2
-",
-"termsUrl": "https://concorsi.donnad.it/concorso/proteggi-e-ripara-i-tuoi-capelli-wave-2
-",
-"approved": true
-},
-{
-"id": "galbani_delizie_banco_2026",
-"title": "Galbani: Le Delizie del Banco 2026",
-"prize": "Buoni spesa + premi (concorso Galbani)",
-"platform": "Sito web",
-"category": "Gastronomia",
-"deadline": "2026-12-21",
-"url": "https://www.galbani.it/le-delizie-del-banco-2026/home
-",
-"termsUrl": "https://www.galbani.it/le-delizie-del-banco-2026/home
-",
-"approved": true
-},
-{
-"id": "donnad_fantacarrello_2026",
-"title": "DonnaD: Fantacarrello 2026",
-"prize": "Premi a estrazione/instant win (gioco Fantacarrello)",
-"platform": "Sito web",
-"category": "Giochi",
-"deadline": "2026-12-31",
-"url": "https://concorsi.donnad.it/concorso/fantacarrello-2026
-",
-"termsUrl": "https://concorsi.donnad.it/concorso/fantacarrello-2026
-",
-"approved": true
-}
+  {
+    "id": "pg_vinci_emozioni_lidl_2026",
+    "title": "Vinci emozioni con P&G (LIDL)",
+    "prize": "Biglietti/esperienze Paralimpiadi Milano Cortina 2026 (instant win)",
+    "platform": "Sito web",
+    "category": "Sport",
+    "deadline": "2026-01-31",
+    "url": "https://promozioni.pgperte.it/2025_1169p_procter_iw_multibrand_12012026_31012026/",
+    "termsUrl": "https://promozioni.pgperte.it/2025_1169p_procter_iw_multibrand_12012026_31012026/",
+    "approved": true
+  },
+  {
+    "id": "lidl_viaggiare_plus_2026",
+    "title": "Viaggiare con Lidl Plus Vale davvero",
+    "prize": "Buoni Lidl Viaggi (estrazione)",
+    "platform": "App Lidl Plus",
+    "category": "Viaggi",
+    "deadline": "2026-02-22",
+    "url": "https://www.lidl.it/c/concorsi-e-operazioni-a-premio/s10019291",
+    "termsUrl": "https://www.lidl.it/c/concorsi-e-operazioni-a-premio/s10019291",
+    "approved": true
+  },
+  {
+    "id": "donnad_cashback_acchiappacolore_2026",
+    "title": "DonnaD: 100% Cashback L'Acchiappacolore",
+    "prize": "Rimborso 100% (cashback)",
+    "platform": "Sito web",
+    "category": "Senza Acquisto",
+    "deadline": "2026-03-31",
+    "url": "https://concorsi.donnad.it/concorso/100-cashback-l-acchiappacolore",
+    "termsUrl": "https://concorsi.donnad.it/concorso/100-cashback-l-acchiappacolore",
+    "approved": true
+  },
+  {
+    "id": "isybank_2026_concorso",
+    "title": "isybank 2026 (isyReward)",
+    "prize": "Premi/esperienze (concorso annuale in app isybank)",
+    "platform": "App isybank",
+    "category": "Tempo Libero",
+    "deadline": "2026-04-30",
+    "url": "https://www.isybank.com/it/isyreward.html",
+    "termsUrl": "https://www.isybank.com/it/isyreward.html",
+    "approved": true
+  },
+  {
+    "id": "donnad_syoss_root_retouch_cashback_2026",
+    "title": "DonnaD: Syoss Colorazione 100% rimborsato (Root Retouch)",
+    "prize": "Rimborso 100% (cashback)",
+    "platform": "Sito web",
+    "category": "Senza Acquisto",
+    "deadline": "2026-04-30",
+    "url": "https://concorsi.donnad.it/concorso/syoss-colorazione-100-rimborsato-root-retouch",
+    "termsUrl": "https://concorsi.donnad.it/concorso/syoss-colorazione-100-rimborsato-root-retouch",
+    "approved": true
+  },
+  {
+    "id": "zucchi_senti_che_fritto_2026",
+    "title": "Zucchi: Senti che Fritto (Fritto Libero!)",
+    "prize": "Premi JBL + viaggio (instant win/estrazione)",
+    "platform": "Sito web",
+    "category": "Gastronomia",
+    "deadline": "2026-05-03",
+    "url": "https://concorso.frittolibero.it/",
+    "termsUrl": "https://concorso.frittolibero.it/",
+    "approved": true
+  },
+  {
+    "id": "pepsi_ucl_2026",
+    "title": "PEPSI UCL 2026",
+    "prize": "Premi giornalieri + Smart TV settimanali (concorso PepsiCo)",
+    "platform": "Sito web",
+    "category": "Sport",
+    "deadline": "2026-05-31",
+    "url": "https://www.pepsiconcorsi.it/concorsi/pepsi-ucl-2026",
+    "termsUrl": "https://www.pepsiconcorsi.it/regolamenti",
+    "approved": true
+  },
+  {
+    "id": "postepay_paywin_2026",
+    "title": "POSTEPAY PAY&WIN",
+    "prize": "Buoni digitali + esperienza (concorso Postepay)",
+    "platform": "App Poste Italiane",
+    "category": "Shopping",
+    "deadline": "2026-06-15",
+    "url": "https://www.poste.it/pay-e-win",
+    "termsUrl": "https://www.poste.it/pay-e-win",
+    "approved": true
+  },
+  {
+    "id": "mulino_bianco_momenti_piu_buoni_2026",
+    "title": "Mulino Bianco: Momenti più buoni",
+    "prize": "Premi raccolta punti + concorso (Mulino Bianco)",
+    "platform": "Sito web",
+    "category": "Gastronomia",
+    "deadline": "2026-07-31",
+    "url": "https://promozioni.mulinobianco.it/momenti-piu-buoni/partecipa",
+    "termsUrl": "https://promozioni.mulinobianco.it/momenti-piu-buoni/regolamento",
+    "approved": true
+  },
+  {
+    "id": "donnad_connessi_pulito_2026",
+    "title": "DonnaD: Connessi con il pulito",
+    "prize": "Premi instant win + estrazione finale (iniziativa detergenza)",
+    "platform": "Sito web",
+    "category": "Benessere",
+    "deadline": "2026-12-06",
+    "url": "https://concorsi.donnad.it/concorso/connessi-con-il-pulito",
+    "termsUrl": "https://concorsi.donnad.it/concorso/connessi-con-il-pulito",
+    "approved": true
+  },
+  {
+    "id": "donnad_capelli_wave2_2026",
+    "title": "DonnaD: Proteggi e ripara i tuoi capelli (Wave 2)",
+    "prize": "Premi (iniziativa cura capelli)",
+    "platform": "Sito web",
+    "category": "Benessere",
+    "deadline": "2026-12-07",
+    "url": "https://concorsi.donnad.it/concorso/proteggi-e-ripara-i-tuoi-capelli-wave-2",
+    "termsUrl": "https://concorsi.donnad.it/concorso/proteggi-e-ripara-i-tuoi-capelli-wave-2",
+    "approved": true
+  },
+  {
+    "id": "galbani_delizie_banco_2026",
+    "title": "Galbani: Le Delizie del Banco 2026",
+    "prize": "Buoni spesa + premi (concorso Galbani)",
+    "platform": "Sito web",
+    "category": "Gastronomia",
+    "deadline": "2026-12-21",
+    "url": "https://www.galbani.it/le-delizie-del-banco-2026/home",
+    "termsUrl": "https://www.galbani.it/le-delizie-del-banco-2026/home",
+    "approved": true
+  },
+  {
+    "id": "donnad_fantacarrello_2026",
+    "title": "DonnaD: Fantacarrello 2026",
+    "prize": "Premi a estrazione/instant win (gioco Fantacarrello)",
+    "platform": "Sito web",
+    "category": "Giochi",
+    "deadline": "2026-12-31",
+    "url": "https://concorsi.donnad.it/concorso/fantacarrello-2026",
+    "termsUrl": "https://concorsi.donnad.it/concorso/fantacarrello-2026",
+    "approved": true
+  }
 ]
