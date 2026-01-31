@@ -11,28 +11,6 @@
     "approved": true
   },
   {
-    "id": "donnad_vinci_sonic_dixan_2026",
-    "title": "Vinci Sonic con Dixan",
-    "prize": "Viaggio in Giappone (voucher) + iniziativa a premi (Dixan / DonnaD)",
-    "platform": "Sito web",
-    "category": "Benessere",
-    "deadline": "2026-02-01",
-    "url": "https://concorsi.donnad.it/concorso/vinci-sonic-con-dixan",
-    "termsUrl": "https://concorsi.donnad.it/concorso/vinci-sonic-con-dixan",
-    "approved": true
-  },
-  {
-    "id": "donnad_ariasana_gift_card_2026",
-    "title": "Prova a vincere una gift card con Ariasana",
-    "prize": "Gift card digitali da 25€ (instant win)",
-    "platform": "WhatsApp / SMS (Henkel / DonnaD)",
-    "category": "Benessere",
-    "deadline": "2026-02-11",
-    "url": "https://concorsi.donnad.it/",
-    "termsUrl": "https://concorsi.donnad.it/brand/donnad/prova-a-vincere-una-gift-card-con-ariasana/regolamento.pdf",
-    "approved": true
-  },
-  {
     "id": "lidl_viaggiare_plus_2026",
     "title": "Viaggiare con Lidl Plus Vale davvero",
     "prize": "Buoni Lidl Viaggi (estrazione)",
@@ -41,39 +19,6 @@
     "deadline": "2026-02-22",
     "url": "https://www.lidl.it/c/concorsi-e-operazioni-a-premio/s10019291",
     "termsUrl": "https://www.lidl.it/c/concorsi-e-operazioni-a-premio/s10019291",
-    "approved": true
-  },
-  {
-    "id": "cocacola_vinci_ogni_5_minuti_2026",
-    "title": "Vinci ogni 5 minuti (Fanta / Sprite)",
-    "prize": "Premi instant win ogni 5 minuti + iniziativa a premi (Coca-Cola)",
-    "platform": "Coca-Cola App",
-    "category": "Giochi",
-    "deadline": "2026-02-27",
-    "url": "https://www.coca-cola.com/content/dam/onexp/it/it/promos-2026/fanta/xbox-q1/regolamento_fantaxbox.pdf",
-    "termsUrl": "https://www.coca-cola.com/content/dam/onexp/it/it/promos-2026/fanta/xbox-q1/regolamento_fantaxbox.pdf",
-    "approved": true
-  },
-  {
-    "id": "italpizza_perche_italpizza_2026",
-    "title": "Perché Italpizza è Italpizza",
-    "prize": "Kit Pizza (instant win) + bici in estrazione finale (Italpizza)",
-    "platform": "Instagram",
-    "category": "Gastronomia",
-    "deadline": "2026-02-28",
-    "url": "https://italpizza.com/concorso/",
-    "termsUrl": "https://italpizza.com/wp-content/uploads/2026/01/Regolamento-Italpizza.pdf",
-    "approved": true
-  },
-  {
-    "id": "donnad_the_kolors_2026",
-    "title": "Prova a vincere un concerto con i The Kolors",
-    "prize": "2 biglietti per un concerto (estrazione finale)",
-    "platform": "Sito web",
-    "category": "Musica",
-    "deadline": "2026-03-31",
-    "url": "https://concorsi.donnad.it/concorso/prova-a-vincere-un-concerto-con-i-the-kolors",
-    "termsUrl": "https://concorsi.donnad.it/brand/donnad/prova-a-vincere-un-concerto-con-i-the-kolors/regolamento.pdf",
     "approved": true
   },
   {
