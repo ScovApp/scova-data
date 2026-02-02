@@ -1,734 +1,506 @@
 [
-  {
-    "id": "20260202-001",
-    "title": "Shop-and-win (carica scontrini) – estrazione finale entro 31/03/2026",
-    "prize": "Premi/estrazioni (vedi regolamento)",
-    "platform": "Web",
-    "category": "Shopping",
-    "deadline": "2026-02-03",
-    "url": "https://www.shop-and-win.com/",
-    "termsUrl": "https://www.shop-and-win.com/regolamento.pdf",
-    "imageUrl": "",
-    "approved": true
-  },
-  {
-    "id": "20260202-002",
-    "title": "Concorso Accademia di Belle Arti di Venezia – Operatori (personale ATA)",
-    "prize": "Graduatoria/assunzioni (vedi bando)",
-    "platform": "Web",
-    "category": "Gare",
-    "deadline": "2026-02-04",
-    "url": "https://www.ticonsiglio.com/concorsi-pubblici-scadenza-febbraio-2026-assunzioni/",
-    "termsUrl": "https://www.ticonsiglio.com/concorsi-pubblici-scadenza-febbraio-2026-assunzioni/",
-    "imageUrl": "",
-    "approved": true
-  },
-  {
-    "id": "20260202-003",
-    "title": "Universal For Fans – Stray Kids The dominATE Experience (anteprima)",
-    "prize": "20 inviti (2 persone) per anteprima a Roma",
-    "platform": "Web",
-    "category": "Musica",
-    "deadline": "2026-02-04",
-    "url": "https://www.dimmicosacerchi.it/universal-for-fans-stray-kids-the-dominate-experience.html",
-    "termsUrl": "https://www.dimmicosacerchi.it/universal-for-fans-stray-kids-the-dominate-experience.html",
-    "imageUrl": "",
-    "approved": true
-  },
-  {
-    "id": "20260202-004",
-    "title": "Giveaway DJI Italia – Osmo Pocket 3 Creator Combo",
-    "prize": "1x Osmo Pocket 3 Creator Combo",
-    "platform": "Instagram",
-    "category": "Tech",
-    "deadline": "2026-02-05",
-    "url": "https://www.instagram.com/dji_italia/",
-    "termsUrl": "https://www.scontrinofelice.it/concorsi-gratuiti/giveaway-dji/",
-    "imageUrl": "",
-    "approved": true
-  },
-  {
-    "id": "20260202-005",
-    "title": "Concorso IPAB Malanotti – OSS (operatori socio sanitari)",
-    "prize": "7 assunzioni a tempo indeterminato (vedi bando)",
-    "platform": "Web",
-    "category": "Gare",
-    "deadline": "2026-02-05",
-    "url": "https://www.ticonsiglio.com/concorsi-pubblici-scadenza-febbraio-2026-assunzioni/",
-    "termsUrl": "https://www.ticonsiglio.com/concorsi-pubblici-scadenza-febbraio-2026-assunzioni/",
-    "imageUrl": "",
-    "approved": true
-  },
-  {
-    "id": "20260202-006",
-    "title": "Regione Basilicata – avviamento a selezione per operai",
-    "prize": "Assunzioni/avviamento a selezione (vedi bando)",
-    "platform": "Web",
-    "category": "Gare",
-    "deadline": "2026-02-05",
-    "url": "https://www.ticonsiglio.com/concorsi-pubblici-scadenza-febbraio-2026-assunzioni/",
-    "termsUrl": "https://www.ticonsiglio.com/concorsi-pubblici-scadenza-febbraio-2026-assunzioni/",
-    "imageUrl": "",
-    "approved": true
-  },
-  {
-    "id": "20260202-007",
-    "title": "Comune di Tambre (BL) – operaio autista scuolabus e macchine operatrici",
-    "prize": "Assunzione a tempo indeterminato (vedi bando)",
-    "platform": "Web",
-    "category": "Gare",
-    "deadline": "2026-02-05",
-    "url": "https://www.ticonsiglio.com/concorsi-pubblici-scadenza-febbraio-2026-assunzioni/",
-    "termsUrl": "https://www.ticonsiglio.com/concorsi-pubblici-scadenza-febbraio-2026-assunzioni/",
-    "imageUrl": "",
-    "approved": true
-  },
-  {
-    "id": "20260202-008",
-    "title": "Accademia di Belle Arti di Reggio Calabria – docenti (collaborazioni)",
-    "prize": "Incarichi di docenza esterna A.A. 2025/2026 (vedi bando)",
-    "platform": "Web",
-    "category": "Gare",
-    "deadline": "2026-02-07",
-    "url": "https://www.ticonsiglio.com/concorsi-pubblici-scadenza-febbraio-2026-assunzioni/",
-    "termsUrl": "https://www.ticonsiglio.com/concorsi-pubblici-scadenza-febbraio-2026-assunzioni/",
-    "imageUrl": "",
-    "approved": true
-  },
-  {
-    "id": "20260202-009",
-    "title": "Conservatorio “Guido Cantelli” (Novara) – Operatori (ATA)",
-    "prize": "Graduatoria/assunzioni (vedi bando)",
-    "platform": "Web",
-    "category": "Gare",
-    "deadline": "2026-02-08",
-    "url": "https://www.ticonsiglio.com/concorsi-pubblici-scadenza-febbraio-2026-assunzioni/",
-    "termsUrl": "https://www.ticonsiglio.com/concorsi-pubblici-scadenza-febbraio-2026-assunzioni/",
-    "imageUrl": "",
-    "approved": true
-  },
-  {
-    "id": "20260202-010",
-    "title": "Comune di Villafranca Tirrena (ME) – Assistenti sociali",
-    "prize": "Assunzione (vedi bando)",
-    "platform": "Web",
-    "category": "Gare",
-    "deadline": "2026-02-08",
-    "url": "https://www.ticonsiglio.com/concorsi-pubblici-scadenza-febbraio-2026-assunzioni/",
-    "termsUrl": "https://www.ticonsiglio.com/concorsi-pubblici-scadenza-febbraio-2026-assunzioni/",
-    "imageUrl": "",
-    "approved": true
-  },
-  {
-    "id": "20260202-011",
-    "title": "Concorso ASST di Pavia – Infermieri",
-    "prize": "Assunzioni a tempo indeterminato (vedi bando)",
-    "platform": "Web",
-    "category": "Gare",
-    "deadline": "2026-02-09",
-    "url": "https://www.ticonsiglio.com/concorsi-pubblici-scadenza-febbraio-2026-assunzioni/",
-    "termsUrl": "https://www.ticonsiglio.com/concorsi-pubblici-scadenza-febbraio-2026-assunzioni/",
-    "imageUrl": "",
-    "approved": true
-  },
-  {
-    "id": "20260202-012",
-    "title": "Conservatorio “O. Respighi” (Latina) – Operatori (ATA)",
-    "prize": "Graduatoria/supplenze (vedi bando)",
-    "platform": "Web",
-    "category": "Gare",
-    "deadline": "2026-02-09",
-    "url": "https://www.ticonsiglio.com/concorsi-pubblici-scadenza-febbraio-2026-assunzioni/",
-    "termsUrl": "https://www.ticonsiglio.com/concorsi-pubblici-scadenza-febbraio-2026-assunzioni/",
-    "imageUrl": "",
-    "approved": true
-  },
-  {
-    "id": "20260202-013",
-    "title": "Prova a vincere una gift card con Ariasana (SMS) – concorsi.donnad.it",
-    "prize": "Gift card (vedi note legali)",
-    "platform": "Web",
-    "category": "Shopping",
-    "deadline": "2026-02-11",
-    "url": "https://concorsi.donnad.it/api/ajax/contests",
-    "termsUrl": "https://concorsi.donnad.it/api/ajax/contests",
-    "imageUrl": "",
-    "approved": true
-  },
-  {
-    "id": "20260202-014",
-    "title": "Giro d’Italia Scratch&Win – Grande Arrivo Edition",
-    "prize": "Gift Card All4cycling + viaggio VIP a Roma (estrazione finale)",
-    "platform": "Web",
-    "category": "Sport",
-    "deadline": "2026-02-15",
-    "url": "https://play.giroditalia.it/",
-    "termsUrl": "https://www.dimmicosacerchi.it/concorso-giro-italia-scratchwin.html",
-    "imageUrl": "",
-    "approved": true
-  },
-  {
-    "id": "20260202-015",
-    "title": "Concorso ASST Nord Milano – Infermieri (e infermieri pediatrici)",
-    "prize": "Assunzioni a tempo indeterminato (vedi bando)",
-    "platform": "Web",
-    "category": "Gare",
-    "deadline": "2026-02-16",
-    "url": "https://www.ticonsiglio.com/concorsi-pubblici-scadenza-febbraio-2026-assunzioni/",
-    "termsUrl": "https://www.ticonsiglio.com/concorsi-pubblici-scadenza-febbraio-2026-assunzioni/",
-    "imageUrl": "",
-    "approved": true
-  },
-  {
-    "id": "20260202-016",
-    "title": "Unione Terre d’Argine – Istruttori amministrativi diplomati",
-    "prize": "Graduatoria idonei/assunzioni (vedi bando)",
-    "platform": "Web",
-    "category": "Gare",
-    "deadline": "2026-02-17",
-    "url": "https://www.ticonsiglio.com/concorsi-pubblici-scadenza-febbraio-2026-assunzioni/",
-    "termsUrl": "https://www.ticonsiglio.com/concorsi-pubblici-scadenza-febbraio-2026-assunzioni/",
-    "imageUrl": "",
-    "approved": true
-  },
-  {
-    "id": "20260202-017",
-    "title": "Concorso Lindt – “Il piacere di stare insieme”",
-    "prize": "Settimana in montagna + buoni spesa 100€ (vedi dettagli)",
-    "platform": "Web",
-    "category": "Shopping",
-    "deadline": "2026-02-18",
-    "url": "https://www.dimmicosacerchi.it/concorso-lindt-piacere-stare-insieme.html",
-    "termsUrl": "https://www.dimmicosacerchi.it/concorso-lindt-piacere-stare-insieme.html",
-    "imageUrl": "",
-    "approved": true
-  },
-  {
-    "id": "20260202-018",
-    "title": "#T-TeC Technology Contest (Leonardo) – 7ª edizione",
-    "prize": "Premi/riconoscimenti (vedi call)",
-    "platform": "Web",
-    "category": "Tech",
-    "deadline": "2026-02-20",
-    "url": "https://www.leonardo.com/it/news-and-stories-detail/-/detail/ttech-technology-contest-al-via-la-settima-edizione",
-    "termsUrl": "https://www.leonardo.com/it/news-and-stories-detail/-/detail/ttech-technology-contest-al-via-la-settima-edizione",
-    "imageUrl": "",
-    "approved": true
-  },
-  {
-    "id": "20260202-019",
-    "title": "Concorso Polizia di Stato – 1000 Allievi Vice Ispettori",
-    "prize": "1000 posti (vedi bando)",
-    "platform": "Web",
-    "category": "Gare",
-    "deadline": "2026-02-21",
-    "url": "https://www.ticonsiglio.com/concorsi-pubblici-scadenza-febbraio-2026-assunzioni/",
-    "termsUrl": "https://www.ticonsiglio.com/concorsi-pubblici-scadenza-febbraio-2026-assunzioni/",
-    "imageUrl": "",
-    "approved": true
-  },
-  {
-    "id": "20260202-020",
-    "title": "Comune di Olgiate Comasco – Bibliotecari/assistenti di biblioteca",
-    "prize": "Assunzione a tempo indeterminato (vedi bando)",
-    "platform": "Web",
-    "category": "Gare",
-    "deadline": "2026-02-22",
-    "url": "https://www.ticonsiglio.com/concorsi-pubblici-scadenza-febbraio-2026-assunzioni/",
-    "termsUrl": "https://www.ticonsiglio.com/concorsi-pubblici-scadenza-febbraio-2026-assunzioni/",
-    "imageUrl": "",
-    "approved": true
-  },
-  {
-    "id": "20260202-021",
-    "title": "Kellogg’s Bowls (Fase 1) – vinci tazze/ciotole colazione",
-    "prize": "Premi instant win + estrazioni (vedi regolamento)",
-    "platform": "Web",
-    "category": "Shopping",
-    "deadline": "2026-02-22",
-    "url": "https://www.dimmicosacerchi.it/kelloggs-bowls-tazze-colazione-2026.html",
-    "termsUrl": "https://www.dimmicosacerchi.it/kelloggs-bowls-tazze-colazione-2026.html",
-    "imageUrl": "",
-    "approved": true
-  },
-  {
-    "id": "20260202-022",
-    "title": "Vinci con gli Azzurri e le Azzurre 3",
-    "prize": "Biglietti/experience partite + premi vari (instant win)",
-    "platform": "Web",
-    "category": "Sport",
-    "deadline": "2026-02-23",
-    "url": "https://www.vivoazzurrofan.it/",
-    "termsUrl": "https://www.dimmicosacerchi.it/concorso-vinci-con-gli-azzurri-e-le-azzurre-3.html",
-    "imageUrl": "",
-    "approved": true
-  },
-  {
-    "id": "20260202-023",
-    "title": "Concorso Chanteclair Fantasanremo – “Sgrassa che ti passa”",
-    "prize": "3 buoni Amazon 1000€ + 30 VivaCard 100€ (estrazione)",
-    "platform": "Web",
-    "category": "Senza Acquisto",
-    "deadline": "2026-02-23",
-    "url": "https://www.dimmicosacerchi.it/concorso-chanteclair-fantasanremo-sgrassa-che-ti-passa.html",
-    "termsUrl": "https://www.dimmicosacerchi.it/concorso-chanteclair-fantasanremo-sgrassa-che-ti-passa.html",
-    "imageUrl": "",
-    "approved": true
-  },
-  {
-    "id": "20260202-024",
-    "title": "Concorso “Viaggiare con Lidl Plus Vale Davvero”",
-    "prize": "10 buoni viaggio 5.000€ + 150 buoni 500€ (estrazione)",
-    "platform": "App",
-    "category": "Viaggi",
-    "deadline": "2026-02-24",
-    "url": "https://www.dimmicosacerchi.it/concorso-viaggiare-con-lidl-plus-vale-davvero.html",
-    "termsUrl": "https://www.dimmicosacerchi.it/concorso-viaggiare-con-lidl-plus-vale-davvero.html",
-    "imageUrl": "",
-    "approved": true
-  },
-  {
-    "id": "20260202-025",
-    "title": "Tapirulan Illustrators Contest – Edizione 21 (tema: FLOP)",
-    "prize": "1° premio 3.000€ + premio popolare 500€ (e pubblicazione/mostra)",
-    "platform": "Web",
-    "category": "Gare",
-    "deadline": "2026-02-25",
-    "url": "https://illustratorscontest.tapirulan.it/",
-    "termsUrl": "https://illustratorscontest.tapirulan.it/regolamento/",
-    "imageUrl": "",
-    "approved": true
-  },
-  {
-    "id": "20260202-026",
-    "title": "WINDAY – WinMercoledì (febbraio 2026)",
-    "prize": "Premi instant win (vedi regolamento)",
-    "platform": "App",
-    "category": "Shopping",
-    "deadline": "2026-02-25",
-    "url": "https://www.windtre.it/",
-    "termsUrl": "https://www.windtre.it/Document/winday/2026/feb26/W3_2026_CO_WinMercoled%C3%AC_Febbr_Regolamento_2026-01-07.pdf",
-    "imageUrl": "",
-    "approved": true
-  },
-  {
-    "id": "20260202-027",
-    "title": "Fanta/Sprite – “Vinci ogni 5 minuti” (Coca-Cola App)",
-    "prize": "Xbox Game Pass, controller, Xbox Series S + estrazione finale",
-    "platform": "App",
-    "category": "Giochi",
-    "deadline": "2026-02-27",
-    "url": "https://www.coca-cola.com/it/it/offerings/fanta-xbox",
-    "termsUrl": "https://www.coca-cola.com/content/dam/onexp/it/it/promos-2026/fanta/xbox-q1/regolamento_fantaxbox.pdf",
-    "imageUrl": "",
-    "approved": true
-  },
-  {
-    "id": "20260202-028",
-    "title": "MediaWorld Club – gioco di febbraio (macchina zucchero filato KOENIC)",
-    "prize": "28 macchine KOENIC (instant win giornaliero)",
-    "platform": "Web/App",
-    "category": "Shopping",
-    "deadline": "2026-02-28",
-    "url": "https://club.mediaworld.it/",
-    "termsUrl": "https://www.dimmicosacerchi.it/concorso-mediaworld-club-febbraio-2026.html",
-    "imageUrl": "",
-    "approved": true
-  },
-  {
-    "id": "20260202-029",
-    "title": "Activia ti regala la spesa 2026",
-    "prize": "Buono spesa 25€ ogni ora (instant win)",
-    "platform": "Web",
-    "category": "Shopping",
-    "deadline": "2026-02-28",
-    "url": "https://www.dimmicosacerchi.it/activia-ti-regala-la-spesa-2026.html",
-    "termsUrl": "https://www.dimmicosacerchi.it/activia-ti-regala-la-spesa-2026.html",
-    "imageUrl": "",
-    "approved": true
-  },
-  {
-    "id": "20260202-030",
-    "title": "Concorso Ariasana da Tigotà – febbraio 2026",
-    "prize": "250 gift card Tigotà 25€ (instant win)",
-    "platform": "Web",
-    "category": "Shopping",
-    "deadline": "2026-02-28",
-    "url": "https://www.dimmicosacerchi.it/concorso-ariasana-tigota-febbraio-2026.html",
-    "termsUrl": "https://www.dimmicosacerchi.it/concorso-ariasana-tigota-febbraio-2026.html",
-    "imageUrl": "",
-    "approved": true
-  },
-  {
-    "id": "20260202-031",
-    "title": "Concorso SunSilk – “Prova tutti i colori della gioia” (Tigotà)",
-    "prize": "FIAT Topolino + fotocamere Fujifilm Instax mini 12 (instant win/estrazione)",
-    "platform": "Web",
-    "category": "Shopping",
-    "deadline": "2026-02-28",
-    "url": "https://www.dimmicosacerchi.it/concorso-sunsilk-fiat-topolino-instax-mini.html",
-    "termsUrl": "https://www.dimmicosacerchi.it/concorso-sunsilk-fiat-topolino-instax-mini.html",
-    "imageUrl": "",
-    "approved": true
-  },
-  {
-    "id": "20260202-032",
-    "title": "Italpizza – concorso gratuito Instagram (kit pizza + biciclette)",
-    "prize": "Kit pizza + biciclette (instant win/estrazione)",
-    "platform": "Instagram",
-    "category": "Gastronomia",
-    "deadline": "2026-02-28",
-    "url": "https://www.dimmicosacerchi.it/concorso-gratuito-italpizza-vinci-kit-pizza-e-biciclette.html",
-    "termsUrl": "https://www.dimmicosacerchi.it/concorso-gratuito-italpizza-vinci-kit-pizza-e-biciclette.html",
-    "imageUrl": "",
-    "approved": true
-  },
-  {
-    "id": "20260202-033",
-    "title": "P&G – premio certo “Opportunità da campioni” (Tigotà)",
-    "prize": "Gift card in regalo (premio certo)",
-    "platform": "Web",
-    "category": "Shopping",
-    "deadline": "2026-02-28",
-    "url": "https://www.dimmicosacerchi.it/premio-certo-opportunita-da-campioni-pg.html",
-    "termsUrl": "https://www.dimmicosacerchi.it/premio-certo-opportunita-da-campioni-pg.html",
-    "imageUrl": "",
-    "approved": true
-  },
-  {
-    "id": "20260202-034",
-    "title": "Concorso Haribo – “In Pista con l’Orsetto”",
-    "prize": "Card Cisalfa + altri premi (vedi dettagli)",
-    "platform": "Web",
-    "category": "Shopping",
-    "deadline": "2026-03-08",
-    "url": "https://www.dimmicosacerchi.it/concorso-haribo-in-pista-con-orsetto.html",
-    "termsUrl": "https://www.dimmicosacerchi.it/concorso-haribo-in-pista-con-orsetto.html",
-    "imageUrl": "",
-    "approved": true
-  },
-  {
-    "id": "20260202-035",
-    "title": "DonnaD – 100% Cashback L’Acchiappacolore",
-    "prize": "Rimborso 100% (IBAN)",
-    "platform": "Web",
-    "category": "Shopping",
-    "deadline": "2026-03-31",
-    "url": "https://concorsi.donnad.it/api/ajax/contests",
-    "termsUrl": "https://concorsi.donnad.it/api/ajax/contests",
-    "imageUrl": "",
-    "approved": true
-  },
-  {
-    "id": "20260202-036",
-    "title": "Concorso “Prova CIF 2026”",
-    "prize": "90 buoni spesa 50€ + 6 mesi di spesa (3.000€)",
-    "platform": "Web",
-    "category": "Shopping",
-    "deadline": "2026-03-31",
-    "url": "https://www.dimmicosacerchi.it/concorso-prova-cif-2026.html",
-    "termsUrl": "https://www.dimmicosacerchi.it/concorso-prova-cif-2026.html",
-    "imageUrl": "",
-    "approved": true
-  },
-  {
-    "id": "20260202-037",
-    "title": "Cashback HCB Wave 1 2026 (DonnaD/Henkel)",
-    "prize": "Cashback 50% (vedi termini)",
-    "platform": "Web",
-    "category": "Shopping",
-    "deadline": "2026-03-31",
-    "url": "https://concorsi.donnad.it/api/ajax/contests",
-    "termsUrl": "https://concorsi.donnad.it/api/ajax/contests",
-    "imageUrl": "",
-    "approved": true
-  },
-  {
-    "id": "20260202-038",
-    "title": "Concorso Fruittella 2026",
-    "prize": "9 “Weekend magico nel Parco delle Fiabe” (estrazione)",
-    "platform": "Web",
-    "category": "Tempo Libero",
-    "deadline": "2026-03-29",
-    "url": "https://www.dimmicosacerchi.it/concorso-fruittella-2026.html",
-    "termsUrl": "https://www.dimmicosacerchi.it/concorso-fruittella-2026.html",
-    "imageUrl": "",
-    "approved": true
-  },
-  {
-    "id": "20260202-039",
-    "title": "Mixa – “ti porta in montagna”",
-    "prize": "Fuga relax per 2 persone (estrazione)",
-    "platform": "Web",
-    "category": "Benessere",
-    "deadline": "2026-04-01",
-    "url": "https://www.dimmicosacerchi.it/concorso-mixa-ti-porta-in-montagna.html",
-    "termsUrl": "https://www.dimmicosacerchi.it/concorso-mixa-ti-porta-in-montagna.html",
-    "imageUrl": "",
-    "approved": true
-  },
-  {
-    "id": "20260202-040",
-    "title": "Knorr – “Canederli”",
-    "prize": "Weekend in Trentino + altri premi (vedi dettagli)",
-    "platform": "Web",
-    "category": "Viaggi",
-    "deadline": "2026-04-12",
-    "url": "https://www.dimmicosacerchi.it/concorso-knorr-canederli.html",
-    "termsUrl": "https://www.dimmicosacerchi.it/concorso-knorr-canederli.html",
-    "imageUrl": "",
-    "approved": true
-  },
-  {
-    "id": "20260202-041",
-    "title": "DonnaD – Syoss colorazione: 100% rimborsato Root Retouch",
-    "prize": "Cashback (rimborso max 7,50€)",
-    "platform": "Web",
-    "category": "Shopping",
-    "deadline": "2026-04-30",
-    "url": "https://concorsi.donnad.it/api/ajax/contests",
-    "termsUrl": "https://concorsi.donnad.it/api/ajax/contests",
-    "imageUrl": "",
-    "approved": true
-  },
-  {
-    "id": "20260202-042",
-    "title": "Concorso Fonzies – Kings League",
-    "prize": "Biglietti/experience Kings League (vedi regolamento)",
-    "platform": "Web",
-    "category": "Sport",
-    "deadline": "2026-04-30",
-    "url": "https://www.dimmicosacerchi.it/concorso-fonzies-kings-league.html",
-    "termsUrl": "https://www.dimmicosacerchi.it/concorso-fonzies-kings-league.html",
-    "imageUrl": "",
-    "approved": true
-  },
-  {
-    "id": "20260202-043",
-    "title": "Concorso Loacker – “Ribelli in vetta”",
-    "prize": "Zaini Salewa + soggiorno Dolomiti (estrazione)",
-    "platform": "Web",
-    "category": "Viaggi",
-    "deadline": "2026-04-30",
-    "url": "https://www.dimmicosacerchi.it/concorso-loacker-ribelli-in-vetta.html",
-    "termsUrl": "https://www.dimmicosacerchi.it/concorso-loacker-ribelli-in-vetta.html",
-    "imageUrl": "",
-    "approved": true
-  },
-  {
-    "id": "20260202-044",
-    "title": "Fabbricando (Danieli) – 14ª edizione (STEAM in Steel)",
-    "prize": "Premi/riconoscimenti (vedi sito)",
-    "platform": "Web",
-    "category": "Gare",
-    "deadline": "2026-05-16",
-    "url": "https://www.concorsofabbricando.it/",
-    "termsUrl": "https://www.concorsofabbricando.it/",
-    "imageUrl": "",
-    "approved": true
-  },
-  {
-    "id": "20260202-045",
-    "title": "Air Action Vigorsol – concorso 2026",
-    "prize": "Buoni/regali (vedi regolamento)",
-    "platform": "Web",
-    "category": "Shopping",
-    "deadline": "2026-05-31",
-    "url": "https://www.dimmicosacerchi.it/concorso-air-action-vigorsol.html",
-    "termsUrl": "https://www.dimmicosacerchi.it/concorso-air-action-vigorsol.html",
-    "imageUrl": "",
-    "approved": true
-  },
-  {
-    "id": "20260202-046",
-    "title": "Pepsi – “UEFA Champions League 2026”",
-    "prize": "Premi/experience UCL (vedi dettagli)",
-    "platform": "Web",
-    "category": "Sport",
-    "deadline": "2026-05-31",
-    "url": "https://www.dimmicosacerchi.it/concorso-pepsi-ucl-2026.html",
-    "termsUrl": "https://www.dimmicosacerchi.it/concorso-pepsi-ucl-2026.html",
-    "imageUrl": "",
-    "approved": true
-  },
-  {
-    "id": "20260202-047",
-    "title": "Capitan Findus – “Il tesoro del Capitano”",
-    "prize": "Premi/experience (vedi regolamento)",
-    "platform": "Web",
-    "category": "Tempo Libero",
-    "deadline": "2026-05-31",
-    "url": "https://www.dimmicosacerchi.it/concorso-capitan-findus-il-tesoro-del-capitan.html",
-    "termsUrl": "https://www.dimmicosacerchi.it/concorso-capitan-findus-il-tesoro-del-capitan.html",
-    "imageUrl": "",
-    "approved": true
-  },
-  {
-    "id": "20260202-048",
-    "title": "Concorso Lines Specialist – Acqua & Sapone / La Saponeria",
-    "prize": "Trolley/termocoperta/forno + iRobot Roomba (instant win/estrazione)",
-    "platform": "Web",
-    "category": "Shopping",
-    "deadline": "2026-07-30",
-    "url": "https://www.dimmicosacerchi.it/concorso-lines-specialist-vinci-trolley-termocoperta-forno-e-irobot-roomba.html",
-    "termsUrl": "https://www.dimmicosacerchi.it/concorso-lines-specialist-vinci-trolley-termocoperta-forno-e-irobot-roomba.html",
-    "imageUrl": "",
-    "approved": true
-  },
-  {
-    "id": "20260202-049",
-    "title": "Concorso Omino Bianco – sostenibilità",
-    "prize": "Premi sostenibili (vedi regolamento)",
-    "platform": "Web",
-    "category": "Shopping",
-    "deadline": "2026-07-31",
-    "url": "https://www.dimmicosacerchi.it/concorso-omino-bianco-sostenibilita.html",
-    "termsUrl": "https://www.dimmicosacerchi.it/concorso-omino-bianco-sostenibilita.html",
-    "imageUrl": "",
-    "approved": true
-  },
-  {
-    "id": "20260202-050",
-    "title": "Concorso Nesquik – vinci palloni Calcio 2026",
-    "prize": "Palloni (premi)",
-    "platform": "Web",
-    "category": "Sport",
-    "deadline": "2026-07-31",
-    "url": "https://www.dimmicosacerchi.it/concorso-nesquik-vinci-palloni.html",
-    "termsUrl": "https://www.dimmicosacerchi.it/concorso-nesquik-vinci-palloni.html",
-    "imageUrl": "",
-    "approved": true
-  },
-  {
-    "id": "20260202-051",
-    "title": "Concorso “Con Regina vinci la spesa” 2026 (anche gratis)",
-    "prize": "Buoni spesa (instant win) + 9 buoni 200€ (estrazione gratuita)",
-    "platform": "Web",
-    "category": "Shopping",
-    "deadline": "2026-11-20",
-    "url": "https://vincilaspesa.regina.eu",
-    "termsUrl": "https://vincilaspesa.regina.eu",
-    "imageUrl": "",
-    "approved": true
-  },
-  {
-    "id": "20260202-053",
-    "title": "ENELtiPREMIA (raccolta punti / premi)",
-    "prize": "Premi a catalogo (iniziativa fedeltà)",
-    "platform": "Web/App",
-    "category": "Shopping",
-    "deadline": "2026-11-02",
-    "url": "https://www.enel.it/it-it/eneltipremia",
-    "termsUrl": "https://www.enel.it/it-it/eneltipremia",
-    "imageUrl": "",
-    "approved": true
-  },
-  {
-    "id": "20260202-054",
-    "title": "Concorso “Le delizie del banco 2026”",
-    "prize": "Buoni spesa e premi (instant win/estrazioni)",
-    "platform": "Web",
-    "category": "Shopping",
-    "deadline": "2026-12-21",
-    "url": "https://www.dimmicosacerchi.it/concorso-le-delizie-del-banco-2026.html",
-    "termsUrl": "https://www.dimmicosacerchi.it/concorso-le-delizie-del-banco-2026.html",
-    "imageUrl": "",
-    "approved": true
-  },
-  {
-    "id": "20260202-055",
-    "title": "Concorso “Vinci con Paglieri”",
-    "prize": "52 buoni spesa da 100€ (estrazione)",
-    "platform": "Web",
-    "category": "Shopping",
-    "deadline": "2026-12-31",
-    "url": "https://www.dimmicosacerchi.it/concorso-vinci-con-paglieri.html",
-    "termsUrl": "https://www.dimmicosacerchi.it/concorso-vinci-con-paglieri.html",
-    "imageUrl": "",
-    "approved": true
-  },
-  {
-    "id": "20260202-056",
-    "title": "DonnaD – Concorso “Connessi con il pulito” (Henkel)",
-    "prize": "Premi Apple (instant win/estrazioni)",
-    "platform": "Web",
-    "category": "Shopping",
-    "deadline": "2026-12-06",
-    "url": "https://concorsi.donnad.it/concorso/connessi-con-il-pulito",
-    "termsUrl": "https://concorsi.donnad.it/brand/donnad/connessi-con-il-pulito/regolamento.pdf",
-    "imageUrl": "",
-    "approved": true
-  },
-  {
-    "id": "20260202-057",
-    "title": "DonnaD – “Proteggi e ripara i tuoi capelli” Wave 2 (Henkel)",
-    "prize": "Carnet buoni sconto + Rowenta Hair Therapist (instant win/estrazione)",
-    "platform": "Web",
-    "category": "Shopping",
-    "deadline": "2026-12-07",
-    "url": "https://concorsi.donnad.it/concorso/proteggi-e-ripara-i-tuoi-capelli-wave-2",
-    "termsUrl": "https://concorsi.donnad.it/brand/donnad/proteggi-e-ripara-i-tuoi-capelli-wave-2/regolamento.pdf",
-    "imageUrl": "",
-    "approved": true
-  },
-  {
-    "id": "20260202-059",
-    "title": "DLovers (DonnaD/Henkel) – programma fedeltà",
-    "prize": "Punti Cuore + premi/gift card (operazione a premi)",
-    "platform": "Web",
-    "category": "Shopping",
-    "deadline": "2026-12-18",
-    "url": "https://www.dlovers.donnad.it/landing-dlovers",
-    "termsUrl": "https://www.dlovers.donnad.it/faq",
-    "imageUrl": "",
-    "approved": true
-  },
-  {
-    "id": "20260202-060",
-    "title": "Henkel – “Connessi con il pulito” (guida)",
-    "prize": "Premi Apple (instant win/estrazione)",
-    "platform": "Web",
-    "category": "Shopping",
-    "deadline": "2026-12-06",
-    "url": "https://www.dimmicosacerchi.it/concorso-connessi-con-pulito-henkel.html",
-    "termsUrl": "https://www.dimmicosacerchi.it/concorso-connessi-con-pulito-henkel.html",
-    "imageUrl": "",
-    "approved": true
-  },
-  {
-    "id": "20260202-061",
-    "title": "Concorso “Morbidezza & Resistenza Tempo”",
-    "prize": "Lavatrici + gift card (vedi dettagli)",
-    "platform": "Web",
-    "category": "Shopping",
-    "deadline": "2026-04-30",
-    "url": "https://www.dimmicosacerchi.it/concorso-morbidezza-resistenza-tempo.html",
-    "termsUrl": "https://www.dimmicosacerchi.it/concorso-morbidezza-resistenza-tempo.html",
-    "imageUrl": "",
-    "approved": true
-  },
-  {
-    "id": "20260202-058",
-    "title": "DonnaD – FantaCarrello 2026 (gioco gratuito)",
-    "prize": "Carrello di prodotti Henkel (instant win)",
-    "platform": "Web",
-    "category": "Senza Acquisto",
-    "deadline": "2026-12-31",
-    "url": "https://concorsi.donnad.it/concorso/fantacarrello-2026",
-    "termsUrl": "https://concorsi.donnad.it/brand/donnad/fantacarrello-2026/regolamento.pdf",
-    "imageUrl": "",
-    "approved": true
-  },
-  {
-    "id": "20260202-062",
-    "title": "Henkel Beauty Care – “Proteggi e ripara i tuoi capelli” Wave 2 (guida)",
-    "prize": "Carnet buoni sconto + Rowenta Hair Therapist (instant win/estrazione)",
-    "platform": "Web",
-    "category": "Shopping",
-    "deadline": "2026-12-07",
-    "url": "https://www.dimmicosacerchi.it/proteggi-ripara-capelli-wave-2.html",
-    "termsUrl": "https://www.dimmicosacerchi.it/proteggi-ripara-capelli-wave-2.html",
-    "imageUrl": "",
-    "approved": true
-  }
+{
+"id": "20260202-001",
+"title": "Shop-and-win (carica scontrini) – estrazione finale entro 31/03/2026",
+"prize": "Premi/estrazioni (vedi regolamento)",
+"platform": "Web",
+"category": "Shopping",
+"deadline": "2026-02-03",
+"url": "https://www.shop-and-win.com/
+",
+"termsUrl": "https://www.shop-and-win.com/regolamento.pdf
+",
+"imageUrl": "",
+"approved": true
+},
+{
+"id": "20260202-003",
+"title": "Universal For Fans – Stray Kids The dominATE Experience (anteprima)",
+"prize": "20 inviti (2 persone) per anteprima a Roma",
+"platform": "Web",
+"category": "Musica",
+"deadline": "2026-02-04",
+"url": "https://www.dimmicosacerchi.it/universal-for-fans-stray-kids-the-dominate-experience.html
+",
+"termsUrl": "https://www.dimmicosacerchi.it/universal-for-fans-stray-kids-the-dominate-experience.html
+",
+"imageUrl": "",
+"approved": true
+},
+{
+"id": "20260202-013",
+"title": "Prova a vincere una gift card con Ariasana (SMS) – concorsi.donnad.it",
+"prize": "Gift card (vedi note legali)",
+"platform": "Web",
+"category": "Shopping",
+"deadline": "2026-02-11",
+"url": "https://concorsi.donnad.it/api/ajax/contests
+",
+"termsUrl": "https://concorsi.donnad.it/api/ajax/contests
+",
+"imageUrl": "",
+"approved": true
+},
+{
+"id": "20260202-017",
+"title": "Concorso Lindt – “Il piacere di stare insieme”",
+"prize": "Settimana in montagna + buoni spesa 100€ (vedi dettagli)",
+"platform": "Web",
+"category": "Shopping",
+"deadline": "2026-02-18",
+"url": "https://www.dimmicosacerchi.it/concorso-lindt-piacere-stare-insieme.html
+",
+"termsUrl": "https://www.dimmicosacerchi.it/concorso-lindt-piacere-stare-insieme.html
+",
+"imageUrl": "",
+"approved": true
+},
+{
+"id": "20260202-021",
+"title": "Kellogg’s Bowls (Fase 1) – vinci tazze/ciotole colazione",
+"prize": "Premi instant win + estrazioni (vedi regolamento)",
+"platform": "Web",
+"category": "Shopping",
+"deadline": "2026-02-22",
+"url": "https://www.dimmicosacerchi.it/kelloggs-bowls-tazze-colazione-2026.html
+",
+"termsUrl": "https://www.dimmicosacerchi.it/kelloggs-bowls-tazze-colazione-2026.html
+",
+"imageUrl": "",
+"approved": true
+},
+{
+"id": "20260202-023",
+"title": "Concorso Chanteclair Fantasanremo – “Sgrassa che ti passa”",
+"prize": "3 buoni Amazon 1000€ + 30 VivaCard 100€ (estrazione)",
+"platform": "Web",
+"category": "Senza Acquisto",
+"deadline": "2026-02-23",
+"url": "https://www.dimmicosacerchi.it/concorso-chanteclair-fantasanremo-sgrassa-che-ti-passa.html
+",
+"termsUrl": "https://www.dimmicosacerchi.it/concorso-chanteclair-fantasanremo-sgrassa-che-ti-passa.html
+",
+"imageUrl": "",
+"approved": true
+},
+{
+"id": "20260202-024",
+"title": "Concorso “Viaggiare con Lidl Plus Vale Davvero”",
+"prize": "10 buoni viaggio 5.000€ + 150 buoni 500€ (estrazione)",
+"platform": "App",
+"category": "Viaggi",
+"deadline": "2026-02-24",
+"url": "https://www.dimmicosacerchi.it/concorso-viaggiare-con-lidl-plus-vale-davvero.html
+",
+"termsUrl": "https://www.dimmicosacerchi.it/concorso-viaggiare-con-lidl-plus-vale-davvero.html
+",
+"imageUrl": "",
+"approved": true
+},
+{
+"id": "20260202-026",
+"title": "WINDAY – WinMercoledì (febbraio 2026)",
+"prize": "Premi instant win (vedi regolamento)",
+"platform": "App",
+"category": "Shopping",
+"deadline": "2026-02-25",
+"url": "https://www.windtre.it/
+",
+"termsUrl": "https://www.windtre.it/Document/winday/2026/feb26/W3_2026_CO_WinMercoled%C3%AC_Febbr_Regolamento_2026-01-07.pdf
+",
+"imageUrl": "",
+"approved": true
+},
+{
+"id": "20260202-028",
+"title": "MediaWorld Club – gioco di febbraio (macchina zucchero filato KOENIC)",
+"prize": "28 macchine KOENIC (instant win giornaliero)",
+"platform": "Web/App",
+"category": "Shopping",
+"deadline": "2026-02-28",
+"url": "https://club.mediaworld.it/
+",
+"termsUrl": "https://www.dimmicosacerchi.it/concorso-mediaworld-club-febbraio-2026.html
+",
+"imageUrl": "",
+"approved": true
+},
+{
+"id": "20260202-029",
+"title": "Activia ti regala la spesa 2026",
+"prize": "Buono spesa 25€ ogni ora (instant win)",
+"platform": "Web",
+"category": "Shopping",
+"deadline": "2026-02-28",
+"url": "https://www.dimmicosacerchi.it/activia-ti-regala-la-spesa-2026.html
+",
+"termsUrl": "https://www.dimmicosacerchi.it/activia-ti-regala-la-spesa-2026.html
+",
+"imageUrl": "",
+"approved": true
+},
+{
+"id": "20260202-030",
+"title": "Concorso Ariasana da Tigotà – febbraio 2026",
+"prize": "250 gift card Tigotà 25€ (instant win)",
+"platform": "Web",
+"category": "Shopping",
+"deadline": "2026-02-28",
+"url": "https://www.dimmicosacerchi.it/concorso-ariasana-tigota-febbraio-2026.html
+",
+"termsUrl": "https://www.dimmicosacerchi.it/concorso-ariasana-tigota-febbraio-2026.html
+",
+"imageUrl": "",
+"approved": true
+},
+{
+"id": "20260202-031",
+"title": "Concorso SunSilk – “Prova tutti i colori della gioia” (Tigotà)",
+"prize": "FIAT Topolino + fotocamere Fujifilm Instax mini 12 (instant win/estrazione)",
+"platform": "Web",
+"category": "Shopping",
+"deadline": "2026-02-28",
+"url": "https://www.dimmicosacerchi.it/concorso-sunsilk-fiat-topolino-instax-mini.html
+",
+"termsUrl": "https://www.dimmicosacerchi.it/concorso-sunsilk-fiat-topolino-instax-mini.html
+",
+"imageUrl": "",
+"approved": true
+},
+{
+"id": "20260202-032",
+"title": "Italpizza – concorso gratuito Instagram (kit pizza + biciclette)",
+"prize": "Kit pizza + biciclette (instant win/estrazione)",
+"platform": "Instagram",
+"category": "Gastronomia",
+"deadline": "2026-02-28",
+"url": "https://www.dimmicosacerchi.it/concorso-gratuito-italpizza-vinci-kit-pizza-e-biciclette.html
+",
+"termsUrl": "https://www.dimmicosacerchi.it/concorso-gratuito-italpizza-vinci-kit-pizza-e-biciclette.html
+",
+"imageUrl": "",
+"approved": true
+},
+{
+"id": "20260202-033",
+"title": "P&G – premio certo “Opportunità da campioni” (Tigotà)",
+"prize": "Gift card in regalo (premio certo)",
+"platform": "Web",
+"category": "Shopping",
+"deadline": "2026-02-28",
+"url": "https://www.dimmicosacerchi.it/premio-certo-opportunita-da-campioni-pg.html
+",
+"termsUrl": "https://www.dimmicosacerchi.it/premio-certo-opportunita-da-campioni-pg.html
+",
+"imageUrl": "",
+"approved": true
+},
+{
+"id": "20260202-034",
+"title": "Concorso Haribo – “In Pista con l’Orsetto”",
+"prize": "Card Cisalfa + altri premi (vedi dettagli)",
+"platform": "Web",
+"category": "Shopping",
+"deadline": "2026-03-08",
+"url": "https://www.dimmicosacerchi.it/concorso-haribo-in-pista-con-orsetto.html
+",
+"termsUrl": "https://www.dimmicosacerchi.it/concorso-haribo-in-pista-con-orsetto.html
+",
+"imageUrl": "",
+"approved": true
+},
+{
+"id": "20260202-038",
+"title": "Concorso Fruittella 2026",
+"prize": "9 “Weekend magico nel Parco delle Fiabe” (estrazione)",
+"platform": "Web",
+"category": "Tempo Libero",
+"deadline": "2026-03-29",
+"url": "https://www.dimmicosacerchi.it/concorso-fruittella-2026.html
+",
+"termsUrl": "https://www.dimmicosacerchi.it/concorso-fruittella-2026.html
+",
+"imageUrl": "",
+"approved": true
+},
+{
+"id": "20260202-035",
+"title": "DonnaD – 100% Cashback L’Acchiappacolore",
+"prize": "Rimborso 100% (IBAN)",
+"platform": "Web",
+"category": "Shopping",
+"deadline": "2026-03-31",
+"url": "https://concorsi.donnad.it/api/ajax/contests
+",
+"termsUrl": "https://concorsi.donnad.it/api/ajax/contests
+",
+"imageUrl": "",
+"approved": true
+},
+{
+"id": "20260202-036",
+"title": "Concorso “Prova CIF 2026”",
+"prize": "90 buoni spesa 50€ + 6 mesi di spesa (3.000€)",
+"platform": "Web",
+"category": "Shopping",
+"deadline": "2026-03-31",
+"url": "https://www.dimmicosacerchi.it/concorso-prova-cif-2026.html
+",
+"termsUrl": "https://www.dimmicosacerchi.it/concorso-prova-cif-2026.html
+",
+"imageUrl": "",
+"approved": true
+},
+{
+"id": "20260202-037",
+"title": "Cashback HCB Wave 1 2026 (DonnaD/Henkel)",
+"prize": "Cashback 50% (vedi termini)",
+"platform": "Web",
+"category": "Shopping",
+"deadline": "2026-03-31",
+"url": "https://concorsi.donnad.it/api/ajax/contests
+",
+"termsUrl": "https://concorsi.donnad.it/api/ajax/contests
+",
+"imageUrl": "",
+"approved": true
+},
+{
+"id": "20260202-039",
+"title": "Mixa – “ti porta in montagna”",
+"prize": "Fuga relax per 2 persone (estrazione)",
+"platform": "Web",
+"category": "Benessere",
+"deadline": "2026-04-01",
+"url": "https://www.dimmicosacerchi.it/concorso-mixa-ti-porta-in-montagna.html
+",
+"termsUrl": "https://www.dimmicosacerchi.it/concorso-mixa-ti-porta-in-montagna.html
+",
+"imageUrl": "",
+"approved": true
+},
+{
+"id": "20260202-040",
+"title": "Knorr – “Canederli”",
+"prize": "Weekend in Trentino + altri premi (vedi dettagli)",
+"platform": "Web",
+"category": "Viaggi",
+"deadline": "2026-04-12",
+"url": "https://www.dimmicosacerchi.it/concorso-knorr-canederli.html
+",
+"termsUrl": "https://www.dimmicosacerchi.it/concorso-knorr-canederli.html
+",
+"imageUrl": "",
+"approved": true
+},
+{
+"id": "20260202-041",
+"title": "DonnaD – Syoss colorazione: 100% rimborsato Root Retouch",
+"prize": "Cashback (rimborso max 7,50€)",
+"platform": "Web",
+"category": "Shopping",
+"deadline": "2026-04-30",
+"url": "https://concorsi.donnad.it/api/ajax/contests
+",
+"termsUrl": "https://concorsi.donnad.it/api/ajax/contests
+",
+"imageUrl": "",
+"approved": true
+},
+{
+"id": "20260202-043",
+"title": "Concorso Loacker – “Ribelli in vetta”",
+"prize": "Zaini Salewa + soggiorno Dolomiti (estrazione)",
+"platform": "Web",
+"category": "Viaggi",
+"deadline": "2026-04-30",
+"url": "https://www.dimmicosacerchi.it/concorso-loacker-ribelli-in-vetta.html
+",
+"termsUrl": "https://www.dimmicosacerchi.it/concorso-loacker-ribelli-in-vetta.html
+",
+"imageUrl": "",
+"approved": true
+},
+{
+"id": "20260202-045",
+"title": "Air Action Vigorsol – concorso 2026",
+"prize": "Buoni/regali (vedi regolamento)",
+"platform": "Web",
+"category": "Shopping",
+"deadline": "2026-05-31",
+"url": "https://www.dimmicosacerchi.it/concorso-air-action-vigorsol.html
+",
+"termsUrl": "https://www.dimmicosacerchi.it/concorso-air-action-vigorsol.html
+",
+"imageUrl": "",
+"approved": true
+},
+{
+"id": "20260202-047",
+"title": "Capitan Findus – “Il tesoro del Capitano”",
+"prize": "Premi/experience (vedi regolamento)",
+"platform": "Web",
+"category": "Tempo Libero",
+"deadline": "2026-05-31",
+"url": "https://www.dimmicosacerchi.it/concorso-capitan-findus-il-tesoro-del-capitan.html
+",
+"termsUrl": "https://www.dimmicosacerchi.it/concorso-capitan-findus-il-tesoro-del-capitan.html
+",
+"imageUrl": "",
+"approved": true
+},
+{
+"id": "20260202-048",
+"title": "Concorso Lines Specialist – Acqua & Sapone / La Saponeria",
+"prize": "Trolley/termocoperta/forno + iRobot Roomba (instant win/estrazione)",
+"platform": "Web",
+"category": "Shopping",
+"deadline": "2026-07-30",
+"url": "https://www.dimmicosacerchi.it/concorso-lines-specialist-vinci-trolley-termocoperta-forno-e-irobot-roomba.html
+",
+"termsUrl": "https://www.dimmicosacerchi.it/concorso-lines-specialist-vinci-trolley-termocoperta-forno-e-irobot-roomba.html
+",
+"imageUrl": "",
+"approved": true
+},
+{
+"id": "20260202-049",
+"title": "Concorso Omino Bianco – sostenibilità",
+"prize": "Premi sostenibili (vedi regolamento)",
+"platform": "Web",
+"category": "Shopping",
+"deadline": "2026-07-31",
+"url": "https://www.dimmicosacerchi.it/concorso-omino-bianco-sostenibilita.html
+",
+"termsUrl": "https://www.dimmicosacerchi.it/concorso-omino-bianco-sostenibilita.html
+",
+"imageUrl": "",
+"approved": true
+},
+{
+"id": "20260202-051",
+"title": "Concorso “Con Regina vinci la spesa” 2026 (anche gratis)",
+"prize": "Buoni spesa (instant win) + 9 buoni 200€ (estrazione gratuita)",
+"platform": "Web",
+"category": "Shopping",
+"deadline": "2026-11-20",
+"url": "https://vincilaspesa.regina.eu
+",
+"termsUrl": "https://vincilaspesa.regina.eu
+",
+"imageUrl": "",
+"approved": true
+},
+{
+"id": "20260202-053",
+"title": "ENELtiPREMIA (raccolta punti / premi)",
+"prize": "Premi a catalogo (iniziativa fedeltà)",
+"platform": "Web/App",
+"category": "Shopping",
+"deadline": "2026-11-02",
+"url": "https://www.enel.it/it-it/eneltipremia
+",
+"termsUrl": "https://www.enel.it/it-it/eneltipremia
+",
+"imageUrl": "",
+"approved": true
+},
+{
+"id": "20260202-056",
+"title": "DonnaD – Concorso “Connessi con il pulito” (Henkel)",
+"prize": "Premi Apple (instant win/estrazioni)",
+"platform": "Web",
+"category": "Shopping",
+"deadline": "2026-12-06",
+"url": "https://concorsi.donnad.it/concorso/connessi-con-il-pulito
+",
+"termsUrl": "https://concorsi.donnad.it/brand/donnad/connessi-con-il-pulito/regolamento.pdf
+",
+"imageUrl": "",
+"approved": true
+},
+{
+"id": "20260202-057",
+"title": "DonnaD – “Proteggi e ripara i tuoi capelli” Wave 2 (Henkel)",
+"prize": "Carnet buoni sconto + Rowenta Hair Therapist (instant win/estrazione)",
+"platform": "Web",
+"category": "Shopping",
+"deadline": "2026-12-07",
+"url": "https://concorsi.donnad.it/concorso/proteggi-e-ripara-i-tuoi-capelli-wave-2
+",
+"termsUrl": "https://concorsi.donnad.it/brand/donnad/proteggi-e-ripara-i-tuoi-capelli-wave-2/regolamento.pdf
+",
+"imageUrl": "",
+"approved": true
+},
+{
+"id": "20260202-058",
+"title": "DonnaD – FantaCarrello 2026 (gioco gratuito)",
+"prize": "Carrello di prodotti Henkel (instant win)",
+"platform": "Web",
+"category": "Senza Acquisto",
+"deadline": "2026-12-31",
+"url": "https://concorsi.donnad.it/concorso/fantacarrello-2026
+",
+"termsUrl": "https://concorsi.donnad.it/brand/donnad/fantacarrello-2026/regolamento.pdf
+",
+"imageUrl": "",
+"approved": true
+},
+{
+"id": "20260202-059",
+"title": "DLovers (DonnaD/Henkel) – programma fedeltà",
+"prize": "Punti Cuore + premi/gift card (operazione a premi)",
+"platform": "Web",
+"category": "Shopping",
+"deadline": "2026-12-18",
+"url": "https://www.dlovers.donnad.it/landing-dlovers
+",
+"termsUrl": "https://www.dlovers.donnad.it/faq
+",
+"imageUrl": "",
+"approved": true
+},
+{
+"id": "20260202-054",
+"title": "Concorso “Le delizie del banco 2026”",
+"prize": "Buoni spesa e premi (instant win/estrazioni)",
+"platform": "Web",
+"category": "Shopping",
+"deadline": "2026-12-21",
+"url": "https://www.dimmicosacerchi.it/concorso-le-delizie-del-banco-2026.html
+",
+"termsUrl": "https://www.dimmicosacerchi.it/concorso-le-delizie-del-banco-2026.html
+",
+"imageUrl": "",
+"approved": true
+},
+{
+"id": "20260202-055",
+"title": "Concorso “Vinci con Paglieri”",
+"prize": "52 buoni spesa da 100€ (estrazione)",
+"platform": "Web",
+"category": "Shopping",
+"deadline": "2026-12-31",
+"url": "https://www.dimmicosacerchi.it/concorso-vinci-con-paglieri.html
+",
+"termsUrl": "https://www.dimmicosacerchi.it/concorso-vinci-con-paglieri.html
+",
+"imageUrl": "",
+"approved": true
+},
+{
+"id": "20260202-062",
+"title": "Henkel Beauty Care – “Proteggi e ripara i tuoi capelli” Wave 2 (guida)",
+"prize": "Carnet buoni sconto + Rowenta Hair Therapist (instant win/estrazione)",
+"platform": "Web",
+"category": "Shopping",
+"deadline": "2026-12-07",
+"url": "https://www.dimmicosacerchi.it/proteggi-ripara-capelli-wave-2.html
+",
+"termsUrl": "https://www.dimmicosacerchi.it/proteggi-ripara-capelli-wave-2.html
+",
+"imageUrl": "",
+"approved": true
+}
 ]
