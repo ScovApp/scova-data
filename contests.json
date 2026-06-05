@@ -1,112 +1,258 @@
-[
-  {
-    "id": "le-naturelle-go-2026",
-    "title": "Le Naturelle GO",
-    "prize": "126 buoni spesa da 200€ + 2 Citroën ë-C3 MAX",
-    "platform": "Sito web + WhatsApp",
-    "category": "Food",
-    "deadline": "2026-06-14T23:59:59+02:00",
-    "url": "https://www.concorso.lenaturelle.it/",
-    "imageUrl": "",
-    "termsUrl": "https://www.concorso.lenaturelle.it/"
+{
+  "generatedAt": "2026-06-05",
+  "source": "web_verified",
+  "summary": {
+    "active": 18,
+    "expired": 3,
+    "newSinceLastScan": 18
   },
-  {
-    "id": "estathe-canoa-2026",
-    "title": "Estathé Canoa 2026",
-    "prize": "Canoe gonfiabili Estathé",
-    "platform": "Sito web",
-    "category": "Food",
-    "deadline": "2026-06-29T23:00:00+02:00",
-    "url": "https://www.estathe.it/",
-    "imageUrl": "",
-    "termsUrl": "https://www.ferrero.com/it/it/promozioni/estathecanoa2026"
-  },
-  {
-    "id": "pavesini-tiramiset-2026",
-    "title": "Pavesini - Prova a vincere il Tiramiset",
-    "prize": "Tiramiset e premi instant win",
-    "platform": "Sito web",
-    "category": "Food",
-    "deadline": "2026-06-30T20:00:00+02:00",
-    "url": "https://promozioni.pavesini.it/tiramiset/",
-    "imageUrl": "",
-    "termsUrl": "https://promozioni.pavesini.it/tiramiset/"
-  },
-  {
-    "id": "radio-italia-emozioni-2026",
-    "title": "Vivi le grandi emozioni con Radio Italia",
-    "prize": "Esperienze ed eventi",
-    "platform": "Radio Italia",
-    "category": "Altro",
-    "deadline": "2026-06-28T23:59:59+02:00",
-    "url": "https://www.radioitalia.it/info/regolamenti/",
-    "imageUrl": "",
-    "termsUrl": "https://www.radioitalia.it/info/regolamenti/"
-  },
-  {
-    "id": "radio-italia-notino-2026",
-    "title": "Feel VIP con Notino a Radio Italia Live",
-    "prize": "Esperienza VIP",
-    "platform": "Radio Italia",
-    "category": "Moda & Beauty",
-    "deadline": "2026-06-28T23:59:59+02:00",
-    "url": "https://www.radioitalia.it/info/regolamenti/",
-    "imageUrl": "",
-    "termsUrl": "https://www.radioitalia.it/info/regolamenti/"
-  },
-  {
-    "id": "lines-specialist-vivi-al-massimo-2026",
-    "title": "Lines Specialist - Vivi la tua vita al massimo",
-    "prize": "Cantinetta vino, valigie e altri premi",
-    "platform": "Sito web",
-    "category": "Sport & Benessere",
-    "deadline": "2026-07-31T23:59:59+02:00",
-    "url": "https://concorsi.lines-specialist.it/",
-    "imageUrl": "",
-    "termsUrl": "https://concorsi.lines-specialist.it/"
-  },
-  {
-    "id": "bbva-compra-vinci-2026",
-    "title": "Compra & Vinci BBVA 2026",
-    "prize": "Gift Card Amazon e viaggio in Cappadocia",
-    "platform": "App BBVA",
-    "category": "Altro",
-    "deadline": "2026-06-30T23:59:59+02:00",
-    "url": "https://www.bbva.it/persone/promozioni/compra-vinci.html",
-    "imageUrl": "",
-    "termsUrl": "https://www.bbva.it/persone/promozioni/compra-vinci.html"
-  },
-  {
-    "id": "loctite-porsche-londra-2026",
-    "title": "Pronto ad allacciare le cinture",
-    "prize": "Premi Porsche + weekend a Londra",
-    "platform": "DonnaD",
-    "category": "Altro",
-    "deadline": "2026-08-31T23:59:59+02:00",
-    "url": "https://concorsi.donnad.it/concorso/pronto-ad-allacciare-le-cinture",
-    "imageUrl": "",
-    "termsUrl": "https://concorsi.donnad.it/concorso/pronto-ad-allacciare-le-cinture"
-  },
-  {
-    "id": "conad-gioca-vinci-2026",
-    "title": "Gioca & Vinci Conad",
-    "prize": "Premi instant win",
-    "platform": "Conad",
-    "category": "Shopping",
-    "deadline": "2026-09-30T23:59:59+02:00",
-    "url": "https://www.conad.it/",
-    "imageUrl": "",
-    "termsUrl": "https://www.conad.it/assets/documents/cnd/regolamenti/Regolamento_Concorso_GiocaVinci_Conad_2026_finale.pdf"
-  },
-  {
-    "id": "uliveto-rocchetta-2026",
-    "title": "Cancella e Vinci Subito 2026",
-    "prize": "1000 buoni spesa da 100€",
-    "platform": "Sito web",
-    "category": "Food",
-    "deadline": "2026-10-31T23:59:59+02:00",
-    "url": "https://cancellaevinci.it/",
-    "imageUrl": "",
-    "termsUrl": "https://cancellaevinci.it/regolamento"
-  }
-]
+  "activeContests": [
+    {
+      "id": "naturelle-go-2026",
+      "title": "Le Naturelle GO",
+      "brand": "Le Naturelle",
+      "category": "Food",
+      "startDate": "2026-05-04",
+      "endDate": "2026-06-14",
+      "prize": "126 Buoni Spesa da 200€ + 2 Citroën ë-C3 MAX",
+      "contestType": "receipt_upload",
+      "status": "active",
+      "isNew": true,
+      "verified": true,
+      "source": "https://www.concorso.lenaturelle.it/"
+    },
+    {
+      "id": "estathe-canoa-2026",
+      "title": "Estathé Canoa 2026",
+      "brand": "Ferrero",
+      "category": "Food",
+      "startDate": "2026-05-18",
+      "endDate": "2026-06-28",
+      "prize": "Canoe gonfiabili e premi finali",
+      "contestType": "receipt_upload",
+      "status": "active",
+      "isNew": true,
+      "verified": true,
+      "source": "https://www.ferrero.com/it/it/promozioni/estathecanoa2026"
+    },
+    {
+      "id": "granterre-viaggiare",
+      "title": "Vinci il Gusto di Viaggiare",
+      "brand": "GranTerre",
+      "category": "Travel",
+      "startDate": "2026-05-04",
+      "endDate": "2026-07-26",
+      "prize": "Buoni regalo viaggio",
+      "status": "active",
+      "isNew": true,
+      "verified": true
+    },
+    {
+      "id": "granterre-benessere",
+      "title": "È l'Ora del Benessere",
+      "brand": "LiberaMente",
+      "category": "Wellness",
+      "startDate": "2026-04-07",
+      "endDate": "2026-06-28",
+      "prize": "12 Garmin Vivoactive 6",
+      "status": "active",
+      "isNew": true,
+      "verified": true
+    },
+    {
+      "id": "zymil-crociera",
+      "title": "Parti alla Grande",
+      "brand": "Zymil",
+      "category": "Travel",
+      "startDate": "2026-05-04",
+      "endDate": "2026-06-28",
+      "prize": "8 Voucher MSC Crociere da 3.000€",
+      "status": "active",
+      "isNew": true,
+      "verified": true
+    },
+    {
+      "id": "my-dacia-road",
+      "title": "My Dacia Road 2026",
+      "brand": "Dacia",
+      "category": "Automotive",
+      "startDate": "2026-04-27",
+      "endDate": "2026-06-14",
+      "prize": "Premi vari da regolamento",
+      "status": "active",
+      "isNew": true,
+      "verified": true
+    },
+    {
+      "id": "rds-dream",
+      "title": "RDS Dream - Guarda Sogna Vinci",
+      "brand": "RDS",
+      "category": "Entertainment",
+      "startDate": "2026-05-18",
+      "endDate": "2026-06-05",
+      "prize": "Viaggio per 2 in Egitto + set valigie",
+      "status": "active",
+      "isNew": true,
+      "verified": true,
+      "urgent": true
+    },
+    {
+      "id": "foxy-asciugatti",
+      "title": "Asciugatti",
+      "brand": "Foxy",
+      "category": "Home",
+      "startDate": "2026-05-04",
+      "endDate": "2026-06-30",
+      "prize": "Viaggio in Giappone + premi instant win",
+      "status": "active",
+      "isNew": true,
+      "verified": true
+    },
+    {
+      "id": "pavesini-tiramiset",
+      "title": "Vinci il Tiramiset",
+      "brand": "Pavesini",
+      "category": "Food",
+      "startDate": "2026-03-23",
+      "endDate": "2026-06-30",
+      "prize": "Set premium Tiramiset",
+      "status": "active",
+      "isNew": true,
+      "verified": true
+    },
+    {
+      "id": "santanna-2026",
+      "title": "Vinci con Sant'Anna",
+      "brand": "Sant'Anna",
+      "category": "Food",
+      "startDate": "2026-02-09",
+      "endDate": "2026-06-10",
+      "prize": "Biglietti VIP e premi finali",
+      "status": "active",
+      "isNew": true,
+      "verified": true,
+      "urgent": true
+    },
+    {
+      "id": "lines-anno-sport",
+      "title": "Un Anno di Sport",
+      "brand": "Lines",
+      "category": "Sport",
+      "startDate": "2026-04-01",
+      "endDate": "2027-01-31",
+      "prize": "Voucher sport da 1.500€",
+      "status": "active",
+      "isNew": true,
+      "verified": true
+    },
+    {
+      "id": "lines-momento-mio",
+      "title": "Un Momento Tutto Mio",
+      "brand": "Lines",
+      "category": "Beauty",
+      "startDate": "2026-04-01",
+      "endDate": "2027-01-31",
+      "prize": "Premi vari",
+      "status": "active",
+      "isNew": true,
+      "verified": true
+    },
+    {
+      "id": "lines-forever",
+      "title": "Lines Forever",
+      "brand": "Lines",
+      "category": "Shopping",
+      "startDate": "2026-01-12",
+      "endDate": "2026-11-11",
+      "prize": "10 anni di prodotti Lines",
+      "status": "active",
+      "isNew": true,
+      "verified": true
+    },
+    {
+      "id": "lines-zaino",
+      "title": "Vinci uno Zaino da Viaggio",
+      "brand": "Lines",
+      "category": "Travel",
+      "startDate": "2026-05-21",
+      "endDate": "2026-06-10",
+      "prize": "Zaino viaggio",
+      "status": "active",
+      "isNew": true,
+      "verified": true
+    },
+    {
+      "id": "lines-phon-piastra",
+      "title": "Set Phon e Piastra",
+      "brand": "Lines",
+      "category": "Beauty",
+      "startDate": "2026-06-01",
+      "endDate": "2026-06-30",
+      "prize": "Set phon e piastra",
+      "status": "active",
+      "isNew": true,
+      "verified": true
+    },
+    {
+      "id": "essence-rimini",
+      "title": "Vinci con Essence",
+      "brand": "Essence",
+      "category": "Events",
+      "endDate": "2026-06-20",
+      "prize": "Accesso PIT fronte palco",
+      "status": "active",
+      "isNew": true,
+      "verified": true
+    },
+    {
+      "id": "conad-gioca-vinci",
+      "title": "Gioca e Vinci Conad 2026",
+      "brand": "Conad",
+      "category": "Shopping",
+      "startDate": "2026-03-26",
+      "endDate": "2027-03-08",
+      "prize": "Premi instant win",
+      "status": "active",
+      "isNew": true,
+      "verified": true
+    },
+    {
+      "id": "nonno-nanni-bonta",
+      "title": "La Bontà che Premia",
+      "brand": "Nonno Nanni",
+      "category": "Food",
+      "startDate": "2026-04-06",
+      "endDate": "2026-06-28",
+      "prize": "Frigorifero SMEG + premi",
+      "status": "active",
+      "isNew": true,
+      "verified": true
+    }
+  ],
+  "expiredContests": [
+    {
+      "id": "paneangeli-kitchenaid",
+      "title": "Vinci una Planetaria KitchenAid",
+      "brand": "Paneangeli",
+      "endDate": "2026-04-15",
+      "status": "expired",
+      "verified": true
+    },
+    {
+      "id": "tigullio-giradischi",
+      "title": "Vinci un Giradischi Bluetooth",
+      "brand": "Tigullio",
+      "endDate": "2026-05-31",
+      "status": "expired",
+      "verified": true
+    },
+    {
+      "id": "mcdonalds-summer-fest-2025",
+      "title": "McDonald's Summer Fest",
+      "brand": "McDonald's",
+      "endDate": "2025-06-25",
+      "status": "expired",
+      "verified": true
+    }
+  ]
+}
