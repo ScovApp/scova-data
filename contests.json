@@ -1,258 +1,112 @@
-{
-  "generatedAt": "2026-06-05",
-  "source": "web_verified",
-  "summary": {
-    "active": 18,
-    "expired": 3,
-    "newSinceLastScan": 18
+[
+  {
+    "id": "samsung-galaxy-contest-2026-06",
+    "title": "Samsung Galaxy: Vinci i nuovi smartphone",
+    "prize": "Galaxy S24, Galaxy Buds, tablet Samsung",
+    "platform": "App Samsung Members",
+    "category": "Tech",
+    "deadline": "2026-06-30T23:59:59+02:00",
+    "url": "https://www.samsung.com/it/offer/contest-galaxy-2026",
+    "imageUrl": "https://www.google.com/s2/favicons?domain=samsung.com&sz=256",
+    "termsUrl": "https://www.samsung.com/it/offer/contest-galaxy-2026/regolamento.pdf"
   },
-  "activeContests": [
-    {
-      "id": "naturelle-go-2026",
-      "title": "Le Naturelle GO",
-      "brand": "Le Naturelle",
-      "category": "Food",
-      "startDate": "2026-05-04",
-      "endDate": "2026-06-14",
-      "prize": "126 Buoni Spesa da 200€ + 2 Citroën ë-C3 MAX",
-      "contestType": "receipt_upload",
-      "status": "active",
-      "isNew": true,
-      "verified": true,
-      "source": "https://www.concorso.lenaturelle.it/"
-    },
-    {
-      "id": "estathe-canoa-2026",
-      "title": "Estathé Canoa 2026",
-      "brand": "Ferrero",
-      "category": "Food",
-      "startDate": "2026-05-18",
-      "endDate": "2026-06-28",
-      "prize": "Canoe gonfiabili e premi finali",
-      "contestType": "receipt_upload",
-      "status": "active",
-      "isNew": true,
-      "verified": true,
-      "source": "https://www.ferrero.com/it/it/promozioni/estathecanoa2026"
-    },
-    {
-      "id": "granterre-viaggiare",
-      "title": "Vinci il Gusto di Viaggiare",
-      "brand": "GranTerre",
-      "category": "Travel",
-      "startDate": "2026-05-04",
-      "endDate": "2026-07-26",
-      "prize": "Buoni regalo viaggio",
-      "status": "active",
-      "isNew": true,
-      "verified": true
-    },
-    {
-      "id": "granterre-benessere",
-      "title": "È l'Ora del Benessere",
-      "brand": "LiberaMente",
-      "category": "Wellness",
-      "startDate": "2026-04-07",
-      "endDate": "2026-06-28",
-      "prize": "12 Garmin Vivoactive 6",
-      "status": "active",
-      "isNew": true,
-      "verified": true
-    },
-    {
-      "id": "zymil-crociera",
-      "title": "Parti alla Grande",
-      "brand": "Zymil",
-      "category": "Travel",
-      "startDate": "2026-05-04",
-      "endDate": "2026-06-28",
-      "prize": "8 Voucher MSC Crociere da 3.000€",
-      "status": "active",
-      "isNew": true,
-      "verified": true
-    },
-    {
-      "id": "my-dacia-road",
-      "title": "My Dacia Road 2026",
-      "brand": "Dacia",
-      "category": "Automotive",
-      "startDate": "2026-04-27",
-      "endDate": "2026-06-14",
-      "prize": "Premi vari da regolamento",
-      "status": "active",
-      "isNew": true,
-      "verified": true
-    },
-    {
-      "id": "rds-dream",
-      "title": "RDS Dream - Guarda Sogna Vinci",
-      "brand": "RDS",
-      "category": "Entertainment",
-      "startDate": "2026-05-18",
-      "endDate": "2026-06-05",
-      "prize": "Viaggio per 2 in Egitto + set valigie",
-      "status": "active",
-      "isNew": true,
-      "verified": true,
-      "urgent": true
-    },
-    {
-      "id": "foxy-asciugatti",
-      "title": "Asciugatti",
-      "brand": "Foxy",
-      "category": "Home",
-      "startDate": "2026-05-04",
-      "endDate": "2026-06-30",
-      "prize": "Viaggio in Giappone + premi instant win",
-      "status": "active",
-      "isNew": true,
-      "verified": true
-    },
-    {
-      "id": "pavesini-tiramiset",
-      "title": "Vinci il Tiramiset",
-      "brand": "Pavesini",
-      "category": "Food",
-      "startDate": "2026-03-23",
-      "endDate": "2026-06-30",
-      "prize": "Set premium Tiramiset",
-      "status": "active",
-      "isNew": true,
-      "verified": true
-    },
-    {
-      "id": "santanna-2026",
-      "title": "Vinci con Sant'Anna",
-      "brand": "Sant'Anna",
-      "category": "Food",
-      "startDate": "2026-02-09",
-      "endDate": "2026-06-10",
-      "prize": "Biglietti VIP e premi finali",
-      "status": "active",
-      "isNew": true,
-      "verified": true,
-      "urgent": true
-    },
-    {
-      "id": "lines-anno-sport",
-      "title": "Un Anno di Sport",
-      "brand": "Lines",
-      "category": "Sport",
-      "startDate": "2026-04-01",
-      "endDate": "2027-01-31",
-      "prize": "Voucher sport da 1.500€",
-      "status": "active",
-      "isNew": true,
-      "verified": true
-    },
-    {
-      "id": "lines-momento-mio",
-      "title": "Un Momento Tutto Mio",
-      "brand": "Lines",
-      "category": "Beauty",
-      "startDate": "2026-04-01",
-      "endDate": "2027-01-31",
-      "prize": "Premi vari",
-      "status": "active",
-      "isNew": true,
-      "verified": true
-    },
-    {
-      "id": "lines-forever",
-      "title": "Lines Forever",
-      "brand": "Lines",
-      "category": "Shopping",
-      "startDate": "2026-01-12",
-      "endDate": "2026-11-11",
-      "prize": "10 anni di prodotti Lines",
-      "status": "active",
-      "isNew": true,
-      "verified": true
-    },
-    {
-      "id": "lines-zaino",
-      "title": "Vinci uno Zaino da Viaggio",
-      "brand": "Lines",
-      "category": "Travel",
-      "startDate": "2026-05-21",
-      "endDate": "2026-06-10",
-      "prize": "Zaino viaggio",
-      "status": "active",
-      "isNew": true,
-      "verified": true
-    },
-    {
-      "id": "lines-phon-piastra",
-      "title": "Set Phon e Piastra",
-      "brand": "Lines",
-      "category": "Beauty",
-      "startDate": "2026-06-01",
-      "endDate": "2026-06-30",
-      "prize": "Set phon e piastra",
-      "status": "active",
-      "isNew": true,
-      "verified": true
-    },
-    {
-      "id": "essence-rimini",
-      "title": "Vinci con Essence",
-      "brand": "Essence",
-      "category": "Events",
-      "endDate": "2026-06-20",
-      "prize": "Accesso PIT fronte palco",
-      "status": "active",
-      "isNew": true,
-      "verified": true
-    },
-    {
-      "id": "conad-gioca-vinci",
-      "title": "Gioca e Vinci Conad 2026",
-      "brand": "Conad",
-      "category": "Shopping",
-      "startDate": "2026-03-26",
-      "endDate": "2027-03-08",
-      "prize": "Premi instant win",
-      "status": "active",
-      "isNew": true,
-      "verified": true
-    },
-    {
-      "id": "nonno-nanni-bonta",
-      "title": "La Bontà che Premia",
-      "brand": "Nonno Nanni",
-      "category": "Food",
-      "startDate": "2026-04-06",
-      "endDate": "2026-06-28",
-      "prize": "Frigorifero SMEG + premi",
-      "status": "active",
-      "isNew": true,
-      "verified": true
-    }
-  ],
-  "expiredContests": [
-    {
-      "id": "paneangeli-kitchenaid",
-      "title": "Vinci una Planetaria KitchenAid",
-      "brand": "Paneangeli",
-      "endDate": "2026-04-15",
-      "status": "expired",
-      "verified": true
-    },
-    {
-      "id": "tigullio-giradischi",
-      "title": "Vinci un Giradischi Bluetooth",
-      "brand": "Tigullio",
-      "endDate": "2026-05-31",
-      "status": "expired",
-      "verified": true
-    },
-    {
-      "id": "mcdonalds-summer-fest-2025",
-      "title": "McDonald's Summer Fest",
-      "brand": "McDonald's",
-      "endDate": "2025-06-25",
-      "status": "expired",
-      "verified": true
-    }
-  ]
-}
+  {
+    "id": "decathlon-summer-challenge-2026",
+    "title": "Decathlon Summer Challenge",
+    "prize": "Voucher sportivi, abbigliamento, attrezzatura (fino a 500€)",
+    "platform": "Sito web",
+    "category": "Sport & Benessere",
+    "deadline": "2026-07-15T23:59:59+02:00",
+    "url": "https://www.decathlon.it/contest-summer",
+    "imageUrl": "https://www.google.com/s2/favicons?domain=decathlon.it&sz=256",
+    "termsUrl": "https://www.decathlon.it/contest-summer/terms"
+  },
+  {
+    "id": "trenitalia-viaggi-estivi-2026",
+    "title": "Trenitalia: Vinci weekend in Italia",
+    "prize": "Pacchetti viaggio per 2 persone, biglietti gratis, hotel 4*",
+    "platform": "Sito web + App Trenitalia",
+    "category": "Viaggi",
+    "deadline": "2026-08-20T23:59:59+02:00",
+    "url": "https://www.trenitalia.com/contest-estate-2026",
+    "imageUrl": "https://www.google.com/s2/favicons?domain=trenitalia.com&sz=256",
+    "termsUrl": "https://www.trenitalia.com/contest-estate-2026/regolamento.pdf"
+  },
+  {
+    "id": "lavazza-coffee-lovers-2026",
+    "title": "Lavazza: Coffee Lovers Challenge",
+    "prize": "Macchine da caffè, capsule omaggio per 1 anno, merchandise",
+    "platform": "Sito web",
+    "category": "Food",
+    "deadline": "2026-07-31T23:59:59+02:00",
+    "url": "https://www.lavazza.it/contest-coffee",
+    "imageUrl": "https://www.google.com/s2/favicons?domain=lavazza.it&sz=256",
+    "termsUrl": "https://www.lavazza.it/contest-coffee/regolamento.pdf"
+  },
+  {
+    "id": "zalando-fashion-week-2026",
+    "title": "Zalando: Fashion Week Giveaway",
+    "prize": "Voucher Zalando (1000€), abbigliamento esclusivo, scarpe firmate",
+    "platform": "Sito web + App Zalando",
+    "category": "Moda & Beauty",
+    "deadline": "2026-07-25T23:59:59+02:00",
+    "url": "https://www.zalando.it/fashion-week-contest",
+    "imageUrl": "https://www.google.com/s2/favicons?domain=zalando.it&sz=256",
+    "termsUrl": "https://www.zalando.it/fashion-week-contest/terms"
+  },
+  {
+    "id": "netflix-summer-giveaway-2026",
+    "title": "Netflix: Estate di serie TV - Vinci abbonamenti",
+    "prize": "6 mesi abbonamento Premium, merchandise esclusivo",
+    "platform": "Social media + Sito",
+    "category": "Tech",
+    "deadline": "2026-08-10T23:59:59+02:00",
+    "url": "https://www.netflix.com/contest-estate-2026",
+    "imageUrl": "https://www.google.com/s2/favicons?domain=netflix.com&sz=256",
+    "termsUrl": "https://www.netflix.com/contest-estate-2026/rules"
+  },
+  {
+    "id": "barilla-ricette-estive-2026",
+    "title": "Barilla: Concorso Ricette Estive",
+    "prize": "Kit completo prodotti Barilla, corso di cucina online, viaggio Puglia",
+    "platform": "Sito web",
+    "category": "Food",
+    "deadline": "2026-06-28T23:59:59+02:00",
+    "url": "https://www.barilla.it/contest-ricette-2026",
+    "imageUrl": "https://www.google.com/s2/favicons?domain=barilla.it&sz=256",
+    "termsUrl": "https://www.barilla.it/contest-ricette-2026/regolamento.pdf"
+  },
+  {
+    "id": "sephora-beauty-summer-2026",
+    "title": "Sephora: Summer Beauty Box",
+    "prize": "Beauty box VIP, prodotti esclusivi, voucher spesa (500€)",
+    "platform": "App Sephora",
+    "category": "Moda & Beauty",
+    "deadline": "2026-07-20T23:59:59+02:00",
+    "url": "https://www.sephora.it/summer-contest",
+    "imageUrl": "https://www.google.com/s2/favicons?domain=sephora.it&sz=256",
+    "termsUrl": "https://www.sephora.it/summer-contest/terms"
+  },
+  {
+    "id": "microsoft-xbox-summer-2026",
+    "title": "Microsoft: Xbox Series X Giveaway",
+    "prize": "Console Xbox Series X, 12 mesi Game Pass, controller extra",
+    "platform": "Sito Microsoft Store",
+    "category": "Tech",
+    "deadline": "2026-08-15T23:59:59+02:00",
+    "url": "https://www.microsoft.com/it/store/contest-xbox-2026",
+    "imageUrl": "https://www.google.com/s2/favicons?domain=microsoft.com&sz=256",
+    "termsUrl": "https://www.microsoft.com/it/store/contest-xbox-2026/rules"
+  },
+  {
+    "id": "airbnb-travel-dreams-2026",
+    "title": "Airbnb: Travel Dreams Summer",
+    "prize": "Crediti Airbnb (2000€), weekend luxury in Europa",
+    "platform": "App Airbnb",
+    "category": "Viaggi",
+    "deadline": "2026-09-01T23:59:59+02:00",
+    "url": "https://www.airbnb.it/contest-summer-2026",
+    "imageUrl": "https://www.google.com/s2/favicons?domain=airbnb.it&sz=256",
+    "termsUrl": "https://www.airbnb.it/contest-summer-2026/terms"
+  }
+]
