@@ -18,8 +18,8 @@
           "id": "featured",
           "type": "contest_carousel",
           "enabled": true,
-          "title": "In evidenza",
-          "subtitle": "Una selezione da non perdere",
+          "title": "",
+          "subtitle": "",
           "layout": {
             "cardSize": "large",
             "showDeadline": true,
