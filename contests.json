@@ -77,12 +77,12 @@
         },
         {
           "id": "expiring_soon",
-          "type": "contest_grid",
+          "type": "contest_carousel",
           "enabled": true,
           "title": "In scadenza",
           "subtitle": "",
           "layout": {
-            "columns": "responsive",
+            "cardSize": "small",
             "showDeadline": true,
             "showCategory": false
           },
