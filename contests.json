@@ -25,7 +25,25 @@
             "showDeadline": true,
             "showCategory": true
           },
-          "contests": []
+          "contests": [
+            {
+              "id": "donnad-fantacarrello-2026",
+              "title": "FantaCarrello 2026",
+              "prize": "Intero carrello con prodotti preferiti",
+              "platform": "DonnaD",
+              "category": "Gratis",
+              "deadline": "2026-12-31",
+              "url": "https://concorsi.donnad.it/concorso/fantacarrello-2026",
+              "imageUrl": "https://www.google.com/s2/favicons?domain=donnad.it&sz=256",
+              "cover": "https://www.google.com/s2/favicons?domain=donnad.it&sz=256",
+              "coverUrl": "https://www.google.com/s2/favicons?domain=donnad.it&sz=256",
+              "ogImage": "",
+              "twitterImage": "",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=donnad.it&sz=256",
+              "termsUrl": "https://concorsi.donnad.it/brand/donnad/fantacarrello-2026/regolamento.pdf",
+              "approved": true
+            }
+          ]
         },
         {
           "id": "new",
