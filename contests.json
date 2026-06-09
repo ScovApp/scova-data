@@ -18,7 +18,7 @@
           "id": "featured",
           "type": "contest_carousel",
           "enabled": true,
-          "title": "",
+          "title": "In evidenza",
           "subtitle": "",
           "layout": {
             "cardSize": "large",
