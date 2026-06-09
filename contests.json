@@ -80,7 +80,7 @@
           "type": "contest_carousel",
           "enabled": true,
           "title": "In scadenza",
-          "subtitle": "Da controllare subito",
+          "subtitle": "",
           "layout": {
             "cardSize": "small",
             "showDeadline": true,
