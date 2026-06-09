@@ -58,7 +58,7 @@
           "title": "Novità",
           "subtitle": "Appena aggiunti",
           "layout": {
-            "cardSize": "medium",
+            "cardSize": "small",
             "showDeadline": true,
             "showCategory": true
           },
@@ -94,7 +94,7 @@
           "title": "In scadenza",
           "subtitle": "Da controllare subito",
           "layout": {
-            "cardSize": "medium",
+            "cardSize": "small",
             "showDeadline": true,
             "showCategory": false
           },
