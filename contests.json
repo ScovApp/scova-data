@@ -67,7 +67,7 @@
           "type": "contest_carousel",
           "enabled": true,
           "title": "Novità",
-          "subtitle": "Appena aggiunti",
+          "subtitle": "",
           "layout": {
             "cardSize": "small",
             "showDeadline": true,
@@ -111,7 +111,7 @@
           "type": "contest_grid",
           "enabled": true,
           "title": "Tutti i concorsi",
-          "subtitle": "La raccolta completa",
+          "subtitle": "",
           "layout": {
             "columns": "responsive",
             "showDeadline": true,
