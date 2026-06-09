@@ -42,6 +42,23 @@
               "providerLogoUrl": "https://www.google.com/s2/favicons?domain=donnad.it&sz=256",
               "termsUrl": "https://concorsi.donnad.it/brand/donnad/fantacarrello-2026/regolamento.pdf",
               "approved": true
+            },
+            {
+              "id": "asdomar-regala-il-divertimento-2026",
+              "title": "ASdoMAR regala il divertimento",
+              "prize": "2 biglietti e premi come da regolamento",
+              "platform": "ASdoMAR",
+              "category": "Alimentari",
+              "deadline": "2026-09-30",
+              "url": "https://www.concorso-asdomar.it/",
+              "imageUrl": "https://www.google.com/s2/favicons?domain=concorso-asdomar.it&sz=256",
+              "cover": "https://www.google.com/s2/favicons?domain=concorso-asdomar.it&sz=256",
+              "coverUrl": "https://www.google.com/s2/favicons?domain=concorso-asdomar.it&sz=256",
+              "ogImage": "",
+              "twitterImage": "",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=asdomar.it&sz=256",
+              "termsUrl": "https://www.concorso-asdomar.it/pdf/regolamento.pdf",
+              "approved": true
             }
           ]
         },
