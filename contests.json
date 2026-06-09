@@ -103,6 +103,40 @@
               "providerLogoUrl": "https://www.google.com/s2/favicons?domain=galbani.it&sz=256",
               "termsUrl": "https://www.galbani.it/sites/default/files/2026-02/definitivo_regolamento_scopril_era_giurassica_conCBP.pdf",
               "approved": true
+            },
+                {
+              "id": "2",
+              "title": "test 2",
+              "prize": "2.000 premi instant win e super premio finale",
+              "platform": "Galbani",
+              "category": "Alimentari",
+              "deadline": "2026-06-11",
+              "url": "https://www.galbani.it/",
+              "imageUrl": "https://www.google.com/s2/favicons?domain=galbani.it&sz=256",
+              "cover": "https://www.google.com/s2/favicons?domain=galbani.it&sz=256",
+              "coverUrl": "https://www.google.com/s2/favicons?domain=galbani.it&sz=256",
+              "ogImage": "",
+              "twitterImage": "",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=galbani.it&sz=256",
+              "termsUrl": "https://www.galbani.it/sites/default/files/2026-02/definitivo_regolamento_scopril_era_giurassica_conCBP.pdf",
+              "approved": true
+            },
+                {
+              "id": "3",
+              "title": "test 3",
+              "prize": "2.000 premi instant win e super premio finale",
+              "platform": "Galbani",
+              "category": "Alimentari",
+              "deadline": "2026-06-12",
+              "url": "https://www.galbani.it/",
+              "imageUrl": "https://www.google.com/s2/favicons?domain=galbani.it&sz=256",
+              "cover": "https://www.google.com/s2/favicons?domain=galbani.it&sz=256",
+              "coverUrl": "https://www.google.com/s2/favicons?domain=galbani.it&sz=256",
+              "ogImage": "",
+              "twitterImage": "",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=galbani.it&sz=256",
+              "termsUrl": "https://www.galbani.it/sites/default/files/2026-02/definitivo_regolamento_scopril_era_giurassica_conCBP.pdf",
+              "approved": true
             }
           ]
         },
