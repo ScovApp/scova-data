@@ -78,7 +78,7 @@
           "title": "Tutti i concorsi",
           "subtitle": "La raccolta completa",
           "layout": {
-            "cardSize": "small",
+            "columns": "responsive",
             "showDeadline": true,
             "showCategory": true
           },
