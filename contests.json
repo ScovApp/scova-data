@@ -73,7 +73,7 @@
         },
         {
           "id": "all",
-          "type": "contest_carousel",
+          "type": "contest_grid",
           "enabled": true,
           "title": "Tutti i concorsi",
           "subtitle": "La raccolta completa",
