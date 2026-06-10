@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-06-09T13:00:00+02:00",
+  "updatedAt": "2026-06-10T08:30:00+02:00",
   "pages": [
     {
       "id": "home",
@@ -12,7 +12,7 @@
           "type": "banner",
           "enabled": true,
           "title": "Scopri i migliori concorsi attivi",
-          "subtitle": "Partecipa per vincere premi ed esperienze selezionate"
+          "subtitle": "Partecipa e vinci premi, esperienze e iniziative selezionate."
         },
         {
           "id": "featured",
@@ -73,7 +73,59 @@
             "showDeadline": true,
             "showCategory": true
           },
-          "contests": []
+          "contests": [
+            {
+              "id": "intesa-sanpaolo-2027-reward",
+              "title": "Intesa Sanpaolo 2027 Reward",
+              "prize": "Premi instant win e a estrazione del programma Reward",
+              "platform": "Intesa Sanpaolo",
+              "category": "Finanza",
+              "deadline": "2027-03-27",
+              "url": "https://www.intesasanpaolo.com/it/reward/hub/gioca-con-reward.html",
+              "imageUrl": "https://www.google.com/s2/favicons?domain=intesasanpaolo.com&sz=256",
+              "cover": "https://www.google.com/s2/favicons?domain=intesasanpaolo.com&sz=256",
+              "coverUrl": "https://www.google.com/s2/favicons?domain=intesasanpaolo.com&sz=256",
+              "ogImage": "",
+              "twitterImage": "",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=intesasanpaolo.com&sz=256",
+              "termsUrl": "https://www.intesasanpaolo.com/content/dam/vetrina/documenti/isp-reward/reward-termini-condizioni.pdf",
+              "approved": true
+            },
+            {
+              "id": "nexi-power2credit-premium-business-2026",
+              "title": "Power2Credit 2026 - Carte Premium e Business",
+              "prize": "Premi a estrazione per richiedenti Carte Premium o Business",
+              "platform": "Nexi",
+              "category": "Finanza",
+              "deadline": "2026-12-31",
+              "url": "https://www.nexi.it/it/normative/concorsi",
+              "imageUrl": "https://www.google.com/s2/favicons?domain=nexi.it&sz=256",
+              "cover": "https://www.google.com/s2/favicons?domain=nexi.it&sz=256",
+              "coverUrl": "https://www.google.com/s2/favicons?domain=nexi.it&sz=256",
+              "ogImage": "",
+              "twitterImage": "",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=nexi.it&sz=256",
+              "termsUrl": "https://www.nexi.it/content/dam/nexinew/download/normative/concorsi/2026/nexi.power2credit2026.premiumbusiness.comunicazione.pdf",
+              "approved": true
+            },
+            {
+              "id": "payback-lunappark-2026",
+              "title": "LunAPPark 2026",
+              "prize": "Premi instant win nelle sessioni di gioco settimanali PAYBACK",
+              "platform": "PAYBACK",
+              "category": "Loyalty",
+              "deadline": "2026-10-25",
+              "url": "https://www.payback.it/concorsi-payback",
+              "imageUrl": "https://www.google.com/s2/favicons?domain=payback.it&sz=256",
+              "cover": "https://www.google.com/s2/favicons?domain=payback.it&sz=256",
+              "coverUrl": "https://www.google.com/s2/favicons?domain=payback.it&sz=256",
+              "ogImage": "",
+              "twitterImage": "",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=payback.it&sz=256",
+              "termsUrl": "https://images.payback.it/media/global/editorial/3.-app/giochicontest-app/lunappark-2026/regolamento_concorso_lunappark2026.pdf",
+              "approved": true
+            }
+          ]
         },
         {
           "id": "expiring_soon",
@@ -104,38 +156,21 @@
               "termsUrl": "https://www.galbani.it/sites/default/files/2026-02/definitivo_regolamento_scopril_era_giurassica_conCBP.pdf",
               "approved": true
             },
-                {
-              "id": "2",
-              "title": "test 2",
-              "prize": "2.000 premi instant win e super premio finale",
-              "platform": "Galbani",
-              "category": "Alimentari",
-              "deadline": "2026-06-11",
-              "url": "https://www.galbani.it/",
-              "imageUrl": "https://www.google.com/s2/favicons?domain=galbani.it&sz=256",
-              "cover": "https://www.google.com/s2/favicons?domain=galbani.it&sz=256",
-              "coverUrl": "https://www.google.com/s2/favicons?domain=galbani.it&sz=256",
+            {
+              "id": "universal-for-fans-minions-monsters-2026",
+              "title": "Minions & Monsters",
+              "prize": "Inviti anteprima a Torino e coppie di buoni cinema Stardust",
+              "platform": "Universal For Fans",
+              "category": "Cinema",
+              "deadline": "2026-06-14",
+              "url": "https://www.universalforfans.it/minionsmonsters/partecipa/",
+              "imageUrl": "https://www.google.com/s2/favicons?domain=universalforfans.it&sz=256",
+              "cover": "https://www.google.com/s2/favicons?domain=universalforfans.it&sz=256",
+              "coverUrl": "https://www.google.com/s2/favicons?domain=universalforfans.it&sz=256",
               "ogImage": "",
               "twitterImage": "",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=galbani.it&sz=256",
-              "termsUrl": "https://www.galbani.it/sites/default/files/2026-02/definitivo_regolamento_scopril_era_giurassica_conCBP.pdf",
-              "approved": true
-            },
-                {
-              "id": "3",
-              "title": "test 3",
-              "prize": "2.000 premi instant win e super premio finale",
-              "platform": "Galbani",
-              "category": "Alimentari",
-              "deadline": "2026-06-12",
-              "url": "https://www.galbani.it/",
-              "imageUrl": "https://www.google.com/s2/favicons?domain=galbani.it&sz=256",
-              "cover": "https://www.google.com/s2/favicons?domain=galbani.it&sz=256",
-              "coverUrl": "https://www.google.com/s2/favicons?domain=galbani.it&sz=256",
-              "ogImage": "",
-              "twitterImage": "",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=galbani.it&sz=256",
-              "termsUrl": "https://www.galbani.it/sites/default/files/2026-02/definitivo_regolamento_scopril_era_giurassica_conCBP.pdf",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=universalforfans.it&sz=256",
+              "termsUrl": "https://www.universalforfans.it/wp-content/uploads/2026/05/Regolamento_UPI_Minions_DEF2.pdf",
               "approved": true
             }
           ]
@@ -745,6 +780,74 @@
               "twitterImage": "",
               "providerLogoUrl": "https://www.google.com/s2/favicons?domain=cifclean.it&sz=256",
               "termsUrl": "https://www.concorsoprovacif.it/regolamento.php",
+              "approved": true
+            },
+            {
+              "id": "universal-for-fans-minions-monsters-2026",
+              "title": "Minions & Monsters",
+              "prize": "Inviti anteprima a Torino e coppie di buoni cinema Stardust",
+              "platform": "Universal For Fans",
+              "category": "Cinema",
+              "deadline": "2026-06-14",
+              "url": "https://www.universalforfans.it/minionsmonsters/partecipa/",
+              "imageUrl": "https://www.google.com/s2/favicons?domain=universalforfans.it&sz=256",
+              "cover": "https://www.google.com/s2/favicons?domain=universalforfans.it&sz=256",
+              "coverUrl": "https://www.google.com/s2/favicons?domain=universalforfans.it&sz=256",
+              "ogImage": "",
+              "twitterImage": "",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=universalforfans.it&sz=256",
+              "termsUrl": "https://www.universalforfans.it/wp-content/uploads/2026/05/Regolamento_UPI_Minions_DEF2.pdf",
+              "approved": true
+            },
+            {
+              "id": "intesa-sanpaolo-2027-reward",
+              "title": "Intesa Sanpaolo 2027 Reward",
+              "prize": "Premi instant win e a estrazione del programma Reward",
+              "platform": "Intesa Sanpaolo",
+              "category": "Finanza",
+              "deadline": "2027-03-27",
+              "url": "https://www.intesasanpaolo.com/it/reward/hub/gioca-con-reward.html",
+              "imageUrl": "https://www.google.com/s2/favicons?domain=intesasanpaolo.com&sz=256",
+              "cover": "https://www.google.com/s2/favicons?domain=intesasanpaolo.com&sz=256",
+              "coverUrl": "https://www.google.com/s2/favicons?domain=intesasanpaolo.com&sz=256",
+              "ogImage": "",
+              "twitterImage": "",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=intesasanpaolo.com&sz=256",
+              "termsUrl": "https://www.intesasanpaolo.com/content/dam/vetrina/documenti/isp-reward/reward-termini-condizioni.pdf",
+              "approved": true
+            },
+            {
+              "id": "nexi-power2credit-premium-business-2026",
+              "title": "Power2Credit 2026 - Carte Premium e Business",
+              "prize": "Premi a estrazione per richiedenti Carte Premium o Business",
+              "platform": "Nexi",
+              "category": "Finanza",
+              "deadline": "2026-12-31",
+              "url": "https://www.nexi.it/it/normative/concorsi",
+              "imageUrl": "https://www.google.com/s2/favicons?domain=nexi.it&sz=256",
+              "cover": "https://www.google.com/s2/favicons?domain=nexi.it&sz=256",
+              "coverUrl": "https://www.google.com/s2/favicons?domain=nexi.it&sz=256",
+              "ogImage": "",
+              "twitterImage": "",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=nexi.it&sz=256",
+              "termsUrl": "https://www.nexi.it/content/dam/nexinew/download/normative/concorsi/2026/nexi.power2credit2026.premiumbusiness.comunicazione.pdf",
+              "approved": true
+            },
+            {
+              "id": "payback-lunappark-2026",
+              "title": "LunAPPark 2026",
+              "prize": "Premi instant win nelle sessioni di gioco settimanali PAYBACK",
+              "platform": "PAYBACK",
+              "category": "Loyalty",
+              "deadline": "2026-10-25",
+              "url": "https://www.payback.it/concorsi-payback",
+              "imageUrl": "https://www.google.com/s2/favicons?domain=payback.it&sz=256",
+              "cover": "https://www.google.com/s2/favicons?domain=payback.it&sz=256",
+              "coverUrl": "https://www.google.com/s2/favicons?domain=payback.it&sz=256",
+              "ogImage": "",
+              "twitterImage": "",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=payback.it&sz=256",
+              "termsUrl": "https://images.payback.it/media/global/editorial/3.-app/giochicontest-app/lunappark-2026/regolamento_concorso_lunappark2026.pdf",
               "approved": true
             }
           ]
