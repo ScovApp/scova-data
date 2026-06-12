@@ -54,7 +54,6 @@ OPTIONAL_IMAGE_FIELDS = [
     "image",
 ]
 
-# Whitelist morbida: warning di default, errore solo con --strict-categories.
 KNOWN_CATEGORIES = {
     "Tech",
     "Shopping",
@@ -90,7 +89,7 @@ KNOWN_CATEGORIES = {
 }
 
 
-def get_today(timezone: str, forced_today: str | None = None) -> date:
+def get_today(timezone, forced_today=None):
     if forced_today:
         return datetime.strptime(forced_today, "%Y-%m-%d").date()
 
@@ -100,45 +99,7 @@ def get_today(timezone: str, forced_today: str | None = None) -> date:
     return date.today()
 
 
-def http_status(url: str, timeout: int = 12):
-    headers = {"User-Agent": "scova-data-validator/2.0"}
-
-    for method in ("HEAD", "GET"):
-        req = urllib.request.Request(url, headers=headers, method=method)
-
-        try:
-            with urllib.request.urlopen(req, timeout=timeout) as resp:
-                status = getattr(resp, "status", None) or resp.getcode()
-                ctype = resp.headers.get("Content-Type")
-                return status, ctype
-
-        except urllib.error.HTTPError as e:
-            # Alcuni server bloccano HEAD ma accettano GET.
-            if method == "HEAD" and e.code in (405, 403):
-                continue
-
-            ctype = e.headers.get("Content-Type") if hasattr(e, "headers") else None
-            return e.code, ctype
-
-        except Exception:
-            return None, None
-
-    return None, None
-
-
-def is_pdf(url: str, content_type):
-    clean_url = url.lower().split("?")[0]
-
-    if clean_url.endswith(".pdf"):
-        return True
-
-    if content_type and "application/pdf" in content_type.lower():
-        return True
-
-    return False
-
-
-def is_http_url(value) -> bool:
+def is_http_url(value):
     return isinstance(value, str) and bool(HTTP_RE.match(value.strip()))
 
 
@@ -152,21 +113,166 @@ def parse_deadline(value):
         return None
 
 
-def contest_path(section_id: str, index: int) -> str:
+def http_status(url, timeout=12):
+    headers = {"User-Agent": "scova-data-validator/2.0"}
+
+    for method in ("HEAD", "GET"):
+        req = urllib.request.Request(url, headers=headers, method=method)
+
+        try:
+            with urllib.request.urlopen(req, timeout=timeout) as resp:
+                status = getattr(resp, "status", None) or resp.getcode()
+                ctype = resp.headers.get("Content-Type")
+                return status, ctype
+
+        except urllib.error.HTTPError as e:
+            if method == "HEAD" and e.code in (405, 403):
+                continue
+
+            ctype = e.headers.get("Content-Type") if hasattr(e, "headers") else None
+            return e.code, ctype
+
+        except Exception:
+            if method == "HEAD":
+                continue
+            return None, None
+
+    return None, None
+
+
+def is_pdf(url, content_type):
+    clean_url = url.lower().split("?")[0]
+
+    if clean_url.endswith(".pdf"):
+        return True
+
+    if content_type and "application/pdf" in content_type.lower():
+        return True
+
+    return False
+
+
+def contest_path(section_id, index):
     return f"{section_id}.contests[{index}]"
 
 
-def validate_contest(
-    contest,
-    path,
-    today,
-    args,
-    errors,
-    warnings,
-    invalid_ids,
-    link_cache,
-):
-    before_errors = len(errors)
+def extract_legacy_or_scova_data(raw_data):
+    if isinstance(raw_data, list):
+        return "legacy", raw_data, raw_data, {}
+
+    if not isinstance(raw_data, dict):
+        raise ValueError("contests.json root must be an object or an array")
+
+    pages = raw_data.get("pages")
+    if not isinstance(pages, list):
+        raise ValueError("missing or invalid root.pages array")
+
+    home = next(
+        (page for page in pages if isinstance(page, dict) and page.get("id") == "home"),
+        None,
+    )
+
+    if not home:
+        raise ValueError("missing page with id 'home'")
+
+    sections = home.get("sections")
+    if not isinstance(sections, list):
+        raise ValueError("missing or invalid home.sections array")
+
+    sections_by_id = {}
+
+    for index, section in enumerate(sections):
+        if not isinstance(section, dict):
+            raise ValueError(f"home.sections[{index}] must be an object")
+
+        section_id = section.get("id")
+
+        if not isinstance(section_id, str) or not section_id.strip():
+            raise ValueError(f"home.sections[{index}] missing id")
+
+        if section_id in sections_by_id:
+            raise ValueError(f"duplicate section id '{section_id}'")
+
+        sections_by_id[section_id] = section
+
+    all_section = sections_by_id.get("all")
+
+    if not all_section:
+        raise ValueError("missing section with id 'all'")
+
+    if all_section.get("type") != "contest_grid":
+        raise ValueError("section 'all' must have type 'contest_grid'")
+
+    contests = all_section.get("contests")
+
+    if not isinstance(contests, list):
+        raise ValueError("section 'all.contests' must be an array")
+
+    return "scova", contests, raw_data, sections_by_id
+
+
+def validate_scova_structure(payload, sections_by_id, errors):
+    for field in REQUIRED_ROOT_FIELDS:
+        if field not in payload:
+            errors.append(f"root missing '{field}'")
+
+    if "schemaVersion" in payload and not isinstance(payload["schemaVersion"], int):
+        errors.append("schemaVersion must be an integer")
+
+    if "updatedAt" in payload and not isinstance(payload["updatedAt"], str):
+        errors.append("updatedAt must be a string")
+
+    pages = payload.get("pages")
+
+    if not isinstance(pages, list):
+        errors.append("root.pages must be an array")
+        return
+
+    home_pages = [
+        page for page in pages
+        if isinstance(page, dict) and page.get("id") == "home"
+    ]
+
+    if len(home_pages) != 1:
+        errors.append("there must be exactly one page with id 'home'")
+        return
+
+    home = home_pages[0]
+
+    for field in REQUIRED_PAGE_FIELDS:
+        if field not in home:
+            errors.append(f"home page missing '{field}'")
+
+    for section_id in REQUIRED_SECTION_IDS:
+        if section_id not in sections_by_id:
+            errors.append(f"missing section '{section_id}'")
+
+    for section_id, expected_type in EXPECTED_SECTION_TYPES.items():
+        section = sections_by_id.get(section_id)
+
+        if not section:
+            continue
+
+        actual_type = section.get("type")
+
+        if actual_type != expected_type:
+            errors.append(
+                f"section '{section_id}' must have type '{expected_type}', found '{actual_type}'"
+            )
+
+        if "enabled" not in section or not isinstance(section.get("enabled"), bool):
+            errors.append(f"section '{section_id}' must have boolean 'enabled'")
+
+        if "title" not in section or not isinstance(section.get("title"), str):
+            errors.append(f"section '{section_id}' must have string 'title'")
+
+    hero = sections_by_id.get("hero_main")
+    if isinstance(hero, dict) and "contests" in hero:
+        errors.append("section 'hero_main' is a banner and must not contain contests")
+
+
+def validate_contest(contest, path, today, args, errors, warnings, invalid_ids, link_cache):
+    before_error_count = len(errors)
 
     def err(message):
         errors.append(f"{path}: {message}")
@@ -232,7 +338,6 @@ def validate_contest(
     for field in OPTIONAL_IMAGE_FIELDS:
         value = contest.get(field)
 
-        # I campi immagine opzionali possono mancare o essere stringa vuota.
         if value in (None, ""):
             continue
 
@@ -264,14 +369,13 @@ def validate_contest(
 
         status, _ = link_cache[terms_url]
 
-        # termsUrl è best-effort: warning, non errore.
         if status is None or (status >= 400 and status != 403):
             warn(f"termsUrl not reachable, status={status} -> {terms_url}")
 
         elif status == 403:
             warn(f"termsUrl returned 403, may block bots -> {terms_url}")
 
-    is_valid = len(errors) == before_errors
+    is_valid = len(errors) == before_error_count
 
     if not is_valid and cid:
         invalid_ids.add(cid)
@@ -279,153 +383,7 @@ def validate_contest(
     return is_valid
 
 
-def get_home_page(data, errors):
-    pages = data.get("pages")
-
-    if not isinstance(pages, list):
-        errors.append("root.pages must be an array")
-        return None
-
-    home_pages = [
-        page for page in pages
-        if isinstance(page, dict) and page.get("id") == "home"
-    ]
-
-    if not home_pages:
-        errors.append("missing page with id 'home'")
-        return None
-
-    if len(home_pages) > 1:
-        errors.append("duplicate page with id 'home'")
-
-    return home_pages[0]
-
-
-def get_sections_by_id(home, errors):
-    sections = home.get("sections")
-
-    if not isinstance(sections, list):
-        errors.append("home.sections must be an array")
-        return {}
-
-    sections_by_id = {}
-
-    for index, section in enumerate(sections):
-        if not isinstance(section, dict):
-            errors.append(f"home.sections[{index}] must be an object")
-            continue
-
-        sid = section.get("id")
-
-        if not isinstance(sid, str) or not sid.strip():
-            errors.append(f"home.sections[{index}] missing id")
-            continue
-
-        if sid in sections_by_id:
-            errors.append(f"duplicate section id '{sid}'")
-
-        sections_by_id[sid] = section
-
-    return sections_by_id
-
-
-def clean_invalid_contests(data, invalid_ids):
-    cleaned = copy.deepcopy(data)
-
-    for page in cleaned.get("pages", []):
-        for section in page.get("sections", []):
-            contests = section.get("contests")
-
-            if isinstance(contests, list):
-                section["contests"] = [
-                    contest for contest in contests
-                    if isinstance(contest, dict)
-                    and contest.get("id") not in invalid_ids
-                ]
-
-    return cleaned
-
-
-def main():
-    parser = argparse.ArgumentParser()
-    parser.add_argument("--in", dest="inp", required=True)
-    parser.add_argument("--out", dest="out", default="")
-    parser.add_argument("--drop-invalid", action="store_true")
-    parser.add_argument("--check-links", action="store_true")
-    parser.add_argument("--strict-categories", action="store_true")
-    parser.add_argument("--skip-section-rules", action="store_true")
-    parser.add_argument("--timezone", default="Europe/Rome")
-    parser.add_argument("--today", default="", help="Override today, format YYYY-MM-DD")
-    args = parser.parse_args()
-
-    with open(args.inp, "r", encoding="utf-8") as file:
-        data = json.load(file)
-
-    errors = []
-    warnings = []
-    invalid_ids = set()
-    link_cache = {}
-
-    today = get_today(args.timezone, args.today or None)
-
-    if not isinstance(data, dict):
-        errors.append("contests.json root must be an object, not an array")
-        print_errors(errors, warnings)
-        return 2
-
-    for field in REQUIRED_ROOT_FIELDS:
-        if field not in data:
-            errors.append(f"root missing '{field}'")
-
-    if "schemaVersion" in data and not isinstance(data["schemaVersion"], int):
-        errors.append("schemaVersion must be an integer")
-
-    if "updatedAt" in data and not isinstance(data["updatedAt"], str):
-        errors.append("updatedAt must be a string")
-
-    home = get_home_page(data, errors)
-
-    if home is None:
-        print_errors(errors, warnings)
-        return 2
-
-    for field in REQUIRED_PAGE_FIELDS:
-        if field not in home:
-            errors.append(f"home page missing '{field}'")
-
-    sections_by_id = get_sections_by_id(home, errors)
-
-    for section_id in REQUIRED_SECTION_IDS:
-        if section_id not in sections_by_id:
-            errors.append(f"missing section '{section_id}'")
-
-    for section_id, expected_type in EXPECTED_SECTION_TYPES.items():
-        section = sections_by_id.get(section_id)
-
-        if not section:
-            continue
-
-        actual_type = section.get("type")
-
-        if actual_type != expected_type:
-            errors.append(
-                f"section '{section_id}' must have type '{expected_type}', found '{actual_type}'"
-            )
-
-        if "enabled" not in section or not isinstance(section.get("enabled"), bool):
-            errors.append(f"section '{section_id}' must have boolean 'enabled'")
-
-        if "title" not in section or not isinstance(section.get("title"), str):
-            errors.append(f"section '{section_id}' must have string 'title'")
-
-    all_section = sections_by_id.get("all")
-    all_contests = all_section.get("contests") if isinstance(all_section, dict) else None
-
-    if not isinstance(all_contests, list):
-        errors.append("section 'all' must contain contests array")
-        print_errors(errors, warnings)
-        return 2
-
+def validate_all_section(all_contests, today, args, errors, warnings, invalid_ids, link_cache):
     all_ids = set()
     all_by_id = {}
 
@@ -452,12 +410,26 @@ def main():
             continue
 
         if cid in all_ids:
-            errors.append(f"{path}: duplicate id '{cid}' in all")
+            errors.append(f"{path}: duplicate id '{cid}' in section 'all'")
             invalid_ids.add(cid)
         else:
             all_ids.add(cid)
             all_by_id[cid] = contest
 
+    return all_ids, all_by_id
+
+
+def validate_secondary_sections(
+    sections_by_id,
+    all_ids,
+    all_by_id,
+    today,
+    args,
+    errors,
+    warnings,
+    invalid_ids,
+    link_cache,
+):
     for section_id in ["featured", "new", "expiring_soon"]:
         section = sections_by_id.get(section_id)
 
@@ -504,8 +476,6 @@ def main():
                 errors.append(f"{path}: id '{cid}' is not present in section 'all'")
                 invalid_ids.add(cid)
 
-            # Controllo morbido: se un contest è duplicato in sezione, dovrebbe
-            # avere gli stessi campi principali dell'oggetto in all.
             if cid in all_by_id:
                 master = all_by_id[cid]
 
@@ -514,34 +484,6 @@ def main():
                         warnings.append(
                             f"{path}: field '{field}' differs from section 'all'"
                         )
-
-    if not args.skip_section_rules:
-        validate_expiring_soon_rule(
-            sections_by_id,
-            all_by_id,
-            today,
-            errors,
-            invalid_ids,
-        )
-
-    if warnings:
-        print("VALIDATION WARNINGS:\n- " + "\n- ".join(warnings), file=sys.stderr)
-
-    if errors:
-        print("VALIDATION FAILED:\n- " + "\n- ".join(errors), file=sys.stderr)
-
-    if args.out:
-        output_data = data
-
-        if args.drop_invalid and invalid_ids:
-            output_data = clean_invalid_contests(data, invalid_ids)
-
-        with open(args.out, "w", encoding="utf-8") as file:
-            json.dump(output_data, file, ensure_ascii=False, indent=2)
-
-        print(f"Wrote validated JSON to {args.out}")
-
-    return 1 if errors else 0
 
 
 def validate_expiring_soon_rule(sections_by_id, all_by_id, today, errors, invalid_ids):
@@ -585,12 +527,120 @@ def validate_expiring_soon_rule(sections_by_id, all_by_id, today, errors, invali
             invalid_ids.add(cid)
 
 
-def print_errors(errors, warnings):
+def clean_invalid_contests(payload, invalid_ids):
+    cleaned = copy.deepcopy(payload)
+
+    if isinstance(cleaned, list):
+        return [
+            contest for contest in cleaned
+            if isinstance(contest, dict) and contest.get("id") not in invalid_ids
+        ]
+
+    for page in cleaned.get("pages", []):
+        if not isinstance(page, dict):
+            continue
+
+        for section in page.get("sections", []):
+            if not isinstance(section, dict):
+                continue
+
+            contests = section.get("contests")
+
+            if isinstance(contests, list):
+                section["contests"] = [
+                    contest for contest in contests
+                    if isinstance(contest, dict)
+                    and contest.get("id") not in invalid_ids
+                ]
+
+    return cleaned
+
+
+def print_report(errors, warnings):
     if warnings:
         print("VALIDATION WARNINGS:\n- " + "\n- ".join(warnings), file=sys.stderr)
 
     if errors:
         print("VALIDATION FAILED:\n- " + "\n- ".join(errors), file=sys.stderr)
+
+
+def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--in", dest="inp", required=True)
+    parser.add_argument("--out", dest="out", default="")
+    parser.add_argument("--drop-invalid", action="store_true")
+    parser.add_argument("--check-links", action="store_true")
+    parser.add_argument("--strict-categories", action="store_true")
+    parser.add_argument("--skip-section-rules", action="store_true")
+    parser.add_argument("--timezone", default="Europe/Rome")
+    parser.add_argument("--today", default="", help="Override today, format YYYY-MM-DD")
+    args = parser.parse_args()
+
+    with open(args.inp, "r", encoding="utf-8") as file:
+        raw_data = json.load(file)
+
+    errors = []
+    warnings = []
+    invalid_ids = set()
+    link_cache = {}
+
+    today = get_today(args.timezone, args.today or None)
+
+    try:
+        mode, all_contests, payload, sections_by_id = extract_legacy_or_scova_data(raw_data)
+    except ValueError as exc:
+        print(f"ERROR: {exc}", file=sys.stderr)
+        return 2
+
+    if mode == "scova":
+        validate_scova_structure(payload, sections_by_id, errors)
+
+    all_ids, all_by_id = validate_all_section(
+        all_contests,
+        today,
+        args,
+        errors,
+        warnings,
+        invalid_ids,
+        link_cache,
+    )
+
+    if mode == "scova":
+        validate_secondary_sections(
+            sections_by_id,
+            all_ids,
+            all_by_id,
+            today,
+            args,
+            errors,
+            warnings,
+            invalid_ids,
+            link_cache,
+        )
+
+        if not args.skip_section_rules:
+            validate_expiring_soon_rule(
+                sections_by_id,
+                all_by_id,
+                today,
+                errors,
+                invalid_ids,
+            )
+
+    print_report(errors, warnings)
+
+    if args.out:
+        output_data = raw_data
+
+        if args.drop_invalid and invalid_ids:
+            output_data = clean_invalid_contests(raw_data, invalid_ids)
+
+        with open(args.out, "w", encoding="utf-8") as file:
+            json.dump(output_data, file, ensure_ascii=False, indent=2)
+
+        print(f"Wrote validated JSON to {args.out}")
+
+    return 1 if errors else 0
 
 
 if __name__ == "__main__":
