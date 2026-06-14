@@ -26,23 +26,21 @@
             "showCategory": true
           },
           "contests": [
-            {
-              "id": "philadelphia-q3-fiat-500-cuffie-jbl-2026",
-              "title": "Philadelphia Q3 2026",
-              "prize": "92 cuffie JBL TUNE 770NC e una Fiat 500 Hybrid",
-              "platform": "Philadelphia",
-              "category": "Alimentari",
-              "deadline": "2026-08-31",
-              "url": "https://concorso.philadelphia.it/home.php",
-              "imageUrl": "https://www.google.com/s2/favicons?domain=philadelphia.it&sz=256",
-              "cover": "https://www.google.com/s2/favicons?domain=philadelphia.it&sz=256",
-              "coverUrl": "https://www.google.com/s2/favicons?domain=philadelphia.it&sz=256",
-              "brandImage": "https://www.google.com/s2/favicons?domain=philadelphia.it&sz=256",
+             {
+              "id": "conad-gioca-e-vinci-edizione-montagna-2026",
+              "title": "Gioca e Vinci 2026 - Edizione Montagna",
+              "prize": "Premi per un montepremi di 37.629€",
+              "platform": "Conad",
+              "category": "Supermercati",
+              "deadline": "2026-06-17",
+              "url": "https://www.conad.it/hey-conad/gioca-e-vinci-gamification",
+              "imageUrl": "https://www.google.com/s2/favicons?domain=conad.it&sz=256",
+              "cover": "https://www.google.com/s2/favicons?domain=conad.it&sz=256",
+              "coverUrl": "https://www.google.com/s2/favicons?domain=conad.it&sz=256",
               "ogImage": "",
               "twitterImage": "",
-              "image": "https://www.google.com/s2/favicons?domain=philadelphia.it&sz=256",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=philadelphia.it&sz=256",
-              "termsUrl": "https://concorso.philadelphia.it/home.php",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=conad.it&sz=256",
+              "termsUrl": "https://www.conad.it/hey-conad/gioca-e-vinci-gamification",
               "approved": true
             },
             {
