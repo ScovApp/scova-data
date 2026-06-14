@@ -26,23 +26,21 @@
             "showCategory": true
           },
           "contests": [
-             {
-              "id": "loctite-pronto-ad-allacciare-le-cinture-2026",
-              "title": "Pronto ad allacciare le cinture",
-              "prize": "Premi Porsche instant win e super premio weekend a Londra con biglietti ePrix",
-              "platform": "Loctite",
-              "category": "Casa e cura persona",
-              "deadline": "2026-08-31",
-              "url": "https://concorsi.donnad.it/concorso/pronto-ad-allacciare-le-cinture",
-              "imageUrl": "https://www.google.com/s2/favicons?domain=donnad.it&sz=256",
-              "cover": "https://www.google.com/s2/favicons?domain=donnad.it&sz=256",
-              "coverUrl": "https://www.google.com/s2/favicons?domain=donnad.it&sz=256",
-              "brandImage": "https://www.google.com/s2/favicons?domain=donnad.it&sz=256",
+              {
+              "id": "wd40-ripara-e-vinci-2026",
+              "title": "Ripara e Vinci",
+              "prize": "Buoni regalo Amazon.it da 100€",
+              "platform": "WD-40",
+              "category": "Fai da te",
+              "deadline": "2026-06-30",
+              "url": "https://concorso.wd40.it/",
+              "imageUrl": "https://www.google.com/s2/favicons?domain=concorso.wd40.it&sz=256",
+              "cover": "https://www.google.com/s2/favicons?domain=concorso.wd40.it&sz=256",
+              "coverUrl": "https://www.google.com/s2/favicons?domain=concorso.wd40.it&sz=256",
               "ogImage": "",
               "twitterImage": "",
-              "image": "https://www.google.com/s2/favicons?domain=donnad.it&sz=256",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=loctite.it&sz=256",
-              "termsUrl": "https://concorsi.donnad.it/concorso/pronto-ad-allacciare-le-cinture",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=wd40.it&sz=256",
+              "termsUrl": "https://concorso.wd40.it/terms-and-conditions",
               "approved": true
             },
             {
