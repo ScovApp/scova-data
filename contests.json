@@ -212,7 +212,7 @@
           "id": "all",
           "type": "contest_grid",
           "enabled": true,
-          "title": "Tutti i concorsi",
+          "title": "Altri",
           "subtitle": "",
           "layout": {
             "columns": "responsive",
