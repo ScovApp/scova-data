@@ -212,7 +212,7 @@
           "id": "all",
           "type": "contest_grid",
           "enabled": true,
-          "title": "Sfoglia",
+          "title": "Raccolta",
           "subtitle": "",
           "layout": {
             "columns": "responsive",
