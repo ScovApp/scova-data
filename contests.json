@@ -212,7 +212,7 @@
           "id": "all",
           "type": "contest_grid",
           "enabled": true,
-          "title": "Catalogo",
+          "title": "Sfoglia",
           "subtitle": "",
           "layout": {
             "columns": "responsive",
