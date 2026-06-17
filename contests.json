@@ -219,7 +219,7 @@
           "id": "all",
           "type": "contest_grid",
           "enabled": true,
-          "title": "Altri",
+          "title": "Catalogo",
           "subtitle": "",
           "layout": {
             "columns": "responsive",
