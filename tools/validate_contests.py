@@ -352,11 +352,8 @@ def validate_contest(contest, path, today, args, errors, warnings, invalid_ids, 
 
         status, ctype = link_cache[url]
 
-        if status is None or (status >= 400 and status != 403):
-            err(f"url not reachable, status={status} -> {url}")
-
-        elif status == 403:
-            warn(f"url returned 403, may block bots -> {url}")
+        if status is None or status >= 400:
+            warn(f"url not reachable, status={status} -> {url}")
 
         if is_pdf(url, ctype):
             err(f"url points to a PDF, move it to termsUrl -> {url}")
