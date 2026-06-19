@@ -73,7 +73,7 @@
           "title": "Novità",
           "subtitle": "",
           "layout": {
-            "cardSize": "small",
+            "cardSize": "medium",
             "showDeadline": true,
             "showCategory": true
           },
