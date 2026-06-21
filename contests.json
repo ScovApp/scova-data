@@ -63,7 +63,9 @@
               "providerLogoUrl": "https://www.google.com/s2/favicons?domain=grenade.com&sz=256",
               "termsUrl": "https://www.promotiempo.it/concorso/concorso-a-premi-un-esplosione-di-premi",
               "approved": true
-            },
+            }
+          ]
+        },
         {
           "id": "new",
           "type": "contest_carousel",
