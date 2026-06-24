@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-06-23T08:30:00+02:00",
+  "updatedAt": "2026-06-24T08:30:00+02:00",
   "pages": [
     {
       "id": "home",
@@ -79,41 +79,22 @@
           },
           "contests": [
             {
-              "id": "nesquik-pokemon-fiamme-spettrali-2026",
-              "title": "Vinci Gioco di Carte Collezionabili PokÃ©mon",
-              "prize": "100 confezioni da 10 carte collezionabili PokÃ©mon MegaEvoluzione Fiamme Spettrali in estrazione finale",
-              "platform": "Nesquik",
-              "category": "Gastronomia",
-              "deadline": "2026-07-31",
-              "url": "https://www.promozionitaliane.it/nesquik-winter2026/",
-              "imageUrl": "https://www.google.com/s2/favicons?domain=promozionitaliane.it&sz=256",
-              "cover": "https://www.google.com/s2/favicons?domain=promozionitaliane.it&sz=256",
-              "coverUrl": "https://www.google.com/s2/favicons?domain=promozionitaliane.it&sz=256",
-              "brandImage": "https://www.google.com/s2/favicons?domain=nesquik.it&sz=256",
+              "id": "san-carlo-gardaland-2026",
+              "title": "San Carlo – Gardaland 2026",
+              "prize": "Coupon ingresso omaggio Gardaland Park con acquisto di 2 biglietti a tariffa intera",
+              "platform": "San Carlo / Gardaland",
+              "category": "Tempo Libero",
+              "deadline": "2026-11-01",
+              "url": "https://www.sancarlo.it/",
+              "imageUrl": "https://www.google.com/s2/favicons?domain=sancarlo.it&sz=256",
+              "cover": "https://www.google.com/s2/favicons?domain=sancarlo.it&sz=256",
+              "coverUrl": "https://www.google.com/s2/favicons?domain=sancarlo.it&sz=256",
+              "brandImage": "https://www.google.com/s2/favicons?domain=sancarlo.it&sz=256",
               "ogImage": "",
               "twitterImage": "",
-              "image": "https://www.google.com/s2/favicons?domain=promozionitaliane.it&sz=256",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=nesquik.it&sz=256",
-              "termsUrl": "https://www.promozionitaliane.it/nesquik-winter2026/documenti/regolamento",
-              "approved": true
-            },
-            {
-              "id": "pg-vinci-la-tua-estate-2026",
-              "title": "Vinci la tua estate",
-              "prize": "Buoni Regalo Amazon.it da 50â¬ ogni giorno e voucher viaggio alle Maldive per 2 persone",
-              "platform": "P&G Per Te",
-              "category": "Casa e cura persona",
-              "deadline": "2026-07-31",
-              "url": "https://promozioni.pgperte.it/2026_0208p_procter_iw_multibrand_07042026_31072026/",
-              "imageUrl": "https://www.google.com/s2/favicons?domain=pgperte.it&sz=256",
-              "cover": "https://www.google.com/s2/favicons?domain=pgperte.it&sz=256",
-              "coverUrl": "https://www.google.com/s2/favicons?domain=pgperte.it&sz=256",
-              "brandImage": "https://www.google.com/s2/favicons?domain=pgperte.it&sz=256",
-              "ogImage": "",
-              "twitterImage": "",
-              "image": "https://www.google.com/s2/favicons?domain=pgperte.it&sz=256",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=pgperte.it&sz=256",
-              "termsUrl": "https://promozioni.pgperte.it/2026_0208p_procter_iw_multibrand_07042026_31072026/regolamento.php",
+              "image": "https://www.google.com/s2/favicons?domain=sancarlo.it&sz=256",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=sancarlo.it&sz=256",
+              "termsUrl": "https://www.sancarlo.it/common/images/concorsi/SC_regolamento_gardaland2026.pdf",
               "approved": true
             }
           ]
@@ -184,8 +165,8 @@
             },
             {
               "id": "nesquik-pokemon-fiamme-spettrali-2026",
-              "title": "Vinci Gioco di Carte Collezionabili PokÃ©mon",
-              "prize": "100 confezioni da 10 carte collezionabili PokÃ©mon MegaEvoluzione Fiamme Spettrali in estrazione finale",
+              "title": "Vinci Gioco di Carte Collezionabili Pokémon",
+              "prize": "100 confezioni da 10 carte collezionabili Pokémon MegaEvoluzione Fiamme Spettrali in estrazione finale",
               "platform": "Nesquik",
               "category": "Gastronomia",
               "deadline": "2026-07-31",
@@ -204,7 +185,7 @@
             {
               "id": "hansaplast-in-glamping-2026",
               "title": "In glamping con Hansaplast 2026",
-              "prize": "122 Gift Card Decathlon da 100â¬ e 1 voucher soggiorno Glamping da 1.000â¬",
+              "prize": "122 Gift Card Decathlon da 100€ e 1 voucher soggiorno Glamping da 1.000€",
               "platform": "Hansaplast",
               "category": "Benessere",
               "deadline": "2026-06-30",
@@ -242,7 +223,7 @@
             {
               "id": "equilibra-speciale-esselunga-2026",
               "title": "Equilibra speciale Esselunga",
-              "prize": "200 carte prepagate digitali Esselunga da 50â¬ e 1 viaggio in Messico per 4 persone",
+              "prize": "200 carte prepagate digitali Esselunga da 50€ e 1 viaggio in Messico per 4 persone",
               "platform": "Equilibra / Esselunga",
               "category": "Viaggi",
               "deadline": "2026-08-10",
@@ -299,7 +280,7 @@
             {
               "id": "oro-evento-anniversario-2026",
               "title": "Oro Evento Anniversario",
-              "prize": "14 carte MyGiftCardSquare da 5.000â¬",
+              "prize": "14 carte MyGiftCardSquare da 5.000€",
               "platform": "Oro Saiwa / Oro Ciok",
               "category": "Gastronomia",
               "deadline": "2026-08-02",
@@ -337,7 +318,7 @@
             {
               "id": "grenade-esplosione-di-premi-2026",
               "title": "Un'esplosione di premi",
-              "prize": "Gift card Adidas da 150â¬ e borsoni da allenamento Defender",
+              "prize": "Gift card Adidas da 150€ e borsoni da allenamento Defender",
               "platform": "Grenade",
               "category": "Sport",
               "deadline": "2026-07-31",
@@ -356,7 +337,7 @@
             {
               "id": "dixan-prova-gratis-discs-2026",
               "title": "Prova gratis Dixan Discs 2026",
-              "prize": "Carnet buoni spesa pari al costo del prodotto e 5 carnet da 1.000â¬",
+              "prize": "Carnet buoni spesa pari al costo del prodotto e 5 carnet da 1.000€",
               "platform": "Dixan",
               "category": "Casa e cura persona",
               "deadline": "2026-08-31",
@@ -432,7 +413,7 @@
             {
               "id": "kaloderma-vinci-con-kaloderma-2026",
               "title": "Vinci con Kaloderma 2026",
-              "prize": "Gift card moda da 200â¬ e soggiorno a Palazzo Varignana",
+              "prize": "Gift card moda da 200€ e soggiorno a Palazzo Varignana",
               "platform": "Kaloderma",
               "category": "Benessere",
               "deadline": "2026-09-30",
@@ -508,7 +489,7 @@
             {
               "id": "equilibra-vacanza-zanzibar-2026",
               "title": "Vinci la tua vacanza a Zanzibar",
-              "prize": "Buoni vacanza Alpitour da 1.000â¬ e viaggio per 4 persone a Zanzibar",
+              "prize": "Buoni vacanza Alpitour da 1.000€ e viaggio per 4 persone a Zanzibar",
               "platform": "Equilibra",
               "category": "Viaggi",
               "deadline": "2026-07-31",
@@ -660,7 +641,7 @@
             {
               "id": "buitoni-bella-napoli-accendi-la-tua-passione-2026",
               "title": "Accendi la tua passione",
-              "prize": "Gift card Futbol Emotion da 100â¬ e proiettori Samsung The Freestyle",
+              "prize": "Gift card Futbol Emotion da 100€ e proiettori Samsung The Freestyle",
               "platform": "Buitoni Bella Napoli",
               "category": "Alimentari",
               "deadline": "2026-10-31",
@@ -736,7 +717,7 @@
             {
               "id": "bosch-forni-porta-la-vittoria-a-casa-2026",
               "title": "Forni Bosch 2026: porta la vittoria a casa",
-              "prize": "Buoni spesa da 500â¬",
+              "prize": "Buoni spesa da 500€",
               "platform": "Bosch",
               "category": "Elettrodomestici",
               "deadline": "2026-07-25",
@@ -755,7 +736,7 @@
             {
               "id": "wd40-ripara-e-vinci-2026",
               "title": "Ripara e Vinci",
-              "prize": "Buoni regalo Amazon.it da 100â¬",
+              "prize": "Buoni regalo Amazon.it da 100€",
               "platform": "WD-40",
               "category": "Fai da te",
               "deadline": "2026-06-30",
@@ -812,7 +793,7 @@
             {
               "id": "bbva-compra-e-vinci-2026",
               "title": "Compra & Vinci BBVA 2026",
-              "prize": "Buoni Regalo Amazon.it da 50â¬ e premi trimestrali",
+              "prize": "Buoni Regalo Amazon.it da 50€ e premi trimestrali",
               "platform": "BBVA",
               "category": "Shopping",
               "deadline": "2026-12-15",
@@ -906,8 +887,8 @@
             },
             {
               "id": "coca-cola-zero-zero-relaunch-2026",
-              "title": "Dai piÃ¹ gusto alla tua serata con Coca-Cola Zero Zero",
-              "prize": "Codici sconto Just Eat da 15â¬",
+              "title": "Dai più gusto alla tua serata con Coca-Cola Zero Zero",
+              "prize": "Codici sconto Just Eat da 15€",
               "platform": "Coca-Cola",
               "category": "Bevande",
               "deadline": "2026-09-30",
@@ -926,7 +907,7 @@
             {
               "id": "coca-cola-zero-zero-just-eat-2026",
               "title": "Coca-Cola Zero Zero con Just Eat",
-              "prize": "10.000 codici sconto Just Eat da 15â¬",
+              "prize": "10.000 codici sconto Just Eat da 15€",
               "platform": "Coca-Cola / Just Eat",
               "category": "Food delivery",
               "deadline": "2026-09-30",
@@ -1040,7 +1021,7 @@
             {
               "id": "levissima-assapora-la-purezza-e-vinci-2026",
               "title": "Assapora la purezza e vinci",
-              "prize": "Buoni spesa da 50â¬ ed esperienze nella natura",
+              "prize": "Buoni spesa da 50€ ed esperienze nella natura",
               "platform": "Levissima",
               "category": "Bevande",
               "deadline": "2026-09-27",
@@ -1135,7 +1116,7 @@
             {
               "id": "lemonsoda-unestate-da-leggere-2026",
               "title": "Lemonsoda Un'estate da leggere",
-              "prize": "260 gift card Feltrinelli da 50â¬",
+              "prize": "260 gift card Feltrinelli da 50€",
               "platform": "Lemonsoda",
               "category": "Bevande",
               "deadline": "2026-08-31",
@@ -1173,7 +1154,7 @@
             {
               "id": "centro-le-maioliche-my-maioliche-2026",
               "title": "My Maioliche",
-              "prize": "Oltre 700 premi per un montepremi totale di 22.850â¬",
+              "prize": "Oltre 700 premi per un montepremi totale di 22.850€",
               "platform": "Centro Le Maioliche",
               "category": "Shopping",
               "deadline": "2026-12-31",
@@ -1192,7 +1173,7 @@
             {
               "id": "ibl-club-le-esperienze-2026",
               "title": "Le Esperienze di IBL Club",
-              "prize": "20 gift card da 300â¬ e 2 weekend a Parigi per 4 persone",
+              "prize": "20 gift card da 300€ e 2 weekend a Parigi per 4 persone",
               "platform": "IBL Banca",
               "category": "Finanza",
               "deadline": "2026-12-31",
@@ -1230,7 +1211,7 @@
             {
               "id": "cuore-adriatico-usa-app-vinci-2026",
               "title": "Usa l'App & Vinci ogni giorno",
-              "prize": "Gift card giornaliere da 10â¬ e maxi premi mensili",
+              "prize": "Gift card giornaliere da 10€ e maxi premi mensili",
               "platform": "Cuore Adriatico",
               "category": "Shopping",
               "deadline": "2026-12-31",
@@ -1263,6 +1244,25 @@
               "image": "https://www.google.com/s2/favicons?domain=insegnadellanno.it&sz=256",
               "providerLogoUrl": "https://www.google.com/s2/favicons?domain=insegnadellanno.it&sz=256",
               "termsUrl": "https://www.insegnadellanno.it/regolamento-concorso-a-premi",
+              "approved": true
+            },
+            {
+              "id": "san-carlo-gardaland-2026",
+              "title": "San Carlo – Gardaland 2026",
+              "prize": "Coupon ingresso omaggio Gardaland Park con acquisto di 2 biglietti a tariffa intera",
+              "platform": "San Carlo / Gardaland",
+              "category": "Tempo Libero",
+              "deadline": "2026-11-01",
+              "url": "https://www.sancarlo.it/",
+              "imageUrl": "https://www.google.com/s2/favicons?domain=sancarlo.it&sz=256",
+              "cover": "https://www.google.com/s2/favicons?domain=sancarlo.it&sz=256",
+              "coverUrl": "https://www.google.com/s2/favicons?domain=sancarlo.it&sz=256",
+              "brandImage": "https://www.google.com/s2/favicons?domain=sancarlo.it&sz=256",
+              "ogImage": "",
+              "twitterImage": "",
+              "image": "https://www.google.com/s2/favicons?domain=sancarlo.it&sz=256",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=sancarlo.it&sz=256",
+              "termsUrl": "https://www.sancarlo.it/common/images/concorsi/SC_regolamento_gardaland2026.pdf",
               "approved": true
             }
           ]
