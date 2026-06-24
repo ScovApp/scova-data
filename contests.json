@@ -70,7 +70,7 @@
           "id": "new",
           "type": "contest_carousel",
           "enabled": true,
-          "title": "NovitÃ ",
+          "title": "Novità",
           "subtitle": "",
           "layout": {
             "cardSize": "small",
@@ -166,7 +166,7 @@
             {
               "id": "pg-vinci-la-tua-estate-2026",
               "title": "Vinci la tua estate",
-              "prize": "Buoni Regalo Amazon.it da 50â¬ ogni giorno e voucher viaggio alle Maldive per 2 persone",
+              "prize": "Buoni Regalo Amazon.it da 50€ ogni giorno e voucher viaggio alle Maldive per 2 persone",
               "platform": "P&G Per Te",
               "category": "Casa e cura persona",
               "deadline": "2026-07-31",
