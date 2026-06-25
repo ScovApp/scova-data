@@ -91,7 +91,7 @@
           "type": "contest_carousel",
           "enabled": true,
           "title": "Novità",
-          "subtitle": "",
+          "subtitle": "Prova sottotitolo",
           "layout": {
             "cardSize": "small",
             "showDeadline": true,
