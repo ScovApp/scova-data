@@ -26,6 +26,25 @@
             "showCategory": true
           },
           "contests": [
+             {
+              "id": "wd40-ripara-e-vinci-2026",
+              "title": "Ripara e Vinci",
+              "prize": "Buoni regalo Amazon.it da 100€",
+              "platform": "WD-40",
+              "category": "Fai da te",
+              "deadline": "2026-06-30",
+              "url": "https://concorso.wd40.it/",
+              "imageUrl": "https://www.google.com/s2/favicons?domain=concorso.wd40.it&sz=256",
+              "cover": "https://www.google.com/s2/favicons?domain=concorso.wd40.it&sz=256",
+              "coverUrl": "https://www.google.com/s2/favicons?domain=concorso.wd40.it&sz=256",
+              "brandImage": "https://www.google.com/s2/favicons?domain=concorso.wd40.it&sz=256",
+              "ogImage": "",
+              "twitterImage": "",
+              "image": "https://www.google.com/s2/favicons?domain=concorso.wd40.it&sz=256",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=wd40.it&sz=256",
+              "termsUrl": "https://concorso.wd40.it/terms-and-conditions",
+              "approved": true
+            },
             {
               "id": "bosch-forni-porta-la-vittoria-a-casa-2026",
               "title": "Forni Bosch 2026: porta la vittoria a casa",
