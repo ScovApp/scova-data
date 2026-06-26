@@ -92,7 +92,7 @@
           "title": "Novità",
           "subtitle": "Scovati oggi",
           "layout": {
-            "cardSize": "medium",
+            "cardSize": "small",
             "showDeadline": true,
             "showCategory": true
           },
