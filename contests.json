@@ -26,23 +26,23 @@
             "showCategory": true
           },
           "contests": [
-            {
-              "id": "bosch-forni-porta-la-vittoria-a-casa-2026",
-              "title": "Forni Bosch 2026: porta la vittoria a casa",
-              "prize": "Buoni spesa da 500€",
-              "platform": "Bosch",
-              "category": "Elettrodomestici",
-              "deadline": "2026-07-25",
-              "url": "https://www.bosch-home.com/it/",
-              "imageUrl": "https://www.google.com/s2/favicons?domain=bosch-home.com&sz=256",
-              "cover": "https://www.google.com/s2/favicons?domain=bosch-home.com&sz=256",
-              "coverUrl": "https://www.google.com/s2/favicons?domain=bosch-home.com&sz=256",
-              "brandImage": "https://www.google.com/s2/favicons?domain=bosch-home.com&sz=256",
+             {
+              "id": "fonzies-estate-kit-spiaggia-2026",
+              "title": "L'estate di Fonzies",
+              "prize": "150 kit spiaggia Fonzies con ombrellone e sedia sdraio",
+              "platform": "Fonzies",
+              "category": "Gastronomia",
+              "deadline": "2026-08-10",
+              "url": "https://www.promotiempo.it/concorso/concorso-a-premi-l-estate-di-fonzies",
+              "imageUrl": "https://www.google.com/s2/favicons?domain=promotiempo.it&sz=256",
+              "cover": "https://www.google.com/s2/favicons?domain=promotiempo.it&sz=256",
+              "coverUrl": "https://www.google.com/s2/favicons?domain=promotiempo.it&sz=256",
+              "brandImage": "https://www.google.com/s2/favicons?domain=fonzies.it&sz=256",
               "ogImage": "",
               "twitterImage": "",
-              "image": "https://www.google.com/s2/favicons?domain=bosch-home.com&sz=256",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=bosch-home.com&sz=256",
-              "termsUrl": "https://media3.bosch-home.com/Documents/28739680_Bosch_Regolamento-Instant-win-forni.pdf",
+              "image": "https://www.google.com/s2/favicons?domain=promotiempo.it&sz=256",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=fonzies.it&sz=256",
+              "termsUrl": "https://www.promotiempo.it/concorso/concorso-a-premi-l-estate-di-fonzies",
               "approved": true
             },
             {
@@ -81,6 +81,25 @@
               "image": "https://www.google.com/s2/favicons?domain=promotiempo.it&sz=256",
               "providerLogoUrl": "https://www.google.com/s2/favicons?domain=esselunga.it&sz=256",
               "termsUrl": "https://www.promotiempo.it/concorso/concorso-equilibra-speciale-esselunga",
+              "approved": true
+            },
+            {
+              "id": "bosch-forni-porta-la-vittoria-a-casa-2026",
+              "title": "Forni Bosch 2026: porta la vittoria a casa",
+              "prize": "Buoni spesa da 500€",
+              "platform": "Bosch",
+              "category": "Elettrodomestici",
+              "deadline": "2026-07-25",
+              "url": "https://www.bosch-home.com/it/",
+              "imageUrl": "https://www.google.com/s2/favicons?domain=bosch-home.com&sz=256",
+              "cover": "https://www.google.com/s2/favicons?domain=bosch-home.com&sz=256",
+              "coverUrl": "https://www.google.com/s2/favicons?domain=bosch-home.com&sz=256",
+              "brandImage": "https://www.google.com/s2/favicons?domain=bosch-home.com&sz=256",
+              "ogImage": "",
+              "twitterImage": "",
+              "image": "https://www.google.com/s2/favicons?domain=bosch-home.com&sz=256",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=bosch-home.com&sz=256",
+              "termsUrl": "https://media3.bosch-home.com/Documents/28739680_Bosch_Regolamento-Instant-win-forni.pdf",
               "approved": true
             }
           ]
