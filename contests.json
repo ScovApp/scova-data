@@ -90,7 +90,7 @@
           "type": "contest_carousel",
           "enabled": true,
           "title": "Novità",
-          "subtitle": "Scovati oggi",
+          "subtitle": "Scovati di recente",
           "layout": {
             "cardSize": "small",
             "showDeadline": true,
