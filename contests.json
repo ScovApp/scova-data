@@ -50,28 +50,28 @@
                 "Gioco"
               ]
             },
-            {
-              "id": "isybank-games-2027-reward-2026",
-              "title": "isyReward Games 2026",
-              "prize": "Gift card, GoPro Hero13, biglietti concerti e voucher vari",
-              "platform": "isybank",
-              "category": "Shopping",
-              "deadline": "2027-04-29",
-              "url": "https://www.isybank.com/it/isyreward",
-              "imageUrl": "https://www.google.com/s2/favicons?domain=isybank.com&sz=256",
-              "cover": "https://www.google.com/s2/favicons?domain=isybank.com&sz=256",
-              "coverUrl": "https://www.google.com/s2/favicons?domain=isybank.com&sz=256",
-              "brandImage": "https://www.google.com/s2/favicons?domain=isybank.com&sz=256",
+             {
+              "id": "donnad-pattex-70-anni-2026",
+              "title": "70 anni di Pattex",
+              "prize": "Voucher e premi Ticketmaster per eventi Live Nation",
+              "platform": "DonnaD / Pattex",
+              "category": "Casa & Famiglia",
+              "deadline": "2026-10-31",
+              "url": "https://concorsi.donnad.it/concorso/70-anni-di-pattex",
+              "imageUrl": "https://www.google.com/s2/favicons?domain=donnad.it&sz=256",
+              "cover": "https://www.google.com/s2/favicons?domain=donnad.it&sz=256",
+              "coverUrl": "https://www.google.com/s2/favicons?domain=donnad.it&sz=256",
+              "brandImage": "https://www.google.com/s2/favicons?domain=donnad.it&sz=256",
               "ogImage": "",
               "twitterImage": "",
-              "image": "https://www.google.com/s2/favicons?domain=isybank.com&sz=256",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=isybank.com&sz=256",
-              "termsUrl": "https://www.isybank.com/it/isyreward",
+              "image": "https://www.google.com/s2/favicons?domain=donnad.it&sz=256",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=pattex.it&sz=256",
+              "termsUrl": "https://concorsi.donnad.it/brand/donnad/70-anni-di-pattex/regolamento.pdf",
               "approved": true,
-              "mechanic": "play_and_win",
+              "mechanic": "final_draw",
               "badges": [
-                "Gioco",
-                "Missioni"
+                "Estrazione",
+                "Con scontrino"
               ]
             },
             {
