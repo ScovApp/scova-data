@@ -173,7 +173,80 @@
             "showDeadline": true,
             "showCategory": false
           },
-          "contests": []
+          "contests": [
+             {
+              "id": "coca-cola-fifa-kit-campione-2026",
+              "title": "Vinci il Kit del Campione",
+              "prize": "Kit del Campione e gift card Adidas",
+              "platform": "Coca-Cola / Powerade",
+              "category": "Sport",
+              "deadline": "2026-07-08",
+              "url": "https://www.coca-cola.com/it/it/offerings/acquista-powerade-e-vinci-premi-mondiali",
+              "imageUrl": "https://www.google.com/s2/favicons?domain=coca-cola.com&sz=256",
+              "cover": "https://www.google.com/s2/favicons?domain=coca-cola.com&sz=256",
+              "coverUrl": "https://www.google.com/s2/favicons?domain=coca-cola.com&sz=256",
+              "brandImage": "https://www.google.com/s2/favicons?domain=coca-cola.com&sz=256",
+              "ogImage": "",
+              "twitterImage": "",
+              "image": "https://www.google.com/s2/favicons?domain=coca-cola.com&sz=256",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=powerade.it&sz=256",
+              "termsUrl": "https://www.coca-cola.com/content/dam/onexp/it/it/promos-2026/fifa/powerade/regolamento_fifa_coke_pwd.pdf",
+              "approved": true,
+              "mechanic": "instant_win",
+              "badges": [
+                "Vinci subito",
+                "Codice"
+              ]
+            },
+             {
+              "id": "coca-cola-fifa-kit-campione-2026",
+              "title": "Vinci il Kit del Campione",
+              "prize": "Kit del Campione e gift card Adidas",
+              "platform": "Coca-Cola / Powerade",
+              "category": "Sport",
+              "deadline": "2026-07-08",
+              "url": "https://www.coca-cola.com/it/it/offerings/acquista-powerade-e-vinci-premi-mondiali",
+              "imageUrl": "https://www.google.com/s2/favicons?domain=coca-cola.com&sz=256",
+              "cover": "https://www.google.com/s2/favicons?domain=coca-cola.com&sz=256",
+              "coverUrl": "https://www.google.com/s2/favicons?domain=coca-cola.com&sz=256",
+              "brandImage": "https://www.google.com/s2/favicons?domain=coca-cola.com&sz=256",
+              "ogImage": "",
+              "twitterImage": "",
+              "image": "https://www.google.com/s2/favicons?domain=coca-cola.com&sz=256",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=powerade.it&sz=256",
+              "termsUrl": "https://www.coca-cola.com/content/dam/onexp/it/it/promos-2026/fifa/powerade/regolamento_fifa_coke_pwd.pdf",
+              "approved": true,
+              "mechanic": "instant_win",
+              "badges": [
+                "Vinci subito",
+                "Codice"
+              ]
+            },
+             {
+              "id": "coca-cola-fifa-kit-campione-2026",
+              "title": "Vinci il Kit del Campione",
+              "prize": "Kit del Campione e gift card Adidas",
+              "platform": "Coca-Cola / Powerade",
+              "category": "Sport",
+              "deadline": "2026-07-08",
+              "url": "https://www.coca-cola.com/it/it/offerings/acquista-powerade-e-vinci-premi-mondiali",
+              "imageUrl": "https://www.google.com/s2/favicons?domain=coca-cola.com&sz=256",
+              "cover": "https://www.google.com/s2/favicons?domain=coca-cola.com&sz=256",
+              "coverUrl": "https://www.google.com/s2/favicons?domain=coca-cola.com&sz=256",
+              "brandImage": "https://www.google.com/s2/favicons?domain=coca-cola.com&sz=256",
+              "ogImage": "",
+              "twitterImage": "",
+              "image": "https://www.google.com/s2/favicons?domain=coca-cola.com&sz=256",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=powerade.it&sz=256",
+              "termsUrl": "https://www.coca-cola.com/content/dam/onexp/it/it/promos-2026/fifa/powerade/regolamento_fifa_coke_pwd.pdf",
+              "approved": true,
+              "mechanic": "instant_win",
+              "badges": [
+                "Vinci subito",
+                "Codice"
+              ]
+            }
+          ]
         },
         {
           "id": "all",
