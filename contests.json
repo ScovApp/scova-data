@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-02T08:30:00+02:00",
+  "updatedAt": "2026-07-03T08:00:00+02:00",
   "pages": [
     {
       "id": "home",
@@ -50,10 +50,10 @@
                 "Gioco"
               ]
             },
-             {
+            {
               "id": "donnad-pattex-70-anni-2026",
               "title": "70 anni di Pattex",
-              "prize": "Voucher e premi Ticketmaster per eventi Live Nation",
+              "prize": "Abbonamenti Spotify Premium Family, voucher Ticketmaster Live Nation da 250€ e Instax mini LiPlay+",
               "platform": "DonnaD / Pattex",
               "category": "Casa & Famiglia",
               "deadline": "2026-10-31",
@@ -68,9 +68,9 @@
               "providerLogoUrl": "https://www.google.com/s2/favicons?domain=pattex.it&sz=256",
               "termsUrl": "https://concorsi.donnad.it/brand/donnad/70-anni-di-pattex/regolamento.pdf",
               "approved": true,
-              "mechanic": "final_draw",
+              "mechanic": "instant_win",
               "badges": [
-                "Estrazione",
+                "Vinci subito",
                 "Con scontrino"
               ]
             },
@@ -113,22 +113,22 @@
           },
           "contests": [
             {
-              "id": "skipper-ogni-sorso-e-un-viaggio-2026",
-              "title": "Ogni sorso è un viaggio con Skipper",
-              "prize": "Speaker JBL giornalieri, droni DJI settimanali e buono viaggio da 5.000€",
-              "platform": "Skipper / Zuegg",
-              "category": "Viaggi",
-              "deadline": "2026-08-30",
-              "url": "https://myarea.zuegg.it/concorsi2026",
-              "imageUrl": "https://www.google.com/s2/favicons?domain=myarea.zuegg.it&sz=256",
-              "cover": "https://www.google.com/s2/favicons?domain=myarea.zuegg.it&sz=256",
-              "coverUrl": "https://www.google.com/s2/favicons?domain=myarea.zuegg.it&sz=256",
-              "brandImage": "https://www.google.com/s2/favicons?domain=myarea.zuegg.it&sz=256",
+              "id": "winnis-tigota-meraviglie-da-scoprire-2026",
+              "title": "Winni's Meraviglie da scoprire 2026",
+              "prize": "1.300 gift card digitali Tigotà da 25€",
+              "platform": "Winni's / Tigotà",
+              "category": "Shopping",
+              "deadline": "2026-07-31",
+              "url": "https://wa.me/393399957307?text=Ciao%2C%20vorrei%20partecipare%20al%20concorso%20Winni%27s%20Meraviglie%20da%20scoprire%202026",
+              "imageUrl": "https://www.google.com/s2/favicons?domain=winnis.it&sz=256",
+              "cover": "https://www.google.com/s2/favicons?domain=winnis.it&sz=256",
+              "coverUrl": "https://www.google.com/s2/favicons?domain=winnis.it&sz=256",
+              "brandImage": "https://www.google.com/s2/favicons?domain=winnis.it&sz=256",
               "ogImage": "",
               "twitterImage": "",
-              "image": "https://www.google.com/s2/favicons?domain=myarea.zuegg.it&sz=256",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=zuegg.it&sz=256",
-              "termsUrl": "https://myarea.zuegg.it/concorsi2026",
+              "image": "https://www.google.com/s2/favicons?domain=winnis.it&sz=256",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=tigota.it&sz=256",
+              "termsUrl": "https://slangcomunicazione.it/wp-content/uploads/2026/06/MERAVIGLIE-DA-SCOPRIRE-2026-TC.pdf",
               "approved": true,
               "mechanic": "instant_win",
               "badges": [
@@ -137,26 +137,26 @@
               ]
             },
             {
-              "id": "latte-sole-intrecci-di-bonta-2026",
-              "title": "Intrecci di Bontà Latte Sole",
-              "prize": "150 elettrodomestici Ariete",
-              "platform": "Latte Sole",
-              "category": "Casa & Famiglia",
-              "deadline": "2026-08-23",
-              "url": "https://intreccidibonta.it/",
-              "imageUrl": "https://www.google.com/s2/favicons?domain=intreccidibonta.it&sz=256",
-              "cover": "https://www.google.com/s2/favicons?domain=intreccidibonta.it&sz=256",
-              "coverUrl": "https://www.google.com/s2/favicons?domain=intreccidibonta.it&sz=256",
-              "brandImage": "https://www.google.com/s2/favicons?domain=intreccidibonta.it&sz=256",
+              "id": "superfive-tigota-casa-pulita-2026",
+              "title": "Casa Pulita con SuperFive 2026",
+              "prize": "1.500 gift card digitali Tigotà da 25€",
+              "platform": "SuperFive / Tigotà",
+              "category": "Shopping",
+              "deadline": "2026-07-31",
+              "url": "https://www.casapulitaconsuperfive.it/",
+              "imageUrl": "https://www.google.com/s2/favicons?domain=casapulitaconsuperfive.it&sz=256",
+              "cover": "https://www.google.com/s2/favicons?domain=casapulitaconsuperfive.it&sz=256",
+              "coverUrl": "https://www.google.com/s2/favicons?domain=casapulitaconsuperfive.it&sz=256",
+              "brandImage": "https://www.google.com/s2/favicons?domain=casapulitaconsuperfive.it&sz=256",
               "ogImage": "",
               "twitterImage": "",
-              "image": "https://www.google.com/s2/favicons?domain=intreccidibonta.it&sz=256",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=lattesole.it&sz=256",
-              "termsUrl": "https://intreccidibonta.it/",
+              "image": "https://www.google.com/s2/favicons?domain=casapulitaconsuperfive.it&sz=256",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=superfive.it&sz=256",
+              "termsUrl": "https://superfiveit.it/wp-content/uploads/2026/06/Regolamento-CASA-PULITA-CON-SUPERFIVE.docx",
               "approved": true,
-              "mechanic": "final_draw",
+              "mechanic": "instant_win",
               "badges": [
-                "Estrazione",
+                "Vinci subito",
                 "Con scontrino"
               ]
             }
@@ -173,7 +173,32 @@
             "showDeadline": true,
             "showCategory": false
           },
-          "contests": []
+          "contests": [
+            {
+              "id": "coca-cola-fifa-kit-campione-2026",
+              "title": "Vinci il Kit del Campione",
+              "prize": "Kit del Campione e gift card Adidas",
+              "platform": "Coca-Cola / Powerade",
+              "category": "Sport",
+              "deadline": "2026-07-08",
+              "url": "https://www.coca-cola.com/it/it/offerings/acquista-powerade-e-vinci-premi-mondiali",
+              "imageUrl": "https://www.google.com/s2/favicons?domain=coca-cola.com&sz=256",
+              "cover": "https://www.google.com/s2/favicons?domain=coca-cola.com&sz=256",
+              "coverUrl": "https://www.google.com/s2/favicons?domain=coca-cola.com&sz=256",
+              "brandImage": "https://www.google.com/s2/favicons?domain=coca-cola.com&sz=256",
+              "ogImage": "",
+              "twitterImage": "",
+              "image": "https://www.google.com/s2/favicons?domain=coca-cola.com&sz=256",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=powerade.it&sz=256",
+              "termsUrl": "https://www.coca-cola.com/content/dam/onexp/it/it/promos-2026/fifa/powerade/regolamento_fifa_coke_pwd.pdf",
+              "approved": true,
+              "mechanic": "instant_win",
+              "badges": [
+                "Vinci subito",
+                "Codice"
+              ]
+            }
+          ]
         },
         {
           "id": "all",
@@ -1630,7 +1655,7 @@
             {
               "id": "donnad-pattex-70-anni-2026",
               "title": "70 anni di Pattex",
-              "prize": "Voucher e premi Ticketmaster per eventi Live Nation",
+              "prize": "Abbonamenti Spotify Premium Family, voucher Ticketmaster Live Nation da 250€ e Instax mini LiPlay+",
               "platform": "DonnaD / Pattex",
               "category": "Casa & Famiglia",
               "deadline": "2026-10-31",
@@ -1645,9 +1670,9 @@
               "providerLogoUrl": "https://www.google.com/s2/favicons?domain=pattex.it&sz=256",
               "termsUrl": "https://concorsi.donnad.it/brand/donnad/70-anni-di-pattex/regolamento.pdf",
               "approved": true,
-              "mechanic": "final_draw",
+              "mechanic": "instant_win",
               "badges": [
-                "Estrazione",
+                "Vinci subito",
                 "Con scontrino"
               ]
             },
@@ -1840,6 +1865,54 @@
               "mechanic": "final_draw",
               "badges": [
                 "Estrazione",
+                "Con scontrino"
+              ]
+            },
+            {
+              "id": "winnis-tigota-meraviglie-da-scoprire-2026",
+              "title": "Winni's Meraviglie da scoprire 2026",
+              "prize": "1.300 gift card digitali Tigotà da 25€",
+              "platform": "Winni's / Tigotà",
+              "category": "Shopping",
+              "deadline": "2026-07-31",
+              "url": "https://slangcomunicazione.it/wp-content/uploads/2026/06/MERAVIGLIE-DA-SCOPRIRE-2026-TC.pdf",
+              "imageUrl": "https://www.google.com/s2/favicons?domain=winnis.it&sz=256",
+              "cover": "https://www.google.com/s2/favicons?domain=winnis.it&sz=256",
+              "coverUrl": "https://www.google.com/s2/favicons?domain=winnis.it&sz=256",
+              "brandImage": "https://www.google.com/s2/favicons?domain=winnis.it&sz=256",
+              "ogImage": "",
+              "twitterImage": "",
+              "image": "https://www.google.com/s2/favicons?domain=winnis.it&sz=256",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=tigota.it&sz=256",
+              "termsUrl": "https://slangcomunicazione.it/wp-content/uploads/2026/06/MERAVIGLIE-DA-SCOPRIRE-2026-TC.pdf",
+              "approved": true,
+              "mechanic": "instant_win",
+              "badges": [
+                "Vinci subito",
+                "Con scontrino"
+              ]
+            },
+            {
+              "id": "superfive-tigota-casa-pulita-2026",
+              "title": "Casa Pulita con SuperFive 2026",
+              "prize": "1.500 gift card digitali Tigotà da 25€",
+              "platform": "SuperFive / Tigotà",
+              "category": "Shopping",
+              "deadline": "2026-07-31",
+              "url": "https://www.casapulitaconsuperfive.it/",
+              "imageUrl": "https://www.google.com/s2/favicons?domain=casapulitaconsuperfive.it&sz=256",
+              "cover": "https://www.google.com/s2/favicons?domain=casapulitaconsuperfive.it&sz=256",
+              "coverUrl": "https://www.google.com/s2/favicons?domain=casapulitaconsuperfive.it&sz=256",
+              "brandImage": "https://www.google.com/s2/favicons?domain=casapulitaconsuperfive.it&sz=256",
+              "ogImage": "",
+              "twitterImage": "",
+              "image": "https://www.google.com/s2/favicons?domain=casapulitaconsuperfive.it&sz=256",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=superfive.it&sz=256",
+              "termsUrl": "https://superfiveit.it/wp-content/uploads/2026/06/Regolamento-CASA-PULITA-CON-SUPERFIVE.docx",
+              "approved": true,
+              "mechanic": "instant_win",
+              "badges": [
+                "Vinci subito",
                 "Con scontrino"
               ]
             }
