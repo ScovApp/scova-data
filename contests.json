@@ -159,6 +159,54 @@
                 "Vinci subito",
                 "Con scontrino"
               ]
+            },
+             {
+              "id": "skipper-ogni-sorso-e-un-viaggio-2026",
+              "title": "Ogni sorso è un viaggio con Skipper",
+              "prize": "Speaker JBL giornalieri, droni DJI settimanali e buono viaggio da 5.000€",
+              "platform": "Skipper / Zuegg",
+              "category": "Viaggi",
+              "deadline": "2026-08-30",
+              "url": "https://myarea.zuegg.it/concorsi2026",
+              "imageUrl": "https://www.google.com/s2/favicons?domain=myarea.zuegg.it&sz=256",
+              "cover": "https://www.google.com/s2/favicons?domain=myarea.zuegg.it&sz=256",
+              "coverUrl": "https://www.google.com/s2/favicons?domain=myarea.zuegg.it&sz=256",
+              "brandImage": "https://www.google.com/s2/favicons?domain=myarea.zuegg.it&sz=256",
+              "ogImage": "",
+              "twitterImage": "",
+              "image": "https://www.google.com/s2/favicons?domain=myarea.zuegg.it&sz=256",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=zuegg.it&sz=256",
+              "termsUrl": "https://myarea.zuegg.it/concorsi2026",
+              "approved": true,
+              "mechanic": "instant_win",
+              "badges": [
+                "Vinci subito",
+                "Con scontrino"
+              ]
+            },
+            {
+              "id": "latte-sole-intrecci-di-bonta-2026",
+              "title": "Intrecci di Bontà Latte Sole",
+              "prize": "150 elettrodomestici Ariete",
+              "platform": "Latte Sole",
+              "category": "Casa & Famiglia",
+              "deadline": "2026-08-23",
+              "url": "https://intreccidibonta.it/",
+              "imageUrl": "https://www.google.com/s2/favicons?domain=intreccidibonta.it&sz=256",
+              "cover": "https://www.google.com/s2/favicons?domain=intreccidibonta.it&sz=256",
+              "coverUrl": "https://www.google.com/s2/favicons?domain=intreccidibonta.it&sz=256",
+              "brandImage": "https://www.google.com/s2/favicons?domain=intreccidibonta.it&sz=256",
+              "ogImage": "",
+              "twitterImage": "",
+              "image": "https://www.google.com/s2/favicons?domain=intreccidibonta.it&sz=256",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=lattesole.it&sz=256",
+              "termsUrl": "https://intreccidibonta.it/",
+              "approved": true,
+              "mechanic": "final_draw",
+              "badges": [
+                "Estrazione",
+                "Con scontrino"
+              ]
             }
           ]
         },
