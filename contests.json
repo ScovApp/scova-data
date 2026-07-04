@@ -113,30 +113,30 @@
           },
           "contests": [
             {
-              "id": "tampax-set-padel-tigota-2026",
-              "title": "Con Tampax puoi vincere un Set Padel",
-              "prize": "50 Set Padel Quicksand",
-              "platform": "Tampax / TigotÃ ",
-              "category": "Sport",
-              "deadline": "2026-07-31",
-              "url": "https://tampax.it/regolamenti",
-              "imageUrl": "https://www.google.com/s2/favicons?domain=tampax.it&sz=256",
-              "cover": "https://www.google.com/s2/favicons?domain=tampax.it&sz=256",
-              "coverUrl": "https://www.google.com/s2/favicons?domain=tampax.it&sz=256",
-              "brandImage": "https://www.google.com/s2/favicons?domain=tampax.it&sz=256",
-              "ogImage": "",
-              "twitterImage": "",
-              "image": "https://www.google.com/s2/favicons?domain=tampax.it&sz=256",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=tigota.it&sz=256",
-              "termsUrl": "https://tampax.it/pdf/Regolamento-Conc%282186%29-Con-Tampax-puoi-vincere-un-set-padel.pdf",
-              "approved": true,
-              "mechanic": "instant_win",
-              "badges": [
-                "Vinci subito",
-                "Con scontrino"
-              ]
-            },
-            {
+  "id": "tampax-set-padel-tigota-2026",
+  "title": "Con Tampax puoi vincere un Set Padel",
+  "prize": "50 Set Padel Quicksand",
+  "platform": "Tampax / Tigotà",
+  "category": "Sport",
+  "deadline": "2026-07-31",
+  "url": "https://tampax.it/regolamenti",
+  "imageUrl": "assets/contests/tampax-set-padel-tigota-2026.jpg",
+  "cover": "assets/contests/tampax-set-padel-tigota-2026.jpg",
+  "coverUrl": "assets/contests/tampax-set-padel-tigota-2026.jpg",
+  "brandImage": "assets/contests/tampax-set-padel-tigota-2026.jpg",
+  "ogImage": "assets/contests/tampax-set-padel-tigota-2026.jpg",
+  "twitterImage": "assets/contests/tampax-set-padel-tigota-2026.jpg",
+  "image": "assets/contests/tampax-set-padel-tigota-2026.jpg",
+  "providerLogoUrl": "https://www.google.com/s2/favicons?domain=tigota.it&sz=256",
+  "termsUrl": "https://tampax.it/pdf/Regolamento-Conc%282186%29-Con-Tampax-puoi-vincere-un-set-padel.pdf",
+  "approved": true,
+  "mechanic": "instant_win",
+  "badges": [
+    "Vinci subito",
+    "Con scontrino"
+  ]
+},
+{
   "id": "perla-nera-vinci-il-tesoro-dell-estate-2026",
   "title": "Vinci il tesoro dell'estate",
   "prize": "93 gift card Toys Center/Bimbostore da 100€ e viaggio a Disneyland Paris per 4 persone",
