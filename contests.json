@@ -112,6 +112,54 @@
             "showCategory": true
           },
           "contests": [
+             {
+              "id": "loctite-pronto-ad-allacciare-le-cinture-2026",
+              "title": "Pronto ad allacciare le cinture",
+              "prize": "Premi Porsche instant win e super premio weekend a Londra con biglietti ePrix",
+              "platform": "Loctite",
+              "category": "Viaggi",
+              "deadline": "2026-08-31",
+              "url": "https://concorsi.donnad.it/concorso/pronto-ad-allacciare-le-cinture",
+              "imageUrl": "https://www.google.com/s2/favicons?domain=donnad.it&sz=256",
+              "cover": "https://www.google.com/s2/favicons?domain=donnad.it&sz=256",
+              "coverUrl": "https://www.google.com/s2/favicons?domain=donnad.it&sz=256",
+              "brandImage": "https://www.google.com/s2/favicons?domain=donnad.it&sz=256",
+              "ogImage": "",
+              "twitterImage": "",
+              "image": "https://www.google.com/s2/favicons?domain=donnad.it&sz=256",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=loctite.it&sz=256",
+              "termsUrl": "https://concorsi.donnad.it/brand/donnad/pronto-ad-allacciare-le-cinture/regolamento.pdf",
+              "approved": true,
+              "mechanic": "instant_win",
+              "badges": [
+                "Vinci subito",
+                "Con scontrino"
+              ]
+            },
+             {
+              "id": "superfive-tigota-casa-pulita-2026",
+              "title": "Casa Pulita con SuperFive 2026",
+              "prize": "1.500 gift card digitali Tigotà da 25€",
+              "platform": "SuperFive / Tigotà",
+              "category": "Shopping",
+              "deadline": "2026-07-31",
+              "url": "https://www.casapulitaconsuperfive.it/",
+              "imageUrl": "https://www.google.com/s2/favicons?domain=casapulitaconsuperfive.it&sz=256",
+              "cover": "https://www.google.com/s2/favicons?domain=casapulitaconsuperfive.it&sz=256",
+              "coverUrl": "https://www.google.com/s2/favicons?domain=casapulitaconsuperfive.it&sz=256",
+              "brandImage": "https://www.google.com/s2/favicons?domain=casapulitaconsuperfive.it&sz=256",
+              "ogImage": "",
+              "twitterImage": "",
+              "image": "https://www.google.com/s2/favicons?domain=casapulitaconsuperfive.it&sz=256",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=superfive.it&sz=256",
+              "termsUrl": "https://superfiveit.it/wp-content/uploads/2026/06/Regolamento-CASA-PULITA-CON-SUPERFIVE.docx",
+              "approved": true,
+              "mechanic": "instant_win",
+              "badges": [
+                "Vinci subito",
+                "Con scontrino"
+              ]
+            },
             {
               "id": "galbanetto-aperitivo-perfetto-2026",
               "title": "Galbanetto L'Aperitivo Perfetto",
