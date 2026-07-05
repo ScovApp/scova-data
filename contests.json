@@ -104,7 +104,7 @@
           "id": "new",
           "type": "contest_carousel",
           "enabled": true,
-          "title": "NovitÃ ",
+          "title": "Novità",
           "subtitle": "Scovati di recente",
           "layout": {
             "cardSize": "small",
@@ -114,7 +114,7 @@
           "contests": [
             {
               "id": "galbanetto-aperitivo-perfetto-2026",
-              "title": "Galbanetto LâAperitivo Perfetto",
+              "title": "Galbanetto L'Aperitivo Perfetto",
               "prize": "34 spillatrici HKoenig BW1880 e 34 set da 4 calici birra LâAperitivo Perfetto",
               "platform": "Galbani / Galbanetto",
               "category": "Gastronomia",
