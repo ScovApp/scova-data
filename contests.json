@@ -129,7 +129,7 @@
           "id": "new",
           "type": "contest_carousel",
           "enabled": true,
-          "title": "NovitÃ ",
+          "title": "Novità",
           "subtitle": "Scovati di recente",
           "layout": {
             "cardSize": "small",
@@ -1536,7 +1536,7 @@
             },
             {
               "id": "san-carlo-gardaland-2026",
-              "title": "San Carlo â Gardaland 2026",
+              "title": "San Carlo a Gardaland 2026",
               "prize": "Coupon ingresso omaggio Gardaland Park con acquisto di 2 biglietti a tariffa intera",
               "platform": "San Carlo / Gardaland",
               "category": "Tempo Libero",
@@ -1633,7 +1633,7 @@
             {
               "id": "sanbitter-stappa-e-vinci-2026",
               "title": "Stappa e Vinci SanbittÃ¨r 2026",
-              "prize": "MyGiftCard da 50â¬ ogni giorno e MyGiftCard da 500â¬ con codice sotto il tappo",
+              "prize": "MyGiftCard da 50€ ogni giorno e MyGiftCard da 500â¬ con codice sotto il tappo",
               "platform": "SanbittÃ¨r / Sanpellegrino",
               "category": "Gastronomia",
               "deadline": "2026-11-01",
