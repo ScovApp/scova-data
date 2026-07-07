@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-06T08:00:00+02:00",
+  "updatedAt": "2026-07-07T08:00:00+02:00",
   "pages": [
     {
       "id": "home",
@@ -27,29 +27,30 @@
           },
           "contests": [
             {
-              "id": "intesa-sanpaolo-2027-reward",
-              "title": "Intesa Sanpaolo 2027 Reward",
-              "prize": "Premi instant win e a estrazione del programma Reward",
-              "platform": "Intesa Sanpaolo",
-              "category": "Shopping",
-              "deadline": "2027-03-27",
-              "url": "https://www.intesasanpaolo.com/it/reward/hub/gioca-con-reward.html",
-              "imageUrl": "https://www.google.com/s2/favicons?domain=intesasanpaolo.com&sz=256",
-              "cover": "https://www.google.com/s2/favicons?domain=intesasanpaolo.com&sz=256",
-              "coverUrl": "https://www.google.com/s2/favicons?domain=intesasanpaolo.com&sz=256",
-              "brandImage": "https://www.google.com/s2/favicons?domain=intesasanpaolo.com&sz=256",
+              "id": "fonzies-estate-kit-spiaggia-2026",
+              "title": "L'estate di Fonzies",
+              "prize": "150 kit spiaggia Fonzies con ombrellone e sedia sdraio",
+              "platform": "Fonzies",
+              "category": "Tempo Libero",
+              "deadline": "2026-08-10",
+              "url": "https://www.promotiempo.it/concorso/concorso-a-premi-l-estate-di-fonzies",
+              "imageUrl": "https://www.google.com/s2/favicons?domain=promotiempo.it&sz=256",
+              "cover": "https://www.google.com/s2/favicons?domain=promotiempo.it&sz=256",
+              "coverUrl": "https://www.google.com/s2/favicons?domain=promotiempo.it&sz=256",
+              "brandImage": "https://www.google.com/s2/favicons?domain=fonzies.it&sz=256",
               "ogImage": "",
               "twitterImage": "",
-              "image": "https://www.google.com/s2/favicons?domain=intesasanpaolo.com&sz=256",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=intesasanpaolo.com&sz=256",
-              "termsUrl": "https://www.intesasanpaolo.com/content/dam/vetrina/documenti/isp-reward/reward-termini-condizioni.pdf",
+              "image": "https://www.google.com/s2/favicons?domain=promotiempo.it&sz=256",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=fonzies.it&sz=256",
+              "termsUrl": "https://www.promotiempo.it/concorso/concorso-a-premi-l-estate-di-fonzies",
               "approved": true,
-              "mechanic": "missions",
+              "mechanic": "final_draw",
               "badges": [
-                "Missioni",
-                "Gioco"
+                "Estrazione",
+                "Con scontrino"
               ]
             },
+            
             {
               "id": "isybank-games-2027-reward-2026",
               "title": "isyReward Games 2026",
@@ -97,6 +98,30 @@
                 "Quiz",
                 "Estrazione"
               ]
+            },
+{
+              "id": "intesa-sanpaolo-2027-reward",
+              "title": "Intesa Sanpaolo 2027 Reward",
+              "prize": "Premi instant win e a estrazione del programma Reward",
+              "platform": "Intesa Sanpaolo",
+              "category": "Shopping",
+              "deadline": "2027-03-27",
+              "url": "https://www.intesasanpaolo.com/it/reward/hub/gioca-con-reward.html",
+              "imageUrl": "https://www.google.com/s2/favicons?domain=intesasanpaolo.com&sz=256",
+              "cover": "https://www.google.com/s2/favicons?domain=intesasanpaolo.com&sz=256",
+              "coverUrl": "https://www.google.com/s2/favicons?domain=intesasanpaolo.com&sz=256",
+              "brandImage": "https://www.google.com/s2/favicons?domain=intesasanpaolo.com&sz=256",
+              "ogImage": "",
+              "twitterImage": "",
+              "image": "https://www.google.com/s2/favicons?domain=intesasanpaolo.com&sz=256",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=intesasanpaolo.com&sz=256",
+              "termsUrl": "https://www.intesasanpaolo.com/content/dam/vetrina/documenti/isp-reward/reward-termini-condizioni.pdf",
+              "approved": true,
+              "mechanic": "missions",
+              "badges": [
+                "Missioni",
+                "Gioco"
+              ]
             }
           ]
         },
@@ -113,70 +138,71 @@
           },
           "contests": [
             {
-              "id": "max-factory-il-tuo-parere-vale-2026",
-              "title": "Il tuo parere vale",
-              "prize": "Gift card Max Factory da 100€ in instant win",
-              "platform": "Max Factory",
-              "category": "Shopping",
-              "deadline": "2026-12-31",
-              "url": "https://concorsi.maxfactory.eu/",
-              "imageUrl": "https://concorsi.maxfactory.eu/images/hero-illustrazione.webp",
-              "cover": "https://concorsi.maxfactory.eu/images/hero-illustrazione.webp",
-              "coverUrl": "https://concorsi.maxfactory.eu/images/hero-illustrazione.webp",
-              "brandImage": "https://concorsi.maxfactory.eu/images/hero-illustrazione.webp",
-              "ogImage": "https://concorsi.maxfactory.eu/images/hero-illustrazione.webp",
-              "twitterImage": "https://concorsi.maxfactory.eu/images/hero-illustrazione.webp",
-              "image": "https://concorsi.maxfactory.eu/images/hero-illustrazione.webp",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=maxfactory.eu&sz=256",
-              "termsUrl": "https://concorsi.maxfactory.eu/documenti/regolamento.pdf",
-              "approved": true,
-              "mechanic": "instant_win",
-              "badges": [
-                "Vinci subito",
-                "Con scontrino"
-              ]
-            },
-            {
-              "id": "haribo-estate-vip-unipol-arena-2026",
-              "title": "Haribo Estate 2026",
-              "prize": "15 coppie di biglietti VIP Unipol Arena per concerti",
-              "platform": "Haribo",
-              "category": "Musica",
-              "deadline": "2026-07-26",
-              "url": "https://estate2026.hariboconcorsi.it/",
-              "imageUrl": "https://estate2026.hariboconcorsi.it/public/Estate_2026/visual_desktop_ilpremio-mobile.png",
-              "cover": "https://estate2026.hariboconcorsi.it/public/Estate_2026/visual_desktop_ilpremio-mobile.png",
-              "coverUrl": "https://estate2026.hariboconcorsi.it/public/Estate_2026/visual_desktop_ilpremio-mobile.png",
-              "brandImage": "https://estate2026.hariboconcorsi.it/public/Estate_2026/visual_default_header-mobile.png",
-              "ogImage": "https://estate2026.hariboconcorsi.it/public/Estate_2026/visual_desktop_ilpremio-mobile.png",
-              "twitterImage": "https://estate2026.hariboconcorsi.it/public/Estate_2026/visual_desktop_ilpremio-mobile.png",
-              "image": "https://estate2026.hariboconcorsi.it/public/Estate_2026/visual_desktop_ilpremio-mobile.png",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=haribo.com&sz=256",
-              "termsUrl": "https://estate2026.hariboconcorsi.it/public/Estate_2026/regolamento.pdf",
-              "approved": true,
-              "mechanic": "instant_win",
-              "badges": [
-                "Vinci subito",
-                "Con scontrino"
-              ]
-            },
-            {
-              "id": "roadhouse-coca-cola-vivi-il-ritmo-2026",
-              "title": "Vivi il ritmo con il gusto Coca-Cola",
-              "prize": "Cuffie e speaker Marshall in instant win mensile",
-              "platform": "Coca-Cola / Roadhouse",
+              "id": "fanta-jova-summer-party-2026",
+              "title": "Fanta Jova Summer Party",
+              "prize": "Teli e T-shirt Jova Summer Party, coppie di biglietti e experience all inclusive",
+              "platform": "Fanta / Sprite",
               "category": "Musica",
               "deadline": "2026-08-31",
-              "url": "https://it.coca-colahellenic.com/it/portafoglio-prodotti/promozioni/vivi-il-ritmo-con-il-gusto-coca-cola",
-              "imageUrl": "https://it.coca-colahellenic.com/it/portafoglio-prodotti/promozioni/vivi-il-ritmo-con-il-gusto-coca-cola/_jcr_content/root/image_1160672938.coreimg.png/1778516099552/promo-roadhouse-ori.png",
-              "cover": "https://it.coca-colahellenic.com/it/portafoglio-prodotti/promozioni/vivi-il-ritmo-con-il-gusto-coca-cola/_jcr_content/root/image_1160672938.coreimg.png/1778516099552/promo-roadhouse-ori.png",
-              "coverUrl": "https://it.coca-colahellenic.com/it/portafoglio-prodotti/promozioni/vivi-il-ritmo-con-il-gusto-coca-cola/_jcr_content/root/image_1160672938.coreimg.png/1778516099552/promo-roadhouse-ori.png",
-              "brandImage": "https://it.coca-colahellenic.com/it/portafoglio-prodotti/promozioni/vivi-il-ritmo-con-il-gusto-coca-cola/_jcr_content/root/image_1160672938.coreimg.png/1778516099552/promo-roadhouse-ori.png",
-              "ogImage": "https://it.coca-colahellenic.com/it/portafoglio-prodotti/promozioni/vivi-il-ritmo-con-il-gusto-coca-cola/_jcr_content/root/image_1160672938.coreimg.png/1778516099552/promo-roadhouse-ori.png",
-              "twitterImage": "https://it.coca-colahellenic.com/it/portafoglio-prodotti/promozioni/vivi-il-ritmo-con-il-gusto-coca-cola/_jcr_content/root/image_1160672938.coreimg.png/1778516099552/promo-roadhouse-ori.png",
-              "image": "https://it.coca-colahellenic.com/it/portafoglio-prodotti/promozioni/vivi-il-ritmo-con-il-gusto-coca-cola/_jcr_content/root/image_1160672938.coreimg.png/1778516099552/promo-roadhouse-ori.png",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=coca-colahellenic.com&sz=256",
-              "termsUrl": "https://www.roadhouse.it/wp-content/uploads/2026/06/2026-COCA-COLA-VINCI-CON-COCA-COLA-ROADHOUSE-E-CALAVERA-co-instant-win-SMS-e-WA-27.04.2026-DEF.pdf",
+              "url": "https://www.coca-cola.com/it/it/offerings/fanta-jova-summer-party",
+              "imageUrl": "https://www.coca-cola.com/content/dam/onexp/it/it/promos-2026/fanta/jova-beach-party/campaigncardiw.png",
+              "cover": "https://www.coca-cola.com/content/dam/onexp/it/it/promos-2026/fanta/jova-beach-party/campaigncardiw.png",
+              "coverUrl": "https://www.coca-cola.com/content/dam/onexp/it/it/promos-2026/fanta/jova-beach-party/campaigncardiw.png",
+              "brandImage": "https://www.coca-cola.com/content/dam/onexp/it/it/promos-2026/fanta/jova-beach-party/campaigncardiw.png",
+              "ogImage": "https://www.coca-cola.com/content/dam/onexp/it/it/promos-2026/fanta/jova-beach-party/campaigncardiw.png",
+              "twitterImage": "https://www.coca-cola.com/content/dam/onexp/it/it/promos-2026/fanta/jova-beach-party/campaigncardiw.png",
+              "image": "https://www.coca-cola.com/content/dam/onexp/it/it/promos-2026/fanta/jova-beach-party/campaigncardiw.png",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=fanta.it&sz=256",
+              "termsUrl": "https://www.coca-cola.com/content/dam/onexp/it/it/promos-2026/fanta/jova-beach-party/regolamento_up_jovabeachparty.pdf",
+              "approved": true,
+              "mechanic": "instant_win",
+              "badges": [
+                "Vinci subito",
+                "Codice",
+                "Con scontrino"
+              ]
+            },
+            {
+              "id": "postepay-pay-and-dream-2026",
+              "title": "Postepay Pay&Dream",
+              "prize": "Voucher digitali FIFA Store da 10â¬, 25â¬ e 50â¬",
+              "platform": "Poste Italiane / Postepay",
+              "category": "Shopping",
+              "deadline": "2026-09-30",
+              "url": "https://www.poste.it/",
+              "imageUrl": "https://www.google.com/s2/favicons?domain=poste.it&sz=256",
+              "cover": "https://www.google.com/s2/favicons?domain=poste.it&sz=256",
+              "coverUrl": "https://www.google.com/s2/favicons?domain=poste.it&sz=256",
+              "brandImage": "https://www.google.com/s2/favicons?domain=poste.it&sz=256",
+              "ogImage": "",
+              "twitterImage": "",
+              "image": "https://www.google.com/s2/favicons?domain=poste.it&sz=256",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=postepay.it&sz=256",
+              "termsUrl": "https://www.media.poste.it/9ea77e34-159c-482a-9d27-7fdcba51ccc7/file/Postepay-Pay-Dream-Regolamento",
+              "approved": true,
+              "mechanic": "instant_win",
+              "badges": [
+                "Vinci subito",
+                "Missioni"
+              ]
+            },
+            {
+              "id": "coca-cola-autogrill-calcio-2026",
+              "title": "Coca-Cola e Autogrill calcio 2026",
+              "prize": "Palloni Coca-Cola e calcetti Garlando",
+              "platform": "Coca-Cola / Autogrill",
+              "category": "Sport",
+              "deadline": "2026-08-04",
+              "url": "https://www.autogrill.it/",
+              "imageUrl": "https://www.google.com/s2/favicons?domain=autogrill.it&sz=256",
+              "cover": "https://www.google.com/s2/favicons?domain=autogrill.it&sz=256",
+              "coverUrl": "https://www.google.com/s2/favicons?domain=autogrill.it&sz=256",
+              "brandImage": "https://www.google.com/s2/favicons?domain=coca-cola.com&sz=256",
+              "ogImage": "",
+              "twitterImage": "",
+              "image": "https://www.google.com/s2/favicons?domain=autogrill.it&sz=256",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=autogrill.it&sz=256",
+              "termsUrl": "https://www.autogrill.it/wp-content/uploads/2026/06/2026-COCA-COLA-AUTOGRILL-DA-AUTOGRILL-PROVA-A-VINCERE-CON-COCA-COLA-co-instant-win-WhatsApp-OCRtag-05.06.2026-DEF.pdf",
               "approved": true,
               "mechanic": "instant_win",
               "badges": [
@@ -185,28 +211,27 @@
               ]
             },
             {
-              "id": "donnad-fantacarrello-2026",
-              "title": "FantaCarrello 2026",
-              "prize": "Carrelli di prodotti Henkel in instant win giornaliero",
-              "platform": "DonnaD / Henkel",
-              "category": "Senza Acquisto",
-              "deadline": "2026-12-31",
-              "url": "https://concorsi.donnad.it/concorso/fantacarrello-2026",
-              "imageUrl": "https://concorsi.donnad.it/brand/donnad/fantacarrello-2026/fascia-2-home.webp",
-              "cover": "https://concorsi.donnad.it/brand/donnad/fantacarrello-2026/fascia-2-home.webp",
-              "coverUrl": "https://concorsi.donnad.it/brand/donnad/fantacarrello-2026/fascia-2-home.webp",
-              "brandImage": "https://concorsi.donnad.it/brand/donnad/fantacarrello-2026/fascia-2-home.webp",
-              "ogImage": "https://concorsi.donnad.it/brand/donnad/fantacarrello-2026/fascia-2-home.webp",
-              "twitterImage": "https://concorsi.donnad.it/brand/donnad/fantacarrello-2026/fascia-2-home.webp",
-              "image": "https://concorsi.donnad.it/brand/donnad/fantacarrello-2026/fascia-2-home.webp",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=donnad.it&sz=256",
-              "termsUrl": "https://concorsi.donnad.it/brand/donnad/fantacarrello-2026/regolamento.pdf",
+              "id": "hisense-vinci-il-gusto-coca-cola-2026",
+              "title": "Con Hisense vinci il gusto Coca-Cola",
+              "prize": "Premi Coca-Cola a estrazione con lâacquisto di frigoriferi Hisense selezionati",
+              "platform": "Hisense / Coca-Cola",
+              "category": "Casa & Famiglia",
+              "deadline": "2026-07-30",
+              "url": "https://tipremia.hisense.it/",
+              "imageUrl": "https://www.google.com/s2/favicons?domain=hisense.it&sz=256",
+              "cover": "https://www.google.com/s2/favicons?domain=hisense.it&sz=256",
+              "coverUrl": "https://www.google.com/s2/favicons?domain=hisense.it&sz=256",
+              "brandImage": "https://www.google.com/s2/favicons?domain=hisense.it&sz=256",
+              "ogImage": "",
+              "twitterImage": "",
+              "image": "https://www.google.com/s2/favicons?domain=hisense.it&sz=256",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=hisense.it&sz=256",
+              "termsUrl": "https://tipremia.hisense.it/app/uploads/2026/05/Regolamento_Promo-Hisense-REF-e-Coca-Cola-2026.pdf",
               "approved": true,
-              "mechanic": "play_and_win",
+              "mechanic": "final_draw",
               "badges": [
-                "Senza acquisto",
-                "Gioco",
-                "Vinci subito"
+                "Estrazione",
+                "Con scontrino"
               ]
             }
           ]
@@ -264,7 +289,7 @@
             {
               "id": "pg-vinci-la-tua-estate-2026",
               "title": "Vinci la tua estate",
-              "prize": "Buoni Regalo Amazon.it da 50€ ogni giorno e voucher viaggio alle Maldive per 2 persone",
+              "prize": "Buoni Regalo Amazon.it da 50â¬ ogni giorno e voucher viaggio alle Maldive per 2 persone",
               "platform": "P&G Per Te",
               "category": "Viaggi",
               "deadline": "2026-07-31",
@@ -287,8 +312,8 @@
             },
             {
               "id": "nesquik-pokemon-fiamme-spettrali-2026",
-              "title": "Vinci Gioco di Carte Collezionabili Pokémon",
-              "prize": "100 confezioni da 10 carte collezionabili Pokémon MegaEvoluzione Fiamme Spettrali in estrazione finale",
+              "title": "Vinci Gioco di Carte Collezionabili PokÃ©mon",
+              "prize": "100 confezioni da 10 carte collezionabili PokÃ©mon MegaEvoluzione Fiamme Spettrali in estrazione finale",
               "platform": "Nesquik",
               "category": "Giochi",
               "deadline": "2026-07-31",
@@ -336,7 +361,7 @@
             {
               "id": "equilibra-speciale-esselunga-2026",
               "title": "Equilibra speciale Esselunga",
-              "prize": "200 carte prepagate digitali Esselunga da 50€ e 1 viaggio in Messico per 4 persone",
+              "prize": "200 carte prepagate digitali Esselunga da 50â¬ e 1 viaggio in Messico per 4 persone",
               "platform": "Equilibra / Esselunga",
               "category": "Viaggi",
               "deadline": "2026-08-10",
@@ -408,7 +433,7 @@
             {
               "id": "oro-evento-anniversario-2026",
               "title": "Oro Evento Anniversario",
-              "prize": "14 carte MyGiftCardSquare da 5.000€",
+              "prize": "14 carte MyGiftCardSquare da 5.000â¬",
               "platform": "Oro Saiwa / Oro Ciok",
               "category": "Shopping",
               "deadline": "2026-08-02",
@@ -456,7 +481,7 @@
             {
               "id": "grenade-esplosione-di-premi-2026",
               "title": "Un'esplosione di premi",
-              "prize": "Gift card Adidas da 150€ e borsoni da allenamento Defender",
+              "prize": "Gift card Adidas da 150â¬ e borsoni da allenamento Defender",
               "platform": "Grenade",
               "category": "Sport",
               "deadline": "2026-07-31",
@@ -480,7 +505,7 @@
             {
               "id": "dixan-prova-gratis-discs-2026",
               "title": "Prova gratis Dixan Discs 2026",
-              "prize": "Carnet buoni spesa pari al costo del prodotto e 5 carnet da 1.000€",
+              "prize": "Carnet buoni spesa pari al costo del prodotto e 5 carnet da 1.000â¬",
               "platform": "Dixan",
               "category": "Shopping",
               "deadline": "2026-08-31",
@@ -576,7 +601,7 @@
             {
               "id": "kaloderma-vinci-con-kaloderma-2026",
               "title": "Vinci con Kaloderma 2026",
-              "prize": "Gift card moda da 200€ e soggiorno a Palazzo Varignana",
+              "prize": "Gift card moda da 200â¬ e soggiorno a Palazzo Varignana",
               "platform": "Kaloderma",
               "category": "Benessere",
               "deadline": "2026-09-30",
@@ -648,7 +673,7 @@
             {
               "id": "equilibra-vacanza-zanzibar-2026",
               "title": "Vinci la tua vacanza a Zanzibar",
-              "prize": "Buoni vacanza Alpitour da 1.000€ e viaggio per 4 persone a Zanzibar",
+              "prize": "Buoni vacanza Alpitour da 1.000â¬ e viaggio per 4 persone a Zanzibar",
               "platform": "Equilibra",
               "category": "Viaggi",
               "deadline": "2026-07-31",
@@ -816,7 +841,7 @@
             {
               "id": "buitoni-bella-napoli-accendi-la-tua-passione-2026",
               "title": "Accendi la tua passione",
-              "prize": "Gift card Futbol Emotion da 100€ e proiettori Samsung The Freestyle",
+              "prize": "Gift card Futbol Emotion da 100â¬ e proiettori Samsung The Freestyle",
               "platform": "Buitoni Bella Napoli",
               "category": "Sport",
               "deadline": "2026-10-31",
@@ -888,7 +913,7 @@
             {
               "id": "bosch-forni-porta-la-vittoria-a-casa-2026",
               "title": "Forni Bosch 2026: porta la vittoria a casa",
-              "prize": "Buoni spesa da 500€",
+              "prize": "Buoni spesa da 500â¬",
               "platform": "Bosch",
               "category": "Casa & Famiglia",
               "deadline": "2026-07-25",
@@ -960,7 +985,7 @@
             {
               "id": "bbva-compra-e-vinci-2026",
               "title": "Compra & Vinci BBVA 2026",
-              "prize": "Buoni Regalo Amazon.it da 50€ e premi trimestrali",
+              "prize": "Buoni Regalo Amazon.it da 50â¬ e premi trimestrali",
               "platform": "BBVA",
               "category": "Shopping",
               "deadline": "2026-12-15",
@@ -1079,8 +1104,8 @@
             },
             {
               "id": "coca-cola-zero-zero-relaunch-2026",
-              "title": "Dai più gusto alla tua serata con Coca-Cola Zero Zero",
-              "prize": "Codici sconto Just Eat da 15€",
+              "title": "Dai piÃ¹ gusto alla tua serata con Coca-Cola Zero Zero",
+              "prize": "Codici sconto Just Eat da 15â¬",
               "platform": "Coca-Cola",
               "category": "Tempo Libero",
               "deadline": "2026-09-30",
@@ -1104,7 +1129,7 @@
             {
               "id": "coca-cola-zero-zero-just-eat-2026",
               "title": "Coca-Cola Zero Zero con Just Eat",
-              "prize": "10.000 codici sconto Just Eat da 15€",
+              "prize": "10.000 codici sconto Just Eat da 15â¬",
               "platform": "Coca-Cola / Just Eat",
               "category": "Gastronomia",
               "deadline": "2026-09-30",
@@ -1248,7 +1273,7 @@
             {
               "id": "levissima-assapora-la-purezza-e-vinci-2026",
               "title": "Assapora la purezza e vinci",
-              "prize": "Buoni spesa da 50€ ed esperienze nella natura",
+              "prize": "Buoni spesa da 50â¬ ed esperienze nella natura",
               "platform": "Levissima",
               "category": "Gastronomia",
               "deadline": "2026-09-27",
@@ -1344,7 +1369,7 @@
             {
               "id": "lemonsoda-unestate-da-leggere-2026",
               "title": "Lemonsoda Un'estate da leggere",
-              "prize": "260 gift card Feltrinelli da 50€",
+              "prize": "260 gift card Feltrinelli da 50â¬",
               "platform": "Lemonsoda",
               "category": "Tempo Libero",
               "deadline": "2026-08-31",
@@ -1392,7 +1417,7 @@
             {
               "id": "centro-le-maioliche-my-maioliche-2026",
               "title": "My Maioliche",
-              "prize": "Oltre 700 premi per un montepremi totale di 22.850€",
+              "prize": "Oltre 700 premi per un montepremi totale di 22.850â¬",
               "platform": "Centro Le Maioliche",
               "category": "Shopping",
               "deadline": "2026-12-31",
@@ -1416,7 +1441,7 @@
             {
               "id": "ibl-club-le-esperienze-2026",
               "title": "Le Esperienze di IBL Club",
-              "prize": "20 gift card da 300€ e 2 weekend a Parigi per 4 persone",
+              "prize": "20 gift card da 300â¬ e 2 weekend a Parigi per 4 persone",
               "platform": "IBL Banca",
               "category": "Tempo Libero",
               "deadline": "2026-12-31",
@@ -1464,7 +1489,7 @@
             {
               "id": "cuore-adriatico-usa-app-vinci-2026",
               "title": "Usa l'App & Vinci ogni giorno",
-              "prize": "Gift card giornaliere da 10€ e maxi premi mensili",
+              "prize": "Gift card giornaliere da 10â¬ e maxi premi mensili",
               "platform": "Cuore Adriatico",
               "category": "Shopping",
               "deadline": "2026-12-31",
@@ -1511,7 +1536,7 @@
             },
             {
               "id": "san-carlo-gardaland-2026",
-              "title": "San Carlo – Gardaland 2026",
+              "title": "San Carlo a Gardaland 2026",
               "prize": "Coupon ingresso omaggio Gardaland Park con acquisto di 2 biglietti a tariffa intera",
               "platform": "San Carlo / Gardaland",
               "category": "Tempo Libero",
@@ -1560,8 +1585,8 @@
             {
               "id": "nestle-i-love-kefir-2026",
               "title": "Concorso I Love Kefir 2026",
-              "prize": "Estrattori di succo Kenwood settimanali e voucher viaggio fino a 4.000€",
-              "platform": "Nestlé / I Love Kefir",
+              "prize": "Estrattori di succo Kenwood settimanali e voucher viaggio fino a 4.000â¬",
+              "platform": "NestlÃ© / I Love Kefir",
               "category": "Gastronomia",
               "deadline": "2026-10-04",
               "url": "https://www.buonalavita.it/promozioni/concorso-i-love-kefir-2026",
@@ -1585,7 +1610,7 @@
               "id": "nesquik-super-mario-galaxy-2026",
               "title": "Vinci Super Mario Galaxy con Nesquik e Cereali",
               "prize": "Set scuola Super Mario ogni ora e valigia Super Mario ogni giorno",
-              "platform": "Nesquik / Cereali Nestlé",
+              "platform": "Nesquik / Cereali NestlÃ©",
               "category": "Giochi",
               "deadline": "2026-10-31",
               "url": "https://www.buonalavita.it/promozioni/vinci-super-mario-galaxy-nesquik-cereali",
@@ -1607,9 +1632,9 @@
             },
             {
               "id": "sanbitter-stappa-e-vinci-2026",
-              "title": "Stappa e Vinci Sanbittèr 2026",
-              "prize": "MyGiftCard da 50€ ogni giorno e MyGiftCard da 500€ con codice sotto il tappo",
-              "platform": "Sanbittèr / Sanpellegrino",
+              "title": "Stappa e Vinci SanbittÃ¨r 2026",
+              "prize": "MyGiftCard da 50€ ogni giorno e MyGiftCard da 500â¬ con codice sotto il tappo",
+              "platform": "SanbittÃ¨r / Sanpellegrino",
               "category": "Gastronomia",
               "deadline": "2026-11-01",
               "url": "https://www.buonalavita.it/promozioni/stappa-e-vinci",
@@ -1655,7 +1680,7 @@
             },
             {
               "id": "mediaworld-marvel-wolverine-ps5-2026",
-              "title": "Concorso Marvel’s Wolverine PS5",
+              "title": "Concorso Marvelâs Wolverine PS5",
               "prize": "PlayStation Portal, cuffie PULSE Elite e controller DualSense",
               "platform": "MediaWorld CLUB",
               "category": "Giochi",
@@ -1704,7 +1729,7 @@
             {
               "id": "donnad-pattex-70-anni-2026",
               "title": "70 anni di Pattex",
-              "prize": "Abbonamenti Spotify Premium Family, voucher Ticketmaster Live Nation da 250€ e Instax mini LiPlay+",
+              "prize": "Abbonamenti Spotify Premium Family, voucher Ticketmaster Live Nation da 250â¬ e Instax mini LiPlay+",
               "platform": "DonnaD / Pattex",
               "category": "Casa & Famiglia",
               "deadline": "2026-10-31",
@@ -1776,7 +1801,7 @@
             {
               "id": "donnad-dlovers-2026",
               "title": "DonnaD DLovers 2026",
-              "prize": "Gift Card QVC da 10€, punti Cuore e catalogo premi DonnaD",
+              "prize": "Gift Card QVC da 10â¬, punti Cuore e catalogo premi DonnaD",
               "platform": "DonnaD / Henkel",
               "category": "Casa & Famiglia",
               "deadline": "2026-12-18",
@@ -1800,7 +1825,7 @@
             {
               "id": "danone-fai-il-pieno-e-parti-2026",
               "title": "Fai il pieno e parti con Danone",
-              "prize": "73 buoni digitali Enilive da 250€",
+              "prize": "73 buoni digitali Enilive da 250â¬",
               "platform": "Vivi Danone",
               "category": "Viaggi",
               "deadline": "2026-08-31",
@@ -1824,7 +1849,7 @@
             {
               "id": "regina-vinci-la-spesa-2026",
               "title": "Vinci la spesa con Regina",
-              "prize": "Buoni spesa instant win fino a 200€",
+              "prize": "Buoni spesa instant win fino a 200â¬",
               "platform": "Regina",
               "category": "Shopping",
               "deadline": "2026-11-20",
@@ -1871,8 +1896,8 @@
             },
             {
               "id": "skipper-ogni-sorso-e-un-viaggio-2026",
-              "title": "Ogni sorso è un viaggio con Skipper",
-              "prize": "Speaker JBL giornalieri, droni DJI settimanali e buono viaggio da 5.000€",
+              "title": "Ogni sorso Ã¨ un viaggio con Skipper",
+              "prize": "Speaker JBL giornalieri, droni DJI settimanali e buono viaggio da 5.000â¬",
               "platform": "Skipper / Zuegg",
               "category": "Viaggi",
               "deadline": "2026-08-30",
@@ -1895,7 +1920,7 @@
             },
             {
               "id": "latte-sole-intrecci-di-bonta-2026",
-              "title": "Intrecci di Bontà Latte Sole",
+              "title": "Intrecci di BontÃ  Latte Sole",
               "prize": "150 elettrodomestici Ariete",
               "platform": "Latte Sole",
               "category": "Casa & Famiglia",
@@ -1920,8 +1945,8 @@
             {
               "id": "winnis-tigota-meraviglie-da-scoprire-2026",
               "title": "Winni's Meraviglie da scoprire 2026",
-              "prize": "1.300 gift card digitali Tigotà da 25€",
-              "platform": "Winni's / Tigotà",
+              "prize": "1.300 gift card digitali TigotÃ  da 25â¬",
+              "platform": "Winni's / TigotÃ ",
               "category": "Shopping",
               "deadline": "2026-07-31",
               "url": "https://wa.me/393399957307",
@@ -1944,8 +1969,8 @@
             {
               "id": "superfive-tigota-casa-pulita-2026",
               "title": "Casa Pulita con SuperFive 2026",
-              "prize": "1.500 gift card digitali Tigotà da 25€",
-              "platform": "SuperFive / Tigotà",
+              "prize": "1.500 gift card digitali TigotÃ  da 25â¬",
+              "platform": "SuperFive / TigotÃ ",
               "category": "Shopping",
               "deadline": "2026-07-31",
               "url": "https://www.casapulitaconsuperfive.it/",
@@ -1969,7 +1994,7 @@
               "id": "tampax-set-padel-tigota-2026",
               "title": "Con Tampax puoi vincere un Set Padel",
               "prize": "50 Set Padel Quicksand",
-              "platform": "Tampax / Tigotà",
+              "platform": "Tampax / TigotÃ ",
               "category": "Sport",
               "deadline": "2026-07-31",
               "url": "https://tampax.it/regolamenti",
@@ -1992,7 +2017,7 @@
             {
               "id": "perla-nera-vinci-il-tesoro-dell-estate-2026",
               "title": "Vinci il tesoro dell'estate",
-              "prize": "93 gift card Toys Center/Bimbostore da 100€ e viaggio a Disneyland Paris per 4 persone",
+              "prize": "93 gift card Toys Center/Bimbostore da 100â¬ e viaggio a Disneyland Paris per 4 persone",
               "platform": "Perla Nera",
               "category": "Tempo Libero",
               "deadline": "2026-07-31",
@@ -2015,8 +2040,8 @@
             },
             {
               "id": "granterre-la-bonta-che-ti-pensa-2026",
-              "title": "Granterre: La bontà che ti pensa 2026",
-              "prize": "Buoni regalo Amazon.it da 250€, punti raccolta e premi missione GranTerre",
+              "title": "Granterre: La bontÃ  che ti pensa 2026",
+              "prize": "Buoni regalo Amazon.it da 250â¬, punti raccolta e premi missione GranTerre",
               "platform": "GranTerre",
               "category": "Gastronomia",
               "deadline": "2026-11-29",
@@ -2039,8 +2064,8 @@
             },
             {
               "id": "galbanetto-aperitivo-perfetto-2026",
-              "title": "Galbanetto L’Aperitivo Perfetto",
-              "prize": "34 spillatrici HKoenig BW1880 e 34 set da 4 calici birra L’Aperitivo Perfetto",
+              "title": "Galbanetto LâAperitivo Perfetto",
+              "prize": "34 spillatrici HKoenig BW1880 e 34 set da 4 calici birra LâAperitivo Perfetto",
               "platform": "Galbani / Galbanetto",
               "category": "Gastronomia",
               "deadline": "2026-08-03",
@@ -2112,7 +2137,7 @@
             {
               "id": "pril-ti-rimborsa-gel-excellence-2026",
               "title": "Pril ti rimborsa Gel Excellence",
-              "prize": "Rimborso fino a 9,99€ su Pril Gel Excellence",
+              "prize": "Rimborso fino a 9,99â¬ su Pril Gel Excellence",
               "platform": "DonnaD / Pril",
               "category": "Casa & Famiglia",
               "deadline": "2026-07-31",
@@ -2136,7 +2161,7 @@
             {
               "id": "max-factory-il-tuo-parere-vale-2026",
               "title": "Il tuo parere vale",
-              "prize": "Gift card Max Factory da 100€ in instant win",
+              "prize": "Gift card Max Factory da 100â¬ in instant win",
               "platform": "Max Factory",
               "category": "Shopping",
               "deadline": "2026-12-31",
@@ -2229,6 +2254,103 @@
                 "Gioco",
                 "Vinci subito"
               ]
+            },
+            {
+              "id": "fanta-jova-summer-party-2026",
+              "title": "Fanta Jova Summer Party",
+              "prize": "Teli e T-shirt Jova Summer Party, coppie di biglietti e experience all inclusive",
+              "platform": "Fanta / Sprite",
+              "category": "Musica",
+              "deadline": "2026-08-31",
+              "url": "https://www.coca-cola.com/it/it/offerings/fanta-jova-summer-party",
+              "imageUrl": "https://www.coca-cola.com/content/dam/onexp/it/it/promos-2026/fanta/jova-beach-party/campaigncardiw.png",
+              "cover": "https://www.coca-cola.com/content/dam/onexp/it/it/promos-2026/fanta/jova-beach-party/campaigncardiw.png",
+              "coverUrl": "https://www.coca-cola.com/content/dam/onexp/it/it/promos-2026/fanta/jova-beach-party/campaigncardiw.png",
+              "brandImage": "https://www.coca-cola.com/content/dam/onexp/it/it/promos-2026/fanta/jova-beach-party/campaigncardiw.png",
+              "ogImage": "https://www.coca-cola.com/content/dam/onexp/it/it/promos-2026/fanta/jova-beach-party/campaigncardiw.png",
+              "twitterImage": "https://www.coca-cola.com/content/dam/onexp/it/it/promos-2026/fanta/jova-beach-party/campaigncardiw.png",
+              "image": "https://www.coca-cola.com/content/dam/onexp/it/it/promos-2026/fanta/jova-beach-party/campaigncardiw.png",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=fanta.it&sz=256",
+              "termsUrl": "https://www.coca-cola.com/content/dam/onexp/it/it/promos-2026/fanta/jova-beach-party/regolamento_up_jovabeachparty.pdf",
+              "approved": true,
+              "mechanic": "instant_win",
+              "badges": [
+                "Vinci subito",
+                "Codice",
+                "Con scontrino"
+              ]
+            },
+            {
+              "id": "postepay-pay-and-dream-2026",
+              "title": "Postepay Pay&Dream",
+              "prize": "Voucher digitali FIFA Store da 10â¬, 25â¬ e 50â¬",
+              "platform": "Poste Italiane / Postepay",
+              "category": "Shopping",
+              "deadline": "2026-09-30",
+              "url": "https://www.poste.it/",
+              "imageUrl": "https://www.google.com/s2/favicons?domain=poste.it&sz=256",
+              "cover": "https://www.google.com/s2/favicons?domain=poste.it&sz=256",
+              "coverUrl": "https://www.google.com/s2/favicons?domain=poste.it&sz=256",
+              "brandImage": "https://www.google.com/s2/favicons?domain=poste.it&sz=256",
+              "ogImage": "",
+              "twitterImage": "",
+              "image": "https://www.google.com/s2/favicons?domain=poste.it&sz=256",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=postepay.it&sz=256",
+              "termsUrl": "https://www.media.poste.it/9ea77e34-159c-482a-9d27-7fdcba51ccc7/file/Postepay-Pay-Dream-Regolamento",
+              "approved": true,
+              "mechanic": "instant_win",
+              "badges": [
+                "Vinci subito",
+                "Missioni"
+              ]
+            },
+            {
+              "id": "coca-cola-autogrill-calcio-2026",
+              "title": "Coca-Cola e Autogrill calcio 2026",
+              "prize": "Palloni Coca-Cola e calcetti Garlando",
+              "platform": "Coca-Cola / Autogrill",
+              "category": "Sport",
+              "deadline": "2026-08-04",
+              "url": "https://www.autogrill.it/",
+              "imageUrl": "https://www.google.com/s2/favicons?domain=autogrill.it&sz=256",
+              "cover": "https://www.google.com/s2/favicons?domain=autogrill.it&sz=256",
+              "coverUrl": "https://www.google.com/s2/favicons?domain=autogrill.it&sz=256",
+              "brandImage": "https://www.google.com/s2/favicons?domain=coca-cola.com&sz=256",
+              "ogImage": "",
+              "twitterImage": "",
+              "image": "https://www.google.com/s2/favicons?domain=autogrill.it&sz=256",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=autogrill.it&sz=256",
+              "termsUrl": "https://www.autogrill.it/wp-content/uploads/2026/06/2026-COCA-COLA-AUTOGRILL-DA-AUTOGRILL-PROVA-A-VINCERE-CON-COCA-COLA-co-instant-win-WhatsApp-OCRtag-05.06.2026-DEF.pdf",
+              "approved": true,
+              "mechanic": "instant_win",
+              "badges": [
+                "Vinci subito",
+                "Con scontrino"
+              ]
+            },
+            {
+              "id": "hisense-vinci-il-gusto-coca-cola-2026",
+              "title": "Con Hisense vinci il gusto Coca-Cola",
+              "prize": "Premi Coca-Cola a estrazione con lâacquisto di frigoriferi Hisense selezionati",
+              "platform": "Hisense / Coca-Cola",
+              "category": "Casa & Famiglia",
+              "deadline": "2026-07-30",
+              "url": "https://tipremia.hisense.it/",
+              "imageUrl": "https://www.google.com/s2/favicons?domain=hisense.it&sz=256",
+              "cover": "https://www.google.com/s2/favicons?domain=hisense.it&sz=256",
+              "coverUrl": "https://www.google.com/s2/favicons?domain=hisense.it&sz=256",
+              "brandImage": "https://www.google.com/s2/favicons?domain=hisense.it&sz=256",
+              "ogImage": "",
+              "twitterImage": "",
+              "image": "https://www.google.com/s2/favicons?domain=hisense.it&sz=256",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=hisense.it&sz=256",
+              "termsUrl": "https://tipremia.hisense.it/app/uploads/2026/05/Regolamento_Promo-Hisense-REF-e-Coca-Cola-2026.pdf",
+              "approved": true,
+              "mechanic": "final_draw",
+              "badges": [
+                "Estrazione",
+                "Con scontrino"
+              ]
             }
           ]
         }
@@ -2236,4 +2358,3 @@
     }
   ]
 }
-
