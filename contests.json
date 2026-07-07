@@ -27,29 +27,30 @@
           },
           "contests": [
             {
-              "id": "intesa-sanpaolo-2027-reward",
-              "title": "Intesa Sanpaolo 2027 Reward",
-              "prize": "Premi instant win e a estrazione del programma Reward",
-              "platform": "Intesa Sanpaolo",
-              "category": "Shopping",
-              "deadline": "2027-03-27",
-              "url": "https://www.intesasanpaolo.com/it/reward/hub/gioca-con-reward.html",
-              "imageUrl": "https://www.google.com/s2/favicons?domain=intesasanpaolo.com&sz=256",
-              "cover": "https://www.google.com/s2/favicons?domain=intesasanpaolo.com&sz=256",
-              "coverUrl": "https://www.google.com/s2/favicons?domain=intesasanpaolo.com&sz=256",
-              "brandImage": "https://www.google.com/s2/favicons?domain=intesasanpaolo.com&sz=256",
+              "id": "fonzies-estate-kit-spiaggia-2026",
+              "title": "L'estate di Fonzies",
+              "prize": "150 kit spiaggia Fonzies con ombrellone e sedia sdraio",
+              "platform": "Fonzies",
+              "category": "Tempo Libero",
+              "deadline": "2026-08-10",
+              "url": "https://www.promotiempo.it/concorso/concorso-a-premi-l-estate-di-fonzies",
+              "imageUrl": "https://www.google.com/s2/favicons?domain=promotiempo.it&sz=256",
+              "cover": "https://www.google.com/s2/favicons?domain=promotiempo.it&sz=256",
+              "coverUrl": "https://www.google.com/s2/favicons?domain=promotiempo.it&sz=256",
+              "brandImage": "https://www.google.com/s2/favicons?domain=fonzies.it&sz=256",
               "ogImage": "",
               "twitterImage": "",
-              "image": "https://www.google.com/s2/favicons?domain=intesasanpaolo.com&sz=256",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=intesasanpaolo.com&sz=256",
-              "termsUrl": "https://www.intesasanpaolo.com/content/dam/vetrina/documenti/isp-reward/reward-termini-condizioni.pdf",
+              "image": "https://www.google.com/s2/favicons?domain=promotiempo.it&sz=256",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=fonzies.it&sz=256",
+              "termsUrl": "https://www.promotiempo.it/concorso/concorso-a-premi-l-estate-di-fonzies",
               "approved": true,
-              "mechanic": "missions",
+              "mechanic": "final_draw",
               "badges": [
-                "Missioni",
-                "Gioco"
+                "Estrazione",
+                "Con scontrino"
               ]
             },
+            
             {
               "id": "isybank-games-2027-reward-2026",
               "title": "isyReward Games 2026",
@@ -96,6 +97,30 @@
               "badges": [
                 "Quiz",
                 "Estrazione"
+              ]
+            },
+{
+              "id": "intesa-sanpaolo-2027-reward",
+              "title": "Intesa Sanpaolo 2027 Reward",
+              "prize": "Premi instant win e a estrazione del programma Reward",
+              "platform": "Intesa Sanpaolo",
+              "category": "Shopping",
+              "deadline": "2027-03-27",
+              "url": "https://www.intesasanpaolo.com/it/reward/hub/gioca-con-reward.html",
+              "imageUrl": "https://www.google.com/s2/favicons?domain=intesasanpaolo.com&sz=256",
+              "cover": "https://www.google.com/s2/favicons?domain=intesasanpaolo.com&sz=256",
+              "coverUrl": "https://www.google.com/s2/favicons?domain=intesasanpaolo.com&sz=256",
+              "brandImage": "https://www.google.com/s2/favicons?domain=intesasanpaolo.com&sz=256",
+              "ogImage": "",
+              "twitterImage": "",
+              "image": "https://www.google.com/s2/favicons?domain=intesasanpaolo.com&sz=256",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=intesasanpaolo.com&sz=256",
+              "termsUrl": "https://www.intesasanpaolo.com/content/dam/vetrina/documenti/isp-reward/reward-termini-condizioni.pdf",
+              "approved": true,
+              "mechanic": "missions",
+              "badges": [
+                "Missioni",
+                "Gioco"
               ]
             }
           ]
