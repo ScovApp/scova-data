@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-08T08:00:00+02:00",
+  "updatedAt": "2026-07-09T08:00:00+02:00",
   "pages": [
     {
       "id": "home",
@@ -137,75 +137,53 @@
           },
           "contests": [
             {
-              "id": "aia-griglia-dove-vuoi-2026",
-              "title": "Griglia dove vuoi",
-              "prize": "Barbecue LotusGrill ogni giorno e tour gastronomico in Irlanda",
-              "platform": "AIA Carne al Fuoco",
+              "id": "braun-vinci-con-noi-2026",
+              "title": "Braun Vinci Con Noi",
+              "prize": "Zaini e cappellini brandizzati e coppie di biglietti per il Gran Premio d'Italia di Formula 1",
+              "platform": "Braun / P&G Per Te",
+              "category": "Sport",
+              "deadline": "2026-12-31",
+              "url": "https://promozioni.pgperte.it/2026_0406p_procter_iw_braun_01072026_31122026/",
+              "imageUrl": "https://promozioni.pgperte.it/2026_0406p_procter_iw_braun_01072026_31122026/img/header_home.jpg",
+              "cover": "https://promozioni.pgperte.it/2026_0406p_procter_iw_braun_01072026_31122026/img/header_home.jpg",
+              "coverUrl": "https://promozioni.pgperte.it/2026_0406p_procter_iw_braun_01072026_31122026/img/header_home.jpg",
+              "brandImage": "https://promozioni.pgperte.it/2026_0406p_procter_iw_braun_01072026_31122026/img/header_home.jpg",
+              "ogImage": "https://promozioni.pgperte.it/2026_0406p_procter_iw_braun_01072026_31122026/img/header_home.jpg",
+              "twitterImage": "https://promozioni.pgperte.it/2026_0406p_procter_iw_braun_01072026_31122026/img/header_home.jpg",
+              "image": "https://promozioni.pgperte.it/2026_0406p_procter_iw_braun_01072026_31122026/img/header_home.jpg",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=pgperte.it&sz=256",
+              "termsUrl": "https://promozioni.pgperte.it/2026_0406p_procter_iw_braun_01072026_31122026/regolamento.php",
+              "approved": true,
+              "mechanic": "instant_win",
+              "badges": [
+                "Vinci subito",
+                "Con scontrino",
+                "Quiz"
+              ]
+            },
+            {
+              "id": "angelo-parodi-accendi-gusto-estate-2026",
+              "title": "Accendi il Gusto dell'Estate",
+              "prize": "Gift card Angelo Parodi da 50€ ogni giorno e una fornitura annuale di prodotti",
+              "platform": "Angelo Parodi",
               "category": "Gastronomia",
               "deadline": "2026-08-31",
-              "url": "https://www.aiafood.com/it/notizie/acquista-carne-al-fuoco-aia-e-partecipa-al-grande-concorso-griglia-dove-vuoi",
-              "imageUrl": "https://www.aiafood.com/_next/image/?q=80&url=https%3A%2F%2Fbackoffice.aiafood.com%2Fuploads%2Flarge_260304_Banner_News_7aab2ae1f1.webp&w=1920",
-              "cover": "https://www.aiafood.com/_next/image/?q=80&url=https%3A%2F%2Fbackoffice.aiafood.com%2Fuploads%2Flarge_260304_Banner_News_7aab2ae1f1.webp&w=1920",
-              "coverUrl": "https://www.aiafood.com/_next/image/?q=80&url=https%3A%2F%2Fbackoffice.aiafood.com%2Fuploads%2Flarge_260304_Banner_News_7aab2ae1f1.webp&w=1920",
-              "brandImage": "https://www.aiafood.com/_next/image/?q=80&url=https%3A%2F%2Fbackoffice.aiafood.com%2Fuploads%2Flarge_260304_Banner_News_7aab2ae1f1.webp&w=1920",
-              "ogImage": "https://www.aiafood.com/_next/image/?q=80&url=https%3A%2F%2Fbackoffice.aiafood.com%2Fuploads%2Flarge_260304_Banner_News_7aab2ae1f1.webp&w=1920",
-              "twitterImage": "https://www.aiafood.com/_next/image/?q=80&url=https%3A%2F%2Fbackoffice.aiafood.com%2Fuploads%2Flarge_260304_Banner_News_7aab2ae1f1.webp&w=1920",
-              "image": "https://www.aiafood.com/_next/image/?q=80&url=https%3A%2F%2Fbackoffice.aiafood.com%2Fuploads%2Flarge_260304_Banner_News_7aab2ae1f1.webp&w=1920",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=aiafood.com&sz=256",
-              "termsUrl": "https://areapersonale.aiafood.com/img/game-48/20260321_caf_regolamento_definitivo.pdf",
+              "url": "https://www.angeloparodi.it/accendi-il-gusto",
+              "imageUrl": "https://www.angeloparodi.it/image/catalog/concorsi/accendi-il-gusto/b_angeloparodi_banner_1920x690_Concorso_Chatbot_2606242.jpg",
+              "cover": "https://www.angeloparodi.it/image/catalog/concorsi/accendi-il-gusto/b_angeloparodi_banner_1920x690_Concorso_Chatbot_2606242.jpg",
+              "coverUrl": "https://www.angeloparodi.it/image/catalog/concorsi/accendi-il-gusto/b_angeloparodi_banner_1920x690_Concorso_Chatbot_2606242.jpg",
+              "brandImage": "https://www.angeloparodi.it/image/catalog/concorsi/accendi-il-gusto/b_angeloparodi_banner_1920x690_Concorso_Chatbot_2606242.jpg",
+              "ogImage": "https://www.angeloparodi.it/image/catalog/concorsi/accendi-il-gusto/b_angeloparodi_banner_1920x690_Concorso_Chatbot_2606242.jpg",
+              "twitterImage": "https://www.angeloparodi.it/image/catalog/concorsi/accendi-il-gusto/b_angeloparodi_banner_1920x690_Concorso_Chatbot_2606242.jpg",
+              "image": "https://www.angeloparodi.it/image/catalog/concorsi/accendi-il-gusto/b_angeloparodi_banner_1920x690_Concorso_Chatbot_2606242.jpg",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=angeloparodi.it&sz=256",
+              "termsUrl": "https://www.angeloparodi.it/image/catalog/concorsi/accendi-il-gusto/AccendiIlGustoDellEstate_Regolamento.pdf",
               "approved": true,
               "mechanic": "instant_win",
               "badges": [
                 "Vinci subito",
-                "Con scontrino"
-              ]
-            },
-            {
-              "id": "sky-extra-minions-2026",
-              "title": "Minions 2026",
-              "prize": "2.000 biglietti The Space Cinema e 30 Mystery Box Minions",
-              "platform": "Sky Extra",
-              "category": "Tempo Libero",
-              "deadline": "2026-10-04",
-              "url": "https://extra.sky.it/concorsi/minions2026",
-              "imageUrl": "https://s3.eu-south-1.amazonaws.com/aumentable-milan/v3-assets/campaigns/2/assets/activity/23759/1024x1024.jpg",
-              "cover": "https://s3.eu-south-1.amazonaws.com/aumentable-milan/v3-assets/campaigns/2/assets/activity/23759/1024x1024.jpg",
-              "coverUrl": "https://s3.eu-south-1.amazonaws.com/aumentable-milan/v3-assets/campaigns/2/assets/activity/23759/1024x1024.jpg",
-              "brandImage": "https://s3.eu-south-1.amazonaws.com/aumentable-milan/v3-assets/campaigns/2/assets/activity/23759/1024x1024.jpg",
-              "ogImage": "https://s3.eu-south-1.amazonaws.com/aumentable-milan/v3-assets/campaigns/2/assets/activity/23759/1024x1024.jpg",
-              "twitterImage": "https://s3.eu-south-1.amazonaws.com/aumentable-milan/v3-assets/campaigns/2/assets/activity/23759/1024x1024.jpg",
-              "image": "https://s3.eu-south-1.amazonaws.com/aumentable-milan/v3-assets/campaigns/2/assets/activity/23759/1024x1024.jpg",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=sky.it&sz=256",
-              "termsUrl": "https://s3.eu-south-1.amazonaws.com/aumentable-milan/v3-test-assets/campaigns/2/assets/activity/23055/regolamento.pdf",
-              "approved": true,
-              "mechanic": "instant_win",
-              "badges": [
-                "Vinci subito",
-                "Gioco"
-              ]
-            },
-            {
-              "id": "garda-trentino-notte-in-palafitta-2026",
-              "title": "Una notte in palafitta 2026",
-              "prize": "Notte in palafitta per massimo 3 persone, visita guidata, viaggio e voucher Garda Trentino da 150€",
-              "platform": "Garda Trentino / Comune di Ledro",
-              "category": "Viaggi",
-              "deadline": "2026-07-31",
-              "url": "https://www.gardatrentino.it/it/localita/valle-di-ledro/notte-in-palafitta",
-              "imageUrl": "https://www.gardatrentino.it/website_images/Scopri/Localita/Ledro/Palafitte/image-thumb__11186__header/GARDADOLOMITI_WATCHSOME_LEDRO_PALAFITTE_Notte_Iin_Palafitta.jpg",
-              "cover": "https://www.gardatrentino.it/website_images/Scopri/Localita/Ledro/Palafitte/image-thumb__11186__header/GARDADOLOMITI_WATCHSOME_LEDRO_PALAFITTE_Notte_Iin_Palafitta.jpg",
-              "coverUrl": "https://www.gardatrentino.it/website_images/Scopri/Localita/Ledro/Palafitte/image-thumb__11186__header/GARDADOLOMITI_WATCHSOME_LEDRO_PALAFITTE_Notte_Iin_Palafitta.jpg",
-              "brandImage": "https://www.gardatrentino.it/website_images/Scopri/Localita/Ledro/Palafitte/image-thumb__11186__header/GARDADOLOMITI_WATCHSOME_LEDRO_PALAFITTE_Notte_Iin_Palafitta.jpg",
-              "ogImage": "https://www.gardatrentino.it/website_images/Scopri/Localita/Ledro/Palafitte/image-thumb__11186__header/GARDADOLOMITI_WATCHSOME_LEDRO_PALAFITTE_Notte_Iin_Palafitta.jpg",
-              "twitterImage": "https://www.gardatrentino.it/website_images/Scopri/Localita/Ledro/Palafitte/image-thumb__11186__header/GARDADOLOMITI_WATCHSOME_LEDRO_PALAFITTE_Notte_Iin_Palafitta.jpg",
-              "image": "https://www.gardatrentino.it/website_images/Scopri/Localita/Ledro/Palafitte/image-thumb__11186__header/GARDADOLOMITI_WATCHSOME_LEDRO_PALAFITTE_Notte_Iin_Palafitta.jpg",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=gardatrentino.it&sz=256",
-              "termsUrl": "https://www.gardatrentino.it/documenti/Notte_In_Palafitta/312_26_003%20TerminiCondizioni_V.pdf",
-              "approved": true,
-              "mechanic": "final_draw",
-              "badges": [
                 "Estrazione",
-                "Senza acquisto"
+                "Con scontrino"
               ]
             }
           ]
@@ -221,32 +199,7 @@
             "showDeadline": true,
             "showCategory": false
           },
-          "contests": [
-            {
-              "id": "coca-cola-fifa-kit-campione-2026",
-              "title": "Vinci il Kit del Campione",
-              "prize": "Kit del Campione e gift card Adidas",
-              "platform": "Coca-Cola / Powerade",
-              "category": "Sport",
-              "deadline": "2026-07-08",
-              "url": "https://www.coca-cola.com/it/it/offerings/acquista-powerade-e-vinci-premi-mondiali",
-              "imageUrl": "https://www.google.com/s2/favicons?domain=coca-cola.com&sz=256",
-              "cover": "https://www.google.com/s2/favicons?domain=coca-cola.com&sz=256",
-              "coverUrl": "https://www.google.com/s2/favicons?domain=coca-cola.com&sz=256",
-              "brandImage": "https://www.google.com/s2/favicons?domain=coca-cola.com&sz=256",
-              "ogImage": "",
-              "twitterImage": "",
-              "image": "https://www.google.com/s2/favicons?domain=coca-cola.com&sz=256",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=powerade.it&sz=256",
-              "termsUrl": "https://www.coca-cola.com/content/dam/onexp/it/it/promos-2026/fifa/powerade/regolamento_fifa_coke_pwd.pdf",
-              "approved": true,
-              "mechanic": "instant_win",
-              "badges": [
-                "Vinci subito",
-                "Codice"
-              ]
-            }
-          ]
+          "contests": []
         },
         {
           "id": "all",
@@ -1122,30 +1075,6 @@
               "badges": [
                 "Estrazione",
                 "Con scontrino"
-              ]
-            },
-            {
-              "id": "coca-cola-fifa-kit-campione-2026",
-              "title": "Vinci il Kit del Campione",
-              "prize": "Kit del Campione e gift card Adidas",
-              "platform": "Coca-Cola / Powerade",
-              "category": "Sport",
-              "deadline": "2026-07-08",
-              "url": "https://www.coca-cola.com/it/it/offerings/acquista-powerade-e-vinci-premi-mondiali",
-              "imageUrl": "https://www.google.com/s2/favicons?domain=coca-cola.com&sz=256",
-              "cover": "https://www.google.com/s2/favicons?domain=coca-cola.com&sz=256",
-              "coverUrl": "https://www.google.com/s2/favicons?domain=coca-cola.com&sz=256",
-              "brandImage": "https://www.google.com/s2/favicons?domain=coca-cola.com&sz=256",
-              "ogImage": "",
-              "twitterImage": "",
-              "image": "https://www.google.com/s2/favicons?domain=coca-cola.com&sz=256",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=powerade.it&sz=256",
-              "termsUrl": "https://www.coca-cola.com/content/dam/onexp/it/it/promos-2026/fifa/powerade/regolamento_fifa_coke_pwd.pdf",
-              "approved": true,
-              "mechanic": "instant_win",
-              "badges": [
-                "Vinci subito",
-                "Codice"
               ]
             },
             {
@@ -2396,6 +2325,56 @@
               "badges": [
                 "Estrazione",
                 "Senza acquisto"
+              ]
+            },
+            {
+              "id": "braun-vinci-con-noi-2026",
+              "title": "Braun Vinci Con Noi",
+              "prize": "Zaini e cappellini brandizzati e coppie di biglietti per il Gran Premio d'Italia di Formula 1",
+              "platform": "Braun / P&G Per Te",
+              "category": "Sport",
+              "deadline": "2026-12-31",
+              "url": "https://promozioni.pgperte.it/2026_0406p_procter_iw_braun_01072026_31122026/",
+              "imageUrl": "https://promozioni.pgperte.it/2026_0406p_procter_iw_braun_01072026_31122026/img/header_home.jpg",
+              "cover": "https://promozioni.pgperte.it/2026_0406p_procter_iw_braun_01072026_31122026/img/header_home.jpg",
+              "coverUrl": "https://promozioni.pgperte.it/2026_0406p_procter_iw_braun_01072026_31122026/img/header_home.jpg",
+              "brandImage": "https://promozioni.pgperte.it/2026_0406p_procter_iw_braun_01072026_31122026/img/header_home.jpg",
+              "ogImage": "https://promozioni.pgperte.it/2026_0406p_procter_iw_braun_01072026_31122026/img/header_home.jpg",
+              "twitterImage": "https://promozioni.pgperte.it/2026_0406p_procter_iw_braun_01072026_31122026/img/header_home.jpg",
+              "image": "https://promozioni.pgperte.it/2026_0406p_procter_iw_braun_01072026_31122026/img/header_home.jpg",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=pgperte.it&sz=256",
+              "termsUrl": "https://promozioni.pgperte.it/2026_0406p_procter_iw_braun_01072026_31122026/regolamento.php",
+              "approved": true,
+              "mechanic": "instant_win",
+              "badges": [
+                "Vinci subito",
+                "Con scontrino",
+                "Quiz"
+              ]
+            },
+            {
+              "id": "angelo-parodi-accendi-gusto-estate-2026",
+              "title": "Accendi il Gusto dell'Estate",
+              "prize": "Gift card Angelo Parodi da 50€ ogni giorno e una fornitura annuale di prodotti",
+              "platform": "Angelo Parodi",
+              "category": "Gastronomia",
+              "deadline": "2026-08-31",
+              "url": "https://www.angeloparodi.it/accendi-il-gusto",
+              "imageUrl": "https://www.angeloparodi.it/image/catalog/concorsi/accendi-il-gusto/b_angeloparodi_banner_1920x690_Concorso_Chatbot_2606242.jpg",
+              "cover": "https://www.angeloparodi.it/image/catalog/concorsi/accendi-il-gusto/b_angeloparodi_banner_1920x690_Concorso_Chatbot_2606242.jpg",
+              "coverUrl": "https://www.angeloparodi.it/image/catalog/concorsi/accendi-il-gusto/b_angeloparodi_banner_1920x690_Concorso_Chatbot_2606242.jpg",
+              "brandImage": "https://www.angeloparodi.it/image/catalog/concorsi/accendi-il-gusto/b_angeloparodi_banner_1920x690_Concorso_Chatbot_2606242.jpg",
+              "ogImage": "https://www.angeloparodi.it/image/catalog/concorsi/accendi-il-gusto/b_angeloparodi_banner_1920x690_Concorso_Chatbot_2606242.jpg",
+              "twitterImage": "https://www.angeloparodi.it/image/catalog/concorsi/accendi-il-gusto/b_angeloparodi_banner_1920x690_Concorso_Chatbot_2606242.jpg",
+              "image": "https://www.angeloparodi.it/image/catalog/concorsi/accendi-il-gusto/b_angeloparodi_banner_1920x690_Concorso_Chatbot_2606242.jpg",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=angeloparodi.it&sz=256",
+              "termsUrl": "https://www.angeloparodi.it/image/catalog/concorsi/accendi-il-gusto/AccendiIlGustoDellEstate_Regolamento.pdf",
+              "approved": true,
+              "mechanic": "instant_win",
+              "badges": [
+                "Vinci subito",
+                "Estrazione",
+                "Con scontrino"
               ]
             }
           ]
