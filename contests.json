@@ -27,6 +27,30 @@
           },
           "contests": [
             {
+              "id": "haribo-estate-vip-unipol-arena-2026",
+              "title": "Haribo Estate 2026",
+              "prize": "15 coppie di biglietti VIP Unipol Arena per concerti",
+              "platform": "Haribo",
+              "category": "Musica",
+              "deadline": "2026-07-26",
+              "url": "https://estate2026.hariboconcorsi.it/",
+              "imageUrl": "https://estate2026.hariboconcorsi.it/public/Estate_2026/visual_desktop_ilpremio-mobile.png",
+              "cover": "https://estate2026.hariboconcorsi.it/public/Estate_2026/visual_desktop_ilpremio-mobile.png",
+              "coverUrl": "https://estate2026.hariboconcorsi.it/public/Estate_2026/visual_desktop_ilpremio-mobile.png",
+              "brandImage": "https://estate2026.hariboconcorsi.it/public/Estate_2026/visual_default_header-mobile.png",
+              "ogImage": "https://estate2026.hariboconcorsi.it/public/Estate_2026/visual_desktop_ilpremio-mobile.png",
+              "twitterImage": "https://estate2026.hariboconcorsi.it/public/Estate_2026/visual_desktop_ilpremio-mobile.png",
+              "image": "https://estate2026.hariboconcorsi.it/public/Estate_2026/visual_desktop_ilpremio-mobile.png",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=haribo.com&sz=256",
+              "termsUrl": "https://estate2026.hariboconcorsi.it/public/Estate_2026/regolamento.pdf",
+              "approved": true,
+              "mechanic": "instant_win",
+              "badges": [
+                "Vinci subito",
+                "Con scontrino"
+              ]
+            },
+            {
               "id": "fonzies-estate-kit-spiaggia-2026",
               "title": "L'estate di Fonzies",
               "prize": "150 kit spiaggia Fonzies con ombrellone e sedia sdraio",
@@ -50,30 +74,7 @@
                 "Con scontrino"
               ]
             },
-            {
-              "id": "isybank-games-2027-reward-2026",
-              "title": "isybank Games 2027",
-              "prize": "Gift card, GoPro Hero13, biglietti concerti e voucher vari",
-              "platform": "isybank",
-              "category": "Shopping",
-              "deadline": "2027-04-29",
-              "url": "https://www.isybank.com/it/isyreward/concorso-isybank.html",
-              "imageUrl": "https://www.google.com/s2/favicons?domain=isybank.com&sz=256",
-              "cover": "https://www.google.com/s2/favicons?domain=isybank.com&sz=256",
-              "coverUrl": "https://www.google.com/s2/favicons?domain=isybank.com&sz=256",
-              "brandImage": "https://www.google.com/s2/favicons?domain=isybank.com&sz=256",
-              "ogImage": "",
-              "twitterImage": "",
-              "image": "https://www.google.com/s2/favicons?domain=isybank.com&sz=256",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=isybank.com&sz=256",
-              "termsUrl": "https://www.isybank.com/content/dam/isybank/documenti/isyreward/isyreward-termini-condizioni.pdf",
-              "approved": true,
-              "mechanic": "play_and_win",
-              "badges": [
-                "Gioco",
-                "Missioni"
-              ]
-            },
+           
             {
               "id": "zurich-game-2026",
               "title": "Zurich Game 2026",
