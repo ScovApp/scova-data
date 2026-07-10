@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-09T08:00:00+02:00",
+  "updatedAt": "2026-07-10T08:00:00+02:00",
   "pages": [
     {
       "id": "home",
@@ -137,53 +137,52 @@
           },
           "contests": [
             {
-              "id": "braun-vinci-con-noi-2026",
-              "title": "Braun Vinci Con Noi",
-              "prize": "Zaini e cappellini brandizzati e coppie di biglietti per il Gran Premio d'Italia di Formula 1",
-              "platform": "Braun / P&G Per Te",
-              "category": "Sport",
-              "deadline": "2026-12-31",
-              "url": "https://promozioni.pgperte.it/2026_0406p_procter_iw_braun_01072026_31122026/",
-              "imageUrl": "https://promozioni.pgperte.it/2026_0406p_procter_iw_braun_01072026_31122026/img/header_home_mobile.jpg",
-              "cover": "https://promozioni.pgperte.it/2026_0406p_procter_iw_braun_01072026_31122026/img/header_home_mobile.jpg",
-              "coverUrl": "https://promozioni.pgperte.it/2026_0406p_procter_iw_braun_01072026_31122026/img/header_home_mobile.jpg",
-              "brandImage": "https://promozioni.pgperte.it/2026_0406p_procter_iw_braun_01072026_31122026/img/header_home_mobile.jpg",
-              "ogImage": "https://promozioni.pgperte.it/2026_0406p_procter_iw_braun_01072026_31122026/img/header_home_mobile.jpg",
-              "twitterImage": "https://promozioni.pgperte.it/2026_0406p_procter_iw_braun_01072026_31122026/img/header_home_mobile.jpg",
-              "image": "https://promozioni.pgperte.it/2026_0406p_procter_iw_braun_01072026_31122026/img/header_home_mobile.jpg",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=pgperte.it&sz=256",
-              "termsUrl": "https://promozioni.pgperte.it/2026_0406p_procter_iw_braun_01072026_31122026/regolamento.php",
+              "id": "borotalco-un-viaggio-di-abbracci-2026",
+              "title": "Un viaggio di abbracci",
+              "prize": "91 Gift Card Trenitalia da 150€ assegnate in instant win",
+              "platform": "Borotalco",
+              "category": "Viaggi",
+              "deadline": "2026-09-23",
+              "url": "https://labellezzatipremia.it/unviaggiodiabbracci/",
+              "imageUrl": "https://labellezzatipremia.it/unviaggiodiabbracci/assets/img/index.jpg",
+              "cover": "https://labellezzatipremia.it/unviaggiodiabbracci/assets/img/index.jpg",
+              "coverUrl": "https://labellezzatipremia.it/unviaggiodiabbracci/assets/img/index.jpg",
+              "brandImage": "https://labellezzatipremia.it/unviaggiodiabbracci/assets/img/index.jpg",
+              "ogImage": "https://labellezzatipremia.it/unviaggiodiabbracci/assets/img/index.jpg",
+              "twitterImage": "https://labellezzatipremia.it/unviaggiodiabbracci/assets/img/index.jpg",
+              "image": "https://labellezzatipremia.it/unviaggiodiabbracci/assets/img/index.jpg",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=borotalco.com&sz=256",
+              "termsUrl": "https://labellezzatipremia.it/unviaggiodiabbracci/regolamento.php",
               "approved": true,
               "mechanic": "instant_win",
               "badges": [
                 "Vinci subito",
-                "Con scontrino",
-                "Quiz"
+                "Con scontrino"
               ]
             },
             {
-              "id": "angelo-parodi-accendi-gusto-estate-2026",
-              "title": "Accendi il Gusto dell'Estate",
-              "prize": "Gift card Angelo Parodi da 50€ ogni giorno e una fornitura annuale di prodotti",
-              "platform": "Angelo Parodi",
-              "category": "Gastronomia",
-              "deadline": "2026-08-31",
-              "url": "https://www.angeloparodi.it/accendi-il-gusto",
-              "imageUrl": "https://www.angeloparodi.it/image/catalog/concorsi/accendi-il-gusto/b_angeloparodi_banner_1920x690_Concorso_Chatbot_2606242.jpg",
-              "cover": "https://www.angeloparodi.it/image/catalog/concorsi/accendi-il-gusto/b_angeloparodi_banner_1920x690_Concorso_Chatbot_2606242.jpg",
-              "coverUrl": "https://www.angeloparodi.it/image/catalog/concorsi/accendi-il-gusto/b_angeloparodi_banner_1920x690_Concorso_Chatbot_2606242.jpg",
-              "brandImage": "https://www.angeloparodi.it/image/catalog/concorsi/accendi-il-gusto/b_angeloparodi_banner_1920x690_Concorso_Chatbot_2606242.jpg",
-              "ogImage": "https://www.angeloparodi.it/image/catalog/concorsi/accendi-il-gusto/b_angeloparodi_banner_1920x690_Concorso_Chatbot_2606242.jpg",
-              "twitterImage": "https://www.angeloparodi.it/image/catalog/concorsi/accendi-il-gusto/b_angeloparodi_banner_1920x690_Concorso_Chatbot_2606242.jpg",
-              "image": "https://www.angeloparodi.it/image/catalog/concorsi/accendi-il-gusto/b_angeloparodi_banner_1920x690_Concorso_Chatbot_2606242.jpg",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=angeloparodi.it&sz=256",
-              "termsUrl": "https://www.angeloparodi.it/image/catalog/concorsi/accendi-il-gusto/AccendiIlGustoDellEstate_Regolamento.pdf",
+              "id": "coca-cola-vinci-premi-iconici-2026",
+              "title": "Vinci premi iconici Coca-Cola",
+              "prize": "Fotocamere, mini-frigo, trolley e giacche Coca-Cola, 3 Fiat 500e e un viaggio in 7 città",
+              "platform": "Coca-Cola",
+              "category": "Tempo Libero",
+              "deadline": "2026-09-30",
+              "url": "https://www.coca-cola.com/it/it/offerings/coke-icon-2026",
+              "imageUrl": "https://www.coca-cola.com/content/dam/onexp/it/it/promos-2026/coca-cola/icon-2026/iw-prizes.png",
+              "cover": "https://www.coca-cola.com/content/dam/onexp/it/it/promos-2026/coca-cola/icon-2026/iw-prizes.png",
+              "coverUrl": "https://www.coca-cola.com/content/dam/onexp/it/it/promos-2026/coca-cola/icon-2026/iw-prizes.png",
+              "brandImage": "https://www.coca-cola.com/content/dam/onexp/it/it/promos-2026/coca-cola/icon-2026/iw-prizes.png",
+              "ogImage": "https://www.coca-cola.com/content/dam/onexp/it/it/promos-2026/coca-cola/icon-2026/iw-prizes.png",
+              "twitterImage": "https://www.coca-cola.com/content/dam/onexp/it/it/promos-2026/coca-cola/icon-2026/iw-prizes.png",
+              "image": "https://www.coca-cola.com/content/dam/onexp/it/it/promos-2026/coca-cola/icon-2026/iw-prizes.png",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=coca-cola.com&sz=256",
+              "termsUrl": "https://www.coca-cola.com/content/dam/onexp/it/it/promos-2026/coca-cola/icon-2026/vinci-premi-iconici.pdf",
               "approved": true,
               "mechanic": "instant_win",
               "badges": [
                 "Vinci subito",
                 "Estrazione",
-                "Con scontrino"
+                "Codice"
               ]
             }
           ]
@@ -199,7 +198,32 @@
             "showDeadline": true,
             "showCategory": false
           },
-          "contests": []
+          "contests": [
+            {
+              "id": "clear-sunsilk-fifa-world-cup-2026",
+              "title": "La FIFA World Cup 2026 con CLEAR 2.0",
+              "prize": "Speaker, cappellini e palloni FIFA World Cup 2026",
+              "platform": "CLEAR / Sunsilk",
+              "category": "Sport",
+              "deadline": "2026-07-15",
+              "url": "https://www.promotiempo.it/concorso/concorso-a-premi-la-fifa-world-cup-2026-con-clear-2-0",
+              "imageUrl": "https://www.google.com/s2/favicons?domain=promotiempo.it&sz=256",
+              "cover": "https://www.google.com/s2/favicons?domain=promotiempo.it&sz=256",
+              "coverUrl": "https://www.google.com/s2/favicons?domain=promotiempo.it&sz=256",
+              "brandImage": "https://www.google.com/s2/favicons?domain=clearhaircare.com&sz=256",
+              "ogImage": "",
+              "twitterImage": "",
+              "image": "https://www.google.com/s2/favicons?domain=promotiempo.it&sz=256",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=clearhaircare.com&sz=256",
+              "termsUrl": "https://www.promotiempo.it/concorso/concorso-a-premi-la-fifa-world-cup-2026-con-clear-2-0",
+              "approved": true,
+              "mechanic": "instant_win",
+              "badges": [
+                "Vinci subito",
+                "Con scontrino"
+              ]
+            }
+          ]
         },
         {
           "id": "all",
@@ -2375,6 +2399,55 @@
                 "Vinci subito",
                 "Estrazione",
                 "Con scontrino"
+              ]
+            },
+            {
+              "id": "borotalco-un-viaggio-di-abbracci-2026",
+              "title": "Un viaggio di abbracci",
+              "prize": "91 Gift Card Trenitalia da 150€ assegnate in instant win",
+              "platform": "Borotalco",
+              "category": "Viaggi",
+              "deadline": "2026-09-23",
+              "url": "https://labellezzatipremia.it/unviaggiodiabbracci/",
+              "imageUrl": "https://labellezzatipremia.it/unviaggiodiabbracci/assets/img/index.jpg",
+              "cover": "https://labellezzatipremia.it/unviaggiodiabbracci/assets/img/index.jpg",
+              "coverUrl": "https://labellezzatipremia.it/unviaggiodiabbracci/assets/img/index.jpg",
+              "brandImage": "https://labellezzatipremia.it/unviaggiodiabbracci/assets/img/index.jpg",
+              "ogImage": "https://labellezzatipremia.it/unviaggiodiabbracci/assets/img/index.jpg",
+              "twitterImage": "https://labellezzatipremia.it/unviaggiodiabbracci/assets/img/index.jpg",
+              "image": "https://labellezzatipremia.it/unviaggiodiabbracci/assets/img/index.jpg",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=borotalco.com&sz=256",
+              "termsUrl": "https://labellezzatipremia.it/unviaggiodiabbracci/regolamento.php",
+              "approved": true,
+              "mechanic": "instant_win",
+              "badges": [
+                "Vinci subito",
+                "Con scontrino"
+              ]
+            },
+            {
+              "id": "coca-cola-vinci-premi-iconici-2026",
+              "title": "Vinci premi iconici Coca-Cola",
+              "prize": "Fotocamere, mini-frigo, trolley e giacche Coca-Cola, 3 Fiat 500e e un viaggio in 7 città",
+              "platform": "Coca-Cola",
+              "category": "Tempo Libero",
+              "deadline": "2026-09-30",
+              "url": "https://www.coca-cola.com/it/it/offerings/coke-icon-2026",
+              "imageUrl": "https://www.coca-cola.com/content/dam/onexp/it/it/promos-2026/coca-cola/icon-2026/iw-prizes.png",
+              "cover": "https://www.coca-cola.com/content/dam/onexp/it/it/promos-2026/coca-cola/icon-2026/iw-prizes.png",
+              "coverUrl": "https://www.coca-cola.com/content/dam/onexp/it/it/promos-2026/coca-cola/icon-2026/iw-prizes.png",
+              "brandImage": "https://www.coca-cola.com/content/dam/onexp/it/it/promos-2026/coca-cola/icon-2026/iw-prizes.png",
+              "ogImage": "https://www.coca-cola.com/content/dam/onexp/it/it/promos-2026/coca-cola/icon-2026/iw-prizes.png",
+              "twitterImage": "https://www.coca-cola.com/content/dam/onexp/it/it/promos-2026/coca-cola/icon-2026/iw-prizes.png",
+              "image": "https://www.coca-cola.com/content/dam/onexp/it/it/promos-2026/coca-cola/icon-2026/iw-prizes.png",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=coca-cola.com&sz=256",
+              "termsUrl": "https://www.coca-cola.com/content/dam/onexp/it/it/promos-2026/coca-cola/icon-2026/vinci-premi-iconici.pdf",
+              "approved": true,
+              "mechanic": "instant_win",
+              "badges": [
+                "Vinci subito",
+                "Estrazione",
+                "Codice"
               ]
             }
           ]
