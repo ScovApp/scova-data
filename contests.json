@@ -2514,4 +2514,88 @@
               "image": "https://www.google.com/s2/favicons?domain=estathe.it&sz=256",
               "providerLogoUrl": "https://www.google.com/s2/favicons?domain=estathe.it&sz=256",
               "termsUrl": "https://estatheborsamare26.estathe.it/docs/regolamento-ferrero-estathe.pdf",
-  
+              "approved": true,
+              "mechanic": "instant_win",
+              "badges": [
+                "Vinci subito",
+                "Con scontrino"
+              ]
+            },
+            {
+              "id": "samsung-unpacked-members-app-luglio-2026",
+              "title": "Unpacked Members App Luglio 2026",
+              "prize": "10 codici sconto Samsung da 500âŹ",
+              "platform": "Samsung",
+              "category": "Senza Acquisto",
+              "deadline": "2026-07-19",
+              "url": "https://www.samsung.com/it/offer/samsunggalaxyunpackedapp/",
+              "imageUrl": "https://www.google.com/s2/favicons?domain=samsung.com&sz=256",
+              "cover": "https://www.google.com/s2/favicons?domain=samsung.com&sz=256",
+              "coverUrl": "https://www.google.com/s2/favicons?domain=samsung.com&sz=256",
+              "brandImage": "https://www.google.com/s2/favicons?domain=samsung.com&sz=256",
+              "ogImage": "",
+              "twitterImage": "",
+              "image": "https://www.google.com/s2/favicons?domain=samsung.com&sz=256",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=samsung.com&sz=256",
+              "termsUrl": "https://images.samsung.com/is/content/samsung/assets/it/offer/samsunggalaxyunpackedapp/SEI_Concorso_Unpacked_Luglio_2026_Members_App.pdf",
+              "approved": true,
+              "mechanic": "instant_win",
+              "badges": [
+                "Vinci subito",
+                "Senza acquisto"
+              ]
+            },
+            {
+              "id": "garnier-ultra-dolce-scoperta-italia-2026",
+              "title": "Ultra Dolce ti porta alla scoperta dell'Italia",
+              "prize": "26 voucher per soggiorni di lusso, cene deluxe e soggiorni con spa",
+              "platform": "Garnier Ultra Dolce",
+              "category": "Benessere",
+              "deadline": "2026-07-14",
+              "url": "https://www.garnier.it/concorsi-ed-altre-iniziative",
+              "imageUrl": "https://www.google.com/s2/favicons?domain=garnier.it&sz=256",
+              "cover": "https://www.google.com/s2/favicons?domain=garnier.it&sz=256",
+              "coverUrl": "https://www.google.com/s2/favicons?domain=garnier.it&sz=256",
+              "brandImage": "https://www.google.com/s2/favicons?domain=garnier.it&sz=256",
+              "ogImage": "",
+              "twitterImage": "",
+              "image": "https://www.google.com/s2/favicons?domain=garnier.it&sz=256",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=garnier.it&sz=256",
+              "termsUrl": "https://www.garnier.it/-/media/project/loreal/brand-sites/garnier/emea/it/concorsi/2026/concorso-ultra-dolce-ti-porta-alla-scoperta-dellitalia.pdf?hash=E90BEB27DAD1FB5C555E7D34D3B7BD79&rev=fdb544bb213746e2b6e41793b05c1a4c",
+              "approved": true,
+              "mechanic": "instant_win",
+              "badges": [
+                "Vinci subito",
+                "Con scontrino"
+              ]
+            },
+            {
+              "id": "samsung-unpacked-luglio-2026",
+              "title": "Samsung Galaxy Unpacked Luglio 2026",
+              "prize": "10 codici sconto Samsung da 500âŹ",
+              "platform": "Samsung",
+              "category": "Senza Acquisto",
+              "deadline": "2026-07-16",
+              "url": "https://www.samsung.com/it/offer/samsunggalaxyunpacked/",
+              "imageUrl": "https://www.google.com/s2/favicons?domain=samsung.com&sz=256",
+              "cover": "https://www.google.com/s2/favicons?domain=samsung.com&sz=256",
+              "coverUrl": "https://www.google.com/s2/favicons?domain=samsung.com&sz=256",
+              "brandImage": "https://www.google.com/s2/favicons?domain=samsung.com&sz=256",
+              "ogImage": "",
+              "twitterImage": "",
+              "image": "https://www.google.com/s2/favicons?domain=samsung.com&sz=256",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=samsung.com&sz=256",
+              "termsUrl": "https://images.samsung.com/is/content/samsung/assets/it/offer/samsunggalaxyunpacked/CONCORSO_Promotool_Unpacked_Luglio_2026.pdf",
+              "approved": true,
+              "mechanic": "final_draw",
+              "badges": [
+                "Estrazione",
+                "Senza acquisto"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
