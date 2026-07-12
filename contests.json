@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-10T08:00:00+02:00",
+  "updatedAt": "2026-07-12T08:00:00+02:00",
   "pages": [
     {
       "id": "home",
@@ -137,6 +137,55 @@
           },
           "contests": [
             {
+              "id": "loreal-garnier-mixa-bici-elettrica-2026",
+              "title": "Prova a vincere una bici elettrica",
+              "prize": "31 biciclette elettriche Rambla 28, una al giorno",
+              "platform": "L'Oréal Paris / Garnier / Mixa / Tigotà",
+              "category": "Benessere",
+              "deadline": "2026-07-31",
+              "url": "https://www.garnier.it/concorsi-ed-altre-iniziative",
+              "imageUrl": "https://www.loreal-paris.it/-/media/project/loreal/brand-sites/oap/emea/it/articles/digital-banner-logo-oap.jpg?ch=600&cw=2000&cx=0.46&cy=0.42&hash=528B4CAB3E837CEF98CAD91E49808ECB",
+              "cover": "https://www.loreal-paris.it/-/media/project/loreal/brand-sites/oap/emea/it/articles/digital-banner-logo-oap.jpg?ch=600&cw=2000&cx=0.46&cy=0.42&hash=528B4CAB3E837CEF98CAD91E49808ECB",
+              "coverUrl": "https://www.loreal-paris.it/-/media/project/loreal/brand-sites/oap/emea/it/articles/digital-banner-logo-oap.jpg?ch=600&cw=2000&cx=0.46&cy=0.42&hash=528B4CAB3E837CEF98CAD91E49808ECB",
+              "brandImage": "https://www.loreal-paris.it/-/media/project/loreal/brand-sites/oap/emea/it/articles/digital-banner-logo-oap.jpg?ch=600&cw=2000&cx=0.46&cy=0.42&hash=528B4CAB3E837CEF98CAD91E49808ECB",
+              "ogImage": "https://www.loreal-paris.it/-/media/project/loreal/brand-sites/oap/emea/it/articles/digital-banner-logo-oap.jpg?ch=600&cw=2000&cx=0.46&cy=0.42&hash=528B4CAB3E837CEF98CAD91E49808ECB",
+              "twitterImage": "https://www.loreal-paris.it/-/media/project/loreal/brand-sites/oap/emea/it/articles/digital-banner-logo-oap.jpg?ch=600&cw=2000&cx=0.46&cy=0.42&hash=528B4CAB3E837CEF98CAD91E49808ECB",
+              "image": "https://www.loreal-paris.it/-/media/project/loreal/brand-sites/oap/emea/it/articles/digital-banner-logo-oap.jpg?ch=600&cw=2000&cx=0.46&cy=0.42&hash=528B4CAB3E837CEF98CAD91E49808ECB",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=garnier.it&sz=256",
+              "termsUrl": "https://www.garnier.it/-/media/project/loreal/brand-sites/garnier/emea/it/concorsi/2026/concorso-prova-a-vincere-una-bici-elettrica-con-loreal-paris-garnier-e-mixa.pdf?hash=599D3D7A51408535766D804671160701&rev=557bcc45e29e4688a61ed3b9fb3419e6",
+              "approved": true,
+              "mechanic": "instant_win",
+              "badges": [
+                "Vinci subito",
+                "Con scontrino",
+                "SMS"
+              ]
+            },
+            {
+              "id": "rio-mare-insieme-per-gli-oceani-2026",
+              "title": "Insieme per gli Oceani 2026",
+              "prize": "99 gift card WWF da 50€, 100€ e 150€",
+              "platform": "Rio Mare / WWF",
+              "category": "Gastronomia",
+              "deadline": "2026-08-31",
+              "url": "https://www.riomare.it/concorsi/",
+              "imageUrl": "https://www.riomare.it/wp-content/uploads/102_RIOMARE_1600x727.jpg",
+              "cover": "https://www.riomare.it/wp-content/uploads/102_RIOMARE_1600x727.jpg",
+              "coverUrl": "https://www.riomare.it/wp-content/uploads/102_RIOMARE_1600x727.jpg",
+              "brandImage": "https://www.riomare.it/wp-content/uploads/102_RIOMARE_1600x727.jpg",
+              "ogImage": "https://www.riomare.it/wp-content/uploads/102_RIOMARE_1600x727.jpg",
+              "twitterImage": "https://www.riomare.it/wp-content/uploads/102_RIOMARE_1600x727.jpg",
+              "image": "https://www.riomare.it/wp-content/uploads/102_RIOMARE_1600x727.jpg",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=riomare.it&sz=256",
+              "termsUrl": "https://www.riomare.it/concorsi/",
+              "approved": true,
+              "mechanic": "instant_win",
+              "badges": [
+                "Vinci subito",
+                "Con scontrino"
+              ]
+            },
+            {
               "id": "borotalco-un-viaggio-di-abbracci-2026",
               "title": "Un viaggio di abbracci",
               "prize": "91 Gift Card Trenitalia da 150€ assegnate in instant win",
@@ -200,6 +249,30 @@
           },
           "contests": [
             {
+              "id": "garnier-ultra-dolce-scoperta-italia-2026",
+              "title": "Ultra Dolce ti porta alla scoperta dell'Italia",
+              "prize": "26 voucher per soggiorni di lusso, cene deluxe e soggiorni con spa",
+              "platform": "Garnier Ultra Dolce",
+              "category": "Benessere",
+              "deadline": "2026-07-14",
+              "url": "https://www.garnier.it/concorsi-ed-altre-iniziative",
+              "imageUrl": "https://www.google.com/s2/favicons?domain=garnier.it&sz=256",
+              "cover": "https://www.google.com/s2/favicons?domain=garnier.it&sz=256",
+              "coverUrl": "https://www.google.com/s2/favicons?domain=garnier.it&sz=256",
+              "brandImage": "https://www.google.com/s2/favicons?domain=garnier.it&sz=256",
+              "ogImage": "",
+              "twitterImage": "",
+              "image": "https://www.google.com/s2/favicons?domain=garnier.it&sz=256",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=garnier.it&sz=256",
+              "termsUrl": "https://www.garnier.it/-/media/project/loreal/brand-sites/garnier/emea/it/concorsi/2026/concorso-ultra-dolce-ti-porta-alla-scoperta-dellitalia.pdf?hash=E90BEB27DAD1FB5C555E7D34D3B7BD79&rev=fdb544bb213746e2b6e41793b05c1a4c",
+              "approved": true,
+              "mechanic": "instant_win",
+              "badges": [
+                "Vinci subito",
+                "Con scontrino"
+              ]
+            },
+            {
               "id": "clear-sunsilk-fifa-world-cup-2026",
               "title": "La FIFA World Cup 2026 con CLEAR 2.0",
               "prize": "Speaker, cappellini e palloni FIFA World Cup 2026",
@@ -221,6 +294,30 @@
               "badges": [
                 "Vinci subito",
                 "Con scontrino"
+              ]
+            },
+            {
+              "id": "samsung-unpacked-luglio-2026",
+              "title": "Samsung Galaxy Unpacked Luglio 2026",
+              "prize": "10 codici sconto Samsung da 500€",
+              "platform": "Samsung",
+              "category": "Senza Acquisto",
+              "deadline": "2026-07-16",
+              "url": "https://www.samsung.com/it/offer/samsunggalaxyunpacked/",
+              "imageUrl": "https://www.google.com/s2/favicons?domain=samsung.com&sz=256",
+              "cover": "https://www.google.com/s2/favicons?domain=samsung.com&sz=256",
+              "coverUrl": "https://www.google.com/s2/favicons?domain=samsung.com&sz=256",
+              "brandImage": "https://www.google.com/s2/favicons?domain=samsung.com&sz=256",
+              "ogImage": "",
+              "twitterImage": "",
+              "image": "https://www.google.com/s2/favicons?domain=samsung.com&sz=256",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=samsung.com&sz=256",
+              "termsUrl": "https://images.samsung.com/is/content/samsung/assets/it/offer/samsunggalaxyunpacked/CONCORSO_Promotool_Unpacked_Luglio_2026.pdf",
+              "approved": true,
+              "mechanic": "final_draw",
+              "badges": [
+                "Estrazione",
+                "Senza acquisto"
               ]
             }
           ]
@@ -1607,7 +1704,7 @@
             },
             {
               "id": "mediaworld-marvel-wolverine-ps5-2026",
-              "title": "Concorso Marvel’s Wolverine PS5",
+              "title": "Concorso Marvel's Wolverine PS5",
               "prize": "PlayStation Portal, cuffie PULSE Elite e controller DualSense",
               "platform": "MediaWorld CLUB",
               "category": "Giochi",
@@ -1991,8 +2088,8 @@
             },
             {
               "id": "galbanetto-aperitivo-perfetto-2026",
-              "title": "Galbanetto L’Aperitivo Perfetto",
-              "prize": "34 spillatrici HKoenig BW1880 e 34 set da 4 calici birra L’Aperitivo Perfetto",
+              "title": "Galbanetto L'Aperitivo Perfetto",
+              "prize": "34 spillatrici HKoenig BW1880 e 34 set da 4 calici birra L'Aperitivo Perfetto",
               "platform": "Galbani / Galbanetto",
               "category": "Gastronomia",
               "deadline": "2026-08-03",
@@ -2258,7 +2355,7 @@
             {
               "id": "hisense-vinci-il-gusto-coca-cola-2026",
               "title": "Con Hisense vinci il gusto Coca-Cola",
-              "prize": "Premi Coca-Cola a estrazione con l’acquisto di frigoriferi Hisense selezionati",
+              "prize": "Premi Coca-Cola a estrazione con l'acquisto di frigoriferi Hisense selezionati",
               "platform": "Hisense / Coca-Cola",
               "category": "Casa & Famiglia",
               "deadline": "2026-07-30",
@@ -2448,6 +2545,151 @@
                 "Vinci subito",
                 "Estrazione",
                 "Codice"
+              ]
+            },
+            {
+              "id": "estathe-borsa-mare-2026",
+              "title": "Estathé Borsa Mare 2026",
+              "prize": "500 borse mare Gassa d'Amante del valore di 95€ ciascuna",
+              "platform": "Estathé",
+              "category": "Tempo Libero",
+              "deadline": "2026-08-05",
+              "url": "https://estatheborsamare26.estathe.it/index.html",
+              "imageUrl": "https://s3.eu-west-1.amazonaws.com/ferrero-kube-stack-prod-static/estathe-it-d11/estathe-it-d11/2026-06/promo_borsa%20mare.png",
+              "cover": "https://s3.eu-west-1.amazonaws.com/ferrero-kube-stack-prod-static/estathe-it-d11/estathe-it-d11/2026-06/promo_borsa%20mare.png",
+              "coverUrl": "https://s3.eu-west-1.amazonaws.com/ferrero-kube-stack-prod-static/estathe-it-d11/estathe-it-d11/2026-06/promo_borsa%20mare.png",
+              "brandImage": "https://s3.eu-west-1.amazonaws.com/ferrero-kube-stack-prod-static/estathe-it-d11/estathe-it-d11/2026-06/promo_borsa%20mare.png",
+              "ogImage": "https://s3.eu-west-1.amazonaws.com/ferrero-kube-stack-prod-static/estathe-it-d11/estathe-it-d11/2026-06/promo_borsa%20mare.png",
+              "twitterImage": "https://s3.eu-west-1.amazonaws.com/ferrero-kube-stack-prod-static/estathe-it-d11/estathe-it-d11/2026-06/promo_borsa%20mare.png",
+              "image": "https://s3.eu-west-1.amazonaws.com/ferrero-kube-stack-prod-static/estathe-it-d11/estathe-it-d11/2026-06/promo_borsa%20mare.png",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=estathe.it&sz=256",
+              "termsUrl": "https://estatheborsamare26.estathe.it/docs/regolamento-ferrero-estathe.pdf",
+              "approved": true,
+              "mechanic": "instant_win",
+              "badges": [
+                "Vinci subito",
+                "Con scontrino"
+              ]
+            },
+            {
+              "id": "samsung-unpacked-members-app-luglio-2026",
+              "title": "Unpacked Members App Luglio 2026",
+              "prize": "10 codici sconto Samsung da 500€",
+              "platform": "Samsung",
+              "category": "Senza Acquisto",
+              "deadline": "2026-07-19",
+              "url": "https://www.samsung.com/it/offer/samsunggalaxyunpackedapp/",
+              "imageUrl": "https://img.global.news.samsung.com/it/wp-content/uploads/2026/07/MASTER_TEASING_1920x1080_H-e1783497633327.jpg",
+              "cover": "https://img.global.news.samsung.com/it/wp-content/uploads/2026/07/MASTER_TEASING_1920x1080_H-e1783497633327.jpg",
+              "coverUrl": "https://img.global.news.samsung.com/it/wp-content/uploads/2026/07/MASTER_TEASING_1920x1080_H-e1783497633327.jpg",
+              "brandImage": "https://img.global.news.samsung.com/it/wp-content/uploads/2026/07/MASTER_TEASING_1920x1080_H-e1783497633327.jpg",
+              "ogImage": "https://img.global.news.samsung.com/it/wp-content/uploads/2026/07/MASTER_TEASING_1920x1080_H-e1783497633327.jpg",
+              "twitterImage": "https://img.global.news.samsung.com/it/wp-content/uploads/2026/07/MASTER_TEASING_1920x1080_H-e1783497633327.jpg",
+              "image": "https://img.global.news.samsung.com/it/wp-content/uploads/2026/07/MASTER_TEASING_1920x1080_H-e1783497633327.jpg",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=samsung.com&sz=256",
+              "termsUrl": "https://images.samsung.com/is/content/samsung/assets/it/offer/samsunggalaxyunpackedapp/SEI_Concorso_Unpacked_Luglio_2026_Members_App.pdf",
+              "approved": true,
+              "mechanic": "instant_win",
+              "badges": [
+                "Vinci subito",
+                "Senza acquisto"
+              ]
+            },
+            {
+              "id": "garnier-ultra-dolce-scoperta-italia-2026",
+              "title": "Ultra Dolce ti porta alla scoperta dell'Italia",
+              "prize": "26 voucher per soggiorni di lusso, cene deluxe e soggiorni con spa",
+              "platform": "Garnier Ultra Dolce",
+              "category": "Benessere",
+              "deadline": "2026-07-14",
+              "url": "https://www.garnier.it/concorsi-ed-altre-iniziative",
+              "imageUrl": "https://www.google.com/s2/favicons?domain=garnier.it&sz=256",
+              "cover": "https://www.google.com/s2/favicons?domain=garnier.it&sz=256",
+              "coverUrl": "https://www.google.com/s2/favicons?domain=garnier.it&sz=256",
+              "brandImage": "https://www.google.com/s2/favicons?domain=garnier.it&sz=256",
+              "ogImage": "",
+              "twitterImage": "",
+              "image": "https://www.google.com/s2/favicons?domain=garnier.it&sz=256",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=garnier.it&sz=256",
+              "termsUrl": "https://www.garnier.it/-/media/project/loreal/brand-sites/garnier/emea/it/concorsi/2026/concorso-ultra-dolce-ti-porta-alla-scoperta-dellitalia.pdf?hash=E90BEB27DAD1FB5C555E7D34D3B7BD79&rev=fdb544bb213746e2b6e41793b05c1a4c",
+              "approved": true,
+              "mechanic": "instant_win",
+              "badges": [
+                "Vinci subito",
+                "Con scontrino"
+              ]
+            },
+            {
+              "id": "samsung-unpacked-luglio-2026",
+              "title": "Samsung Galaxy Unpacked Luglio 2026",
+              "prize": "10 codici sconto Samsung da 500€",
+              "platform": "Samsung",
+              "category": "Senza Acquisto",
+              "deadline": "2026-07-16",
+              "url": "https://www.samsung.com/it/offer/samsunggalaxyunpacked/",
+              "imageUrl": "https://www.google.com/s2/favicons?domain=samsung.com&sz=256",
+              "cover": "https://www.google.com/s2/favicons?domain=samsung.com&sz=256",
+              "coverUrl": "https://www.google.com/s2/favicons?domain=samsung.com&sz=256",
+              "brandImage": "https://www.google.com/s2/favicons?domain=samsung.com&sz=256",
+              "ogImage": "",
+              "twitterImage": "",
+              "image": "https://www.google.com/s2/favicons?domain=samsung.com&sz=256",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=samsung.com&sz=256",
+              "termsUrl": "https://images.samsung.com/is/content/samsung/assets/it/offer/samsunggalaxyunpacked/CONCORSO_Promotool_Unpacked_Luglio_2026.pdf",
+              "approved": true,
+              "mechanic": "final_draw",
+              "badges": [
+                "Estrazione",
+                "Senza acquisto"
+              ]
+            },
+            {
+              "id": "loreal-garnier-mixa-bici-elettrica-2026",
+              "title": "Prova a vincere una bici elettrica",
+              "prize": "31 biciclette elettriche Rambla 28, una al giorno",
+              "platform": "L'Oréal Paris / Garnier / Mixa / Tigotà",
+              "category": "Benessere",
+              "deadline": "2026-07-31",
+              "url": "https://www.garnier.it/concorsi-ed-altre-iniziative",
+              "imageUrl": "https://www.loreal-paris.it/-/media/project/loreal/brand-sites/oap/emea/it/articles/digital-banner-logo-oap.jpg?ch=600&cw=2000&cx=0.46&cy=0.42&hash=528B4CAB3E837CEF98CAD91E49808ECB",
+              "cover": "https://www.loreal-paris.it/-/media/project/loreal/brand-sites/oap/emea/it/articles/digital-banner-logo-oap.jpg?ch=600&cw=2000&cx=0.46&cy=0.42&hash=528B4CAB3E837CEF98CAD91E49808ECB",
+              "coverUrl": "https://www.loreal-paris.it/-/media/project/loreal/brand-sites/oap/emea/it/articles/digital-banner-logo-oap.jpg?ch=600&cw=2000&cx=0.46&cy=0.42&hash=528B4CAB3E837CEF98CAD91E49808ECB",
+              "brandImage": "https://www.loreal-paris.it/-/media/project/loreal/brand-sites/oap/emea/it/articles/digital-banner-logo-oap.jpg?ch=600&cw=2000&cx=0.46&cy=0.42&hash=528B4CAB3E837CEF98CAD91E49808ECB",
+              "ogImage": "https://www.loreal-paris.it/-/media/project/loreal/brand-sites/oap/emea/it/articles/digital-banner-logo-oap.jpg?ch=600&cw=2000&cx=0.46&cy=0.42&hash=528B4CAB3E837CEF98CAD91E49808ECB",
+              "twitterImage": "https://www.loreal-paris.it/-/media/project/loreal/brand-sites/oap/emea/it/articles/digital-banner-logo-oap.jpg?ch=600&cw=2000&cx=0.46&cy=0.42&hash=528B4CAB3E837CEF98CAD91E49808ECB",
+              "image": "https://www.loreal-paris.it/-/media/project/loreal/brand-sites/oap/emea/it/articles/digital-banner-logo-oap.jpg?ch=600&cw=2000&cx=0.46&cy=0.42&hash=528B4CAB3E837CEF98CAD91E49808ECB",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=garnier.it&sz=256",
+              "termsUrl": "https://www.garnier.it/-/media/project/loreal/brand-sites/garnier/emea/it/concorsi/2026/concorso-prova-a-vincere-una-bici-elettrica-con-loreal-paris-garnier-e-mixa.pdf?hash=599D3D7A51408535766D804671160701&rev=557bcc45e29e4688a61ed3b9fb3419e6",
+              "approved": true,
+              "mechanic": "instant_win",
+              "badges": [
+                "Vinci subito",
+                "Con scontrino",
+                "SMS"
+              ]
+            },
+            {
+              "id": "rio-mare-insieme-per-gli-oceani-2026",
+              "title": "Insieme per gli Oceani 2026",
+              "prize": "99 gift card WWF da 50€, 100€ e 150€",
+              "platform": "Rio Mare / WWF",
+              "category": "Gastronomia",
+              "deadline": "2026-08-31",
+              "url": "https://www.riomare.it/concorsi/",
+              "imageUrl": "https://www.riomare.it/wp-content/uploads/102_RIOMARE_1600x727.jpg",
+              "cover": "https://www.riomare.it/wp-content/uploads/102_RIOMARE_1600x727.jpg",
+              "coverUrl": "https://www.riomare.it/wp-content/uploads/102_RIOMARE_1600x727.jpg",
+              "brandImage": "https://www.riomare.it/wp-content/uploads/102_RIOMARE_1600x727.jpg",
+              "ogImage": "https://www.riomare.it/wp-content/uploads/102_RIOMARE_1600x727.jpg",
+              "twitterImage": "https://www.riomare.it/wp-content/uploads/102_RIOMARE_1600x727.jpg",
+              "image": "https://www.riomare.it/wp-content/uploads/102_RIOMARE_1600x727.jpg",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=riomare.it&sz=256",
+              "termsUrl": "https://www.riomare.it/concorsi/",
+              "approved": true,
+              "mechanic": "instant_win",
+              "badges": [
+                "Vinci subito",
+                "Con scontrino"
               ]
             }
           ]
