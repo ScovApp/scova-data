@@ -184,6 +184,55 @@
                 "Vinci subito",
                 "Con scontrino"
               ]
+            },
+            {
+              "id": "borotalco-un-viaggio-di-abbracci-2026",
+              "title": "Un viaggio di abbracci",
+              "prize": "91 Gift Card Trenitalia da 150€ assegnate in instant win",
+              "platform": "Borotalco",
+              "category": "Viaggi",
+              "deadline": "2026-09-23",
+              "url": "https://labellezzatipremia.it/unviaggiodiabbracci/",
+              "imageUrl": "https://labellezzatipremia.it/unviaggiodiabbracci/assets/img/index.jpg",
+              "cover": "https://labellezzatipremia.it/unviaggiodiabbracci/assets/img/index.jpg",
+              "coverUrl": "https://labellezzatipremia.it/unviaggiodiabbracci/assets/img/index.jpg",
+              "brandImage": "https://labellezzatipremia.it/unviaggiodiabbracci/assets/img/index.jpg",
+              "ogImage": "https://labellezzatipremia.it/unviaggiodiabbracci/assets/img/index.jpg",
+              "twitterImage": "https://labellezzatipremia.it/unviaggiodiabbracci/assets/img/index.jpg",
+              "image": "https://labellezzatipremia.it/unviaggiodiabbracci/assets/img/index.jpg",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=borotalco.com&sz=256",
+              "termsUrl": "https://labellezzatipremia.it/unviaggiodiabbracci/regolamento.php",
+              "approved": true,
+              "mechanic": "instant_win",
+              "badges": [
+                "Vinci subito",
+                "Con scontrino"
+              ]
+            },
+            {
+              "id": "coca-cola-vinci-premi-iconici-2026",
+              "title": "Vinci premi iconici Coca-Cola",
+              "prize": "Fotocamere, mini-frigo, trolley e giacche Coca-Cola, 3 Fiat 500e e un viaggio in 7 città",
+              "platform": "Coca-Cola",
+              "category": "Tempo Libero",
+              "deadline": "2026-09-30",
+              "url": "https://www.coca-cola.com/it/it/offerings/coke-icon-2026",
+              "imageUrl": "https://www.coca-cola.com/content/dam/onexp/it/it/promos-2026/coca-cola/icon-2026/iw-prizes.png",
+              "cover": "https://www.coca-cola.com/content/dam/onexp/it/it/promos-2026/coca-cola/icon-2026/iw-prizes.png",
+              "coverUrl": "https://www.coca-cola.com/content/dam/onexp/it/it/promos-2026/coca-cola/icon-2026/iw-prizes.png",
+              "brandImage": "https://www.coca-cola.com/content/dam/onexp/it/it/promos-2026/coca-cola/icon-2026/iw-prizes.png",
+              "ogImage": "https://www.coca-cola.com/content/dam/onexp/it/it/promos-2026/coca-cola/icon-2026/iw-prizes.png",
+              "twitterImage": "https://www.coca-cola.com/content/dam/onexp/it/it/promos-2026/coca-cola/icon-2026/iw-prizes.png",
+              "image": "https://www.coca-cola.com/content/dam/onexp/it/it/promos-2026/coca-cola/icon-2026/iw-prizes.png",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=coca-cola.com&sz=256",
+              "termsUrl": "https://www.coca-cola.com/content/dam/onexp/it/it/promos-2026/coca-cola/icon-2026/vinci-premi-iconici.pdf",
+              "approved": true,
+              "mechanic": "instant_win",
+              "badges": [
+                "Vinci subito",
+                "Estrazione",
+                "Codice"
+              ]
             }
           ]
         },
