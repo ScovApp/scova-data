@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-12T08:00:00+02:00",
+  "updatedAt": "2026-07-13T08:00:00+02:00",
   "pages": [
     {
       "id": "home",
@@ -26,76 +26,52 @@
             "showCategory": true
           },
           "contests": [
-            {
-              "id": "haribo-estate-vip-unipol-arena-2026",
-              "title": "Haribo Estate 2026",
-              "prize": "15 coppie di biglietti VIP Unipol Arena per concerti",
-              "platform": "Haribo",
-              "category": "Musica",
-              "deadline": "2026-07-26",
-              "url": "https://estate2026.hariboconcorsi.it/",
-              "imageUrl": "https://estate2026.hariboconcorsi.it/public/Estate_2026/visual_desktop_ilpremio-mobile.png",
-              "cover": "https://estate2026.hariboconcorsi.it/public/Estate_2026/visual_desktop_ilpremio-mobile.png",
-              "coverUrl": "https://estate2026.hariboconcorsi.it/public/Estate_2026/visual_desktop_ilpremio-mobile.png",
-              "brandImage": "https://estate2026.hariboconcorsi.it/public/Estate_2026/visual_default_header-mobile.png",
-              "ogImage": "https://estate2026.hariboconcorsi.it/public/Estate_2026/visual_desktop_ilpremio-mobile.png",
-              "twitterImage": "https://estate2026.hariboconcorsi.it/public/Estate_2026/visual_desktop_ilpremio-mobile.png",
-              "image": "https://estate2026.hariboconcorsi.it/public/Estate_2026/visual_desktop_ilpremio-mobile.png",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=haribo.com&sz=256",
-              "termsUrl": "https://estate2026.hariboconcorsi.it/public/Estate_2026/regolamento.pdf",
+             {
+              "id": "garda-trentino-notte-in-palafitta-2026",
+              "title": "Una notte in palafitta 2026",
+              "prize": "Notte in palafitta per massimo 3 persone, visita guidata, viaggio e voucher Garda Trentino da 150€",
+              "platform": "Garda Trentino / Comune di Ledro",
+              "category": "Viaggi",
+              "deadline": "2026-07-31",
+              "url": "https://www.gardatrentino.it/it/localita/valle-di-ledro/notte-in-palafitta",
+              "imageUrl": "https://www.gardatrentino.it/website_images/Scopri/Localita/Ledro/Palafitte/image-thumb__11186__header/GARDADOLOMITI_WATCHSOME_LEDRO_PALAFITTE_Notte_Iin_Palafitta.jpg",
+              "cover": "https://www.gardatrentino.it/website_images/Scopri/Localita/Ledro/Palafitte/image-thumb__11186__header/GARDADOLOMITI_WATCHSOME_LEDRO_PALAFITTE_Notte_Iin_Palafitta.jpg",
+              "coverUrl": "https://www.gardatrentino.it/website_images/Scopri/Localita/Ledro/Palafitte/image-thumb__11186__header/GARDADOLOMITI_WATCHSOME_LEDRO_PALAFITTE_Notte_Iin_Palafitta.jpg",
+              "brandImage": "https://www.gardatrentino.it/website_images/Scopri/Localita/Ledro/Palafitte/image-thumb__11186__header/GARDADOLOMITI_WATCHSOME_LEDRO_PALAFITTE_Notte_Iin_Palafitta.jpg",
+              "ogImage": "https://www.gardatrentino.it/website_images/Scopri/Localita/Ledro/Palafitte/image-thumb__11186__header/GARDADOLOMITI_WATCHSOME_LEDRO_PALAFITTE_Notte_Iin_Palafitta.jpg",
+              "twitterImage": "https://www.gardatrentino.it/website_images/Scopri/Localita/Ledro/Palafitte/image-thumb__11186__header/GARDADOLOMITI_WATCHSOME_LEDRO_PALAFITTE_Notte_Iin_Palafitta.jpg",
+              "image": "https://www.gardatrentino.it/website_images/Scopri/Localita/Ledro/Palafitte/image-thumb__11186__header/GARDADOLOMITI_WATCHSOME_LEDRO_PALAFITTE_Notte_Iin_Palafitta.jpg",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=gardatrentino.it&sz=256",
+              "termsUrl": "https://www.gardatrentino.it/documenti/Notte_In_Palafitta/312_26_003%20TerminiCondizioni_V.pdf",
+              "approved": true,
+              "mechanic": "final_draw",
+              "badges": [
+                "Estrazione",
+                "Senza acquisto"
+              ]
+            },
+             {
+              "id": "estathe-borsa-mare-2026",
+              "title": "Estathé Borsa Mare 2026",
+              "prize": "500 borse mare Gassa d'Amante del valore di 95€ ciascuna",
+              "platform": "Estathé",
+              "category": "Tempo Libero",
+              "deadline": "2026-08-05",
+              "url": "https://estatheborsamare26.estathe.it/index.html",
+              "imageUrl": "https://s3.eu-west-1.amazonaws.com/ferrero-kube-stack-prod-static/estathe-it-d11/estathe-it-d11/2026-06/promo_borsa%20mare.png",
+              "cover": "https://s3.eu-west-1.amazonaws.com/ferrero-kube-stack-prod-static/estathe-it-d11/estathe-it-d11/2026-06/promo_borsa%20mare.png",
+              "coverUrl": "https://s3.eu-west-1.amazonaws.com/ferrero-kube-stack-prod-static/estathe-it-d11/estathe-it-d11/2026-06/promo_borsa%20mare.png",
+              "brandImage": "https://s3.eu-west-1.amazonaws.com/ferrero-kube-stack-prod-static/estathe-it-d11/estathe-it-d11/2026-06/promo_borsa%20mare.png",
+              "ogImage": "https://s3.eu-west-1.amazonaws.com/ferrero-kube-stack-prod-static/estathe-it-d11/estathe-it-d11/2026-06/promo_borsa%20mare.png",
+              "twitterImage": "https://s3.eu-west-1.amazonaws.com/ferrero-kube-stack-prod-static/estathe-it-d11/estathe-it-d11/2026-06/promo_borsa%20mare.png",
+              "image": "https://s3.eu-west-1.amazonaws.com/ferrero-kube-stack-prod-static/estathe-it-d11/estathe-it-d11/2026-06/promo_borsa%20mare.png",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=estathe.it&sz=256",
+              "termsUrl": "https://estatheborsamare26.estathe.it/docs/regolamento-ferrero-estathe.pdf",
               "approved": true,
               "mechanic": "instant_win",
               "badges": [
                 "Vinci subito",
                 "Con scontrino"
-              ]
-            },
-            {
-              "id": "fonzies-estate-kit-spiaggia-2026",
-              "title": "L'estate di Fonzies",
-              "prize": "150 kit spiaggia Fonzies con ombrellone e sedia sdraio",
-              "platform": "Fonzies",
-              "category": "Tempo Libero",
-              "deadline": "2026-08-10",
-              "url": "https://www.promotiempo.it/concorso/concorso-a-premi-l-estate-di-fonzies",
-              "imageUrl": "https://www.google.com/s2/favicons?domain=promotiempo.it&sz=256",
-              "cover": "https://www.google.com/s2/favicons?domain=promotiempo.it&sz=256",
-              "coverUrl": "https://www.google.com/s2/favicons?domain=promotiempo.it&sz=256",
-              "brandImage": "https://www.google.com/s2/favicons?domain=fonzies.it&sz=256",
-              "ogImage": "",
-              "twitterImage": "",
-              "image": "https://www.google.com/s2/favicons?domain=promotiempo.it&sz=256",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=fonzies.it&sz=256",
-              "termsUrl": "https://www.promotiempo.it/concorso/concorso-a-premi-l-estate-di-fonzies",
-              "approved": true,
-              "mechanic": "final_draw",
-              "badges": [
-                "Estrazione",
-                "Con scontrino"
-              ]
-            },
-            {
-              "id": "zurich-game-2026",
-              "title": "Zurich Game 2026",
-              "prize": "Portacarte Secrid x Freitag, stampanti foto Polaroid e cuffie wireless Marshall",
-              "platform": "Zurich",
-              "category": "Tech",
-              "deadline": "2026-12-31",
-              "url": "https://www.zurich.it/zurich-game",
-              "imageUrl": "https://www.google.com/s2/favicons?domain=zurich.it&sz=256",
-              "cover": "https://www.google.com/s2/favicons?domain=zurich.it&sz=256",
-              "coverUrl": "https://www.google.com/s2/favicons?domain=zurich.it&sz=256",
-              "brandImage": "https://www.google.com/s2/favicons?domain=zurich.it&sz=256",
-              "ogImage": "",
-              "twitterImage": "",
-              "image": "https://www.google.com/s2/favicons?domain=zurich.it&sz=256",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=zurich.it&sz=256",
-              "termsUrl": "https://www.zurich.it/zurich-per-te/concorsi-e-operazioni-a-premio",
-              "approved": true,
-              "mechanic": "quiz",
-              "badges": [
-                "Quiz",
-                "Estrazione"
               ]
             },
             {
@@ -121,6 +97,54 @@
                 "Missioni",
                 "Gioco"
               ]
+            },
+            {
+              "id": "isybank-games-2027-reward-2026",
+              "title": "isybank Games 2027",
+              "prize": "Gift card, GoPro Hero13, biglietti concerti e voucher vari",
+              "platform": "isybank",
+              "category": "Shopping",
+              "deadline": "2027-04-29",
+              "url": "https://www.isybank.com/it/isyreward/concorso-isybank.html",
+              "imageUrl": "https://www.google.com/s2/favicons?domain=isybank.com&sz=256",
+              "cover": "https://www.google.com/s2/favicons?domain=isybank.com&sz=256",
+              "coverUrl": "https://www.google.com/s2/favicons?domain=isybank.com&sz=256",
+              "brandImage": "https://www.google.com/s2/favicons?domain=isybank.com&sz=256",
+              "ogImage": "",
+              "twitterImage": "",
+              "image": "https://www.google.com/s2/favicons?domain=isybank.com&sz=256",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=isybank.com&sz=256",
+              "termsUrl": "https://www.isybank.com/content/dam/isybank/documenti/isyreward/isyreward-termini-condizioni.pdf",
+              "approved": true,
+              "mechanic": "play_and_win",
+              "badges": [
+                "Gioco",
+                "Missioni"
+              ]
+            },
+            {
+              "id": "zurich-game-2026",
+              "title": "Zurich Game 2026",
+              "prize": "Portacarte Secrid x Freitag, stampanti foto Polaroid e cuffie wireless Marshall",
+              "platform": "Zurich",
+              "category": "Tech",
+              "deadline": "2026-12-31",
+              "url": "https://www.zurich.it/zurich-game",
+              "imageUrl": "https://www.google.com/s2/favicons?domain=zurich.it&sz=256",
+              "cover": "https://www.google.com/s2/favicons?domain=zurich.it&sz=256",
+              "coverUrl": "https://www.google.com/s2/favicons?domain=zurich.it&sz=256",
+              "brandImage": "https://www.google.com/s2/favicons?domain=zurich.it&sz=256",
+              "ogImage": "",
+              "twitterImage": "",
+              "image": "https://www.google.com/s2/favicons?domain=zurich.it&sz=256",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=zurich.it&sz=256",
+              "termsUrl": "https://www.zurich.it/zurich-per-te/concorsi-e-operazioni-a-premio",
+              "approved": true,
+              "mechanic": "quiz",
+              "badges": [
+                "Quiz",
+                "Estrazione"
+              ]
             }
           ]
         },
@@ -137,31 +161,30 @@
           },
           "contests": [
             {
-              "id": "loreal-garnier-mixa-bici-elettrica-2026",
-              "title": "Prova a vincere una bici elettrica",
-              "prize": "31 biciclette elettriche Rambla 28, una al giorno",
-              "platform": "L'Oréal Paris / Garnier / Mixa / Tigotà",
-              "category": "Benessere",
-              "deadline": "2026-07-31",
-              "url": "https://www.garnier.it/concorsi-ed-altre-iniziative",
-              "imageUrl": "https://www.loreal-paris.it/-/media/project/loreal/brand-sites/oap/emea/it/articles/digital-banner-logo-oap.jpg?ch=600&cw=2000&cx=0.46&cy=0.42&hash=528B4CAB3E837CEF98CAD91E49808ECB",
-              "cover": "https://www.loreal-paris.it/-/media/project/loreal/brand-sites/oap/emea/it/articles/digital-banner-logo-oap.jpg?ch=600&cw=2000&cx=0.46&cy=0.42&hash=528B4CAB3E837CEF98CAD91E49808ECB",
-              "coverUrl": "https://www.loreal-paris.it/-/media/project/loreal/brand-sites/oap/emea/it/articles/digital-banner-logo-oap.jpg?ch=600&cw=2000&cx=0.46&cy=0.42&hash=528B4CAB3E837CEF98CAD91E49808ECB",
-              "brandImage": "https://www.loreal-paris.it/-/media/project/loreal/brand-sites/oap/emea/it/articles/digital-banner-logo-oap.jpg?ch=600&cw=2000&cx=0.46&cy=0.42&hash=528B4CAB3E837CEF98CAD91E49808ECB",
-              "ogImage": "https://www.loreal-paris.it/-/media/project/loreal/brand-sites/oap/emea/it/articles/digital-banner-logo-oap.jpg?ch=600&cw=2000&cx=0.46&cy=0.42&hash=528B4CAB3E837CEF98CAD91E49808ECB",
-              "twitterImage": "https://www.loreal-paris.it/-/media/project/loreal/brand-sites/oap/emea/it/articles/digital-banner-logo-oap.jpg?ch=600&cw=2000&cx=0.46&cy=0.42&hash=528B4CAB3E837CEF98CAD91E49808ECB",
-              "image": "https://www.loreal-paris.it/-/media/project/loreal/brand-sites/oap/emea/it/articles/digital-banner-logo-oap.jpg?ch=600&cw=2000&cx=0.46&cy=0.42&hash=528B4CAB3E837CEF98CAD91E49808ECB",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=garnier.it&sz=256",
-              "termsUrl": "https://www.garnier.it/-/media/project/loreal/brand-sites/garnier/emea/it/concorsi/2026/concorso-prova-a-vincere-una-bici-elettrica-con-loreal-paris-garnier-e-mixa.pdf?hash=599D3D7A51408535766D804671160701&rev=557bcc45e29e4688a61ed3b9fb3419e6",
-              "approved": true,
+              "id": "barilla-vinci-monza-f1-2026",
+              "title": "Barilla Vinci Monza 2026",
+              "prize": "100 esperienze VIP per 2 persone al Formula 1 Pirelli Gran Premio d'Italia 2026 di Monza",
+              "platform": "Barilla",
+              "category": "Sport",
               "mechanic": "instant_win",
               "badges": [
                 "Vinci subito",
-                "Con scontrino",
-                "SMS"
-              ]
+                "Con scontrino"
+              ],
+              "deadline": "2026-07-31",
+              "url": "https://promo-f1.barilla.com/it-it/vincimonza/",
+              "termsUrl": "https://promo-f1.barilla.com/it-it/vincimonza/regolamento",
+              "approved": true,
+              "imageUrl": "https://www.google.com/s2/favicons?domain=barilla.com&sz=256",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=barilla.com&sz=256",
+              "cover": "https://www.google.com/s2/favicons?domain=barilla.com&sz=256",
+              "coverUrl": "https://www.google.com/s2/favicons?domain=barilla.com&sz=256",
+              "brandImage": "https://www.google.com/s2/favicons?domain=barilla.com&sz=256",
+              "ogImage": "",
+              "twitterImage": "",
+              "image": "https://www.google.com/s2/favicons?domain=barilla.com&sz=256"
             },
-            {
+             {
               "id": "rio-mare-insieme-per-gli-oceani-2026",
               "title": "Insieme per gli Oceani 2026",
               "prize": "99 gift card WWF da 50€, 100€ e 150€",
@@ -210,29 +233,28 @@
               ]
             },
             {
-              "id": "coca-cola-vinci-premi-iconici-2026",
-              "title": "Vinci premi iconici Coca-Cola",
-              "prize": "Fotocamere, mini-frigo, trolley e giacche Coca-Cola, 3 Fiat 500e e un viaggio in 7 città",
-              "platform": "Coca-Cola",
-              "category": "Tempo Libero",
-              "deadline": "2026-09-30",
-              "url": "https://www.coca-cola.com/it/it/offerings/coke-icon-2026",
-              "imageUrl": "https://www.coca-cola.com/content/dam/onexp/it/it/promos-2026/coca-cola/icon-2026/iw-prizes.png",
-              "cover": "https://www.coca-cola.com/content/dam/onexp/it/it/promos-2026/coca-cola/icon-2026/iw-prizes.png",
-              "coverUrl": "https://www.coca-cola.com/content/dam/onexp/it/it/promos-2026/coca-cola/icon-2026/iw-prizes.png",
-              "brandImage": "https://www.coca-cola.com/content/dam/onexp/it/it/promos-2026/coca-cola/icon-2026/iw-prizes.png",
-              "ogImage": "https://www.coca-cola.com/content/dam/onexp/it/it/promos-2026/coca-cola/icon-2026/iw-prizes.png",
-              "twitterImage": "https://www.coca-cola.com/content/dam/onexp/it/it/promos-2026/coca-cola/icon-2026/iw-prizes.png",
-              "image": "https://www.coca-cola.com/content/dam/onexp/it/it/promos-2026/coca-cola/icon-2026/iw-prizes.png",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=coca-cola.com&sz=256",
-              "termsUrl": "https://www.coca-cola.com/content/dam/onexp/it/it/promos-2026/coca-cola/icon-2026/vinci-premi-iconici.pdf",
-              "approved": true,
+              "id": "barilla-pesto-set-zafferano-2026",
+              "title": "Pesto Barilla Vinci Set Zafferano",
+              "prize": "157 set Zafferano Teca con una caraffa e 6 bicchieri in vetro, uno al giorno",
+              "platform": "Barilla",
+              "category": "Casa & Famiglia",
               "mechanic": "instant_win",
               "badges": [
                 "Vinci subito",
-                "Estrazione",
-                "Codice"
-              ]
+                "Con scontrino"
+              ],
+              "deadline": "2026-09-10",
+              "url": "https://promozioni.barilla.com/pesto-vinci-set-zafferano/",
+              "termsUrl": "https://promozioni.barilla.com/pesto-vinci-set-zafferano/regolamento",
+              "approved": true,
+              "imageUrl": "https://www.google.com/s2/favicons?domain=barilla.com&sz=256",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=barilla.com&sz=256",
+              "cover": "https://www.google.com/s2/favicons?domain=barilla.com&sz=256",
+              "coverUrl": "https://www.google.com/s2/favicons?domain=barilla.com&sz=256",
+              "brandImage": "https://www.google.com/s2/favicons?domain=barilla.com&sz=256",
+              "ogImage": "",
+              "twitterImage": "",
+              "image": "https://www.google.com/s2/favicons?domain=barilla.com&sz=256"
             }
           ]
         },
@@ -248,30 +270,6 @@
             "showCategory": false
           },
           "contests": [
-            {
-              "id": "garnier-ultra-dolce-scoperta-italia-2026",
-              "title": "Ultra Dolce ti porta alla scoperta dell'Italia",
-              "prize": "26 voucher per soggiorni di lusso, cene deluxe e soggiorni con spa",
-              "platform": "Garnier Ultra Dolce",
-              "category": "Benessere",
-              "deadline": "2026-07-14",
-              "url": "https://www.garnier.it/concorsi-ed-altre-iniziative",
-              "imageUrl": "https://www.google.com/s2/favicons?domain=garnier.it&sz=256",
-              "cover": "https://www.google.com/s2/favicons?domain=garnier.it&sz=256",
-              "coverUrl": "https://www.google.com/s2/favicons?domain=garnier.it&sz=256",
-              "brandImage": "https://www.google.com/s2/favicons?domain=garnier.it&sz=256",
-              "ogImage": "",
-              "twitterImage": "",
-              "image": "https://www.google.com/s2/favicons?domain=garnier.it&sz=256",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=garnier.it&sz=256",
-              "termsUrl": "https://www.garnier.it/-/media/project/loreal/brand-sites/garnier/emea/it/concorsi/2026/concorso-ultra-dolce-ti-porta-alla-scoperta-dellitalia.pdf?hash=E90BEB27DAD1FB5C555E7D34D3B7BD79&rev=fdb544bb213746e2b6e41793b05c1a4c",
-              "approved": true,
-              "mechanic": "instant_win",
-              "badges": [
-                "Vinci subito",
-                "Con scontrino"
-              ]
-            },
             {
               "id": "clear-sunsilk-fifa-world-cup-2026",
               "title": "La FIFA World Cup 2026 con CLEAR 2.0",
@@ -289,6 +287,30 @@
               "image": "https://www.google.com/s2/favicons?domain=promotiempo.it&sz=256",
               "providerLogoUrl": "https://www.google.com/s2/favicons?domain=clearhaircare.com&sz=256",
               "termsUrl": "https://www.promotiempo.it/concorso/concorso-a-premi-la-fifa-world-cup-2026-con-clear-2-0",
+              "approved": true,
+              "mechanic": "instant_win",
+              "badges": [
+                "Vinci subito",
+                "Con scontrino"
+              ]
+            },
+            {
+              "id": "garnier-ultra-dolce-scoperta-italia-2026",
+              "title": "Ultra Dolce ti porta alla scoperta dell'Italia",
+              "prize": "26 voucher per soggiorni di lusso, cene deluxe e soggiorni con spa",
+              "platform": "Garnier Ultra Dolce",
+              "category": "Benessere",
+              "deadline": "2026-07-14",
+              "url": "https://www.garnier.it/concorsi-ed-altre-iniziative",
+              "imageUrl": "https://www.google.com/s2/favicons?domain=garnier.it&sz=256",
+              "cover": "https://www.google.com/s2/favicons?domain=garnier.it&sz=256",
+              "coverUrl": "https://www.google.com/s2/favicons?domain=garnier.it&sz=256",
+              "brandImage": "https://www.google.com/s2/favicons?domain=garnier.it&sz=256",
+              "ogImage": "",
+              "twitterImage": "",
+              "image": "https://www.google.com/s2/favicons?domain=garnier.it&sz=256",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=garnier.it&sz=256",
+              "termsUrl": "https://www.garnier.it/-/media/project/loreal/brand-sites/garnier/emea/it/concorsi/2026/concorso-ultra-dolce-ti-porta-alla-scoperta-dellitalia.pdf?hash=E90BEB27DAD1FB5C555E7D34D3B7BD79&rev=fdb544bb213746e2b6e41793b05c1a4c",
               "approved": true,
               "mechanic": "instant_win",
               "badges": [
@@ -2691,6 +2713,54 @@
                 "Vinci subito",
                 "Con scontrino"
               ]
+            },
+            {
+              "id": "barilla-vinci-monza-f1-2026",
+              "title": "Barilla Vinci Monza 2026",
+              "prize": "100 esperienze VIP per 2 persone al Formula 1 Pirelli Gran Premio d'Italia 2026 di Monza",
+              "platform": "Barilla",
+              "category": "Sport",
+              "mechanic": "instant_win",
+              "badges": [
+                "Vinci subito",
+                "Con scontrino"
+              ],
+              "deadline": "2026-07-31",
+              "url": "https://promo-f1.barilla.com/it-it/vincimonza/",
+              "termsUrl": "https://promo-f1.barilla.com/it-it/vincimonza/regolamento",
+              "approved": true,
+              "imageUrl": "https://www.google.com/s2/favicons?domain=barilla.com&sz=256",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=barilla.com&sz=256",
+              "cover": "https://www.google.com/s2/favicons?domain=barilla.com&sz=256",
+              "coverUrl": "https://www.google.com/s2/favicons?domain=barilla.com&sz=256",
+              "brandImage": "https://www.google.com/s2/favicons?domain=barilla.com&sz=256",
+              "ogImage": "",
+              "twitterImage": "",
+              "image": "https://www.google.com/s2/favicons?domain=barilla.com&sz=256"
+            },
+            {
+              "id": "barilla-pesto-set-zafferano-2026",
+              "title": "Pesto Barilla Vinci Set Zafferano",
+              "prize": "157 set Zafferano Teca con una caraffa e 6 bicchieri in vetro, uno al giorno",
+              "platform": "Barilla",
+              "category": "Casa & Famiglia",
+              "mechanic": "instant_win",
+              "badges": [
+                "Vinci subito",
+                "Con scontrino"
+              ],
+              "deadline": "2026-09-10",
+              "url": "https://promozioni.barilla.com/pesto-vinci-set-zafferano/",
+              "termsUrl": "https://promozioni.barilla.com/pesto-vinci-set-zafferano/regolamento",
+              "approved": true,
+              "imageUrl": "https://www.google.com/s2/favicons?domain=barilla.com&sz=256",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=barilla.com&sz=256",
+              "cover": "https://www.google.com/s2/favicons?domain=barilla.com&sz=256",
+              "coverUrl": "https://www.google.com/s2/favicons?domain=barilla.com&sz=256",
+              "brandImage": "https://www.google.com/s2/favicons?domain=barilla.com&sz=256",
+              "ogImage": "",
+              "twitterImage": "",
+              "image": "https://www.google.com/s2/favicons?domain=barilla.com&sz=256"
             }
           ]
         }
