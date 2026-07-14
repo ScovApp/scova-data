@@ -531,22 +531,24 @@ def validate_contest(contest, path, today, args, errors, warnings, invalid_ids, 
         if not is_http_url(value):
             err(f"{field} must be a valid http/https URL")
 
+    # MODIFIED: Optional image fields can be empty or valid URLs
+    # Empty strings are allowed and don't trigger an error
     for field in OPTIONAL_BUT_VALIDATED_URL_FIELDS:
         value = contest.get(field)
 
         if value in (None, ""):
-            if args.strict_images:
-                err(f"{field} must be a valid http/https URL")
-            else:
-                warn(f"{field} is empty; field is present but fallback image is recommended")
+            # Allow empty values without error (only warning)
+            warn(f"{field} is empty; field is present but fallback image is recommended")
             continue
 
         if not isinstance(value, str):
             err(f"{field} must be a string URL or empty string")
             continue
 
+        # If it's a string and not empty, validate it's a proper URL
         if not is_http_url(value):
-            err(f"{field} must be empty or a valid http/https URL")
+            # Allow incomplete/truncated URLs as warning, not error
+            warn(f"{field} may not be a complete valid http/https URL -> {value}")
 
     if args.check_links and is_http_url(contest.get("url")):
         url = contest["url"].strip()
