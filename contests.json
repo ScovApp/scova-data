@@ -136,6 +136,102 @@
               "ogImage": "",
               "twitterImage": "",
               "image": "https://www.google.com/s2/favicons?domain=chanteclair.it&sz=256"
+            },
+                       {
+              "id": "barilla-vinci-monza-f1-2026",
+              "title": "Barilla Vinci Monza 2026",
+              "prize": "100 esperienze VIP per 2 persone al Formula 1 Pirelli Gran Premio d'Italia 2026 di Monza",
+              "platform": "Barilla",
+              "category": "Sport",
+              "mechanic": "instant_win",
+              "badges": [
+                "Vinci subito",
+                "Con scontrino"
+              ],
+              "deadline": "2026-07-31",
+              "url": "https://promo-f1.barilla.com/it-it/vincimonza/",
+              "termsUrl": "https://promo-f1.barilla.com/it-it/vincimonza/regolamento",
+              "approved": true,
+              "imageUrl": "https://www.google.com/s2/favicons?domain=barilla.com&sz=256",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=barilla.com&sz=256",
+              "cover": "https://www.google.com/s2/favicons?domain=barilla.com&sz=256",
+              "coverUrl": "https://www.google.com/s2/favicons?domain=barilla.com&sz=256",
+              "brandImage": "https://www.google.com/s2/favicons?domain=barilla.com&sz=256",
+              "ogImage": "",
+              "twitterImage": "",
+              "image": "https://www.google.com/s2/favicons?domain=barilla.com&sz=256"
+            },
+             {
+              "id": "rio-mare-insieme-per-gli-oceani-2026",
+              "title": "Insieme per gli Oceani 2026",
+              "prize": "99 gift card WWF da 50€, 100€ e 150€",
+              "platform": "Rio Mare / WWF",
+              "category": "Gastronomia",
+              "deadline": "2026-08-31",
+              "url": "https://www.riomare.it/concorsi/",
+              "imageUrl": "https://www.riomare.it/wp-content/uploads/102_RIOMARE_1600x727.jpg",
+              "cover": "https://www.riomare.it/wp-content/uploads/102_RIOMARE_1600x727.jpg",
+              "coverUrl": "https://www.riomare.it/wp-content/uploads/102_RIOMARE_1600x727.jpg",
+              "brandImage": "https://www.riomare.it/wp-content/uploads/102_RIOMARE_1600x727.jpg",
+              "ogImage": "https://www.riomare.it/wp-content/uploads/102_RIOMARE_1600x727.jpg",
+              "twitterImage": "https://www.riomare.it/wp-content/uploads/102_RIOMARE_1600x727.jpg",
+              "image": "https://www.riomare.it/wp-content/uploads/102_RIOMARE_1600x727.jpg",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=riomare.it&sz=256",
+              "termsUrl": "https://www.riomare.it/concorsi/",
+              "approved": true,
+              "mechanic": "instant_win",
+              "badges": [
+                "Vinci subito",
+                "Con scontrino"
+              ]
+            },
+            {
+              "id": "borotalco-un-viaggio-di-abbracci-2026",
+              "title": "Un viaggio di abbracci",
+              "prize": "91 Gift Card Trenitalia da 150€ assegnate in instant win",
+              "platform": "Borotalco",
+              "category": "Viaggi",
+              "deadline": "2026-09-23",
+              "url": "https://labellezzatipremia.it/unviaggiodiabbracci/",
+              "imageUrl": "https://labellezzatipremia.it/unviaggiodiabbracci/assets/img/index.jpg",
+              "cover": "https://labellezzatipremia.it/unviaggiodiabbracci/assets/img/index.jpg",
+              "coverUrl": "https://labellezzatipremia.it/unviaggiodiabbracci/assets/img/index.jpg",
+              "brandImage": "https://labellezzatipremia.it/unviaggiodiabbracci/assets/img/index.jpg",
+              "ogImage": "https://labellezzatipremia.it/unviaggiodiabbracci/assets/img/index.jpg",
+              "twitterImage": "https://labellezzatipremia.it/unviaggiodiabbracci/assets/img/index.jpg",
+              "image": "https://labellezzatipremia.it/unviaggiodiabbracci/assets/img/index.jpg",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=borotalco.com&sz=256",
+              "termsUrl": "https://labellezzatipremia.it/unviaggiodiabbracci/regolamento.php",
+              "approved": true,
+              "mechanic": "instant_win",
+              "badges": [
+                "Vinci subito",
+                "Con scontrino"
+              ]
+            },
+            {
+              "id": "barilla-pesto-set-zafferano-2026",
+              "title": "Pesto Barilla Vinci Set Zafferano",
+              "prize": "157 set Zafferano Teca con una caraffa e 6 bicchieri in vetro, uno al giorno",
+              "platform": "Barilla",
+              "category": "Casa & Famiglia",
+              "mechanic": "instant_win",
+              "badges": [
+                "Vinci subito",
+                "Con scontrino"
+              ],
+              "deadline": "2026-09-10",
+              "url": "https://promozioni.barilla.com/pesto-vinci-set-zafferano/",
+              "termsUrl": "https://promozioni.barilla.com/pesto-vinci-set-zafferano/regolamento",
+              "approved": true,
+              "imageUrl": "https://www.google.com/s2/favicons?domain=barilla.com&sz=256",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=barilla.com&sz=256",
+              "cover": "https://www.google.com/s2/favicons?domain=barilla.com&sz=256",
+              "coverUrl": "https://www.google.com/s2/favicons?domain=barilla.com&sz=256",
+              "brandImage": "https://www.google.com/s2/favicons?domain=barilla.com&sz=256",
+              "ogImage": "",
+              "twitterImage": "",
+              "image": "https://www.google.com/s2/favicons?domain=barilla.com&sz=256"
             }
           ]
         },
