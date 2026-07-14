@@ -12,7 +12,7 @@
           "type": "banner",
           "enabled": true,
           "title": "Scopri i migliori concorsi attivi",
-          "subtitle": "Partecipa e vinci premi, esperienze e iniziative selezionate."
+          "subtitle": "Partecipa e vinci premi, esperienze e iniziative selezionate"
         },
         {
           "id": "featured",
@@ -43,30 +43,6 @@
               "image": "https://static.wixstatic.com/media/3131a2_28547fdd7bf54113a3dc5055414491c0~mv2.jpg/v1/fill/w_980%2Ch_718%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/3131a2_28547fdd7bf54113a3dc5055414491c0~mv2.jpg",
               "providerLogoUrl": "https://www.google.com/s2/favicons?domain=mikado.it&sz=256",
               "termsUrl": "https://www.promotiempo.it/concorso/concorso-a-premi-mikado-summer-nights",
-              "approved": true,
-              "mechanic": "instant_win",
-              "badges": [
-                "Vinci subito",
-                "Con scontrino"
-              ]
-            },
-              {
-              "id": "haribo-estate-vip-unipol-arena-2026",
-              "title": "Haribo Estate 2026",
-              "prize": "15 coppie di biglietti VIP Unipol Arena per concerti",
-              "platform": "Haribo",
-              "category": "Musica",
-              "deadline": "2026-07-26",
-              "url": "https://estate2026.hariboconcorsi.it/",
-              "imageUrl": "https://estate2026.hariboconcorsi.it/public/Estate_2026/visual_desktop_ilpremio-mobile.png",
-              "cover": "https://estate2026.hariboconcorsi.it/public/Estate_2026/visual_desktop_ilpremio-mobile.png",
-              "coverUrl": "https://estate2026.hariboconcorsi.it/public/Estate_2026/visual_desktop_ilpremio-mobile.png",
-              "brandImage": "https://estate2026.hariboconcorsi.it/public/Estate_2026/visual_default_header-mobile.png",
-              "ogImage": "https://estate2026.hariboconcorsi.it/public/Estate_2026/visual_desktop_ilpremio-mobile.png",
-              "twitterImage": "https://estate2026.hariboconcorsi.it/public/Estate_2026/visual_desktop_ilpremio-mobile.png",
-              "image": "https://estate2026.hariboconcorsi.it/public/Estate_2026/visual_desktop_ilpremio-mobile.png",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=haribo.com&sz=256",
-              "termsUrl": "https://estate2026.hariboconcorsi.it/public/Estate_2026/regolamento.pdf",
               "approved": true,
               "mechanic": "instant_win",
               "badges": [
@@ -208,30 +184,6 @@
               "ogImage": "",
               "twitterImage": "",
               "image": "https://www.google.com/s2/favicons?domain=barilla.com&sz=256"
-            },
-             {
-              "id": "rio-mare-insieme-per-gli-oceani-2026",
-              "title": "Insieme per gli Oceani 2026",
-              "prize": "99 gift card WWF da 50€, 100€ e 150€",
-              "platform": "Rio Mare / WWF",
-              "category": "Gastronomia",
-              "deadline": "2026-08-31",
-              "url": "https://www.riomare.it/concorsi/",
-              "imageUrl": "https://www.riomare.it/wp-content/uploads/102_RIOMARE_1600x727.jpg",
-              "cover": "https://www.riomare.it/wp-content/uploads/102_RIOMARE_1600x727.jpg",
-              "coverUrl": "https://www.riomare.it/wp-content/uploads/102_RIOMARE_1600x727.jpg",
-              "brandImage": "https://www.riomare.it/wp-content/uploads/102_RIOMARE_1600x727.jpg",
-              "ogImage": "https://www.riomare.it/wp-content/uploads/102_RIOMARE_1600x727.jpg",
-              "twitterImage": "https://www.riomare.it/wp-content/uploads/102_RIOMARE_1600x727.jpg",
-              "image": "https://www.riomare.it/wp-content/uploads/102_RIOMARE_1600x727.jpg",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=riomare.it&sz=256",
-              "termsUrl": "https://www.riomare.it/concorsi/",
-              "approved": true,
-              "mechanic": "instant_win",
-              "badges": [
-                "Vinci subito",
-                "Con scontrino"
-              ]
             },
             {
               "id": "borotalco-un-viaggio-di-abbracci-2026",
