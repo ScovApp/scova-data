@@ -160,6 +160,54 @@
             "showCategory": true
           },
           "contests": [
+             {
+              "id": "concorso-la-molisana-primi-nel-benessere-vinci-friggitrici-ad-aria-philips-2026",
+              "title": "Concorso La Molisana “Primi nel benessere”… vinci friggitrici ad aria Philips",
+              "prize": "friggitrici ad aria Philips",
+              "platform": "La Molisana",
+              "category": "Benessere",
+              "deadline": "2026-08-08",
+              "url": "https://www.loverstenaci.com/contest",
+              "termsUrl": "https://www.loverstenaci.com/Regolamento_Benessere_2026.pdf",
+              "approved": true,
+              "mechanic": "instant_win",
+              "badges": [
+                "Vinci subito",
+                "Con scontrino"
+              ],
+              "imageUrl": "https://www.loverstenaci.com/share.jpg",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=loverstenaci.com&sz=256",
+              "cover": "https://www.loverstenaci.com/share.jpg",
+              "coverUrl": "https://www.loverstenaci.com/share.jpg",
+              "brandImage": "https://www.loverstenaci.com/share.jpg",
+              "ogImage": "https://www.loverstenaci.com/share.jpg",
+              "twitterImage": "https://www.loverstenaci.com/share.jpg",
+              "image": "https://www.loverstenaci.com/share.jpg"
+            },
+            {
+              "id": "vinci-gratis-anteprima-esclusiva-film-l-isola-dei-ricordi-2026",
+              "title": "Vinci gratis anteprima esclusiva film “L’Isola dei Ricordi",
+              "prize": "anteprima esclusiva film “L’Isola dei Ricordi”",
+              "platform": "Universal For Fans",
+              "category": "Shopping",
+              "deadline": "2026-09-13",
+              "url": "https://www.universalforfans.it/",
+              "termsUrl": "https://www.universalforfans.it/wp-content/uploads/2026/07/RegolamentoUniversalFans_IsolaDeiRicordi_def.pdf",
+              "approved": true,
+              "mechanic": "instant_win",
+              "badges": [
+                "Vinci subito",
+                "Senza acquisto"
+              ],
+              "imageUrl": "https://www.universalforfans.it/wp-content/uploads/2022/03/UniversalForFan_HeaderMail.png",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=universalforfans.it&sz=256",
+              "cover": "https://www.universalforfans.it/wp-content/uploads/2022/03/UniversalForFan_HeaderMail.png",
+              "coverUrl": "https://www.universalforfans.it/wp-content/uploads/2022/03/UniversalForFan_HeaderMail.png",
+              "brandImage": "https://www.universalforfans.it/wp-content/uploads/2022/03/UniversalForFan_HeaderMail.png",
+              "ogImage": "https://www.universalforfans.it/wp-content/uploads/2022/03/UniversalForFan_HeaderMail.png",
+              "twitterImage": "https://www.universalforfans.it/wp-content/uploads/2022/03/UniversalForFan_HeaderMail.png",
+              "image": "https://www.universalforfans.it/wp-content/uploads/2022/03/UniversalForFan_HeaderMail.png"
+            },
             {
               "id": "santangelo-premia-i-tuoi-acquisti-2026",
               "title": "Santangelo premia i tuoi acquisti",
