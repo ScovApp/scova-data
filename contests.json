@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-14T08:00:00+02:00",
+  "updatedAt": "2026-07-17T10:04:44+02:00",
   "pages": [
     {
       "id": "home",
@@ -12,13 +12,13 @@
           "type": "banner",
           "enabled": true,
           "title": "Scopri i migliori concorsi attivi",
-          "subtitle": "Partecipa e vinci premi, esperienze e iniziative selezionate"
+          "subtitle": "Partecipa e vinci premi, esperienze e iniziative selezionate."
         },
         {
           "id": "featured",
           "type": "contest_carousel",
           "enabled": true,
-          "title": "In evidenza", 
+          "title": "In evidenza",
           "subtitle": "",
           "layout": {
             "cardSize": "large",
@@ -26,30 +26,6 @@
             "showCategory": true
           },
           "contests": [
-            {
-              "id": "mikado-summer-nights-2026",
-              "title": "Mikado Summer Nights",
-              "prize": "Polaroid Now Generation 2 e kit cinema all'aperto",
-              "platform": "Mikado",
-              "category": "Tempo Libero",
-              "deadline": "2026-07-26",
-              "url": "https://concorsomikadosummernights.it",
-              "imageUrl": "https://static.wixstatic.com/media/3131a2_28547fdd7bf54113a3dc5055414491c0~mv2.jpg/v1/fill/w_980%2Ch_718%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/3131a2_28547fdd7bf54113a3dc5055414491c0~mv2.jpg",
-              "cover": "https://static.wixstatic.com/media/3131a2_28547fdd7bf54113a3dc5055414491c0~mv2.jpg/v1/fill/w_980%2Ch_718%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/3131a2_28547fdd7bf54113a3dc5055414491c0~mv2.jpg",
-              "coverUrl": "https://static.wixstatic.com/media/3131a2_28547fdd7bf54113a3dc5055414491c0~mv2.jpg/v1/fill/w_980%2Ch_718%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/3131a2_28547fdd7bf54113a3dc5055414491c0~mv2.jpg",
-              "brandImage": "https://static.wixstatic.com/media/3131a2_28547fdd7bf54113a3dc5055414491c0~mv2.jpg/v1/fill/w_980%2Ch_718%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/3131a2_28547fdd7bf54113a3dc5055414491c0~mv2.jpg",
-              "ogImage": "https://static.wixstatic.com/media/3131a2_28547fdd7bf54113a3dc5055414491c0~mv2.jpg/v1/fill/w_980%2Ch_718%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/3131a2_28547fdd7bf54113a3dc5055414491c0~mv2.jpg",
-              "twitterImage": "https://static.wixstatic.com/media/3131a2_28547fdd7bf54113a3dc5055414491c0~mv2.jpg/v1/fill/w_980%2Ch_718%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/3131a2_28547fdd7bf54113a3dc5055414491c0~mv2.jpg",
-              "image": "https://static.wixstatic.com/media/3131a2_28547fdd7bf54113a3dc5055414491c0~mv2.jpg/v1/fill/w_980%2Ch_718%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/3131a2_28547fdd7bf54113a3dc5055414491c0~mv2.jpg",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=mikado.it&sz=256",
-              "termsUrl": "https://www.promotiempo.it/concorso/concorso-a-premi-mikado-summer-nights",
-              "approved": true,
-              "mechanic": "instant_win",
-              "badges": [
-                "Vinci subito",
-                "Con scontrino"
-              ]
-            },
             {
               "id": "intesa-sanpaolo-2027-reward",
               "title": "Intesa Sanpaolo 2027 Reward",
@@ -137,101 +113,79 @@
           },
           "contests": [
             {
-              "id": "chanteclair-sgrassa-e-balla-2026",
-              "title": "Sgrassa e Balla",
-              "prize": "Un voucher viaggio per 2 persone a Formentera del valore di 5.000€",
-              "platform": "Chanteclair",
-              "category": "Viaggi",
-              "mechanic": "quiz",
-              "badges": [
-                "Quiz",
-                "Senza acquisto",
-                "Estrazione"
-              ],
-              "deadline": "2026-08-24",
-              "url": "https://chanteclair.it/sgrassaeballa/",
-              "termsUrl": "https://chanteclair.it/dm_2023/wp-content/uploads/2026/06/Reg_CO_Sgrassa_e_balla_DEF-1.pdf",
-              "approved": true,
-              "imageUrl": "https://www.google.com/s2/favicons?domain=chanteclair.it&sz=256",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=chanteclair.it&sz=256",
-              "cover": "https://www.google.com/s2/favicons?domain=chanteclair.it&sz=256",
-              "coverUrl": "https://www.google.com/s2/favicons?domain=chanteclair.it&sz=256",
-              "brandImage": "https://www.google.com/s2/favicons?domain=chanteclair.it&sz=256",
-              "ogImage": "",
-              "twitterImage": "",
-              "image": "https://www.google.com/s2/favicons?domain=chanteclair.it&sz=256"
-            },
-                       {
-              "id": "barilla-vinci-monza-f1-2026",
-              "title": "Barilla Vinci Monza 2026",
-              "prize": "100 esperienze VIP per 2 persone al Formula 1 Pirelli Gran Premio d'Italia 2026 di Monza",
-              "platform": "Barilla",
-              "category": "Sport",
-              "mechanic": "instant_win",
-              "badges": [
-                "Vinci subito",
-                "Con scontrino"
-              ],
-              "deadline": "2026-07-31",
-              "url": "https://promo-f1.barilla.com/it-it/vincimonza/",
-              "termsUrl": "https://promo-f1.barilla.com/it-it/vincimonza/regolamento",
-              "approved": true,
-              "imageUrl": "https://www.google.com/s2/favicons?domain=barilla.com&sz=256",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=barilla.com&sz=256",
-              "cover": "https://www.google.com/s2/favicons?domain=barilla.com&sz=256",
-              "coverUrl": "https://www.google.com/s2/favicons?domain=barilla.com&sz=256",
-              "brandImage": "https://www.google.com/s2/favicons?domain=barilla.com&sz=256",
-              "ogImage": "",
-              "twitterImage": "",
-              "image": "https://www.google.com/s2/favicons?domain=barilla.com&sz=256"
-            },
-            {
-              "id": "borotalco-un-viaggio-di-abbracci-2026",
-              "title": "Un viaggio di abbracci",
-              "prize": "91 Gift Card Trenitalia da 150€ assegnate in instant win",
-              "platform": "Borotalco",
-              "category": "Viaggi",
-              "deadline": "2026-09-23",
-              "url": "https://labellezzatipremia.it/unviaggiodiabbracci/",
-              "imageUrl": "https://labellezzatipremia.it/unviaggiodiabbracci/assets/img/index.jpg",
-              "cover": "https://labellezzatipremia.it/unviaggiodiabbracci/assets/img/index.jpg",
-              "coverUrl": "https://labellezzatipremia.it/unviaggiodiabbracci/assets/img/index.jpg",
-              "brandImage": "https://labellezzatipremia.it/unviaggiodiabbracci/assets/img/index.jpg",
-              "ogImage": "https://labellezzatipremia.it/unviaggiodiabbracci/assets/img/index.jpg",
-              "twitterImage": "https://labellezzatipremia.it/unviaggiodiabbracci/assets/img/index.jpg",
-              "image": "https://labellezzatipremia.it/unviaggiodiabbracci/assets/img/index.jpg",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=borotalco.com&sz=256",
-              "termsUrl": "https://labellezzatipremia.it/unviaggiodiabbracci/regolamento.php",
-              "approved": true,
-              "mechanic": "instant_win",
-              "badges": [
-                "Vinci subito",
-                "Con scontrino"
-              ]
-            },
-            {
-              "id": "barilla-pesto-set-zafferano-2026",
-              "title": "Pesto Barilla Vinci Set Zafferano",
-              "prize": "157 set Zafferano Teca con una caraffa e 6 bicchieri in vetro, uno al giorno",
-              "platform": "Barilla",
+              "id": "sirene-blu-vinci-e-gusta-2026",
+              "title": "Vinci e Gusta con Sirene Blu",
+              "prize": "100 friggitrici ad aria Moulinex Easy Fry Silence, 35 Moulinex Cookeo e 5 I-Companion Touch XL",
+              "platform": "Sirene Blu",
               "category": "Casa & Famiglia",
               "mechanic": "instant_win",
               "badges": [
                 "Vinci subito",
-                "Con scontrino"
+                "Con scontrino",
+                "Estrazione"
               ],
-              "deadline": "2026-09-10",
-              "url": "https://promozioni.barilla.com/pesto-vinci-set-zafferano/",
-              "termsUrl": "https://promozioni.barilla.com/pesto-vinci-set-zafferano/regolamento",
+              "deadline": "2026-08-02",
+              "url": "https://sireneblu.it/concorso/",
+              "termsUrl": "https://sireneblu.it/concorso/",
               "approved": true,
-              "imageUrl": "https://www.google.com/s2/favicons?domain=barilla.com&sz=256",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=barilla.com&sz=256",
-              "cover": "https://www.google.com/s2/favicons?domain=barilla.com&sz=256",
-              "coverUrl": "https://www.google.com/s2/favicons?domain=barilla.com&sz=256",
-              "brandImage": "https://www.google.com/s2/favicons?domain=barilla.com&sz=256",
+              "imageUrl": "https://www.google.com/s2/favicons?domain=sireneblu.it&sz=256",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=sireneblu.it&sz=256",
+              "cover": "https://www.google.com/s2/favicons?domain=sireneblu.it&sz=256",
+              "coverUrl": "https://www.google.com/s2/favicons?domain=sireneblu.it&sz=256",
+              "brandImage": "https://www.google.com/s2/favicons?domain=sireneblu.it&sz=256",
               "ogImage": "",
               "twitterImage": "",
-              "image": "https://www.google.com/s2/favicons?domain=barilla.com&sz=256"
+              "image": "https://www.google.com/s2/favicons?domain=sireneblu.it&sz=256"
+            },
+            {
+              "id": "santangelo-premia-i-tuoi-acquisti-2026",
+              "title": "Santangelo premia i tuoi acquisti",
+              "prize": "Premi instant win e mensili, scooter Yamaha NEO'S, e-bike Yamaha CrossCore e Gift Card da 1.000€",
+              "platform": "Santangelo Outlet Village",
+              "category": "Shopping",
+              "mechanic": "periodic_draw",
+              "badges": [
+                "Vinci subito",
+                "Estrazione",
+                "Con scontrino"
+              ],
+              "deadline": "2027-03-07",
+              "url": "https://santangeloutlet.com/santangelo-premia-i-tuoi-acquisti/",
+              "termsUrl": "https://santangeloutlet.com/wp-content/uploads/2026/06/Regolamento-concorso-SANTANGELO-iwraccolta-0906.pdf",
+              "approved": true,
+              "imageUrl": "https://www.google.com/s2/favicons?domain=santangeloutlet.com&sz=256",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=santangeloutlet.com&sz=256",
+              "cover": "https://www.google.com/s2/favicons?domain=santangeloutlet.com&sz=256",
+              "coverUrl": "https://www.google.com/s2/favicons?domain=santangeloutlet.com&sz=256",
+              "brandImage": "https://www.google.com/s2/favicons?domain=santangeloutlet.com&sz=256",
+              "ogImage": "",
+              "twitterImage": "",
+              "image": "https://www.google.com/s2/favicons?domain=santangeloutlet.com&sz=256"
+            },
+            {
+              "id": "sammontana-gusta-vinci-gardaland-resort-2026",
+              "title": "Gusta e Vinci Gardaland Resort 2026",
+              "prize": "Biglietti Gardaland, gadget Prezzemolo e 3 soggiorni per 4 persone al Gardaland Resort",
+              "platform": "Sammontana / Gardaland",
+              "category": "Tempo Libero",
+              "mechanic": "unique_code",
+              "badges": [
+                "Codice",
+                "Vinci subito",
+                "Estrazione"
+              ],
+              "deadline": "2026-08-23",
+              "url": "https://vincigardaland.sammontana.it/regolamento-e-premi.html",
+              "termsUrl": "https://vincigardaland.sammontana.it/content/dam/vincigardaland/website/regolamento/GUSTA_E_VINCI_GARDALAND_RESORT_2026_DEF%20%284%29.pdf",
+              "approved": true,
+              "imageUrl": "https://www.google.com/s2/favicons?domain=sammontana.it&sz=256",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=sammontana.it&sz=256",
+              "cover": "https://www.google.com/s2/favicons?domain=sammontana.it&sz=256",
+              "coverUrl": "https://www.google.com/s2/favicons?domain=sammontana.it&sz=256",
+              "brandImage": "https://www.google.com/s2/favicons?domain=sammontana.it&sz=256",
+              "ogImage": "",
+              "twitterImage": "",
+              "image": "https://www.google.com/s2/favicons?domain=sammontana.it&sz=256"
             }
           ]
         },
@@ -247,30 +201,6 @@
             "showCategory": false
           },
           "contests": [
-            {
-              "id": "clear-sunsilk-fifa-world-cup-2026",
-              "title": "La FIFA World Cup 2026 con CLEAR 2.0",
-              "prize": "Speaker, cappellini e palloni FIFA World Cup 2026",
-              "platform": "CLEAR / Sunsilk",
-              "category": "Sport",
-              "deadline": "2026-07-15",
-              "url": "https://www.promotiempo.it/concorso/concorso-a-premi-la-fifa-world-cup-2026-con-clear-2-0",
-              "imageUrl": "https://www.google.com/s2/favicons?domain=promotiempo.it&sz=256",
-              "cover": "https://www.google.com/s2/favicons?domain=promotiempo.it&sz=256",
-              "coverUrl": "https://www.google.com/s2/favicons?domain=promotiempo.it&sz=256",
-              "brandImage": "https://www.google.com/s2/favicons?domain=clearhaircare.com&sz=256",
-              "ogImage": "",
-              "twitterImage": "",
-              "image": "https://www.google.com/s2/favicons?domain=promotiempo.it&sz=256",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=clearhaircare.com&sz=256",
-              "termsUrl": "https://www.promotiempo.it/concorso/concorso-a-premi-la-fifa-world-cup-2026-con-clear-2-0",
-              "approved": true,
-              "mechanic": "instant_win",
-              "badges": [
-                "Vinci subito",
-                "Con scontrino"
-              ]
-            },
             {
               "id": "philadelphia-light-gusta-leggerezza-2026",
               "title": "Gusta la leggerezza con Philadelphia Light",
@@ -292,6 +222,30 @@
               "mechanic": "instant_win",
               "badges": [
                 "Vinci subito",
+                "Con scontrino"
+              ]
+            },
+            {
+              "id": "comprami-e-vinci-giugno-2026",
+              "title": "Comprami e Vinci 2026",
+              "prize": "150 teli mare personalizzati e voucher spettacoli/concerti",
+              "platform": "Comprami",
+              "category": "Tempo Libero",
+              "deadline": "2026-07-20",
+              "url": "https://compramievinci.it/",
+              "imageUrl": "https://www.google.com/s2/favicons?domain=compramievinci.it&sz=256",
+              "cover": "https://www.google.com/s2/favicons?domain=compramievinci.it&sz=256",
+              "coverUrl": "https://www.google.com/s2/favicons?domain=compramievinci.it&sz=256",
+              "brandImage": "https://www.google.com/s2/favicons?domain=compramievinci.it&sz=256",
+              "ogImage": "",
+              "twitterImage": "",
+              "image": "https://www.google.com/s2/favicons?domain=compramievinci.it&sz=256",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=compramievinci.it&sz=256",
+              "termsUrl": "https://compramievinci.it/",
+              "approved": true,
+              "mechanic": "unique_code",
+              "badges": [
+                "Codice",
                 "Con scontrino"
               ]
             },
@@ -340,54 +294,6 @@
               "mechanic": "instant_win",
               "badges": [
                 "Vinci subito",
-                "Senza acquisto"
-              ]
-            },
-            {
-              "id": "garnier-ultra-dolce-scoperta-italia-2026",
-              "title": "Ultra Dolce ti porta alla scoperta dell'Italia",
-              "prize": "26 voucher per soggiorni di lusso, cene deluxe e soggiorni con spa",
-              "platform": "Garnier Ultra Dolce",
-              "category": "Benessere",
-              "deadline": "2026-07-14",
-              "url": "https://www.garnier.it/concorsi-ed-altre-iniziative",
-              "imageUrl": "https://www.google.com/s2/favicons?domain=garnier.it&sz=256",
-              "cover": "https://www.google.com/s2/favicons?domain=garnier.it&sz=256",
-              "coverUrl": "https://www.google.com/s2/favicons?domain=garnier.it&sz=256",
-              "brandImage": "https://www.google.com/s2/favicons?domain=garnier.it&sz=256",
-              "ogImage": "",
-              "twitterImage": "",
-              "image": "https://www.google.com/s2/favicons?domain=garnier.it&sz=256",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=garnier.it&sz=256",
-              "termsUrl": "https://www.garnier.it/-/media/project/loreal/brand-sites/garnier/emea/it/concorsi/2026/concorso-ultra-dolce-ti-porta-alla-scoperta-dellitalia.pdf?hash=E90BEB27DAD1FB5C555E7D34D3B7BD79&rev=fdb544bb213746e2b6e41793b05c1a4c",
-              "approved": true,
-              "mechanic": "instant_win",
-              "badges": [
-                "Vinci subito",
-                "Con scontrino"
-              ]
-            },
-            {
-              "id": "samsung-unpacked-luglio-2026",
-              "title": "Samsung Galaxy Unpacked Luglio 2026",
-              "prize": "10 codici sconto Samsung da 500€",
-              "platform": "Samsung",
-              "category": "Senza Acquisto",
-              "deadline": "2026-07-16",
-              "url": "https://www.samsung.com/it/offer/samsunggalaxyunpacked/",
-              "imageUrl": "https://www.google.com/s2/favicons?domain=samsung.com&sz=256",
-              "cover": "https://www.google.com/s2/favicons?domain=samsung.com&sz=256",
-              "coverUrl": "https://www.google.com/s2/favicons?domain=samsung.com&sz=256",
-              "brandImage": "https://www.google.com/s2/favicons?domain=samsung.com&sz=256",
-              "ogImage": "",
-              "twitterImage": "",
-              "image": "https://www.google.com/s2/favicons?domain=samsung.com&sz=256",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=samsung.com&sz=256",
-              "termsUrl": "https://images.samsung.com/is/content/samsung/assets/it/offer/samsunggalaxyunpacked/CONCORSO_Promotool_Unpacked_Luglio_2026.pdf",
-              "approved": true,
-              "mechanic": "final_draw",
-              "badges": [
-                "Estrazione",
                 "Senza acquisto"
               ]
             }
@@ -522,30 +428,6 @@
               "mechanic": "final_draw",
               "badges": [
                 "Estrazione",
-                "Con scontrino"
-              ]
-            },
-            {
-              "id": "clear-sunsilk-fifa-world-cup-2026",
-              "title": "La FIFA World Cup 2026 con CLEAR 2.0",
-              "prize": "Speaker, cappellini e palloni FIFA World Cup 2026",
-              "platform": "CLEAR / Sunsilk",
-              "category": "Sport",
-              "deadline": "2026-07-15",
-              "url": "https://www.promotiempo.it/concorso/concorso-a-premi-la-fifa-world-cup-2026-con-clear-2-0",
-              "imageUrl": "https://www.google.com/s2/favicons?domain=promotiempo.it&sz=256",
-              "cover": "https://www.google.com/s2/favicons?domain=promotiempo.it&sz=256",
-              "coverUrl": "https://www.google.com/s2/favicons?domain=promotiempo.it&sz=256",
-              "brandImage": "https://www.google.com/s2/favicons?domain=clearhaircare.com&sz=256",
-              "ogImage": "",
-              "twitterImage": "",
-              "image": "https://www.google.com/s2/favicons?domain=promotiempo.it&sz=256",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=clearhaircare.com&sz=256",
-              "termsUrl": "https://www.promotiempo.it/concorso/concorso-a-premi-la-fifa-world-cup-2026-con-clear-2-0",
-              "approved": true,
-              "mechanic": "instant_win",
-              "badges": [
-                "Vinci subito",
                 "Con scontrino"
               ]
             },
@@ -2667,54 +2549,6 @@
               ]
             },
             {
-              "id": "garnier-ultra-dolce-scoperta-italia-2026",
-              "title": "Ultra Dolce ti porta alla scoperta dell'Italia",
-              "prize": "26 voucher per soggiorni di lusso, cene deluxe e soggiorni con spa",
-              "platform": "Garnier Ultra Dolce",
-              "category": "Benessere",
-              "deadline": "2026-07-14",
-              "url": "https://www.garnier.it/concorsi-ed-altre-iniziative",
-              "imageUrl": "https://www.google.com/s2/favicons?domain=garnier.it&sz=256",
-              "cover": "https://www.google.com/s2/favicons?domain=garnier.it&sz=256",
-              "coverUrl": "https://www.google.com/s2/favicons?domain=garnier.it&sz=256",
-              "brandImage": "https://www.google.com/s2/favicons?domain=garnier.it&sz=256",
-              "ogImage": "",
-              "twitterImage": "",
-              "image": "https://www.google.com/s2/favicons?domain=garnier.it&sz=256",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=garnier.it&sz=256",
-              "termsUrl": "https://www.garnier.it/-/media/project/loreal/brand-sites/garnier/emea/it/concorsi/2026/concorso-ultra-dolce-ti-porta-alla-scoperta-dellitalia.pdf?hash=E90BEB27DAD1FB5C555E7D34D3B7BD79&rev=fdb544bb213746e2b6e41793b05c1a4c",
-              "approved": true,
-              "mechanic": "instant_win",
-              "badges": [
-                "Vinci subito",
-                "Con scontrino"
-              ]
-            },
-            {
-              "id": "samsung-unpacked-luglio-2026",
-              "title": "Samsung Galaxy Unpacked Luglio 2026",
-              "prize": "10 codici sconto Samsung da 500€",
-              "platform": "Samsung",
-              "category": "Senza Acquisto",
-              "deadline": "2026-07-16",
-              "url": "https://www.samsung.com/it/offer/samsunggalaxyunpacked/",
-              "imageUrl": "https://www.google.com/s2/favicons?domain=samsung.com&sz=256",
-              "cover": "https://www.google.com/s2/favicons?domain=samsung.com&sz=256",
-              "coverUrl": "https://www.google.com/s2/favicons?domain=samsung.com&sz=256",
-              "brandImage": "https://www.google.com/s2/favicons?domain=samsung.com&sz=256",
-              "ogImage": "",
-              "twitterImage": "",
-              "image": "https://www.google.com/s2/favicons?domain=samsung.com&sz=256",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=samsung.com&sz=256",
-              "termsUrl": "https://images.samsung.com/is/content/samsung/assets/it/offer/samsunggalaxyunpacked/CONCORSO_Promotool_Unpacked_Luglio_2026.pdf",
-              "approved": true,
-              "mechanic": "final_draw",
-              "badges": [
-                "Estrazione",
-                "Senza acquisto"
-              ]
-            },
-            {
               "id": "loreal-garnier-mixa-bici-elettrica-2026",
               "title": "Prova a vincere una bici elettrica",
               "prize": "31 biciclette elettriche Rambla 28, una al giorno",
@@ -2835,6 +2669,81 @@
               "ogImage": "",
               "twitterImage": "",
               "image": "https://www.google.com/s2/favicons?domain=chanteclair.it&sz=256"
+            },
+            {
+              "id": "sirene-blu-vinci-e-gusta-2026",
+              "title": "Vinci e Gusta con Sirene Blu",
+              "prize": "100 friggitrici ad aria Moulinex Easy Fry Silence, 35 Moulinex Cookeo e 5 I-Companion Touch XL",
+              "platform": "Sirene Blu",
+              "category": "Casa & Famiglia",
+              "mechanic": "instant_win",
+              "badges": [
+                "Vinci subito",
+                "Con scontrino",
+                "Estrazione"
+              ],
+              "deadline": "2026-08-02",
+              "url": "https://sireneblu.it/concorso/",
+              "termsUrl": "https://sireneblu.it/concorso/",
+              "approved": true,
+              "imageUrl": "https://www.google.com/s2/favicons?domain=sireneblu.it&sz=256",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=sireneblu.it&sz=256",
+              "cover": "https://www.google.com/s2/favicons?domain=sireneblu.it&sz=256",
+              "coverUrl": "https://www.google.com/s2/favicons?domain=sireneblu.it&sz=256",
+              "brandImage": "https://www.google.com/s2/favicons?domain=sireneblu.it&sz=256",
+              "ogImage": "",
+              "twitterImage": "",
+              "image": "https://www.google.com/s2/favicons?domain=sireneblu.it&sz=256"
+            },
+            {
+              "id": "santangelo-premia-i-tuoi-acquisti-2026",
+              "title": "Santangelo premia i tuoi acquisti",
+              "prize": "Premi instant win e mensili, scooter Yamaha NEO'S, e-bike Yamaha CrossCore e Gift Card da 1.000€",
+              "platform": "Santangelo Outlet Village",
+              "category": "Shopping",
+              "mechanic": "periodic_draw",
+              "badges": [
+                "Vinci subito",
+                "Estrazione",
+                "Con scontrino"
+              ],
+              "deadline": "2027-03-07",
+              "url": "https://santangeloutlet.com/santangelo-premia-i-tuoi-acquisti/",
+              "termsUrl": "https://santangeloutlet.com/wp-content/uploads/2026/06/Regolamento-concorso-SANTANGELO-iwraccolta-0906.pdf",
+              "approved": true,
+              "imageUrl": "https://www.google.com/s2/favicons?domain=santangeloutlet.com&sz=256",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=santangeloutlet.com&sz=256",
+              "cover": "https://www.google.com/s2/favicons?domain=santangeloutlet.com&sz=256",
+              "coverUrl": "https://www.google.com/s2/favicons?domain=santangeloutlet.com&sz=256",
+              "brandImage": "https://www.google.com/s2/favicons?domain=santangeloutlet.com&sz=256",
+              "ogImage": "",
+              "twitterImage": "",
+              "image": "https://www.google.com/s2/favicons?domain=santangeloutlet.com&sz=256"
+            },
+            {
+              "id": "sammontana-gusta-vinci-gardaland-resort-2026",
+              "title": "Gusta e Vinci Gardaland Resort 2026",
+              "prize": "Biglietti Gardaland, gadget Prezzemolo e 3 soggiorni per 4 persone al Gardaland Resort",
+              "platform": "Sammontana / Gardaland",
+              "category": "Tempo Libero",
+              "mechanic": "unique_code",
+              "badges": [
+                "Codice",
+                "Vinci subito",
+                "Estrazione"
+              ],
+              "deadline": "2026-08-23",
+              "url": "https://vincigardaland.sammontana.it/regolamento-e-premi.html",
+              "termsUrl": "https://vincigardaland.sammontana.it/content/dam/vincigardaland/website/regolamento/GUSTA_E_VINCI_GARDALAND_RESORT_2026_DEF%20%284%29.pdf",
+              "approved": true,
+              "imageUrl": "https://www.google.com/s2/favicons?domain=sammontana.it&sz=256",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=sammontana.it&sz=256",
+              "cover": "https://www.google.com/s2/favicons?domain=sammontana.it&sz=256",
+              "coverUrl": "https://www.google.com/s2/favicons?domain=sammontana.it&sz=256",
+              "brandImage": "https://www.google.com/s2/favicons?domain=sammontana.it&sz=256",
+              "ogImage": "",
+              "twitterImage": "",
+              "image": "https://www.google.com/s2/favicons?domain=sammontana.it&sz=256"
             }
           ]
         }
