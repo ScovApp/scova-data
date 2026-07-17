@@ -26,6 +26,30 @@
             "showCategory": true
           },
           "contests": [
+             {
+              "id": "nesquik-pokemon-fiamme-spettrali-2026",
+              "title": "Vinci Gioco di Carte Collezionabili Pokémon",
+              "prize": "100 confezioni da 10 carte collezionabili Pokémon MegaEvoluzione Fiamme Spettrali in estrazione finale",
+              "platform": "Nesquik",
+              "category": "Giochi",
+              "deadline": "2026-07-31",
+              "url": "https://www.promozionitaliane.it/nesquik-winter2026/",
+              "imageUrl": "https://www.promozionitaliane.it/nesquik-winter2026/webapp/assets/images/hero-home-mobile.png",
+              "cover": "https://www.promozionitaliane.it/nesquik-winter2026/webapp/assets/images/hero-home-mobile.png",
+              "coverUrl": "https://www.promozionitaliane.it/nesquik-winter2026/webapp/assets/images/hero-home-mobile.png",
+              "brandImage": "https://www.promozionitaliane.it/nesquik-winter2026/webapp/assets/images/hero-home-mobile.png",
+              "ogImage": "https://www.promozionitaliane.it/nesquik-winter2026/webapp/assets/images/hero-home-mobile.png",
+              "twitterImage": "https://www.promozionitaliane.it/nesquik-winter2026/webapp/assets/images/hero-home-mobile.png",
+              "image": "https://www.promozionitaliane.it/nesquik-winter2026/webapp/assets/images/hero-home-mobile.png",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=nesquik.it&sz=256",
+              "termsUrl": "https://www.promozionitaliane.it/nesquik-winter2026/documenti/regolamento",
+              "approved": true,
+              "mechanic": "final_draw",
+              "badges": [
+                "Estrazione",
+                "Con scontrino"
+              ]
+            },
             {
               "id": "intesa-sanpaolo-2027-reward",
               "title": "Intesa Sanpaolo 2027 Reward",
@@ -48,6 +72,30 @@
               "badges": [
                 "Missioni",
                 "Gioco"
+              ]
+            },
+             {
+              "id": "garda-trentino-notte-in-palafitta-2026",
+              "title": "Una notte in palafitta 2026",
+              "prize": "Notte in palafitta per massimo 3 persone, visita guidata, viaggio e voucher Garda Trentino da 150€",
+              "platform": "Garda Trentino / Comune di Ledro",
+              "category": "Viaggi",
+              "deadline": "2026-07-31",
+              "url": "https://www.gardatrentino.it/it/localita/valle-di-ledro/notte-in-palafitta",
+              "imageUrl": "https://www.gardatrentino.it/website_images/Scopri/Localita/Ledro/Palafitte/image-thumb__11186__header/GARDADOLOMITI_WATCHSOME_LEDRO_PALAFITTE_Notte_Iin_Palafitta.jpg",
+              "cover": "https://www.gardatrentino.it/website_images/Scopri/Localita/Ledro/Palafitte/image-thumb__11186__header/GARDADOLOMITI_WATCHSOME_LEDRO_PALAFITTE_Notte_Iin_Palafitta.jpg",
+              "coverUrl": "https://www.gardatrentino.it/website_images/Scopri/Localita/Ledro/Palafitte/image-thumb__11186__header/GARDADOLOMITI_WATCHSOME_LEDRO_PALAFITTE_Notte_Iin_Palafitta.jpg",
+              "brandImage": "https://www.gardatrentino.it/website_images/Scopri/Localita/Ledro/Palafitte/image-thumb__11186__header/GARDADOLOMITI_WATCHSOME_LEDRO_PALAFITTE_Notte_Iin_Palafitta.jpg",
+              "ogImage": "https://www.gardatrentino.it/website_images/Scopri/Localita/Ledro/Palafitte/image-thumb__11186__header/GARDADOLOMITI_WATCHSOME_LEDRO_PALAFITTE_Notte_Iin_Palafitta.jpg",
+              "twitterImage": "https://www.gardatrentino.it/website_images/Scopri/Localita/Ledro/Palafitte/image-thumb__11186__header/GARDADOLOMITI_WATCHSOME_LEDRO_PALAFITTE_Notte_Iin_Palafitta.jpg",
+              "image": "https://www.gardatrentino.it/website_images/Scopri/Localita/Ledro/Palafitte/image-thumb__11186__header/GARDADOLOMITI_WATCHSOME_LEDRO_PALAFITTE_Notte_Iin_Palafitta.jpg",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=gardatrentino.it&sz=256",
+              "termsUrl": "https://www.gardatrentino.it/documenti/Notte_In_Palafitta/312_26_003%20TerminiCondizioni_V.pdf",
+              "approved": true,
+              "mechanic": "final_draw",
+              "badges": [
+                "Estrazione",
+                "Senza acquisto"
               ]
             },
             {
@@ -113,31 +161,6 @@
           },
           "contests": [
             {
-              "id": "sirene-blu-vinci-e-gusta-2026",
-              "title": "Vinci e Gusta con Sirene Blu",
-              "prize": "100 friggitrici ad aria Moulinex Easy Fry Silence, 35 Moulinex Cookeo e 5 I-Companion Touch XL",
-              "platform": "Sirene Blu",
-              "category": "Casa & Famiglia",
-              "mechanic": "instant_win",
-              "badges": [
-                "Vinci subito",
-                "Con scontrino",
-                "Estrazione"
-              ],
-              "deadline": "2026-08-02",
-              "url": "https://sireneblu.it/concorso/",
-              "termsUrl": "https://sireneblu.it/concorso/",
-              "approved": true,
-              "imageUrl": "https://www.google.com/s2/favicons?domain=sireneblu.it&sz=256",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=sireneblu.it&sz=256",
-              "cover": "https://www.google.com/s2/favicons?domain=sireneblu.it&sz=256",
-              "coverUrl": "https://www.google.com/s2/favicons?domain=sireneblu.it&sz=256",
-              "brandImage": "https://www.google.com/s2/favicons?domain=sireneblu.it&sz=256",
-              "ogImage": "",
-              "twitterImage": "",
-              "image": "https://www.google.com/s2/favicons?domain=sireneblu.it&sz=256"
-            },
-            {
               "id": "santangelo-premia-i-tuoi-acquisti-2026",
               "title": "Santangelo premia i tuoi acquisti",
               "prize": "Premi instant win e mensili, scooter Yamaha NEO'S, e-bike Yamaha CrossCore e Gift Card da 1.000€",
@@ -161,6 +184,55 @@
               "ogImage": "",
               "twitterImage": "",
               "image": "https://www.google.com/s2/favicons?domain=santangeloutlet.com&sz=256"
+            },
+             {
+              "id": "barilla-vinci-monza-f1-2026",
+              "title": "Barilla Vinci Monza 2026",
+              "prize": "100 esperienze VIP per 2 persone al Formula 1 Pirelli Gran Premio d'Italia 2026 di Monza",
+              "platform": "Barilla",
+              "category": "Sport",
+              "mechanic": "instant_win",
+              "badges": [
+                "Vinci subito",
+                "Con scontrino"
+              ],
+              "deadline": "2026-07-31",
+              "url": "https://promo-f1.barilla.com/it-it/vincimonza/",
+              "termsUrl": "https://promo-f1.barilla.com/it-it/vincimonza/regolamento",
+              "approved": true,
+              "imageUrl": "https://www.google.com/s2/favicons?domain=barilla.com&sz=256",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=barilla.com&sz=256",
+              "cover": "https://www.google.com/s2/favicons?domain=barilla.com&sz=256",
+              "coverUrl": "https://www.google.com/s2/favicons?domain=barilla.com&sz=256",
+              "brandImage": "https://www.google.com/s2/favicons?domain=barilla.com&sz=256",
+              "ogImage": "",
+              "twitterImage": "",
+              "image": "https://www.google.com/s2/favicons?domain=barilla.com&sz=256"
+            },
+             {
+              "id": "chanteclair-sgrassa-e-balla-2026",
+              "title": "Sgrassa e Balla",
+              "prize": "Un voucher viaggio per 2 persone a Formentera del valore di 5.000€",
+              "platform": "Chanteclair",
+              "category": "Viaggi",
+              "mechanic": "quiz",
+              "badges": [
+                "Quiz",
+                "Senza acquisto",
+                "Estrazione"
+              ],
+              "deadline": "2026-08-24",
+              "url": "https://chanteclair.it/sgrassaeballa/",
+              "termsUrl": "https://chanteclair.it/dm_2023/wp-content/uploads/2026/06/Reg_CO_Sgrassa_e_balla_DEF-1.pdf",
+              "approved": true,
+              "imageUrl": "https://www.google.com/s2/favicons?domain=chanteclair.it&sz=256",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=chanteclair.it&sz=256",
+              "cover": "https://www.google.com/s2/favicons?domain=chanteclair.it&sz=256",
+              "coverUrl": "https://www.google.com/s2/favicons?domain=chanteclair.it&sz=256",
+              "brandImage": "https://www.google.com/s2/favicons?domain=chanteclair.it&sz=256",
+              "ogImage": "",
+              "twitterImage": "",
+              "image": "https://www.google.com/s2/favicons?domain=chanteclair.it&sz=256"
             },
             {
               "id": "sammontana-gusta-vinci-gardaland-resort-2026",
