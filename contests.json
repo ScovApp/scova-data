@@ -160,6 +160,30 @@
             "showCategory": true
           },
           "contests": [
+              {
+              "id": "vita-da-comix-2027",
+              "title": "Vita Da Comix 2027",
+              "prize": "90 Controller wireless dualsense® del valore di 84,99€ cad.; 1 KIT del valore complessivo di 879,95 €, composto da:; N°1 console Playstation®5; N°3 Controller wireless dualsense®; N° 1 Cover della Hyperpop Collection; N°1 console Playstation®5 del valore di 549,99 €; 1 Playstation® Store Card del valore di 150 €",
+              "platform": "Comix",
+              "category": "Tech",
+              "deadline": "2026-10-12",
+              "url": "https://www.comix.it/concorso/",
+              "termsUrl": "https://www.comix.it/regolamento_concorso.pdf",
+              "approved": true,
+              "mechanic": "instant_win",
+              "badges": [
+                "Vinci subito",
+                "Senza acquisto"
+              ],
+              "imageUrl": "https://www.comix.it/wp-content/themes/twentyseventeen-child/concorso/assets/d3f39980c7a82b21907f910a92d0f34b36290cfb-CPl8nruH.png",
+              "providerLogoUrl": "https://www.comix.it/wp-content/themes/twentyseventeen-child/concorso/assets/d3f39980c7a82b21907f910a92d0f34b36290cfb-CPl8nruH.png",
+              "cover": "https://www.comix.it/wp-content/themes/twentyseventeen-child/concorso/assets/slide1.png",
+              "coverUrl": "https://www.comix.it/wp-content/themes/twentyseventeen-child/concorso/assets/slide1.png",
+              "brandImage": "https://www.comix.it/wp-content/themes/twentyseventeen-child/concorso/assets/slide1.png",
+              "ogImage": "https://www.comix.it/wp-content/themes/twentyseventeen-child/concorso/assets/slide1.png",
+              "twitterImage": "",
+              "image": ""
+            }
              {
               "id": "concorso-la-molisana-primi-nel-benessere-vinci-friggitrici-ad-aria-philips-2026",
               "title": "Concorso La Molisana “Primi nel benessere”… vinci friggitrici ad aria Philips",
