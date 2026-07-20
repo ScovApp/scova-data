@@ -160,6 +160,30 @@
             "showCategory": true
           },
           "contests": [
+            {
+              "id": "concorso-rio-mare-vinci-sup-e-voucher-da-10-000-2026",
+              "title": "Concorso Rio Mare, vinci SUP e voucher da 10.000€",
+              "prize": "SUP e voucher da 10.000€",
+              "platform": "Rio Mare",
+              "category": "Shopping",
+              "deadline": "2026-10-07",
+              "url": "https://gustoestate.riomare.it/",
+              "termsUrl": "https://gustoestate.riomare.it/regolamento.pdf",
+              "approved": true,
+              "mechanic": "instant_win",
+              "badges": [
+                "Vinci subito",
+                "Con scontrino"
+              ],
+              "imageUrl": "https://gustoestate.riomare.it/_nuxt/barca.vCyODTWV.png",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=gustoestate.riomare.it&sz=256",
+              "cover": "https://www.google.com/s2/favicons?domain=gustoestate.riomare.it&sz=256",
+              "coverUrl": "https://www.google.com/s2/favicons?domain=gustoestate.riomare.it&sz=256",
+              "brandImage": "https://www.google.com/s2/favicons?domain=gustoestate.riomare.it&sz=256",
+              "ogImage": "https://www.google.com/s2/favicons?domain=gustoestate.riomare.it&sz=256",
+              "twitterImage": "https://www.google.com/s2/favicons?domain=gustoestate.riomare.it&sz=256",
+              "image": "https://www.google.com/s2/favicons?domain=gustoestate.riomare.it&sz=256"
+            },
               {
               "id": "vita-da-comix-2027",
               "title": "Vita Da Comix 2027",
