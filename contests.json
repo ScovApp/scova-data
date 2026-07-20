@@ -160,6 +160,30 @@
             "showCategory": true
           },
           "contests": [
+            {
+              "id": "concorso-rio-mare-vinci-sup-e-voucher-da-10-000-2026",
+              "title": "Concorso Rio Mare, vinci SUP e voucher da 10.000€",
+              "prize": "SUP e voucher da 10.000€",
+              "platform": "Rio Mare",
+              "category": "Shopping",
+              "deadline": "2026-10-07",
+              "url": "https://gustoestate.riomare.it/",
+              "termsUrl": "https://gustoestate.riomare.it/regolamento.pdf",
+              "approved": true,
+              "mechanic": "instant_win",
+              "badges": [
+                "Vinci subito",
+                "Con scontrino"
+              ],
+              "imageUrl": "https://gustoestate.riomare.it/_nuxt/barca.vCyODTWV.png",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=gustoestate.riomare.it&sz=256",
+              "cover": "https://www.google.com/s2/favicons?domain=gustoestate.riomare.it&sz=256",
+              "coverUrl": "https://www.google.com/s2/favicons?domain=gustoestate.riomare.it&sz=256",
+              "brandImage": "https://www.google.com/s2/favicons?domain=gustoestate.riomare.it&sz=256",
+              "ogImage": "https://www.google.com/s2/favicons?domain=gustoestate.riomare.it&sz=256",
+              "twitterImage": "https://www.google.com/s2/favicons?domain=gustoestate.riomare.it&sz=256",
+              "image": "https://www.google.com/s2/favicons?domain=gustoestate.riomare.it&sz=256"
+            },
               {
               "id": "vita-da-comix-2027",
               "title": "Vita Da Comix 2027",
@@ -208,29 +232,29 @@
               "twitterImage": "https://www.loverstenaci.com/share.jpg",
               "image": "https://www.loverstenaci.com/share.jpg"
             },
-            {
-              "id": "vinci-gratis-anteprima-esclusiva-film-l-isola-dei-ricordi-2026",
-              "title": "Vinci gratis anteprima esclusiva film “L’Isola dei Ricordi",
-              "prize": "anteprima esclusiva film “L’Isola dei Ricordi”",
-              "platform": "Universal For Fans",
-              "category": "Shopping",
-              "deadline": "2026-09-13",
-              "url": "https://www.universalforfans.it/",
-              "termsUrl": "https://www.universalforfans.it/wp-content/uploads/2026/07/RegolamentoUniversalFans_IsolaDeiRicordi_def.pdf",
+           {
+              "id": "concorso-dove-una-festa-per-le-tue-ascelle-vinci-4-viaggi-al-carnevale-di-rio-de-janeiro-2026",
+              "title": "Concorso Dove una festa per le tue ascelle… vinci 4 viaggi al Carnevale di Rio de Janeiro",
+              "prize": "4 viaggi al Carnevale di Rio de Janeiro",
+              "platform": "Dove",
+              "category": "Viaggi",
+              "deadline": "2026-09-30",
+              "url": "https://doveunafestaperleascelle.it/",
+              "termsUrl": "https://doveunafestaperleascelle.it/regolamento.pdf",
               "approved": true,
-              "mechanic": "instant_win",
+              "mechanic": "missions",
               "badges": [
-                "Vinci subito",
-                "Senza acquisto"
+                "Missioni",
+                "Con scontrino"
               ],
-              "imageUrl": "https://www.universalforfans.it/wp-content/uploads/2022/03/UniversalForFan_HeaderMail.png",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=universalforfans.it&sz=256",
-              "cover": "https://www.universalforfans.it/wp-content/uploads/2022/03/UniversalForFan_HeaderMail.png",
-              "coverUrl": "https://www.universalforfans.it/wp-content/uploads/2022/03/UniversalForFan_HeaderMail.png",
-              "brandImage": "https://www.universalforfans.it/wp-content/uploads/2022/03/UniversalForFan_HeaderMail.png",
-              "ogImage": "https://www.universalforfans.it/wp-content/uploads/2022/03/UniversalForFan_HeaderMail.png",
-              "twitterImage": "https://www.universalforfans.it/wp-content/uploads/2022/03/UniversalForFan_HeaderMail.png",
-              "image": "https://www.universalforfans.it/wp-content/uploads/2022/03/UniversalForFan_HeaderMail.png"
+              "imageUrl": "https://doveunafestaperleascelle.it/_nuxt/prodotti.C2jVzkTk.png",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=doveunafestaperleascelle.it&sz=256",
+              "cover": "https://www.google.com/s2/favicons?domain=doveunafestaperleascelle.it&sz=256",
+              "coverUrl": "https://www.google.com/s2/favicons?domain=doveunafestaperleascelle.it&sz=256",
+              "brandImage": "https://www.google.com/s2/favicons?domain=doveunafestaperleascelle.it&sz=256",
+              "ogImage": "https://www.google.com/s2/favicons?domain=doveunafestaperleascelle.it&sz=256",
+              "twitterImage": "https://www.google.com/s2/favicons?domain=doveunafestaperleascelle.it&sz=256",
+              "image": "https://www.google.com/s2/favicons?domain=doveunafestaperleascelle.it&sz=256"
             },
             {
               "id": "santangelo-premia-i-tuoi-acquisti-2026",
