@@ -330,58 +330,6 @@
               "twitterImage": "",
               "image": "https://www.google.com/s2/favicons?domain=barilla.com&sz=256"
             },
-             {
-              "id": "chanteclair-sgrassa-e-balla-2026",
-              "title": "Sgrassa e Balla",
-              "prize": "Un voucher viaggio per 2 persone a Formentera del valore di 5.000€",
-              "platform": "Chanteclair",
-              "category": "Viaggi",
-              "mechanic": "quiz",
-              "badges": [
-                "Quiz",
-                "Senza acquisto",
-                "Estrazione"
-              ],
-              "deadline": "2026-08-24",
-              "url": "https://chanteclair.it/sgrassaeballa/",
-              "termsUrl": "https://chanteclair.it/dm_2023/wp-content/uploads/2026/06/Reg_CO_Sgrassa_e_balla_DEF-1.pdf",
-              "approved": true,
-              "imageUrl": "https://www.google.com/s2/favicons?domain=chanteclair.it&sz=256",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=chanteclair.it&sz=256",
-              "cover": "https://www.google.com/s2/favicons?domain=chanteclair.it&sz=256",
-              "coverUrl": "https://www.google.com/s2/favicons?domain=chanteclair.it&sz=256",
-              "brandImage": "https://www.google.com/s2/favicons?domain=chanteclair.it&sz=256",
-              "ogImage": "",
-              "twitterImage": "",
-              "image": "https://www.google.com/s2/favicons?domain=chanteclair.it&sz=256"
-            },
-            {
-              "id": "sammontana-gusta-vinci-gardaland-resort-2026",
-              "title": "Gusta e Vinci Gardaland Resort 2026",
-              "prize": "Biglietti Gardaland, gadget Prezzemolo e 3 soggiorni per 4 persone al Gardaland Resort",
-              "platform": "Sammontana / Gardaland",
-              "category": "Tempo Libero",
-              "mechanic": "unique_code",
-              "badges": [
-                "Codice",
-                "Vinci subito",
-                "Estrazione"
-              ],
-              "deadline": "2026-08-23",
-              "url": "https://vincigardaland.sammontana.it/regolamento-e-premi.html",
-              "termsUrl": "https://vincigardaland.sammontana.it/content/dam/vincigardaland/website/regolamento/GUSTA_E_VINCI_GARDALAND_RESORT_2026_DEF%20%284%29.pdf",
-              "approved": true,
-              "imageUrl": "https://www.google.com/s2/favicons?domain=sammontana.it&sz=256",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=sammontana.it&sz=256",
-              "cover": "https://www.google.com/s2/favicons?domain=sammontana.it&sz=256",
-              "coverUrl": "https://www.google.com/s2/favicons?domain=sammontana.it&sz=256",
-              "brandImage": "https://www.google.com/s2/favicons?domain=sammontana.it&sz=256",
-              "ogImage": "",
-              "twitterImage": "",
-              "image": "https://www.google.com/s2/favicons?domain=sammontana.it&sz=256"
-            }
-          ]
-        },
         {
           "id": "expiring_soon",
           "type": "contest_carousel",
