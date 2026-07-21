@@ -26,6 +26,31 @@
             "showCategory": true
           },
           "contests": [
+            {
+              "id": "angelo-parodi-accendi-gusto-estate-2026",
+              "title": "Accendi il Gusto dell'Estate",
+              "prize": "Gift card Angelo Parodi da 50€ ogni giorno e una fornitura annuale di prodotti",
+              "platform": "Angelo Parodi",
+              "category": "Gastronomia",
+              "deadline": "2026-08-31",
+              "url": "https://www.angeloparodi.it/accendi-il-gusto",
+              "imageUrl": "https://www.angeloparodi.it/image/catalog/concorsi/accendi-il-gusto/b_angeloparodi_banner_1920x690_Concorso_Chatbot_2606242.jpg",
+              "cover": "https://www.angeloparodi.it/image/catalog/concorsi/accendi-il-gusto/b_angeloparodi_banner_1920x690_Concorso_Chatbot_2606242.jpg",
+              "coverUrl": "https://www.angeloparodi.it/image/catalog/concorsi/accendi-il-gusto/b_angeloparodi_banner_1920x690_Concorso_Chatbot_2606242.jpg",
+              "brandImage": "https://www.angeloparodi.it/image/catalog/concorsi/accendi-il-gusto/b_angeloparodi_banner_1920x690_Concorso_Chatbot_2606242.jpg",
+              "ogImage": "https://www.angeloparodi.it/image/catalog/concorsi/accendi-il-gusto/b_angeloparodi_banner_1920x690_Concorso_Chatbot_2606242.jpg",
+              "twitterImage": "https://www.angeloparodi.it/image/catalog/concorsi/accendi-il-gusto/b_angeloparodi_banner_1920x690_Concorso_Chatbot_2606242.jpg",
+              "image": "https://www.angeloparodi.it/image/catalog/concorsi/accendi-il-gusto/b_angeloparodi_banner_1920x690_Concorso_Chatbot_2606242.jpg",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=angeloparodi.it&sz=256",
+              "termsUrl": "https://www.angeloparodi.it/image/catalog/concorsi/accendi-il-gusto/AccendiIlGustoDellEstate_Regolamento.pdf",
+              "approved": true,
+              "mechanic": "instant_win",
+              "badges": [
+                "Vinci subito",
+                "Estrazione",
+                "Con scontrino"
+              ]
+            },
              {
               "id": "nesquik-pokemon-fiamme-spettrali-2026",
               "title": "Vinci Gioco di Carte Collezionabili Pokémon",
@@ -50,28 +75,28 @@
                 "Con scontrino"
               ]
             },
-            {
-              "id": "intesa-sanpaolo-2027-reward",
-              "title": "Intesa Sanpaolo 2027 Reward",
-              "prize": "Premi instant win e a estrazione del programma Reward",
-              "platform": "Intesa Sanpaolo",
-              "category": "Shopping",
-              "deadline": "2027-03-27",
-              "url": "https://www.intesasanpaolo.com/it/reward/hub/gioca-con-reward.html",
-              "imageUrl": "https://www.google.com/s2/favicons?domain=intesasanpaolo.com&sz=256",
-              "cover": "https://www.google.com/s2/favicons?domain=intesasanpaolo.com&sz=256",
-              "coverUrl": "https://www.google.com/s2/favicons?domain=intesasanpaolo.com&sz=256",
-              "brandImage": "https://www.google.com/s2/favicons?domain=intesasanpaolo.com&sz=256",
-              "ogImage": "",
-              "twitterImage": "",
-              "image": "https://www.google.com/s2/favicons?domain=intesasanpaolo.com&sz=256",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=intesasanpaolo.com&sz=256",
-              "termsUrl": "https://www.intesasanpaolo.com/content/dam/vetrina/documenti/isp-reward/reward-termini-condizioni.pdf",
+                        {
+              "id": "estathe-borsa-mare-2026",
+              "title": "Estathé Borsa Mare 2026",
+              "prize": "500 borse mare Gassa d'Amante del valore di 95€ ciascuna",
+              "platform": "Estathé",
+              "category": "Tempo Libero",
+              "deadline": "2026-08-05",
+              "url": "https://estatheborsamare26.estathe.it/index.html",
+              "imageUrl": "https://s3.eu-west-1.amazonaws.com/ferrero-kube-stack-prod-static/estathe-it-d11/estathe-it-d11/2026-06/promo_borsa%20mare.png",
+              "cover": "https://s3.eu-west-1.amazonaws.com/ferrero-kube-stack-prod-static/estathe-it-d11/estathe-it-d11/2026-06/promo_borsa%20mare.png",
+              "coverUrl": "https://s3.eu-west-1.amazonaws.com/ferrero-kube-stack-prod-static/estathe-it-d11/estathe-it-d11/2026-06/promo_borsa%20mare.png",
+              "brandImage": "https://s3.eu-west-1.amazonaws.com/ferrero-kube-stack-prod-static/estathe-it-d11/estathe-it-d11/2026-06/promo_borsa%20mare.png",
+              "ogImage": "https://s3.eu-west-1.amazonaws.com/ferrero-kube-stack-prod-static/estathe-it-d11/estathe-it-d11/2026-06/promo_borsa%20mare.png",
+              "twitterImage": "https://s3.eu-west-1.amazonaws.com/ferrero-kube-stack-prod-static/estathe-it-d11/estathe-it-d11/2026-06/promo_borsa%20mare.png",
+              "image": "https://s3.eu-west-1.amazonaws.com/ferrero-kube-stack-prod-static/estathe-it-d11/estathe-it-d11/2026-06/promo_borsa%20mare.png",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=estathe.it&sz=256",
+              "termsUrl": "https://estatheborsamare26.estathe.it/docs/regolamento-ferrero-estathe.pdf",
               "approved": true,
-              "mechanic": "missions",
+              "mechanic": "instant_win",
               "badges": [
-                "Missioni",
-                "Gioco"
+                "Vinci subito",
+                "Con scontrino"
               ]
             },
              {
@@ -96,30 +121,6 @@
               "badges": [
                 "Estrazione",
                 "Senza acquisto"
-              ]
-            },
-            {
-              "id": "isybank-games-2027-reward-2026",
-              "title": "isybank Games 2027",
-              "prize": "Gift card, GoPro Hero13, biglietti concerti e voucher vari",
-              "platform": "isybank",
-              "category": "Shopping",
-              "deadline": "2027-04-29",
-              "url": "https://www.isybank.com/it/isyreward/concorso-isybank.html",
-              "imageUrl": "https://www.google.com/s2/favicons?domain=isybank.com&sz=256",
-              "cover": "https://www.google.com/s2/favicons?domain=isybank.com&sz=256",
-              "coverUrl": "https://www.google.com/s2/favicons?domain=isybank.com&sz=256",
-              "brandImage": "https://www.google.com/s2/favicons?domain=isybank.com&sz=256",
-              "ogImage": "",
-              "twitterImage": "",
-              "image": "https://www.google.com/s2/favicons?domain=isybank.com&sz=256",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=isybank.com&sz=256",
-              "termsUrl": "https://www.isybank.com/content/dam/isybank/documenti/isyreward/isyreward-termini-condizioni.pdf",
-              "approved": true,
-              "mechanic": "play_and_win",
-              "badges": [
-                "Gioco",
-                "Missioni"
               ]
             },
             {
@@ -160,6 +161,30 @@
             "showCategory": true
           },
           "contests": [
+             {
+              "id": "concorso-duck-e-mr-muscle-ogni-giorno-premi-philips-friggitrice-ad-aria-purificatore-2026",
+              "title": "Concorso Duck e Mr Muscle: ogni giorno premi Philips (friggitrice ad aria, purificatore)",
+              "prize": "Philips Airfryer Serie 3000 – Philips Purificatore d’aria PureProtect Mini Serie 900",
+              "platform": "Vinciconscj",
+              "category": "Shopping",
+              "deadline": "2026-08-09",
+              "url": "https://www.vinciconscj.it/",
+              "termsUrl": "https://www.vinciconscj.it/documenti/regolamento",
+              "approved": true,
+              "mechanic": "instant_win",
+              "badges": [
+                "Vinci subito",
+                "Con scontrino"
+              ],
+              "imageUrl": "https://www.vinciconscj.it/webapp/assets/images/og-image.jpg",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=vinciconscj.it&sz=256",
+              "cover": "https://www.vinciconscj.it/webapp/assets/images/og-image.jpg",
+              "coverUrl": "https://www.vinciconscj.it/webapp/assets/images/og-image.jpg",
+              "brandImage": "https://www.vinciconscj.it/webapp/assets/images/og-image.jpg",
+              "ogImage": "https://www.vinciconscj.it/webapp/assets/images/og-image.jpg",
+              "twitterImage": "https://www.vinciconscj.it/webapp/assets/images/og-image.jpg",
+              "image": "https://www.vinciconscj.it/webapp/assets/images/og-image.jpg"
+            },
             {
               "id": "concorso-rio-mare-vinci-sup-e-voucher-da-10-000-2026",
               "title": "Concorso Rio Mare, vinci SUP e voucher da 10.000€",
@@ -304,56 +329,6 @@
               "ogImage": "",
               "twitterImage": "",
               "image": "https://www.google.com/s2/favicons?domain=barilla.com&sz=256"
-            },
-             {
-              "id": "chanteclair-sgrassa-e-balla-2026",
-              "title": "Sgrassa e Balla",
-              "prize": "Un voucher viaggio per 2 persone a Formentera del valore di 5.000€",
-              "platform": "Chanteclair",
-              "category": "Viaggi",
-              "mechanic": "quiz",
-              "badges": [
-                "Quiz",
-                "Senza acquisto",
-                "Estrazione"
-              ],
-              "deadline": "2026-08-24",
-              "url": "https://chanteclair.it/sgrassaeballa/",
-              "termsUrl": "https://chanteclair.it/dm_2023/wp-content/uploads/2026/06/Reg_CO_Sgrassa_e_balla_DEF-1.pdf",
-              "approved": true,
-              "imageUrl": "https://www.google.com/s2/favicons?domain=chanteclair.it&sz=256",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=chanteclair.it&sz=256",
-              "cover": "https://www.google.com/s2/favicons?domain=chanteclair.it&sz=256",
-              "coverUrl": "https://www.google.com/s2/favicons?domain=chanteclair.it&sz=256",
-              "brandImage": "https://www.google.com/s2/favicons?domain=chanteclair.it&sz=256",
-              "ogImage": "",
-              "twitterImage": "",
-              "image": "https://www.google.com/s2/favicons?domain=chanteclair.it&sz=256"
-            },
-            {
-              "id": "sammontana-gusta-vinci-gardaland-resort-2026",
-              "title": "Gusta e Vinci Gardaland Resort 2026",
-              "prize": "Biglietti Gardaland, gadget Prezzemolo e 3 soggiorni per 4 persone al Gardaland Resort",
-              "platform": "Sammontana / Gardaland",
-              "category": "Tempo Libero",
-              "mechanic": "unique_code",
-              "badges": [
-                "Codice",
-                "Vinci subito",
-                "Estrazione"
-              ],
-              "deadline": "2026-08-23",
-              "url": "https://vincigardaland.sammontana.it/regolamento-e-premi.html",
-              "termsUrl": "https://vincigardaland.sammontana.it/content/dam/vincigardaland/website/regolamento/GUSTA_E_VINCI_GARDALAND_RESORT_2026_DEF%20%284%29.pdf",
-              "approved": true,
-              "imageUrl": "https://www.google.com/s2/favicons?domain=sammontana.it&sz=256",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=sammontana.it&sz=256",
-              "cover": "https://www.google.com/s2/favicons?domain=sammontana.it&sz=256",
-              "coverUrl": "https://www.google.com/s2/favicons?domain=sammontana.it&sz=256",
-              "brandImage": "https://www.google.com/s2/favicons?domain=sammontana.it&sz=256",
-              "ogImage": "",
-              "twitterImage": "",
-              "image": "https://www.google.com/s2/favicons?domain=sammontana.it&sz=256"
             }
           ]
         },
