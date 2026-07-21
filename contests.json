@@ -329,7 +329,9 @@
               "ogImage": "",
               "twitterImage": "",
               "image": "https://www.google.com/s2/favicons?domain=barilla.com&sz=256"
-            },
+            }
+          ]
+        },
         {
           "id": "expiring_soon",
           "type": "contest_carousel",
