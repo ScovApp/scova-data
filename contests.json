@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-23T12:06:45+02:00",
+  "updatedAt": "2026-07-23T18:32:48+02:00",
   "pages": [
     {
       "id": "home",
@@ -176,7 +176,7 @@
                 "Vinci subito",
                 "Con scontrino"
               ],
-              "imageUrl": "https://lavazza.youser.tech/upl/entities/page/madagascar-groupage.png",
+              "imageUrl": "https://vincimadagascar.concorsi.lavazza.it/fe-web/img/logo.png",
               "providerLogoUrl": "https://www.google.com/s2/favicons?domain=vincimadagascar.concorsi.lavazza.it&sz=256",
               "cover": "https://lavazza.youser.tech/upl/entities/page/madagascar-hero.png",
               "coverUrl": "https://lavazza.youser.tech/upl/entities/page/madagascar-hero.png",
@@ -2879,7 +2879,7 @@
                 "Vinci subito",
                 "Con scontrino"
               ],
-              "imageUrl": "https://lavazza.youser.tech/upl/entities/page/madagascar-groupage.png",
+              "imageUrl": "https://vincimadagascar.concorsi.lavazza.it/fe-web/img/logo.png",
               "providerLogoUrl": "https://www.google.com/s2/favicons?domain=vincimadagascar.concorsi.lavazza.it&sz=256",
               "cover": "https://lavazza.youser.tech/upl/entities/page/madagascar-hero.png",
               "coverUrl": "https://lavazza.youser.tech/upl/entities/page/madagascar-hero.png",
