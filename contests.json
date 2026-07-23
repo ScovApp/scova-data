@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-23T18:32:48+02:00",
+  "updatedAt": "2026-07-23T19:01:02+02:00",
   "pages": [
     {
       "id": "home",
@@ -176,8 +176,8 @@
                 "Vinci subito",
                 "Con scontrino"
               ],
-              "imageUrl": "https://vincimadagascar.concorsi.lavazza.it/fe-web/img/logo.png",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=vincimadagascar.concorsi.lavazza.it&sz=256",
+              "imageUrl": "https://lavazza.youser.tech/upl/entities/page/pack-lavazza-red-madagascar.png",
+              "providerLogoUrl": "https://lavazza.youser.tech/upl/entities/page/pack-lavazza-red-madagascar.png",
               "cover": "https://lavazza.youser.tech/upl/entities/page/madagascar-hero.png",
               "coverUrl": "https://lavazza.youser.tech/upl/entities/page/madagascar-hero.png",
               "brandImage": "https://lavazza.youser.tech/upl/entities/page/madagascar-hero.png",
@@ -200,7 +200,7 @@
                 "Vinci subito",
                 "Con scontrino"
               ],
-              "imageUrl": "https://images.ctfassets.net/za5qny03n4xo/20xLgGt05cuNt1YZXTYSn/32fc5309cfe9fdd5bd7c153c0bb61b8e/banner__1__JPG.Jpg?fm=webp&w=3840",
+              "imageUrl": "https://images.ctfassets.net/za5qny03n4xo/6bhSg5AFsZC9KlhO7PjLZr/e7600798b6d09f41093b296cfca53c47/banner-sito.jpg?fm=webp&w=3840",
               "providerLogoUrl": "https://www.google.com/s2/favicons?domain=kenvuebrands.com&sz=256",
               "cover": "https://images.ctfassets.net/za5qny03n4xo/20xLgGt05cuNt1YZXTYSn/32fc5309cfe9fdd5bd7c153c0bb61b8e/banner__1__JPG.Jpg?fm=webp&w=1920",
               "coverUrl": "https://images.ctfassets.net/za5qny03n4xo/20xLgGt05cuNt1YZXTYSn/32fc5309cfe9fdd5bd7c153c0bb61b8e/banner__1__JPG.Jpg?fm=webp&w=1920",
@@ -2879,8 +2879,8 @@
                 "Vinci subito",
                 "Con scontrino"
               ],
-              "imageUrl": "https://vincimadagascar.concorsi.lavazza.it/fe-web/img/logo.png",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=vincimadagascar.concorsi.lavazza.it&sz=256",
+              "imageUrl": "https://lavazza.youser.tech/upl/entities/page/pack-lavazza-red-madagascar.png",
+              "providerLogoUrl": "https://lavazza.youser.tech/upl/entities/page/pack-lavazza-red-madagascar.png",
               "cover": "https://lavazza.youser.tech/upl/entities/page/madagascar-hero.png",
               "coverUrl": "https://lavazza.youser.tech/upl/entities/page/madagascar-hero.png",
               "brandImage": "https://lavazza.youser.tech/upl/entities/page/madagascar-hero.png",
@@ -2903,7 +2903,7 @@
                 "Vinci subito",
                 "Con scontrino"
               ],
-              "imageUrl": "https://images.ctfassets.net/za5qny03n4xo/20xLgGt05cuNt1YZXTYSn/32fc5309cfe9fdd5bd7c153c0bb61b8e/banner__1__JPG.Jpg?fm=webp&w=3840",
+              "imageUrl": "https://images.ctfassets.net/za5qny03n4xo/6bhSg5AFsZC9KlhO7PjLZr/e7600798b6d09f41093b296cfca53c47/banner-sito.jpg?fm=webp&w=3840",
               "providerLogoUrl": "https://www.google.com/s2/favicons?domain=kenvuebrands.com&sz=256",
               "cover": "https://images.ctfassets.net/za5qny03n4xo/20xLgGt05cuNt1YZXTYSn/32fc5309cfe9fdd5bd7c153c0bb61b8e/banner__1__JPG.Jpg?fm=webp&w=1920",
               "coverUrl": "https://images.ctfassets.net/za5qny03n4xo/20xLgGt05cuNt1YZXTYSn/32fc5309cfe9fdd5bd7c153c0bb61b8e/banner__1__JPG.Jpg?fm=webp&w=1920",
