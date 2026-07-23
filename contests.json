@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-17T10:04:44+02:00",
+  "updatedAt": "2026-07-23T19:06:49+02:00",
   "pages": [
     {
       "id": "home",
@@ -27,6 +27,54 @@
           },
           "contests": [
             {
+              "id": "gingerino-vinci-la-spesa-2026",
+              "title": "Vinci la spesa con Gingerino 2026",
+              "prize": "Buoni spesa e premi legati alla spesa",
+              "platform": "Gingerino / BuonaLaVita",
+              "category": "Shopping",
+              "deadline": "2027-01-10",
+              "url": "https://www.buonalavita.it/promozioni",
+              "imageUrl": "https://www.buonalavita.it/sites/default/files/2026-05/Gingerino-banner-hp-desk-800x500.jpg",
+              "cover": "https://www.buonalavita.it/sites/default/files/2026-05/Gingerino-banner-hp-desk-800x500.jpg",
+              "coverUrl": "https://www.buonalavita.it/sites/default/files/2026-05/Gingerino-banner-hp-desk-800x500.jpg",
+              "brandImage": "https://www.buonalavita.it/sites/default/files/2026-05/Gingerino-banner-hp-desk-800x500.jpg",
+              "ogImage": "https://www.buonalavita.it/sites/default/files/2026-05/Gingerino-banner-hp-desk-800x500.jpg",
+              "twitterImage": "https://www.buonalavita.it/sites/default/files/2026-05/Gingerino-banner-hp-desk-800x500.jpg",
+              "image": "https://www.buonalavita.it/sites/default/files/2026-05/Gingerino-banner-hp-desk-800x500.jpg",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=gingerino.it&sz=256",
+              "termsUrl": "https://www.buonalavita.it/promozioni",
+              "approved": true,
+              "mechanic": "instant_win",
+              "badges": [
+                "Vinci subito",
+                "Con scontrino"
+              ]
+            },
+            {
+              "id": "estathe-borsa-mare-2026",
+              "title": "Estathé Borsa Mare 2026",
+              "prize": "500 borse mare Gassa d'Amante del valore di 95€ ciascuna",
+              "platform": "Estathé",
+              "category": "Tempo Libero",
+              "deadline": "2026-08-05",
+              "url": "https://estatheborsamare26.estathe.it/index.html",
+              "imageUrl": "https://s3.eu-west-1.amazonaws.com/ferrero-kube-stack-prod-static/estathe-it-d11/estathe-it-d11/2026-06/promo_borsa%20mare.png",
+              "cover": "https://s3.eu-west-1.amazonaws.com/ferrero-kube-stack-prod-static/estathe-it-d11/estathe-it-d11/2026-06/promo_borsa%20mare.png",
+              "coverUrl": "https://s3.eu-west-1.amazonaws.com/ferrero-kube-stack-prod-static/estathe-it-d11/estathe-it-d11/2026-06/promo_borsa%20mare.png",
+              "brandImage": "https://s3.eu-west-1.amazonaws.com/ferrero-kube-stack-prod-static/estathe-it-d11/estathe-it-d11/2026-06/promo_borsa%20mare.png",
+              "ogImage": "https://s3.eu-west-1.amazonaws.com/ferrero-kube-stack-prod-static/estathe-it-d11/estathe-it-d11/2026-06/promo_borsa%20mare.png",
+              "twitterImage": "https://s3.eu-west-1.amazonaws.com/ferrero-kube-stack-prod-static/estathe-it-d11/estathe-it-d11/2026-06/promo_borsa%20mare.png",
+              "image": "https://s3.eu-west-1.amazonaws.com/ferrero-kube-stack-prod-static/estathe-it-d11/estathe-it-d11/2026-06/promo_borsa%20mare.png",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=estathe.it&sz=256",
+              "termsUrl": "https://estatheborsamare26.estathe.it/docs/regolamento-ferrero-estathe.pdf",
+              "approved": true,
+              "mechanic": "instant_win",
+              "badges": [
+                "Vinci subito",
+                "Con scontrino"
+              ]
+            },
+            {
               "id": "angelo-parodi-accendi-gusto-estate-2026",
               "title": "Accendi il Gusto dell'Estate",
               "prize": "Gift card Angelo Parodi da 50€ ogni giorno e una fornitura annuale di prodotti",
@@ -51,7 +99,7 @@
                 "Con scontrino"
               ]
             },
-             {
+            {
               "id": "nesquik-pokemon-fiamme-spettrali-2026",
               "title": "Vinci Gioco di Carte Collezionabili Pokémon",
               "prize": "100 confezioni da 10 carte collezionabili Pokémon MegaEvoluzione Fiamme Spettrali in estrazione finale",
@@ -75,31 +123,7 @@
                 "Con scontrino"
               ]
             },
-                        {
-              "id": "estathe-borsa-mare-2026",
-              "title": "Estathé Borsa Mare 2026",
-              "prize": "500 borse mare Gassa d'Amante del valore di 95€ ciascuna",
-              "platform": "Estathé",
-              "category": "Tempo Libero",
-              "deadline": "2026-08-05",
-              "url": "https://estatheborsamare26.estathe.it/index.html",
-              "imageUrl": "https://s3.eu-west-1.amazonaws.com/ferrero-kube-stack-prod-static/estathe-it-d11/estathe-it-d11/2026-06/promo_borsa%20mare.png",
-              "cover": "https://s3.eu-west-1.amazonaws.com/ferrero-kube-stack-prod-static/estathe-it-d11/estathe-it-d11/2026-06/promo_borsa%20mare.png",
-              "coverUrl": "https://s3.eu-west-1.amazonaws.com/ferrero-kube-stack-prod-static/estathe-it-d11/estathe-it-d11/2026-06/promo_borsa%20mare.png",
-              "brandImage": "https://s3.eu-west-1.amazonaws.com/ferrero-kube-stack-prod-static/estathe-it-d11/estathe-it-d11/2026-06/promo_borsa%20mare.png",
-              "ogImage": "https://s3.eu-west-1.amazonaws.com/ferrero-kube-stack-prod-static/estathe-it-d11/estathe-it-d11/2026-06/promo_borsa%20mare.png",
-              "twitterImage": "https://s3.eu-west-1.amazonaws.com/ferrero-kube-stack-prod-static/estathe-it-d11/estathe-it-d11/2026-06/promo_borsa%20mare.png",
-              "image": "https://s3.eu-west-1.amazonaws.com/ferrero-kube-stack-prod-static/estathe-it-d11/estathe-it-d11/2026-06/promo_borsa%20mare.png",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=estathe.it&sz=256",
-              "termsUrl": "https://estatheborsamare26.estathe.it/docs/regolamento-ferrero-estathe.pdf",
-              "approved": true,
-              "mechanic": "instant_win",
-              "badges": [
-                "Vinci subito",
-                "Con scontrino"
-              ]
-            },
-             {
+            {
               "id": "garda-trentino-notte-in-palafitta-2026",
               "title": "Una notte in palafitta 2026",
               "prize": "Notte in palafitta per massimo 3 persone, visita guidata, viaggio e voucher Garda Trentino da 150€",
@@ -122,30 +146,6 @@
                 "Estrazione",
                 "Senza acquisto"
               ]
-            },
-            {
-              "id": "zurich-game-2026",
-              "title": "Zurich Game 2026",
-              "prize": "Portacarte Secrid x Freitag, stampanti foto Polaroid e cuffie wireless Marshall",
-              "platform": "Zurich",
-              "category": "Tech",
-              "deadline": "2026-12-31",
-              "url": "https://www.zurich.it/zurich-game",
-              "imageUrl": "https://www.google.com/s2/favicons?domain=zurich.it&sz=256",
-              "cover": "https://www.google.com/s2/favicons?domain=zurich.it&sz=256",
-              "coverUrl": "https://www.google.com/s2/favicons?domain=zurich.it&sz=256",
-              "brandImage": "https://www.google.com/s2/favicons?domain=zurich.it&sz=256",
-              "ogImage": "",
-              "twitterImage": "",
-              "image": "https://www.google.com/s2/favicons?domain=zurich.it&sz=256",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=zurich.it&sz=256",
-              "termsUrl": "https://www.zurich.it/zurich-per-te/concorsi-e-operazioni-a-premio",
-              "approved": true,
-              "mechanic": "quiz",
-              "badges": [
-                "Quiz",
-                "Estrazione"
-              ]
             }
           ]
         },
@@ -161,7 +161,31 @@
             "showCategory": true
           },
           "contests": [
-             {
+            {
+              "id": "concorso-lavazza-vinci-un-viaggio-in-madagascar-e-50-trolley-2026",
+              "title": "Concorso Lavazza “Vinci un viaggio in Madagascar”… e 50 trolley!",
+              "prize": "In palio premi esclusivi firmati Lavazza e un indimenticabile viaggio in Madagascar.",
+              "platform": "Lavazza",
+              "category": "Viaggi",
+              "deadline": "2026-09-08",
+              "url": "https://vincimadagascar.concorsi.lavazza.it/it/home",
+              "termsUrl": "https://vincimadagascar.concorsi.lavazza.it/upl/loyalty/Reg_vincimadagascar.pdf",
+              "approved": true,
+              "mechanic": "instant_win",
+              "badges": [
+                "Vinci subito",
+                "Con scontrino"
+              ],
+              "imageUrl": "https://lavazza.youser.tech/upl/entities/page/pack-lavazza-red-madagascar.png",
+              "providerLogoUrl": "https://lavazza.youser.tech/upl/entities/page/pack-lavazza-red-madagascar.png",
+              "cover": "https://lavazza.youser.tech/upl/entities/page/madagascar-hero.png",
+              "coverUrl": "https://lavazza.youser.tech/upl/entities/page/madagascar-hero.png",
+              "brandImage": "https://lavazza.youser.tech/upl/entities/page/madagascar-hero.png",
+              "ogImage": "https://lavazza.youser.tech/upl/entities/page/madagascar-hero.png",
+              "twitterImage": "https://lavazza.youser.tech/upl/entities/page/madagascar-hero.png",
+              "image": "https://lavazza.youser.tech/upl/entities/page/madagascar-hero.png"
+            },
+            {
               "id": "concorso-duck-e-mr-muscle-ogni-giorno-premi-philips-friggitrice-ad-aria-purificatore-2026",
               "title": "Concorso Duck e Mr Muscle: ogni giorno premi Philips (friggitrice ad aria, purificatore)",
               "prize": "Philips Airfryer Serie 3000 – Philips Purificatore d’aria PureProtect Mini Serie 900",
@@ -184,102 +208,6 @@
               "ogImage": "https://www.vinciconscj.it/webapp/assets/images/og-image.jpg",
               "twitterImage": "https://www.vinciconscj.it/webapp/assets/images/og-image.jpg",
               "image": "https://www.vinciconscj.it/webapp/assets/images/og-image.jpg"
-            },
-            {
-              "id": "concorso-rio-mare-vinci-sup-e-voucher-da-10-000-2026",
-              "title": "Concorso Rio Mare, vinci SUP e voucher da 10.000€",
-              "prize": "SUP e voucher da 10.000€",
-              "platform": "Rio Mare",
-              "category": "Shopping",
-              "deadline": "2026-10-07",
-              "url": "https://gustoestate.riomare.it/",
-              "termsUrl": "https://gustoestate.riomare.it/regolamento.pdf",
-              "approved": true,
-              "mechanic": "instant_win",
-              "badges": [
-                "Vinci subito",
-                "Con scontrino"
-              ],
-              "imageUrl": "https://gustoestate.riomare.it/_nuxt/barca.vCyODTWV.png",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=gustoestate.riomare.it&sz=256",
-              "cover": "https://www.google.com/s2/favicons?domain=gustoestate.riomare.it&sz=256",
-              "coverUrl": "https://www.google.com/s2/favicons?domain=gustoestate.riomare.it&sz=256",
-              "brandImage": "https://www.google.com/s2/favicons?domain=gustoestate.riomare.it&sz=256",
-              "ogImage": "https://www.google.com/s2/favicons?domain=gustoestate.riomare.it&sz=256",
-              "twitterImage": "https://www.google.com/s2/favicons?domain=gustoestate.riomare.it&sz=256",
-              "image": "https://www.google.com/s2/favicons?domain=gustoestate.riomare.it&sz=256"
-            },
-              {
-              "id": "vita-da-comix-2027",
-              "title": "Vita Da Comix 2027",
-              "prize": "90 Controller wireless dualsense® del valore di 84,99€ cad.; 1 KIT del valore complessivo di 879,95 €, composto da:; N°1 console Playstation®5; N°3 Controller wireless dualsense®; N° 1 Cover della Hyperpop Collection; N°1 console Playstation®5 del valore di 549,99 €; 1 Playstation® Store Card del valore di 150 €",
-              "platform": "Comix",
-              "category": "Tech",
-              "deadline": "2026-10-12",
-              "url": "https://www.comix.it/concorso/",
-              "termsUrl": "https://www.comix.it/regolamento_concorso.pdf",
-              "approved": true,
-              "mechanic": "instant_win",
-              "badges": [
-                "Vinci subito",
-                "Senza acquisto"
-              ],
-              "imageUrl": "https://www.comix.it/wp-content/themes/twentyseventeen-child/concorso/assets/d3f39980c7a82b21907f910a92d0f34b36290cfb-CPl8nruH.png",
-              "providerLogoUrl": "https://www.comix.it/wp-content/themes/twentyseventeen-child/concorso/assets/d3f39980c7a82b21907f910a92d0f34b36290cfb-CPl8nruH.png",
-              "cover": "https://www.comix.it/wp-content/themes/twentyseventeen-child/concorso/assets/slide1.png",
-              "coverUrl": "https://www.comix.it/wp-content/themes/twentyseventeen-child/concorso/assets/slide1.png",
-              "brandImage": "https://www.comix.it/wp-content/themes/twentyseventeen-child/concorso/assets/slide1.png",
-              "ogImage": "https://www.comix.it/wp-content/themes/twentyseventeen-child/concorso/assets/slide1.png",
-              "twitterImage": "",
-              "image": ""
-            },
-             {
-              "id": "concorso-la-molisana-primi-nel-benessere-vinci-friggitrici-ad-aria-philips-2026",
-              "title": "Concorso La Molisana “Primi nel benessere”… vinci friggitrici ad aria Philips",
-              "prize": "friggitrici ad aria Philips",
-              "platform": "La Molisana",
-              "category": "Benessere",
-              "deadline": "2026-08-08",
-              "url": "https://www.loverstenaci.com/contest",
-              "termsUrl": "https://www.loverstenaci.com/Regolamento_Benessere_2026.pdf",
-              "approved": true,
-              "mechanic": "instant_win",
-              "badges": [
-                "Vinci subito",
-                "Con scontrino"
-              ],
-              "imageUrl": "https://www.loverstenaci.com/share.jpg",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=loverstenaci.com&sz=256",
-              "cover": "https://www.loverstenaci.com/share.jpg",
-              "coverUrl": "https://www.loverstenaci.com/share.jpg",
-              "brandImage": "https://www.loverstenaci.com/share.jpg",
-              "ogImage": "https://www.loverstenaci.com/share.jpg",
-              "twitterImage": "https://www.loverstenaci.com/share.jpg",
-              "image": "https://www.loverstenaci.com/share.jpg"
-            },
-           {
-              "id": "concorso-dove-una-festa-per-le-tue-ascelle-vinci-4-viaggi-al-carnevale-di-rio-de-janeiro-2026",
-              "title": "Concorso Dove una festa per le tue ascelle… vinci 4 viaggi al Carnevale di Rio de Janeiro",
-              "prize": "4 viaggi al Carnevale di Rio de Janeiro",
-              "platform": "Dove",
-              "category": "Viaggi",
-              "deadline": "2026-09-30",
-              "url": "https://doveunafestaperleascelle.it/",
-              "termsUrl": "https://doveunafestaperleascelle.it/regolamento.pdf",
-              "approved": true,
-              "mechanic": "missions",
-              "badges": [
-                "Missioni",
-                "Con scontrino"
-              ],
-              "imageUrl": "https://doveunafestaperleascelle.it/_nuxt/prodotti.C2jVzkTk.png",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=doveunafestaperleascelle.it&sz=256",
-              "cover": "https://www.google.com/s2/favicons?domain=doveunafestaperleascelle.it&sz=256",
-              "coverUrl": "https://www.google.com/s2/favicons?domain=doveunafestaperleascelle.it&sz=256",
-              "brandImage": "https://www.google.com/s2/favicons?domain=doveunafestaperleascelle.it&sz=256",
-              "ogImage": "https://www.google.com/s2/favicons?domain=doveunafestaperleascelle.it&sz=256",
-              "twitterImage": "https://www.google.com/s2/favicons?domain=doveunafestaperleascelle.it&sz=256",
-              "image": "https://www.google.com/s2/favicons?domain=doveunafestaperleascelle.it&sz=256"
             },
             {
               "id": "santangelo-premia-i-tuoi-acquisti-2026",
@@ -306,29 +234,101 @@
               "twitterImage": "",
               "image": "https://www.google.com/s2/favicons?domain=santangeloutlet.com&sz=256"
             },
-             {
-              "id": "barilla-vinci-monza-f1-2026",
-              "title": "Barilla Vinci Monza 2026",
-              "prize": "100 esperienze VIP per 2 persone al Formula 1 Pirelli Gran Premio d'Italia 2026 di Monza",
-              "platform": "Barilla",
-              "category": "Sport",
+            {
+              "id": "concorso-rio-mare-vinci-sup-e-voucher-da-10-000-2026",
+              "title": "Concorso Rio Mare, vinci SUP e voucher da 10.000€",
+              "prize": "SUP e voucher da 10.000€",
+              "platform": "Rio Mare",
+              "category": "Shopping",
+              "deadline": "2026-10-07",
+              "url": "https://gustoestate.riomare.it/",
+              "termsUrl": "https://gustoestate.riomare.it/regolamento.pdf",
+              "approved": true,
               "mechanic": "instant_win",
               "badges": [
                 "Vinci subito",
                 "Con scontrino"
               ],
-              "deadline": "2026-07-31",
-              "url": "https://promo-f1.barilla.com/it-it/vincimonza/",
-              "termsUrl": "https://promo-f1.barilla.com/it-it/vincimonza/regolamento",
+              "imageUrl": "https://gustoestate.riomare.it/_nuxt/barca.vCyODTWV.png",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=gustoestate.riomare.it&sz=256",
+              "cover": "https://www.google.com/s2/favicons?domain=gustoestate.riomare.it&sz=256",
+              "coverUrl": "https://www.google.com/s2/favicons?domain=gustoestate.riomare.it&sz=256",
+              "brandImage": "https://www.google.com/s2/favicons?domain=gustoestate.riomare.it&sz=256",
+              "ogImage": "https://www.google.com/s2/favicons?domain=gustoestate.riomare.it&sz=256",
+              "twitterImage": "https://www.google.com/s2/favicons?domain=gustoestate.riomare.it&sz=256",
+              "image": "https://www.google.com/s2/favicons?domain=gustoestate.riomare.it&sz=256"
+            },
+            {
+              "id": "vita-da-comix-2027",
+              "title": "Vita Da Comix 2027",
+              "prize": "90 Controller wireless dualsense® del valore di 84,99€ cad.; 1 KIT del valore complessivo di 879,95 €, composto da:; N°1 console Playstation®5; N°3 Controller wireless dualsense®; N° 1 Cover della Hyperpop Collection; N°1 console Playstation®5 del valore di 549,99 €; 1 Playstation® Store Card del valore di 150 €",
+              "platform": "Comix",
+              "category": "Tech",
+              "deadline": "2026-10-12",
+              "url": "https://www.comix.it/concorso/",
+              "termsUrl": "https://www.comix.it/regolamento_concorso.pdf",
               "approved": true,
-              "imageUrl": "https://www.google.com/s2/favicons?domain=barilla.com&sz=256",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=barilla.com&sz=256",
-              "cover": "https://www.google.com/s2/favicons?domain=barilla.com&sz=256",
-              "coverUrl": "https://www.google.com/s2/favicons?domain=barilla.com&sz=256",
-              "brandImage": "https://www.google.com/s2/favicons?domain=barilla.com&sz=256",
-              "ogImage": "",
+              "mechanic": "instant_win",
+              "badges": [
+                "Vinci subito",
+                "Senza acquisto"
+              ],
+              "imageUrl": "https://www.comix.it/wp-content/themes/twentyseventeen-child/concorso/assets/d3f39980c7a82b21907f910a92d0f34b36290cfb-CPl8nruH.png",
+              "providerLogoUrl": "https://www.comix.it/wp-content/themes/twentyseventeen-child/concorso/assets/d3f39980c7a82b21907f910a92d0f34b36290cfb-CPl8nruH.png",
+              "cover": "https://www.comix.it/wp-content/themes/twentyseventeen-child/concorso/assets/slide1.png",
+              "coverUrl": "https://www.comix.it/wp-content/themes/twentyseventeen-child/concorso/assets/slide1.png",
+              "brandImage": "https://www.comix.it/wp-content/themes/twentyseventeen-child/concorso/assets/slide1.png",
+              "ogImage": "https://www.comix.it/wp-content/themes/twentyseventeen-child/concorso/assets/slide1.png",
               "twitterImage": "",
-              "image": "https://www.google.com/s2/favicons?domain=barilla.com&sz=256"
+              "image": ""
+            },
+            {
+              "id": "concorso-la-molisana-primi-nel-benessere-vinci-friggitrici-ad-aria-philips-2026",
+              "title": "Concorso La Molisana “Primi nel benessere”… vinci friggitrici ad aria Philips",
+              "prize": "friggitrici ad aria Philips",
+              "platform": "La Molisana",
+              "category": "Benessere",
+              "deadline": "2026-08-08",
+              "url": "https://www.loverstenaci.com/contest",
+              "termsUrl": "https://www.loverstenaci.com/Regolamento_Benessere_2026.pdf",
+              "approved": true,
+              "mechanic": "instant_win",
+              "badges": [
+                "Vinci subito",
+                "Con scontrino"
+              ],
+              "imageUrl": "https://www.loverstenaci.com/share.jpg",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=loverstenaci.com&sz=256",
+              "cover": "https://www.loverstenaci.com/share.jpg",
+              "coverUrl": "https://www.loverstenaci.com/share.jpg",
+              "brandImage": "https://www.loverstenaci.com/share.jpg",
+              "ogImage": "https://www.loverstenaci.com/share.jpg",
+              "twitterImage": "https://www.loverstenaci.com/share.jpg",
+              "image": "https://www.loverstenaci.com/share.jpg"
+            },
+            {
+              "id": "concorso-dove-una-festa-per-le-tue-ascelle-vinci-4-viaggi-al-carnevale-di-rio-de-janeiro-2026",
+              "title": "Concorso Dove una festa per le tue ascelle… vinci 4 viaggi al Carnevale di Rio de Janeiro",
+              "prize": "4 viaggi al Carnevale di Rio de Janeiro",
+              "platform": "Dove",
+              "category": "Viaggi",
+              "deadline": "2026-09-30",
+              "url": "https://doveunafestaperleascelle.it/",
+              "termsUrl": "https://doveunafestaperleascelle.it/regolamento.pdf",
+              "approved": true,
+              "mechanic": "missions",
+              "badges": [
+                "Missioni",
+                "Con scontrino"
+              ],
+              "imageUrl": "https://doveunafestaperleascelle.it/_nuxt/prodotti.C2jVzkTk.png",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=doveunafestaperleascelle.it&sz=256",
+              "cover": "https://www.google.com/s2/favicons?domain=doveunafestaperleascelle.it&sz=256",
+              "coverUrl": "https://www.google.com/s2/favicons?domain=doveunafestaperleascelle.it&sz=256",
+              "brandImage": "https://www.google.com/s2/favicons?domain=doveunafestaperleascelle.it&sz=256",
+              "ogImage": "https://www.google.com/s2/favicons?domain=doveunafestaperleascelle.it&sz=256",
+              "twitterImage": "https://www.google.com/s2/favicons?domain=doveunafestaperleascelle.it&sz=256",
+              "image": "https://www.google.com/s2/favicons?domain=doveunafestaperleascelle.it&sz=256"
             }
           ]
         },
@@ -1100,30 +1100,6 @@
               "badges": [
                 "Estrazione",
                 "Con scontrino"
-              ]
-            },
-            {
-              "id": "zurich-game-2026",
-              "title": "Zurich Game 2026",
-              "prize": "Portacarte Secrid x Freitag, stampanti foto Polaroid e cuffie wireless Marshall",
-              "platform": "Zurich",
-              "category": "Tech",
-              "deadline": "2026-12-31",
-              "url": "https://www.zurich.it/zurich-game",
-              "imageUrl": "https://www.google.com/s2/favicons?domain=zurich.it&sz=256",
-              "cover": "https://www.google.com/s2/favicons?domain=zurich.it&sz=256",
-              "coverUrl": "https://www.google.com/s2/favicons?domain=zurich.it&sz=256",
-              "brandImage": "https://www.google.com/s2/favicons?domain=zurich.it&sz=256",
-              "ogImage": "",
-              "twitterImage": "",
-              "image": "https://www.google.com/s2/favicons?domain=zurich.it&sz=256",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=zurich.it&sz=256",
-              "termsUrl": "https://www.zurich.it/zurich-per-te/concorsi-e-operazioni-a-premio",
-              "approved": true,
-              "mechanic": "quiz",
-              "badges": [
-                "Quiz",
-                "Estrazione"
               ]
             },
             {
@@ -2741,30 +2717,6 @@
               ]
             },
             {
-              "id": "barilla-vinci-monza-f1-2026",
-              "title": "Barilla Vinci Monza 2026",
-              "prize": "100 esperienze VIP per 2 persone al Formula 1 Pirelli Gran Premio d'Italia 2026 di Monza",
-              "platform": "Barilla",
-              "category": "Sport",
-              "mechanic": "instant_win",
-              "badges": [
-                "Vinci subito",
-                "Con scontrino"
-              ],
-              "deadline": "2026-07-31",
-              "url": "https://promo-f1.barilla.com/it-it/vincimonza/",
-              "termsUrl": "https://promo-f1.barilla.com/it-it/vincimonza/regolamento",
-              "approved": true,
-              "imageUrl": "https://www.google.com/s2/favicons?domain=barilla.com&sz=256",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=barilla.com&sz=256",
-              "cover": "https://www.google.com/s2/favicons?domain=barilla.com&sz=256",
-              "coverUrl": "https://www.google.com/s2/favicons?domain=barilla.com&sz=256",
-              "brandImage": "https://www.google.com/s2/favicons?domain=barilla.com&sz=256",
-              "ogImage": "",
-              "twitterImage": "",
-              "image": "https://www.google.com/s2/favicons?domain=barilla.com&sz=256"
-            },
-            {
               "id": "barilla-pesto-set-zafferano-2026",
               "title": "Pesto Barilla Vinci Set Zafferano",
               "prize": "157 set Zafferano Teca con una caraffa e 6 bicchieri in vetro, uno al giorno",
@@ -2887,6 +2839,150 @@
               "ogImage": "",
               "twitterImage": "",
               "image": "https://www.google.com/s2/favicons?domain=sammontana.it&sz=256"
+            },
+            {
+              "id": "concorso-lavazza-vinci-un-viaggio-in-madagascar-e-50-trolley-2026",
+              "title": "Concorso Lavazza “Vinci un viaggio in Madagascar”… e 50 trolley!",
+              "prize": "In palio premi esclusivi firmati Lavazza e un indimenticabile viaggio in Madagascar.",
+              "platform": "Lavazza",
+              "category": "Viaggi",
+              "deadline": "2026-09-08",
+              "url": "https://vincimadagascar.concorsi.lavazza.it/it/home",
+              "termsUrl": "https://vincimadagascar.concorsi.lavazza.it/upl/loyalty/Reg_vincimadagascar.pdf",
+              "approved": true,
+              "mechanic": "instant_win",
+              "badges": [
+                "Vinci subito",
+                "Con scontrino"
+              ],
+              "imageUrl": "https://lavazza.youser.tech/upl/entities/page/pack-lavazza-red-madagascar.png",
+              "providerLogoUrl": "https://lavazza.youser.tech/upl/entities/page/pack-lavazza-red-madagascar.png",
+              "cover": "https://lavazza.youser.tech/upl/entities/page/madagascar-hero.png",
+              "coverUrl": "https://lavazza.youser.tech/upl/entities/page/madagascar-hero.png",
+              "brandImage": "https://lavazza.youser.tech/upl/entities/page/madagascar-hero.png",
+              "ogImage": "https://lavazza.youser.tech/upl/entities/page/madagascar-hero.png",
+              "twitterImage": "https://lavazza.youser.tech/upl/entities/page/madagascar-hero.png",
+              "image": "https://lavazza.youser.tech/upl/entities/page/madagascar-hero.png"
+            },
+            {
+              "id": "concorso-duck-e-mr-muscle-ogni-giorno-premi-philips-friggitrice-ad-aria-purificatore-2026",
+              "title": "Concorso Duck e Mr Muscle: ogni giorno premi Philips (friggitrice ad aria, purificatore)",
+              "prize": "Philips Airfryer Serie 3000 – Philips Purificatore d’aria PureProtect Mini Serie 900",
+              "platform": "Vinciconscj",
+              "category": "Shopping",
+              "deadline": "2026-08-09",
+              "url": "https://www.vinciconscj.it/",
+              "termsUrl": "https://www.vinciconscj.it/documenti/regolamento",
+              "approved": true,
+              "mechanic": "instant_win",
+              "badges": [
+                "Vinci subito",
+                "Con scontrino"
+              ],
+              "imageUrl": "https://www.vinciconscj.it/webapp/assets/images/og-image.jpg",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=vinciconscj.it&sz=256",
+              "cover": "https://www.vinciconscj.it/webapp/assets/images/og-image.jpg",
+              "coverUrl": "https://www.vinciconscj.it/webapp/assets/images/og-image.jpg",
+              "brandImage": "https://www.vinciconscj.it/webapp/assets/images/og-image.jpg",
+              "ogImage": "https://www.vinciconscj.it/webapp/assets/images/og-image.jpg",
+              "twitterImage": "https://www.vinciconscj.it/webapp/assets/images/og-image.jpg",
+              "image": "https://www.vinciconscj.it/webapp/assets/images/og-image.jpg"
+            },
+            {
+              "id": "concorso-rio-mare-vinci-sup-e-voucher-da-10-000-2026",
+              "title": "Concorso Rio Mare, vinci SUP e voucher da 10.000€",
+              "prize": "SUP e voucher da 10.000€",
+              "platform": "Rio Mare",
+              "category": "Shopping",
+              "deadline": "2026-10-07",
+              "url": "https://gustoestate.riomare.it/",
+              "termsUrl": "https://gustoestate.riomare.it/regolamento.pdf",
+              "approved": true,
+              "mechanic": "instant_win",
+              "badges": [
+                "Vinci subito",
+                "Con scontrino"
+              ],
+              "imageUrl": "https://gustoestate.riomare.it/_nuxt/barca.vCyODTWV.png",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=gustoestate.riomare.it&sz=256",
+              "cover": "https://www.google.com/s2/favicons?domain=gustoestate.riomare.it&sz=256",
+              "coverUrl": "https://www.google.com/s2/favicons?domain=gustoestate.riomare.it&sz=256",
+              "brandImage": "https://www.google.com/s2/favicons?domain=gustoestate.riomare.it&sz=256",
+              "ogImage": "https://www.google.com/s2/favicons?domain=gustoestate.riomare.it&sz=256",
+              "twitterImage": "https://www.google.com/s2/favicons?domain=gustoestate.riomare.it&sz=256",
+              "image": "https://www.google.com/s2/favicons?domain=gustoestate.riomare.it&sz=256"
+            },
+            {
+              "id": "vita-da-comix-2027",
+              "title": "Vita Da Comix 2027",
+              "prize": "90 Controller wireless dualsense® del valore di 84,99€ cad.; 1 KIT del valore complessivo di 879,95 €, composto da:; N°1 console Playstation®5; N°3 Controller wireless dualsense®; N° 1 Cover della Hyperpop Collection; N°1 console Playstation®5 del valore di 549,99 €; 1 Playstation® Store Card del valore di 150 €",
+              "platform": "Comix",
+              "category": "Tech",
+              "deadline": "2026-10-12",
+              "url": "https://www.comix.it/concorso/",
+              "termsUrl": "https://www.comix.it/regolamento_concorso.pdf",
+              "approved": true,
+              "mechanic": "instant_win",
+              "badges": [
+                "Vinci subito",
+                "Senza acquisto"
+              ],
+              "imageUrl": "https://www.comix.it/wp-content/themes/twentyseventeen-child/concorso/assets/d3f39980c7a82b21907f910a92d0f34b36290cfb-CPl8nruH.png",
+              "providerLogoUrl": "https://www.comix.it/wp-content/themes/twentyseventeen-child/concorso/assets/d3f39980c7a82b21907f910a92d0f34b36290cfb-CPl8nruH.png",
+              "cover": "https://www.comix.it/wp-content/themes/twentyseventeen-child/concorso/assets/slide1.png",
+              "coverUrl": "https://www.comix.it/wp-content/themes/twentyseventeen-child/concorso/assets/slide1.png",
+              "brandImage": "https://www.comix.it/wp-content/themes/twentyseventeen-child/concorso/assets/slide1.png",
+              "ogImage": "https://www.comix.it/wp-content/themes/twentyseventeen-child/concorso/assets/slide1.png",
+              "twitterImage": "",
+              "image": ""
+            },
+            {
+              "id": "concorso-la-molisana-primi-nel-benessere-vinci-friggitrici-ad-aria-philips-2026",
+              "title": "Concorso La Molisana “Primi nel benessere”… vinci friggitrici ad aria Philips",
+              "prize": "friggitrici ad aria Philips",
+              "platform": "La Molisana",
+              "category": "Benessere",
+              "deadline": "2026-08-08",
+              "url": "https://www.loverstenaci.com/contest",
+              "termsUrl": "https://www.loverstenaci.com/Regolamento_Benessere_2026.pdf",
+              "approved": true,
+              "mechanic": "instant_win",
+              "badges": [
+                "Vinci subito",
+                "Con scontrino"
+              ],
+              "imageUrl": "https://www.loverstenaci.com/share.jpg",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=loverstenaci.com&sz=256",
+              "cover": "https://www.loverstenaci.com/share.jpg",
+              "coverUrl": "https://www.loverstenaci.com/share.jpg",
+              "brandImage": "https://www.loverstenaci.com/share.jpg",
+              "ogImage": "https://www.loverstenaci.com/share.jpg",
+              "twitterImage": "https://www.loverstenaci.com/share.jpg",
+              "image": "https://www.loverstenaci.com/share.jpg"
+            },
+            {
+              "id": "concorso-dove-una-festa-per-le-tue-ascelle-vinci-4-viaggi-al-carnevale-di-rio-de-janeiro-2026",
+              "title": "Concorso Dove una festa per le tue ascelle… vinci 4 viaggi al Carnevale di Rio de Janeiro",
+              "prize": "4 viaggi al Carnevale di Rio de Janeiro",
+              "platform": "Dove",
+              "category": "Viaggi",
+              "deadline": "2026-09-30",
+              "url": "https://doveunafestaperleascelle.it/",
+              "termsUrl": "https://doveunafestaperleascelle.it/regolamento.pdf",
+              "approved": true,
+              "mechanic": "missions",
+              "badges": [
+                "Missioni",
+                "Con scontrino"
+              ],
+              "imageUrl": "https://doveunafestaperleascelle.it/_nuxt/prodotti.C2jVzkTk.png",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=doveunafestaperleascelle.it&sz=256",
+              "cover": "https://www.google.com/s2/favicons?domain=doveunafestaperleascelle.it&sz=256",
+              "coverUrl": "https://www.google.com/s2/favicons?domain=doveunafestaperleascelle.it&sz=256",
+              "brandImage": "https://www.google.com/s2/favicons?domain=doveunafestaperleascelle.it&sz=256",
+              "ogImage": "https://www.google.com/s2/favicons?domain=doveunafestaperleascelle.it&sz=256",
+              "twitterImage": "https://www.google.com/s2/favicons?domain=doveunafestaperleascelle.it&sz=256",
+              "image": "https://www.google.com/s2/favicons?domain=doveunafestaperleascelle.it&sz=256"
             }
           ]
         }
