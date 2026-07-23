@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-23T19:01:02+02:00",
+  "updatedAt": "2026-07-23T19:06:49+02:00",
   "pages": [
     {
       "id": "home",
@@ -184,30 +184,6 @@
               "ogImage": "https://lavazza.youser.tech/upl/entities/page/madagascar-hero.png",
               "twitterImage": "https://lavazza.youser.tech/upl/entities/page/madagascar-hero.png",
               "image": "https://lavazza.youser.tech/upl/entities/page/madagascar-hero.png"
-            },
-            {
-              "id": "concorso-neutrogena-carefree-ob-listerine-piz-buin-johnson-s-baby-130-gift-card-guzzini-2026",
-              "title": "Concorso Neutrogena, Carefree, OB, Listerine, Piz Buin, Johnson’s baby… 130 gift card Guzzini",
-              "prize": "l premio è un buono digitale spendibile sul sito www.guzzini.com",
-              "platform": "Kenvuebrands",
-              "category": "Shopping",
-              "deadline": "2026-12-29",
-              "url": "https://www.kenvuebrands.com/it/scegli-il-meglio-per-chi-ami",
-              "termsUrl": "https://assets.ctfassets.net/za5qny03n4xo/1IJGmbWFl7uACXhMiytbmv/e971b82d978c5fbeaa60c0221914d500/2025_0580_Regolamento_1_1_PDFA_1.pdf",
-              "approved": true,
-              "mechanic": "instant_win",
-              "badges": [
-                "Vinci subito",
-                "Con scontrino"
-              ],
-              "imageUrl": "https://images.ctfassets.net/za5qny03n4xo/6bhSg5AFsZC9KlhO7PjLZr/e7600798b6d09f41093b296cfca53c47/banner-sito.jpg?fm=webp&w=3840",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=kenvuebrands.com&sz=256",
-              "cover": "https://images.ctfassets.net/za5qny03n4xo/20xLgGt05cuNt1YZXTYSn/32fc5309cfe9fdd5bd7c153c0bb61b8e/banner__1__JPG.Jpg?fm=webp&w=1920",
-              "coverUrl": "https://images.ctfassets.net/za5qny03n4xo/20xLgGt05cuNt1YZXTYSn/32fc5309cfe9fdd5bd7c153c0bb61b8e/banner__1__JPG.Jpg?fm=webp&w=1920",
-              "brandImage": "https://images.ctfassets.net/za5qny03n4xo/20xLgGt05cuNt1YZXTYSn/32fc5309cfe9fdd5bd7c153c0bb61b8e/banner__1__JPG.Jpg?fm=webp&w=1920",
-              "ogImage": "https://images.ctfassets.net/za5qny03n4xo/20xLgGt05cuNt1YZXTYSn/32fc5309cfe9fdd5bd7c153c0bb61b8e/banner__1__JPG.Jpg?fm=webp&w=1920",
-              "twitterImage": "https://images.ctfassets.net/za5qny03n4xo/20xLgGt05cuNt1YZXTYSn/32fc5309cfe9fdd5bd7c153c0bb61b8e/banner__1__JPG.Jpg?fm=webp&w=1920",
-              "image": "https://images.ctfassets.net/za5qny03n4xo/20xLgGt05cuNt1YZXTYSn/32fc5309cfe9fdd5bd7c153c0bb61b8e/banner__1__JPG.Jpg?fm=webp&w=1920"
             },
             {
               "id": "concorso-duck-e-mr-muscle-ogni-giorno-premi-philips-friggitrice-ad-aria-purificatore-2026",
@@ -2887,30 +2863,6 @@
               "ogImage": "https://lavazza.youser.tech/upl/entities/page/madagascar-hero.png",
               "twitterImage": "https://lavazza.youser.tech/upl/entities/page/madagascar-hero.png",
               "image": "https://lavazza.youser.tech/upl/entities/page/madagascar-hero.png"
-            },
-            {
-              "id": "concorso-neutrogena-carefree-ob-listerine-piz-buin-johnson-s-baby-130-gift-card-guzzini-2026",
-              "title": "Concorso Neutrogena, Carefree, OB, Listerine, Piz Buin, Johnson’s baby… 130 gift card Guzzini",
-              "prize": "l premio è un buono digitale spendibile sul sito www.guzzini.com",
-              "platform": "Kenvuebrands",
-              "category": "Shopping",
-              "deadline": "2026-12-29",
-              "url": "https://www.kenvuebrands.com/it/scegli-il-meglio-per-chi-ami",
-              "termsUrl": "https://assets.ctfassets.net/za5qny03n4xo/1IJGmbWFl7uACXhMiytbmv/e971b82d978c5fbeaa60c0221914d500/2025_0580_Regolamento_1_1_PDFA_1.pdf",
-              "approved": true,
-              "mechanic": "instant_win",
-              "badges": [
-                "Vinci subito",
-                "Con scontrino"
-              ],
-              "imageUrl": "https://images.ctfassets.net/za5qny03n4xo/6bhSg5AFsZC9KlhO7PjLZr/e7600798b6d09f41093b296cfca53c47/banner-sito.jpg?fm=webp&w=3840",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=kenvuebrands.com&sz=256",
-              "cover": "https://images.ctfassets.net/za5qny03n4xo/20xLgGt05cuNt1YZXTYSn/32fc5309cfe9fdd5bd7c153c0bb61b8e/banner__1__JPG.Jpg?fm=webp&w=1920",
-              "coverUrl": "https://images.ctfassets.net/za5qny03n4xo/20xLgGt05cuNt1YZXTYSn/32fc5309cfe9fdd5bd7c153c0bb61b8e/banner__1__JPG.Jpg?fm=webp&w=1920",
-              "brandImage": "https://images.ctfassets.net/za5qny03n4xo/20xLgGt05cuNt1YZXTYSn/32fc5309cfe9fdd5bd7c153c0bb61b8e/banner__1__JPG.Jpg?fm=webp&w=1920",
-              "ogImage": "https://images.ctfassets.net/za5qny03n4xo/20xLgGt05cuNt1YZXTYSn/32fc5309cfe9fdd5bd7c153c0bb61b8e/banner__1__JPG.Jpg?fm=webp&w=1920",
-              "twitterImage": "https://images.ctfassets.net/za5qny03n4xo/20xLgGt05cuNt1YZXTYSn/32fc5309cfe9fdd5bd7c153c0bb61b8e/banner__1__JPG.Jpg?fm=webp&w=1920",
-              "image": "https://images.ctfassets.net/za5qny03n4xo/20xLgGt05cuNt1YZXTYSn/32fc5309cfe9fdd5bd7c153c0bb61b8e/banner__1__JPG.Jpg?fm=webp&w=1920"
             },
             {
               "id": "concorso-duck-e-mr-muscle-ogni-giorno-premi-philips-friggitrice-ad-aria-purificatore-2026",
