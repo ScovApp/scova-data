@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-23T19:06:49+02:00",
+  "updatedAt": "2026-07-24T14:53:59+02:00",
   "pages": [
     {
       "id": "home",
@@ -47,6 +47,54 @@
               "mechanic": "instant_win",
               "badges": [
                 "Vinci subito",
+                "Con scontrino"
+              ]
+            },
+            {
+              "id": "garda-trentino-notte-in-palafitta-2026",
+              "title": "Una notte in palafitta 2026",
+              "prize": "Notte in palafitta per massimo 3 persone, visita guidata, viaggio e voucher Garda Trentino da 150€",
+              "platform": "Garda Trentino / Comune di Ledro",
+              "category": "Viaggi",
+              "deadline": "2026-07-31",
+              "url": "https://www.gardatrentino.it/it/localita/valle-di-ledro/notte-in-palafitta",
+              "imageUrl": "https://www.gardatrentino.it/website_images/Scopri/Localita/Ledro/Palafitte/image-thumb__11186__header/GARDADOLOMITI_WATCHSOME_LEDRO_PALAFITTE_Notte_Iin_Palafitta.jpg",
+              "cover": "https://www.gardatrentino.it/website_images/Scopri/Localita/Ledro/Palafitte/image-thumb__11186__header/GARDADOLOMITI_WATCHSOME_LEDRO_PALAFITTE_Notte_Iin_Palafitta.jpg",
+              "coverUrl": "https://www.gardatrentino.it/website_images/Scopri/Localita/Ledro/Palafitte/image-thumb__11186__header/GARDADOLOMITI_WATCHSOME_LEDRO_PALAFITTE_Notte_Iin_Palafitta.jpg",
+              "brandImage": "https://www.gardatrentino.it/website_images/Scopri/Localita/Ledro/Palafitte/image-thumb__11186__header/GARDADOLOMITI_WATCHSOME_LEDRO_PALAFITTE_Notte_Iin_Palafitta.jpg",
+              "ogImage": "https://www.gardatrentino.it/website_images/Scopri/Localita/Ledro/Palafitte/image-thumb__11186__header/GARDADOLOMITI_WATCHSOME_LEDRO_PALAFITTE_Notte_Iin_Palafitta.jpg",
+              "twitterImage": "https://www.gardatrentino.it/website_images/Scopri/Localita/Ledro/Palafitte/image-thumb__11186__header/GARDADOLOMITI_WATCHSOME_LEDRO_PALAFITTE_Notte_Iin_Palafitta.jpg",
+              "image": "https://www.gardatrentino.it/website_images/Scopri/Localita/Ledro/Palafitte/image-thumb__11186__header/GARDADOLOMITI_WATCHSOME_LEDRO_PALAFITTE_Notte_Iin_Palafitta.jpg",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=gardatrentino.it&sz=256",
+              "termsUrl": "https://www.gardatrentino.it/documenti/Notte_In_Palafitta/312_26_003%20TerminiCondizioni_V.pdf",
+              "approved": true,
+              "mechanic": "final_draw",
+              "badges": [
+                "Estrazione",
+                "Senza acquisto"
+              ]
+            },
+            {
+              "id": "nesquik-pokemon-fiamme-spettrali-2026",
+              "title": "Vinci Gioco di Carte Collezionabili Pokémon",
+              "prize": "100 confezioni da 10 carte collezionabili Pokémon MegaEvoluzione Fiamme Spettrali in estrazione finale",
+              "platform": "Nesquik",
+              "category": "Giochi",
+              "deadline": "2026-07-31",
+              "url": "https://www.promozionitaliane.it/nesquik-winter2026/",
+              "imageUrl": "https://www.promozionitaliane.it/nesquik-winter2026/webapp/assets/images/hero-home-mobile.png",
+              "cover": "https://www.promozionitaliane.it/nesquik-winter2026/webapp/assets/images/hero-home-mobile.png",
+              "coverUrl": "https://www.promozionitaliane.it/nesquik-winter2026/webapp/assets/images/hero-home-mobile.png",
+              "brandImage": "https://www.promozionitaliane.it/nesquik-winter2026/webapp/assets/images/hero-home-mobile.png",
+              "ogImage": "https://www.promozionitaliane.it/nesquik-winter2026/webapp/assets/images/hero-home-mobile.png",
+              "twitterImage": "https://www.promozionitaliane.it/nesquik-winter2026/webapp/assets/images/hero-home-mobile.png",
+              "image": "https://www.promozionitaliane.it/nesquik-winter2026/webapp/assets/images/hero-home-mobile.png",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=nesquik.it&sz=256",
+              "termsUrl": "https://www.promozionitaliane.it/nesquik-winter2026/documenti/regolamento",
+              "approved": true,
+              "mechanic": "final_draw",
+              "badges": [
+                "Estrazione",
                 "Con scontrino"
               ]
             },
@@ -98,54 +146,6 @@
                 "Estrazione",
                 "Con scontrino"
               ]
-            },
-            {
-              "id": "nesquik-pokemon-fiamme-spettrali-2026",
-              "title": "Vinci Gioco di Carte Collezionabili Pokémon",
-              "prize": "100 confezioni da 10 carte collezionabili Pokémon MegaEvoluzione Fiamme Spettrali in estrazione finale",
-              "platform": "Nesquik",
-              "category": "Giochi",
-              "deadline": "2026-07-31",
-              "url": "https://www.promozionitaliane.it/nesquik-winter2026/",
-              "imageUrl": "https://www.promozionitaliane.it/nesquik-winter2026/webapp/assets/images/hero-home-mobile.png",
-              "cover": "https://www.promozionitaliane.it/nesquik-winter2026/webapp/assets/images/hero-home-mobile.png",
-              "coverUrl": "https://www.promozionitaliane.it/nesquik-winter2026/webapp/assets/images/hero-home-mobile.png",
-              "brandImage": "https://www.promozionitaliane.it/nesquik-winter2026/webapp/assets/images/hero-home-mobile.png",
-              "ogImage": "https://www.promozionitaliane.it/nesquik-winter2026/webapp/assets/images/hero-home-mobile.png",
-              "twitterImage": "https://www.promozionitaliane.it/nesquik-winter2026/webapp/assets/images/hero-home-mobile.png",
-              "image": "https://www.promozionitaliane.it/nesquik-winter2026/webapp/assets/images/hero-home-mobile.png",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=nesquik.it&sz=256",
-              "termsUrl": "https://www.promozionitaliane.it/nesquik-winter2026/documenti/regolamento",
-              "approved": true,
-              "mechanic": "final_draw",
-              "badges": [
-                "Estrazione",
-                "Con scontrino"
-              ]
-            },
-            {
-              "id": "garda-trentino-notte-in-palafitta-2026",
-              "title": "Una notte in palafitta 2026",
-              "prize": "Notte in palafitta per massimo 3 persone, visita guidata, viaggio e voucher Garda Trentino da 150€",
-              "platform": "Garda Trentino / Comune di Ledro",
-              "category": "Viaggi",
-              "deadline": "2026-07-31",
-              "url": "https://www.gardatrentino.it/it/localita/valle-di-ledro/notte-in-palafitta",
-              "imageUrl": "https://www.gardatrentino.it/website_images/Scopri/Localita/Ledro/Palafitte/image-thumb__11186__header/GARDADOLOMITI_WATCHSOME_LEDRO_PALAFITTE_Notte_Iin_Palafitta.jpg",
-              "cover": "https://www.gardatrentino.it/website_images/Scopri/Localita/Ledro/Palafitte/image-thumb__11186__header/GARDADOLOMITI_WATCHSOME_LEDRO_PALAFITTE_Notte_Iin_Palafitta.jpg",
-              "coverUrl": "https://www.gardatrentino.it/website_images/Scopri/Localita/Ledro/Palafitte/image-thumb__11186__header/GARDADOLOMITI_WATCHSOME_LEDRO_PALAFITTE_Notte_Iin_Palafitta.jpg",
-              "brandImage": "https://www.gardatrentino.it/website_images/Scopri/Localita/Ledro/Palafitte/image-thumb__11186__header/GARDADOLOMITI_WATCHSOME_LEDRO_PALAFITTE_Notte_Iin_Palafitta.jpg",
-              "ogImage": "https://www.gardatrentino.it/website_images/Scopri/Localita/Ledro/Palafitte/image-thumb__11186__header/GARDADOLOMITI_WATCHSOME_LEDRO_PALAFITTE_Notte_Iin_Palafitta.jpg",
-              "twitterImage": "https://www.gardatrentino.it/website_images/Scopri/Localita/Ledro/Palafitte/image-thumb__11186__header/GARDADOLOMITI_WATCHSOME_LEDRO_PALAFITTE_Notte_Iin_Palafitta.jpg",
-              "image": "https://www.gardatrentino.it/website_images/Scopri/Localita/Ledro/Palafitte/image-thumb__11186__header/GARDADOLOMITI_WATCHSOME_LEDRO_PALAFITTE_Notte_Iin_Palafitta.jpg",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=gardatrentino.it&sz=256",
-              "termsUrl": "https://www.gardatrentino.it/documenti/Notte_In_Palafitta/312_26_003%20TerminiCondizioni_V.pdf",
-              "approved": true,
-              "mechanic": "final_draw",
-              "badges": [
-                "Estrazione",
-                "Senza acquisto"
-              ]
             }
           ]
         },
@@ -161,6 +161,30 @@
             "showCategory": true
           },
           "contests": [
+            {
+              "id": "concorso-colgate-harry-potter-vinci-ogni-giorno-funko-pop-e-viaggio-a-londra-2026",
+              "title": "Concorso Colgate Harry Potter… vinci ogni giorno Funko POP (e viaggio a Londra)",
+              "prize": "Vinci ogni giorno il tuo Funko POP! preferito",
+              "platform": "Colgate",
+              "category": "Viaggi",
+              "deadline": "2026-12-31",
+              "url": "https://www.colgate.it/special-offers/harry-potter",
+              "termsUrl": "https://www.colgate.it/content/dam/cp-sites-aem/oral-care/oral-care-center/it_it/special-offers/harry-potter/contests/regolamento-concorso-funkopop.pdf",
+              "approved": true,
+              "mechanic": "instant_win",
+              "badges": [
+                "Vinci subito",
+                "Con scontrino"
+              ],
+              "imageUrl": "https://www.colgate.it/content/dam/cp-sites-aem/oral-care/oral-care-center/it_it/special-offers/harry-potter/contests/harry-pack-test.png",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=colgate.it&sz=256",
+              "cover": "https://www.colgate.it/content/dam/cp-sites-aem/oral-care/oral-care-center/it_it/special-offers/harry-potter/contests/colgate-harry-potter-hero-f.jpg",
+              "coverUrl": "https://www.colgate.it/content/dam/cp-sites-aem/oral-care/oral-care-center/it_it/special-offers/harry-potter/contests/colgate-harry-potter-hero-f.jpg",
+              "brandImage": "https://www.colgate.it/content/dam/cp-sites-aem/oral-care/oral-care-center/it_it/special-offers/harry-potter/contests/colgate-harry-potter-hero-f.jpg",
+              "ogImage": "https://www.colgate.it/content/dam/cp-sites-aem/oral-care/oral-care-center/it_it/special-offers/harry-potter/contests/colgate-harry-potter-hero-f.jpg",
+              "twitterImage": "https://www.colgate.it/content/dam/cp-sites-aem/oral-care/oral-care-center/it_it/special-offers/harry-potter/contests/colgate-harry-potter-hero-f.jpg",
+              "image": "https://www.colgate.it/content/dam/cp-sites-aem/oral-care/oral-care-center/it_it/special-offers/harry-potter/contests/colgate-harry-potter-hero-f.jpg"
+            },
             {
               "id": "concorso-lavazza-vinci-un-viaggio-in-madagascar-e-50-trolley-2026",
               "title": "Concorso Lavazza “Vinci un viaggio in Madagascar”… e 50 trolley!",
@@ -2983,6 +3007,30 @@
               "ogImage": "https://www.google.com/s2/favicons?domain=doveunafestaperleascelle.it&sz=256",
               "twitterImage": "https://www.google.com/s2/favicons?domain=doveunafestaperleascelle.it&sz=256",
               "image": "https://www.google.com/s2/favicons?domain=doveunafestaperleascelle.it&sz=256"
+            },
+            {
+              "id": "concorso-colgate-harry-potter-vinci-ogni-giorno-funko-pop-e-viaggio-a-londra-2026",
+              "title": "Concorso Colgate Harry Potter… vinci ogni giorno Funko POP (e viaggio a Londra)",
+              "prize": "Vinci ogni giorno il tuo Funko POP! preferito",
+              "platform": "Colgate",
+              "category": "Viaggi",
+              "deadline": "2026-12-31",
+              "url": "https://www.colgate.it/special-offers/harry-potter",
+              "termsUrl": "https://www.colgate.it/content/dam/cp-sites-aem/oral-care/oral-care-center/it_it/special-offers/harry-potter/contests/regolamento-concorso-funkopop.pdf",
+              "approved": true,
+              "mechanic": "instant_win",
+              "badges": [
+                "Vinci subito",
+                "Con scontrino"
+              ],
+              "imageUrl": "https://www.colgate.it/content/dam/cp-sites-aem/oral-care/oral-care-center/it_it/special-offers/harry-potter/contests/harry-pack-test.png",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=colgate.it&sz=256",
+              "cover": "https://www.colgate.it/content/dam/cp-sites-aem/oral-care/oral-care-center/it_it/special-offers/harry-potter/contests/colgate-harry-potter-hero-f.jpg",
+              "coverUrl": "https://www.colgate.it/content/dam/cp-sites-aem/oral-care/oral-care-center/it_it/special-offers/harry-potter/contests/colgate-harry-potter-hero-f.jpg",
+              "brandImage": "https://www.colgate.it/content/dam/cp-sites-aem/oral-care/oral-care-center/it_it/special-offers/harry-potter/contests/colgate-harry-potter-hero-f.jpg",
+              "ogImage": "https://www.colgate.it/content/dam/cp-sites-aem/oral-care/oral-care-center/it_it/special-offers/harry-potter/contests/colgate-harry-potter-hero-f.jpg",
+              "twitterImage": "https://www.colgate.it/content/dam/cp-sites-aem/oral-care/oral-care-center/it_it/special-offers/harry-potter/contests/colgate-harry-potter-hero-f.jpg",
+              "image": "https://www.colgate.it/content/dam/cp-sites-aem/oral-care/oral-care-center/it_it/special-offers/harry-potter/contests/colgate-harry-potter-hero-f.jpg"
             }
           ]
         }
