@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-27T13:18:37+02:00",
+  "updatedAt": "2026-07-28T10:24:49+02:00",
   "pages": [
     {
       "id": "home",
@@ -26,6 +26,30 @@
             "showCategory": true
           },
           "contests": [
+            {
+              "id": "motogp-mugello-bez-celebration-t-shirt-vinci-t-shirt-celebrativa-di-marco-bezzecchi-2026",
+              "title": "MotoGP “Mugello – Bez Celebration T-shirt”: vinci t-shirt celebrativa di Marco Bezzecchi",
+              "prize": "t-shirt celebrativa di Marco Bezzecchi",
+              "platform": "Motogp",
+              "category": "Shopping",
+              "deadline": "2026-09-04",
+              "url": "https://fans.motogp.com/quiz/1809718_2924/2026Bezzecchit-shirt.html",
+              "termsUrl": "https://fans.motogp.com/20/ws/screens/?idProduction=2090CFB4-7DAA-4CF6-9539-E07161A44D58&screen=rules",
+              "approved": true,
+              "mechanic": "quiz",
+              "badges": [
+                "Quiz",
+                "Senza acquisto"
+              ],
+              "imageUrl": "https://assets.qualifio.com/2924/82DFCF01-132F-43B0-9E0030357425E70F.png",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=fans.motogp.com&sz=256",
+              "cover": "https://assets.qualifio.com/2924/82DFCF01-132F-43B0-9E0030357425E70F.png",
+              "coverUrl": "https://assets.qualifio.com/2924/82DFCF01-132F-43B0-9E0030357425E70F.png",
+              "brandImage": "https://assets.qualifio.com/2924/82DFCF01-132F-43B0-9E0030357425E70F.png",
+              "ogImage": "https://assets.qualifio.com/2924/82DFCF01-132F-43B0-9E0030357425E70F.png",
+              "twitterImage": "https://assets.qualifio.com/2924/82DFCF01-132F-43B0-9E0030357425E70F.png",
+              "image": "https://assets.qualifio.com/2924/82DFCF01-132F-43B0-9E0030357425E70F.png"
+            },
             {
               "id": "chanteclair-sgrassa-e-balla-2026",
               "title": "Sgrassa e Balla",
@@ -122,30 +146,6 @@
                 "Estrazione",
                 "Con scontrino"
               ]
-            },
-            {
-              "id": "estathe-borsa-mare-2026",
-              "title": "Estathé Borsa Mare 2026",
-              "prize": "500 borse mare Gassa d'Amante del valore di 95€ ciascuna",
-              "platform": "Estathé",
-              "category": "Tempo Libero",
-              "deadline": "2026-08-05",
-              "url": "https://estatheborsamare26.estathe.it/index.html",
-              "imageUrl": "https://s3.eu-west-1.amazonaws.com/ferrero-kube-stack-prod-static/estathe-it-d11/estathe-it-d11/2026-06/promo_borsa%20mare.png",
-              "cover": "https://s3.eu-west-1.amazonaws.com/ferrero-kube-stack-prod-static/estathe-it-d11/estathe-it-d11/2026-06/promo_borsa%20mare.png",
-              "coverUrl": "https://s3.eu-west-1.amazonaws.com/ferrero-kube-stack-prod-static/estathe-it-d11/estathe-it-d11/2026-06/promo_borsa%20mare.png",
-              "brandImage": "https://s3.eu-west-1.amazonaws.com/ferrero-kube-stack-prod-static/estathe-it-d11/estathe-it-d11/2026-06/promo_borsa%20mare.png",
-              "ogImage": "https://s3.eu-west-1.amazonaws.com/ferrero-kube-stack-prod-static/estathe-it-d11/estathe-it-d11/2026-06/promo_borsa%20mare.png",
-              "twitterImage": "https://s3.eu-west-1.amazonaws.com/ferrero-kube-stack-prod-static/estathe-it-d11/estathe-it-d11/2026-06/promo_borsa%20mare.png",
-              "image": "https://s3.eu-west-1.amazonaws.com/ferrero-kube-stack-prod-static/estathe-it-d11/estathe-it-d11/2026-06/promo_borsa%20mare.png",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=estathe.it&sz=256",
-              "termsUrl": "https://estatheborsamare26.estathe.it/docs/regolamento-ferrero-estathe.pdf",
-              "approved": true,
-              "mechanic": "instant_win",
-              "badges": [
-                "Vinci subito",
-                "Con scontrino"
-              ]
             }
           ]
         },
@@ -161,30 +161,6 @@
             "showCategory": true
           },
           "contests": [
-            {
-              "id": "concorso-nivea-sun-estate-2026-3-trolley-al-giorno-viaggio-ai-caraibi",
-              "title": "Concorso “Nivea Sun Estate 2026″… 3 Trolley al giorno + viaggio ai Caraibi!",
-              "prize": "per la fase di Instant Win:; N° 150 Valigie American Tourister Diablast Bagaglio a mano del valore stimato di Euro 81,89 cad iva escl Quantità premi in palio per la fase di Estrazione finale:; N° 1 viaggio per 2 persone in Repubblica Dominicana del valore stimato di Euro 8.200,00 iva escl ove esposta",
-              "platform": "Nivea",
-              "category": "Viaggi",
-              "deadline": "2026-08-31",
-              "url": "https://www.nivea.it/niveasunestate26",
-              "termsUrl": "https://azext-eu.nivea.it/pdf/202607_NIVEASUNEstate2026_Regolamento.pdf",
-              "approved": true,
-              "mechanic": "instant_win",
-              "badges": [
-                "Vinci subito",
-                "Con scontrino"
-              ],
-              "imageUrl": "https://www.google.com/s2/favicons?domain=nivea.it&sz=256",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=nivea.it&sz=256",
-              "cover": "https://www.google.com/s2/favicons?domain=nivea.it&sz=256",
-              "coverUrl": "https://www.google.com/s2/favicons?domain=nivea.it&sz=256",
-              "brandImage": "https://www.google.com/s2/favicons?domain=nivea.it&sz=256",
-              "ogImage": "https://www.google.com/s2/favicons?domain=nivea.it&sz=256",
-              "twitterImage": "https://www.google.com/s2/favicons?domain=nivea.it&sz=256",
-              "image": "https://www.google.com/s2/favicons?domain=nivea.it&sz=256"
-            },
             {
               "id": "concorso-chiquita-vinci-100-set-di-ceramiche-2027",
               "title": "Concorso Chiquita… vinci 100 set di ceramiche",
@@ -208,6 +184,78 @@
               "ogImage": "https://gsewl.cstmapp.com/92/1013592/main/6a1838669bbb4.png",
               "twitterImage": "https://gsewl.cstmapp.com/92/1013592/main/6a1838669bbb4.png",
               "image": "https://gsewl.cstmapp.com/92/1013592/main/6a1838669bbb4.png"
+            },
+            {
+              "id": "arbre-magique-pop-win-vinci-buoni-carburante-da-50-o-fiat-topolino-2026",
+              "title": "Arbre Magique “Pop&Win”: vinci buoni carburante da 50€ o FIAT Topolino",
+              "prize": "buoni carburante da 50€ o FIAT Topolino",
+              "platform": "Popandgo",
+              "category": "Shopping",
+              "deadline": "2026-07-30",
+              "url": "https://www.popandgo.it/",
+              "termsUrl": "https://www.popandgo.it/regolamento.pdf",
+              "approved": true,
+              "mechanic": "instant_win",
+              "badges": [
+                "Vinci subito",
+                "Con scontrino"
+              ],
+              "imageUrl": "https://www.popandgo.it/images/claim.png",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=popandgo.it&sz=256",
+              "cover": "https://www.popandgo.it/images/claim.png",
+              "coverUrl": "https://www.popandgo.it/images/claim.png",
+              "brandImage": "https://www.popandgo.it/images/claim.png",
+              "ogImage": "https://www.popandgo.it/images/claim.png",
+              "twitterImage": "https://www.popandgo.it/images/claim.png",
+              "image": "https://www.popandgo.it/images/claim.png"
+            },
+            {
+              "id": "coop-storie-a-tavola-vinci-gratis-viaggio-in-occasione-del-salone-del-gusto-2026",
+              "title": "COOP “Storie a tavola”: vinci gratis viaggio in occasione del Salone del Gusto",
+              "prize": "Una volta effettuata correttamente l’iscrizione al Concorso, l’Utente avrà accesso alla selezione, che si terrà alla presenza di un Notaio o di un 2 funzionario della Camera di Commercio, entro il termine indicato all’articolo",
+              "platform": "Storieatavola",
+              "category": "Viaggi",
+              "deadline": "2026-08-30",
+              "url": "https://storieatavola.it/",
+              "termsUrl": "https://storieatavola.it/wp-content/uploads/2026/07/regolamento.pdf",
+              "approved": true,
+              "mechanic": "missions",
+              "badges": [
+                "Missioni",
+                "Senza acquisto"
+              ],
+              "imageUrl": "https://storieatavola.it/wp-content/uploads/2026/07/og-image.jpg",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=storieatavola.it&sz=256",
+              "cover": "https://storieatavola.it/wp-content/uploads/2026/07/og-image.jpg",
+              "coverUrl": "https://storieatavola.it/wp-content/uploads/2026/07/og-image.jpg",
+              "brandImage": "https://storieatavola.it/wp-content/uploads/2026/07/og-image.jpg",
+              "ogImage": "https://storieatavola.it/wp-content/uploads/2026/07/og-image.jpg",
+              "twitterImage": "https://storieatavola.it/wp-content/uploads/2026/07/og-image.jpg",
+              "image": "https://storieatavola.it/wp-content/uploads/2026/07/og-image.jpg"
+            },
+            {
+              "id": "concorso-nivea-sun-estate-2026-3-trolley-al-giorno-viaggio-ai-caraibi",
+              "title": "Concorso “Nivea Sun Estate 2026″… 3 Trolley al giorno + viaggio ai Caraibi!",
+              "prize": "per la fase di Instant Win:; N° 150 Valigie American Tourister Diablast Bagaglio a mano del valore stimato di Euro 81,89 cad iva escl Quantità premi in palio per la fase di Estrazione finale:; N° 1 viaggio per 2 persone in Repubblica Dominicana del valore stimato di Euro 8.200,00 iva escl ove esposta",
+              "platform": "Nivea",
+              "category": "Viaggi",
+              "deadline": "2026-08-31",
+              "url": "https://www.nivea.it/niveasunestate26",
+              "termsUrl": "https://azext-eu.nivea.it/pdf/202607_NIVEASUNEstate2026_Regolamento.pdf",
+              "approved": true,
+              "mechanic": "instant_win",
+              "badges": [
+                "Vinci subito",
+                "Con scontrino"
+              ],
+              "imageUrl": "https://www.google.com/s2/favicons?domain=nivea.it&sz=256",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=nivea.it&sz=256",
+              "cover": "https://www.google.com/s2/favicons?domain=nivea.it&sz=256",
+              "coverUrl": "https://www.google.com/s2/favicons?domain=nivea.it&sz=256",
+              "brandImage": "https://www.google.com/s2/favicons?domain=nivea.it&sz=256",
+              "ogImage": "https://www.google.com/s2/favicons?domain=nivea.it&sz=256",
+              "twitterImage": "https://www.google.com/s2/favicons?domain=nivea.it&sz=256",
+              "image": "https://www.google.com/s2/favicons?domain=nivea.it&sz=256"
             },
             {
               "id": "100-anni-usag-vinci-gratis-carrelli-portautensili-valore-oltre-1-000-2026",
@@ -280,30 +328,6 @@
               "ogImage": "https://www.google.com/s2/favicons?domain=doveunafestaperleascelle.it&sz=256",
               "twitterImage": "https://www.google.com/s2/favicons?domain=doveunafestaperleascelle.it&sz=256",
               "image": "https://www.google.com/s2/favicons?domain=doveunafestaperleascelle.it&sz=256"
-            },
-            {
-              "id": "concorso-lavazza-vinci-un-viaggio-in-madagascar-e-50-trolley-2026",
-              "title": "Concorso Lavazza “Vinci un viaggio in Madagascar”… e 50 trolley!",
-              "prize": "In palio premi esclusivi firmati Lavazza e un indimenticabile viaggio in Madagascar.",
-              "platform": "Lavazza",
-              "category": "Viaggi",
-              "deadline": "2026-09-08",
-              "url": "https://vincimadagascar.concorsi.lavazza.it/it/home",
-              "termsUrl": "https://vincimadagascar.concorsi.lavazza.it/upl/loyalty/Reg_vincimadagascar.pdf",
-              "approved": true,
-              "mechanic": "instant_win",
-              "badges": [
-                "Vinci subito",
-                "Con scontrino"
-              ],
-              "imageUrl": "https://lavazza.youser.tech/upl/entities/page/pack-lavazza-red-madagascar.png",
-              "providerLogoUrl": "https://lavazza.youser.tech/upl/entities/page/pack-lavazza-red-madagascar.png",
-              "cover": "https://lavazza.youser.tech/upl/entities/page/madagascar-hero.png",
-              "coverUrl": "https://lavazza.youser.tech/upl/entities/page/madagascar-hero.png",
-              "brandImage": "https://lavazza.youser.tech/upl/entities/page/madagascar-hero.png",
-              "ogImage": "https://lavazza.youser.tech/upl/entities/page/madagascar-hero.png",
-              "twitterImage": "https://lavazza.youser.tech/upl/entities/page/madagascar-hero.png",
-              "image": "https://lavazza.youser.tech/upl/entities/page/madagascar-hero.png"
             },
             {
               "id": "concorso-borotalco-un-viaggio-di-abbracci-ogni-giorno-gift-card-trenitalia-da-150-2026",
@@ -3150,6 +3174,78 @@
               "ogImage": "https://100anniusag.it/wp-content/uploads/2026/04/Carrello2.jpg",
               "twitterImage": "https://100anniusag.it/wp-content/uploads/2026/04/Carrello2.jpg",
               "image": "https://100anniusag.it/wp-content/uploads/2026/04/Carrello2.jpg"
+            },
+            {
+              "id": "arbre-magique-pop-win-vinci-buoni-carburante-da-50-o-fiat-topolino-2026",
+              "title": "Arbre Magique “Pop&Win”: vinci buoni carburante da 50€ o FIAT Topolino",
+              "prize": "buoni carburante da 50€ o FIAT Topolino",
+              "platform": "Popandgo",
+              "category": "Shopping",
+              "deadline": "2026-07-30",
+              "url": "https://www.popandgo.it/",
+              "termsUrl": "https://www.popandgo.it/regolamento.pdf",
+              "approved": true,
+              "mechanic": "instant_win",
+              "badges": [
+                "Vinci subito",
+                "Con scontrino"
+              ],
+              "imageUrl": "https://www.popandgo.it/images/claim.png",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=popandgo.it&sz=256",
+              "cover": "https://www.popandgo.it/images/claim.png",
+              "coverUrl": "https://www.popandgo.it/images/claim.png",
+              "brandImage": "https://www.popandgo.it/images/claim.png",
+              "ogImage": "https://www.popandgo.it/images/claim.png",
+              "twitterImage": "https://www.popandgo.it/images/claim.png",
+              "image": "https://www.popandgo.it/images/claim.png"
+            },
+            {
+              "id": "coop-storie-a-tavola-vinci-gratis-viaggio-in-occasione-del-salone-del-gusto-2026",
+              "title": "COOP “Storie a tavola”: vinci gratis viaggio in occasione del Salone del Gusto",
+              "prize": "Una volta effettuata correttamente l’iscrizione al Concorso, l’Utente avrà accesso alla selezione, che si terrà alla presenza di un Notaio o di un 2 funzionario della Camera di Commercio, entro il termine indicato all’articolo",
+              "platform": "Storieatavola",
+              "category": "Viaggi",
+              "deadline": "2026-08-30",
+              "url": "https://storieatavola.it/",
+              "termsUrl": "https://storieatavola.it/wp-content/uploads/2026/07/regolamento.pdf",
+              "approved": true,
+              "mechanic": "missions",
+              "badges": [
+                "Missioni",
+                "Senza acquisto"
+              ],
+              "imageUrl": "https://storieatavola.it/wp-content/uploads/2026/07/og-image.jpg",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=storieatavola.it&sz=256",
+              "cover": "https://storieatavola.it/wp-content/uploads/2026/07/og-image.jpg",
+              "coverUrl": "https://storieatavola.it/wp-content/uploads/2026/07/og-image.jpg",
+              "brandImage": "https://storieatavola.it/wp-content/uploads/2026/07/og-image.jpg",
+              "ogImage": "https://storieatavola.it/wp-content/uploads/2026/07/og-image.jpg",
+              "twitterImage": "https://storieatavola.it/wp-content/uploads/2026/07/og-image.jpg",
+              "image": "https://storieatavola.it/wp-content/uploads/2026/07/og-image.jpg"
+            },
+            {
+              "id": "motogp-mugello-bez-celebration-t-shirt-vinci-t-shirt-celebrativa-di-marco-bezzecchi-2026",
+              "title": "MotoGP “Mugello – Bez Celebration T-shirt”: vinci t-shirt celebrativa di Marco Bezzecchi",
+              "prize": "t-shirt celebrativa di Marco Bezzecchi",
+              "platform": "Motogp",
+              "category": "Shopping",
+              "deadline": "2026-09-04",
+              "url": "https://fans.motogp.com/quiz/1809718_2924/2026Bezzecchit-shirt.html",
+              "termsUrl": "https://fans.motogp.com/20/ws/screens/?idProduction=2090CFB4-7DAA-4CF6-9539-E07161A44D58&screen=rules",
+              "approved": true,
+              "mechanic": "quiz",
+              "badges": [
+                "Quiz",
+                "Senza acquisto"
+              ],
+              "imageUrl": "https://assets.qualifio.com/2924/82DFCF01-132F-43B0-9E0030357425E70F.png",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=fans.motogp.com&sz=256",
+              "cover": "https://assets.qualifio.com/2924/82DFCF01-132F-43B0-9E0030357425E70F.png",
+              "coverUrl": "https://assets.qualifio.com/2924/82DFCF01-132F-43B0-9E0030357425E70F.png",
+              "brandImage": "https://assets.qualifio.com/2924/82DFCF01-132F-43B0-9E0030357425E70F.png",
+              "ogImage": "https://assets.qualifio.com/2924/82DFCF01-132F-43B0-9E0030357425E70F.png",
+              "twitterImage": "https://assets.qualifio.com/2924/82DFCF01-132F-43B0-9E0030357425E70F.png",
+              "image": "https://assets.qualifio.com/2924/82DFCF01-132F-43B0-9E0030357425E70F.png"
             }
           ]
         }
