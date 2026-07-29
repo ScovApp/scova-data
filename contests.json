@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-28T10:24:49+02:00",
+  "updatedAt": "2026-07-29T09:56:45+02:00",
   "pages": [
     {
       "id": "home",
@@ -26,6 +26,102 @@
             "showCategory": true
           },
           "contests": [
+            {
+              "id": "bella-napoli-buitoni-accendi-la-tua-passione-vinci-gift-card-da-100-per-abbigliamento-sportivo-2026",
+              "title": "Bella Napoli Buitoni “Accendi la tua passione”: vinci gift card da 100€ per abbigliamento sportivo",
+              "prize": "gift card da 100€ per abbigliamento sportivo",
+              "platform": "Accendilatuapassione",
+              "category": "Sport",
+              "deadline": "2026-10-31",
+              "url": "https://www.accendilatuapassione.it/",
+              "termsUrl": "https://www.accendilatuapassione.it/documenti/regolamento",
+              "approved": true,
+              "mechanic": "instant_win",
+              "badges": [
+                "Vinci subito",
+                "Con scontrino"
+              ],
+              "imageUrl": "https://www.accendilatuapassione.it/webapp/assets/images/hero-claim.png",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=accendilatuapassione.it&sz=256",
+              "cover": "https://www.accendilatuapassione.it/webapp/assets/images/hero-claim.png",
+              "coverUrl": "https://www.accendilatuapassione.it/webapp/assets/images/hero-claim.png",
+              "brandImage": "https://www.accendilatuapassione.it/webapp/assets/images/hero-claim.png",
+              "ogImage": "https://www.accendilatuapassione.it/webapp/assets/images/hero-claim.png",
+              "twitterImage": "https://www.accendilatuapassione.it/webapp/assets/images/hero-claim.png",
+              "image": "https://www.accendilatuapassione.it/webapp/assets/images/hero-claim.png"
+            },
+            {
+              "id": "vileda-il-rosso-ti-premia-vinci-iphone-17-kitchenaid-apple-watch-11-o-fiat-500-elettrica-2026",
+              "title": "Vileda “Il rosso ti premia”: vinci iPhone 17, KitchenAid, Apple Watch 11 o… Fiat 500 elettrica!",
+              "prize": "iPhone 17, KitchenAid, Apple Watch 11 o",
+              "platform": "Vileda",
+              "category": "Shopping",
+              "deadline": "2026-11-30",
+              "url": "https://www.ilrossotipremia.vileda.it/",
+              "termsUrl": "https://www.ilrossotipremia.vileda.it/regolamento.pdf",
+              "approved": true,
+              "mechanic": "instant_win",
+              "badges": [
+                "Vinci subito",
+                "Con scontrino"
+              ],
+              "imageUrl": "https://www.ilrossotipremia.vileda.it/images/img-nowin.jpg",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=ilrossotipremia.vileda.it&sz=256",
+              "cover": "https://www.ilrossotipremia.vileda.it/images/img-nowin.jpg",
+              "coverUrl": "https://www.ilrossotipremia.vileda.it/images/img-nowin.jpg",
+              "brandImage": "https://www.ilrossotipremia.vileda.it/images/img-nowin.jpg",
+              "ogImage": "https://www.ilrossotipremia.vileda.it/images/img-nowin.jpg",
+              "twitterImage": "https://www.ilrossotipremia.vileda.it/images/img-nowin.jpg",
+              "image": "https://www.ilrossotipremia.vileda.it/images/img-nowin.jpg"
+            },
+            {
+              "id": "100-anni-usag-vinci-gratis-carrelli-portautensili-valore-oltre-1-000-2026",
+              "title": "100 anni USAG: vinci gratis carrelli portautensili (valore oltre 1.000€)",
+              "prize": "carrelli portautensili (valore oltre 1.000€)",
+              "platform": "100Anniusag",
+              "category": "Shopping",
+              "deadline": "2026-07-31",
+              "url": "https://100anniusag.it/",
+              "termsUrl": "https://100anniusag.it/wp-content/uploads/2026/04/Regolamento-Concorso-per-minisito.pdf",
+              "approved": true,
+              "mechanic": "quiz",
+              "badges": [
+                "Quiz",
+                "Senza acquisto"
+              ],
+              "imageUrl": "https://100anniusag.it/wp-content/uploads/2026/04/Carrello2.jpg",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=100anniusag.it&sz=256",
+              "cover": "https://100anniusag.it/wp-content/uploads/2026/04/Carrello2.jpg",
+              "coverUrl": "https://100anniusag.it/wp-content/uploads/2026/04/Carrello2.jpg",
+              "brandImage": "https://100anniusag.it/wp-content/uploads/2026/04/Carrello2.jpg",
+              "ogImage": "https://100anniusag.it/wp-content/uploads/2026/04/Carrello2.jpg",
+              "twitterImage": "https://100anniusag.it/wp-content/uploads/2026/04/Carrello2.jpg",
+              "image": "https://100anniusag.it/wp-content/uploads/2026/04/Carrello2.jpg"
+            },
+            {
+              "id": "concorso-duck-e-mr-muscle-ogni-giorno-premi-philips-friggitrice-ad-aria-purificatore-2026",
+              "title": "Concorso Duck e Mr Muscle: ogni giorno premi Philips (friggitrice ad aria, purificatore)",
+              "prize": "Philips Airfryer Serie 3000 – Philips Purificatore d’aria PureProtect Mini Serie 900",
+              "platform": "Vinciconscj",
+              "category": "Shopping",
+              "deadline": "2026-08-09",
+              "url": "https://www.vinciconscj.it/",
+              "termsUrl": "https://www.vinciconscj.it/documenti/regolamento",
+              "approved": true,
+              "mechanic": "instant_win",
+              "badges": [
+                "Vinci subito",
+                "Con scontrino"
+              ],
+              "imageUrl": "https://www.vinciconscj.it/webapp/assets/images/og-image.jpg",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=vinciconscj.it&sz=256",
+              "cover": "https://www.vinciconscj.it/webapp/assets/images/og-image.jpg",
+              "coverUrl": "https://www.vinciconscj.it/webapp/assets/images/og-image.jpg",
+              "brandImage": "https://www.vinciconscj.it/webapp/assets/images/og-image.jpg",
+              "ogImage": "https://www.vinciconscj.it/webapp/assets/images/og-image.jpg",
+              "twitterImage": "https://www.vinciconscj.it/webapp/assets/images/og-image.jpg",
+              "image": "https://www.vinciconscj.it/webapp/assets/images/og-image.jpg"
+            },
             {
               "id": "motogp-mugello-bez-celebration-t-shirt-vinci-t-shirt-celebrativa-di-marco-bezzecchi-2026",
               "title": "MotoGP “Mugello – Bez Celebration T-shirt”: vinci t-shirt celebrativa di Marco Bezzecchi",
@@ -76,30 +172,6 @@
               "image": "https://www.google.com/s2/favicons?domain=chanteclair.it&sz=256"
             },
             {
-              "id": "aia-griglia-dove-vuoi-2026",
-              "title": "Griglia dove vuoi",
-              "prize": "Barbecue LotusGrill ogni giorno e tour gastronomico in Irlanda",
-              "platform": "AIA Carne al Fuoco",
-              "category": "Gastronomia",
-              "deadline": "2026-08-31",
-              "url": "https://www.aiafood.com/it/notizie/acquista-carne-al-fuoco-aia-e-partecipa-al-grande-concorso-griglia-dove-vuoi",
-              "imageUrl": "https://www.aiafood.com/_next/image/?q=80&url=https%3A%2F%2Fbackoffice.aiafood.com%2Fuploads%2Flarge_260304_Banner_News_7aab2ae1f1.webp&w=1920",
-              "cover": "https://www.aiafood.com/_next/image/?q=80&url=https%3A%2F%2Fbackoffice.aiafood.com%2Fuploads%2Flarge_260304_Banner_News_7aab2ae1f1.webp&w=1920",
-              "coverUrl": "https://www.aiafood.com/_next/image/?q=80&url=https%3A%2F%2Fbackoffice.aiafood.com%2Fuploads%2Flarge_260304_Banner_News_7aab2ae1f1.webp&w=1920",
-              "brandImage": "https://www.aiafood.com/_next/image/?q=80&url=https%3A%2F%2Fbackoffice.aiafood.com%2Fuploads%2Flarge_260304_Banner_News_7aab2ae1f1.webp&w=1920",
-              "ogImage": "https://www.aiafood.com/_next/image/?q=80&url=https%3A%2F%2Fbackoffice.aiafood.com%2Fuploads%2Flarge_260304_Banner_News_7aab2ae1f1.webp&w=1920",
-              "twitterImage": "https://www.aiafood.com/_next/image/?q=80&url=https%3A%2F%2Fbackoffice.aiafood.com%2Fuploads%2Flarge_260304_Banner_News_7aab2ae1f1.webp&w=1920",
-              "image": "https://www.aiafood.com/_next/image/?q=80&url=https%3A%2F%2Fbackoffice.aiafood.com%2Fuploads%2Flarge_260304_Banner_News_7aab2ae1f1.webp&w=1920",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=aiafood.com&sz=256",
-              "termsUrl": "https://areapersonale.aiafood.com/img/game-48/20260321_caf_regolamento_definitivo.pdf",
-              "approved": true,
-              "mechanic": "instant_win",
-              "badges": [
-                "Vinci subito",
-                "Con scontrino"
-              ]
-            },
-            {
               "id": "garda-trentino-notte-in-palafitta-2026",
               "title": "Una notte in palafitta 2026",
               "prize": "Notte in palafitta per massimo 3 persone, visita guidata, viaggio e voucher Garda Trentino da 150€",
@@ -124,28 +196,28 @@
               ]
             },
             {
-              "id": "nesquik-pokemon-fiamme-spettrali-2026",
-              "title": "Vinci Gioco di Carte Collezionabili Pokémon",
-              "prize": "100 confezioni da 10 carte collezionabili Pokémon MegaEvoluzione Fiamme Spettrali in estrazione finale",
-              "platform": "Nesquik",
-              "category": "Giochi",
-              "deadline": "2026-07-31",
-              "url": "https://www.promozionitaliane.it/nesquik-winter2026/",
-              "imageUrl": "https://www.promozionitaliane.it/nesquik-winter2026/webapp/assets/images/hero-home-mobile.png",
-              "cover": "https://www.promozionitaliane.it/nesquik-winter2026/webapp/assets/images/hero-home-mobile.png",
-              "coverUrl": "https://www.promozionitaliane.it/nesquik-winter2026/webapp/assets/images/hero-home-mobile.png",
-              "brandImage": "https://www.promozionitaliane.it/nesquik-winter2026/webapp/assets/images/hero-home-mobile.png",
-              "ogImage": "https://www.promozionitaliane.it/nesquik-winter2026/webapp/assets/images/hero-home-mobile.png",
-              "twitterImage": "https://www.promozionitaliane.it/nesquik-winter2026/webapp/assets/images/hero-home-mobile.png",
-              "image": "https://www.promozionitaliane.it/nesquik-winter2026/webapp/assets/images/hero-home-mobile.png",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=nesquik.it&sz=256",
-              "termsUrl": "https://www.promozionitaliane.it/nesquik-winter2026/documenti/regolamento",
+              "id": "dacia-sandrider-experience-tour-2026",
+              "title": "Dacia Sandrider Experience Tour",
+              "prize": "il partecipante che avrà registrato il miglior tempo assoluto a livello nazionale. Condividi Scadenza: 12-12-2026 Pubblicazione: 30-06-2026 Url:",
+              "platform": "Dacia",
+              "category": "Shopping",
+              "deadline": "2026-12-12",
+              "url": "https://sandriderexperiencetour.dacia.it/",
+              "termsUrl": "https://sandriderexperiencetour.dacia.it/assets/docs/Regolamento_def.pdf",
               "approved": true,
-              "mechanic": "final_draw",
+              "mechanic": "instant_win",
               "badges": [
-                "Estrazione",
+                "Vinci subito",
                 "Con scontrino"
-              ]
+              ],
+              "imageUrl": "https://sandriderexperiencetour.dacia.it/assets/img/hero-bg.jpg",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=sandriderexperiencetour.dacia.it&sz=256",
+              "cover": "https://sandriderexperiencetour.dacia.it/assets/img/hero-bg.jpg",
+              "coverUrl": "https://sandriderexperiencetour.dacia.it/assets/img/hero-bg.jpg",
+              "brandImage": "https://sandriderexperiencetour.dacia.it/assets/img/hero-bg.jpg",
+              "ogImage": "https://sandriderexperiencetour.dacia.it/assets/img/hero-bg.jpg",
+              "twitterImage": "https://sandriderexperiencetour.dacia.it/assets/img/hero-bg.jpg",
+              "image": "https://sandriderexperiencetour.dacia.it/assets/img/hero-bg.jpg"
             }
           ]
         },
@@ -258,54 +330,6 @@
               "image": "https://www.google.com/s2/favicons?domain=nivea.it&sz=256"
             },
             {
-              "id": "100-anni-usag-vinci-gratis-carrelli-portautensili-valore-oltre-1-000-2026",
-              "title": "100 anni USAG: vinci gratis carrelli portautensili (valore oltre 1.000€)",
-              "prize": "carrelli portautensili (valore oltre 1.000€)",
-              "platform": "100Anniusag",
-              "category": "Shopping",
-              "deadline": "2026-07-31",
-              "url": "https://100anniusag.it/",
-              "termsUrl": "https://100anniusag.it/wp-content/uploads/2026/04/Regolamento-Concorso-per-minisito.pdf",
-              "approved": true,
-              "mechanic": "quiz",
-              "badges": [
-                "Quiz",
-                "Senza acquisto"
-              ],
-              "imageUrl": "https://100anniusag.it/wp-content/uploads/2026/04/Carrello2.jpg",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=100anniusag.it&sz=256",
-              "cover": "https://100anniusag.it/wp-content/uploads/2026/04/Carrello2.jpg",
-              "coverUrl": "https://100anniusag.it/wp-content/uploads/2026/04/Carrello2.jpg",
-              "brandImage": "https://100anniusag.it/wp-content/uploads/2026/04/Carrello2.jpg",
-              "ogImage": "https://100anniusag.it/wp-content/uploads/2026/04/Carrello2.jpg",
-              "twitterImage": "https://100anniusag.it/wp-content/uploads/2026/04/Carrello2.jpg",
-              "image": "https://100anniusag.it/wp-content/uploads/2026/04/Carrello2.jpg"
-            },
-            {
-              "id": "concorso-duck-e-mr-muscle-ogni-giorno-premi-philips-friggitrice-ad-aria-purificatore-2026",
-              "title": "Concorso Duck e Mr Muscle: ogni giorno premi Philips (friggitrice ad aria, purificatore)",
-              "prize": "Philips Airfryer Serie 3000 – Philips Purificatore d’aria PureProtect Mini Serie 900",
-              "platform": "Vinciconscj",
-              "category": "Shopping",
-              "deadline": "2026-08-09",
-              "url": "https://www.vinciconscj.it/",
-              "termsUrl": "https://www.vinciconscj.it/documenti/regolamento",
-              "approved": true,
-              "mechanic": "instant_win",
-              "badges": [
-                "Vinci subito",
-                "Con scontrino"
-              ],
-              "imageUrl": "https://www.vinciconscj.it/webapp/assets/images/og-image.jpg",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=vinciconscj.it&sz=256",
-              "cover": "https://www.vinciconscj.it/webapp/assets/images/og-image.jpg",
-              "coverUrl": "https://www.vinciconscj.it/webapp/assets/images/og-image.jpg",
-              "brandImage": "https://www.vinciconscj.it/webapp/assets/images/og-image.jpg",
-              "ogImage": "https://www.vinciconscj.it/webapp/assets/images/og-image.jpg",
-              "twitterImage": "https://www.vinciconscj.it/webapp/assets/images/og-image.jpg",
-              "image": "https://www.vinciconscj.it/webapp/assets/images/og-image.jpg"
-            },
-            {
               "id": "concorso-dove-una-festa-per-le-tue-ascelle-vinci-4-viaggi-al-carnevale-di-rio-de-janeiro-2026",
               "title": "Concorso Dove una festa per le tue ascelle… vinci 4 viaggi al Carnevale di Rio de Janeiro",
               "prize": "4 viaggi al Carnevale di Rio de Janeiro",
@@ -352,6 +376,54 @@
               "ogImage": "https://labellezzatipremia.it/unviaggiodiabbracci/assets/img/index.jpg",
               "twitterImage": "https://labellezzatipremia.it/unviaggiodiabbracci/assets/img/index.jpg",
               "image": "https://labellezzatipremia.it/unviaggiodiabbracci/assets/img/index.jpg"
+            },
+            {
+              "id": "equilibra-acquista-e-vinci-un-kit-viaggio-vinci-100-set-american-tourister-o-long-weekend-a-formentera-2026",
+              "title": "Equilibra “Acquista e vinci un kit viaggio”: vinci 100 set American Tourister o long weekend a Formentera",
+              "prize": "per la fase di Instant win:; N° 100 set American Tourister del valore stimato complessivo di Euro 167,87 cad iva escl Quantità premi in palio per la fase di estrazione finale:; N° 1 Long Weekend a Formentera per 2 persone del valore stimato di Euro 3.500,00 iva escl ove esposta",
+              "platform": "Equilibra",
+              "category": "Viaggi",
+              "deadline": "2026-08-15",
+              "url": "https://vinciunkitviaggio.equilibra.it/",
+              "termsUrl": "https://vinciunkitviaggio.equilibra.it/doc/regolamento-eq-potassio-26.pdf",
+              "approved": true,
+              "mechanic": "instant_win",
+              "badges": [
+                "Vinci subito",
+                "Con scontrino"
+              ],
+              "imageUrl": "https://vinciunkitviaggio.equilibra.it/images/sfondo_blu.jpg",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=vinciunkitviaggio.equilibra.it&sz=256",
+              "cover": "https://vinciunkitviaggio.equilibra.it/images/sfondo_blu.jpg",
+              "coverUrl": "https://vinciunkitviaggio.equilibra.it/images/sfondo_blu.jpg",
+              "brandImage": "https://vinciunkitviaggio.equilibra.it/images/sfondo_blu.jpg",
+              "ogImage": "https://vinciunkitviaggio.equilibra.it/images/sfondo_blu.jpg",
+              "twitterImage": "https://vinciunkitviaggio.equilibra.it/images/sfondo_blu.jpg",
+              "image": "https://vinciunkitviaggio.equilibra.it/images/sfondo_blu.jpg"
+            },
+            {
+              "id": "heineken-e-dj-party-station-vinci-ogni-ora-uno-speaker-a-forma-di-lattina-di-birra-2026",
+              "title": "Heineken e DJ Party Station”: vinci ogni ora uno speaker a forma di lattina di birra",
+              "prize": "Ogni ora uno speaker a forma di lattina di birra",
+              "platform": "Concorsi",
+              "category": "Tech",
+              "deadline": "2026-07-30",
+              "url": "https://heineken.concorsi.beer/dj-party-station/",
+              "termsUrl": "https://heineken.concorsi.beer/dj-party-station/regolamento.pdf",
+              "approved": true,
+              "mechanic": "missions",
+              "badges": [
+                "Missioni",
+                "Con scontrino"
+              ],
+              "imageUrl": "https://heineken.concorsi.beer/dj-party-station/_nuxt/music-box.6JDsFnYD.webp",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=heineken.concorsi.beer&sz=256",
+              "cover": "https://heineken.concorsi.beer/dj-party-station/images/bg-ichnusa.webp",
+              "coverUrl": "https://heineken.concorsi.beer/dj-party-station/images/bg-ichnusa.webp",
+              "brandImage": "https://heineken.concorsi.beer/dj-party-station/images/bg-ichnusa.webp",
+              "ogImage": "https://heineken.concorsi.beer/dj-party-station/images/bg-ichnusa.webp",
+              "twitterImage": "https://heineken.concorsi.beer/dj-party-station/images/bg-ichnusa.webp",
+              "image": "https://heineken.concorsi.beer/dj-party-station/images/bg-ichnusa.webp"
             }
           ]
         },
@@ -3246,6 +3318,126 @@
               "ogImage": "https://assets.qualifio.com/2924/82DFCF01-132F-43B0-9E0030357425E70F.png",
               "twitterImage": "https://assets.qualifio.com/2924/82DFCF01-132F-43B0-9E0030357425E70F.png",
               "image": "https://assets.qualifio.com/2924/82DFCF01-132F-43B0-9E0030357425E70F.png"
+            },
+            {
+              "id": "bella-napoli-buitoni-accendi-la-tua-passione-vinci-gift-card-da-100-per-abbigliamento-sportivo-2026",
+              "title": "Bella Napoli Buitoni “Accendi la tua passione”: vinci gift card da 100€ per abbigliamento sportivo",
+              "prize": "gift card da 100€ per abbigliamento sportivo",
+              "platform": "Accendilatuapassione",
+              "category": "Sport",
+              "deadline": "2026-10-31",
+              "url": "https://www.accendilatuapassione.it/",
+              "termsUrl": "https://www.accendilatuapassione.it/documenti/regolamento",
+              "approved": true,
+              "mechanic": "instant_win",
+              "badges": [
+                "Vinci subito",
+                "Con scontrino"
+              ],
+              "imageUrl": "https://www.accendilatuapassione.it/webapp/assets/images/hero-claim.png",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=accendilatuapassione.it&sz=256",
+              "cover": "https://www.accendilatuapassione.it/webapp/assets/images/hero-claim.png",
+              "coverUrl": "https://www.accendilatuapassione.it/webapp/assets/images/hero-claim.png",
+              "brandImage": "https://www.accendilatuapassione.it/webapp/assets/images/hero-claim.png",
+              "ogImage": "https://www.accendilatuapassione.it/webapp/assets/images/hero-claim.png",
+              "twitterImage": "https://www.accendilatuapassione.it/webapp/assets/images/hero-claim.png",
+              "image": "https://www.accendilatuapassione.it/webapp/assets/images/hero-claim.png"
+            },
+            {
+              "id": "dacia-sandrider-experience-tour-2026",
+              "title": "Dacia Sandrider Experience Tour",
+              "prize": "il partecipante che avrà registrato il miglior tempo assoluto a livello nazionale. Condividi Scadenza: 12-12-2026 Pubblicazione: 30-06-2026 Url:",
+              "platform": "Dacia",
+              "category": "Shopping",
+              "deadline": "2026-12-12",
+              "url": "https://sandriderexperiencetour.dacia.it/",
+              "termsUrl": "https://sandriderexperiencetour.dacia.it/assets/docs/Regolamento_def.pdf",
+              "approved": true,
+              "mechanic": "instant_win",
+              "badges": [
+                "Vinci subito",
+                "Con scontrino"
+              ],
+              "imageUrl": "https://sandriderexperiencetour.dacia.it/assets/img/hero-bg.jpg",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=sandriderexperiencetour.dacia.it&sz=256",
+              "cover": "https://sandriderexperiencetour.dacia.it/assets/img/hero-bg.jpg",
+              "coverUrl": "https://sandriderexperiencetour.dacia.it/assets/img/hero-bg.jpg",
+              "brandImage": "https://sandriderexperiencetour.dacia.it/assets/img/hero-bg.jpg",
+              "ogImage": "https://sandriderexperiencetour.dacia.it/assets/img/hero-bg.jpg",
+              "twitterImage": "https://sandriderexperiencetour.dacia.it/assets/img/hero-bg.jpg",
+              "image": "https://sandriderexperiencetour.dacia.it/assets/img/hero-bg.jpg"
+            },
+            {
+              "id": "equilibra-acquista-e-vinci-un-kit-viaggio-vinci-100-set-american-tourister-o-long-weekend-a-formentera-2026",
+              "title": "Equilibra “Acquista e vinci un kit viaggio”: vinci 100 set American Tourister o long weekend a Formentera",
+              "prize": "per la fase di Instant win:; N° 100 set American Tourister del valore stimato complessivo di Euro 167,87 cad iva escl Quantità premi in palio per la fase di estrazione finale:; N° 1 Long Weekend a Formentera per 2 persone del valore stimato di Euro 3.500,00 iva escl ove esposta",
+              "platform": "Equilibra",
+              "category": "Viaggi",
+              "deadline": "2026-08-15",
+              "url": "https://vinciunkitviaggio.equilibra.it/",
+              "termsUrl": "https://vinciunkitviaggio.equilibra.it/doc/regolamento-eq-potassio-26.pdf",
+              "approved": true,
+              "mechanic": "instant_win",
+              "badges": [
+                "Vinci subito",
+                "Con scontrino"
+              ],
+              "imageUrl": "https://vinciunkitviaggio.equilibra.it/images/sfondo_blu.jpg",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=vinciunkitviaggio.equilibra.it&sz=256",
+              "cover": "https://vinciunkitviaggio.equilibra.it/images/sfondo_blu.jpg",
+              "coverUrl": "https://vinciunkitviaggio.equilibra.it/images/sfondo_blu.jpg",
+              "brandImage": "https://vinciunkitviaggio.equilibra.it/images/sfondo_blu.jpg",
+              "ogImage": "https://vinciunkitviaggio.equilibra.it/images/sfondo_blu.jpg",
+              "twitterImage": "https://vinciunkitviaggio.equilibra.it/images/sfondo_blu.jpg",
+              "image": "https://vinciunkitviaggio.equilibra.it/images/sfondo_blu.jpg"
+            },
+            {
+              "id": "heineken-e-dj-party-station-vinci-ogni-ora-uno-speaker-a-forma-di-lattina-di-birra-2026",
+              "title": "Heineken e DJ Party Station”: vinci ogni ora uno speaker a forma di lattina di birra",
+              "prize": "Ogni ora uno speaker a forma di lattina di birra",
+              "platform": "Concorsi",
+              "category": "Tech",
+              "deadline": "2026-07-30",
+              "url": "https://heineken.concorsi.beer/dj-party-station/",
+              "termsUrl": "https://heineken.concorsi.beer/dj-party-station/regolamento.pdf",
+              "approved": true,
+              "mechanic": "missions",
+              "badges": [
+                "Missioni",
+                "Con scontrino"
+              ],
+              "imageUrl": "https://heineken.concorsi.beer/dj-party-station/_nuxt/music-box.6JDsFnYD.webp",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=heineken.concorsi.beer&sz=256",
+              "cover": "https://heineken.concorsi.beer/dj-party-station/images/bg-ichnusa.webp",
+              "coverUrl": "https://heineken.concorsi.beer/dj-party-station/images/bg-ichnusa.webp",
+              "brandImage": "https://heineken.concorsi.beer/dj-party-station/images/bg-ichnusa.webp",
+              "ogImage": "https://heineken.concorsi.beer/dj-party-station/images/bg-ichnusa.webp",
+              "twitterImage": "https://heineken.concorsi.beer/dj-party-station/images/bg-ichnusa.webp",
+              "image": "https://heineken.concorsi.beer/dj-party-station/images/bg-ichnusa.webp"
+            },
+            {
+              "id": "vileda-il-rosso-ti-premia-vinci-iphone-17-kitchenaid-apple-watch-11-o-fiat-500-elettrica-2026",
+              "title": "Vileda “Il rosso ti premia”: vinci iPhone 17, KitchenAid, Apple Watch 11 o… Fiat 500 elettrica!",
+              "prize": "iPhone 17, KitchenAid, Apple Watch 11 o",
+              "platform": "Vileda",
+              "category": "Shopping",
+              "deadline": "2026-11-30",
+              "url": "https://www.ilrossotipremia.vileda.it/",
+              "termsUrl": "https://www.ilrossotipremia.vileda.it/regolamento.pdf",
+              "approved": true,
+              "mechanic": "instant_win",
+              "badges": [
+                "Vinci subito",
+                "Con scontrino"
+              ],
+              "imageUrl": "https://www.ilrossotipremia.vileda.it/images/img-nowin.jpg",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=ilrossotipremia.vileda.it&sz=256",
+              "cover": "https://www.ilrossotipremia.vileda.it/images/img-nowin.jpg",
+              "coverUrl": "https://www.ilrossotipremia.vileda.it/images/img-nowin.jpg",
+              "brandImage": "https://www.ilrossotipremia.vileda.it/images/img-nowin.jpg",
+              "ogImage": "https://www.ilrossotipremia.vileda.it/images/img-nowin.jpg",
+              "twitterImage": "https://www.ilrossotipremia.vileda.it/images/img-nowin.jpg",
+              "image": "https://www.ilrossotipremia.vileda.it/images/img-nowin.jpg"
             }
           ]
         }
