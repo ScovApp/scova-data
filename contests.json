@@ -26,30 +26,7 @@
             "showCategory": true
           },
           "contests": [
-            {
-              "id": "bella-napoli-buitoni-accendi-la-tua-passione-vinci-gift-card-da-100-per-abbigliamento-sportivo-2026",
-              "title": "Bella Napoli Buitoni “Accendi la tua passione”: vinci gift card da 100€ per abbigliamento sportivo",
-              "prize": "gift card da 100€ per abbigliamento sportivo",
-              "platform": "Accendilatuapassione",
-              "category": "Sport",
-              "deadline": "2026-10-31",
-              "url": "https://www.accendilatuapassione.it/",
-              "termsUrl": "https://www.accendilatuapassione.it/documenti/regolamento",
-              "approved": true,
-              "mechanic": "instant_win",
-              "badges": [
-                "Vinci subito",
-                "Con scontrino"
-              ],
-              "imageUrl": "https://www.accendilatuapassione.it/webapp/assets/images/hero-claim.png",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=accendilatuapassione.it&sz=256",
-              "cover": "https://www.accendilatuapassione.it/webapp/assets/images/hero-claim.png",
-              "coverUrl": "https://www.accendilatuapassione.it/webapp/assets/images/hero-claim.png",
-              "brandImage": "https://www.accendilatuapassione.it/webapp/assets/images/hero-claim.png",
-              "ogImage": "https://www.accendilatuapassione.it/webapp/assets/images/hero-claim.png",
-              "twitterImage": "https://www.accendilatuapassione.it/webapp/assets/images/hero-claim.png",
-              "image": "https://www.accendilatuapassione.it/webapp/assets/images/hero-claim.png"
-            },
+            
             {
               "id": "vileda-il-rosso-ti-premia-vinci-iphone-17-kitchenaid-apple-watch-11-o-fiat-500-elettrica-2026",
               "title": "Vileda “Il rosso ti premia”: vinci iPhone 17, KitchenAid, Apple Watch 11 o… Fiat 500 elettrica!",
@@ -97,6 +74,30 @@
               "ogImage": "https://100anniusag.it/wp-content/uploads/2026/04/Carrello2.jpg",
               "twitterImage": "https://100anniusag.it/wp-content/uploads/2026/04/Carrello2.jpg",
               "image": "https://100anniusag.it/wp-content/uploads/2026/04/Carrello2.jpg"
+            },
+            {
+              "id": "bella-napoli-buitoni-accendi-la-tua-passione-vinci-gift-card-da-100-per-abbigliamento-sportivo-2026",
+              "title": "Bella Napoli Buitoni “Accendi la tua passione”: vinci gift card da 100€ per abbigliamento sportivo",
+              "prize": "gift card da 100€ per abbigliamento sportivo",
+              "platform": "Accendilatuapassione",
+              "category": "Sport",
+              "deadline": "2026-10-31",
+              "url": "https://www.accendilatuapassione.it/",
+              "termsUrl": "https://www.accendilatuapassione.it/documenti/regolamento",
+              "approved": true,
+              "mechanic": "instant_win",
+              "badges": [
+                "Vinci subito",
+                "Con scontrino"
+              ],
+              "imageUrl": "https://www.accendilatuapassione.it/webapp/assets/images/hero-claim.png",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=accendilatuapassione.it&sz=256",
+              "cover": "https://www.accendilatuapassione.it/webapp/assets/images/hero-claim.png",
+              "coverUrl": "https://www.accendilatuapassione.it/webapp/assets/images/hero-claim.png",
+              "brandImage": "https://www.accendilatuapassione.it/webapp/assets/images/hero-claim.png",
+              "ogImage": "https://www.accendilatuapassione.it/webapp/assets/images/hero-claim.png",
+              "twitterImage": "https://www.accendilatuapassione.it/webapp/assets/images/hero-claim.png",
+              "image": "https://www.accendilatuapassione.it/webapp/assets/images/hero-claim.png"
             },
             {
               "id": "concorso-duck-e-mr-muscle-ogni-giorno-premi-philips-friggitrice-ad-aria-purificatore-2026",
@@ -234,6 +235,30 @@
           },
           "contests": [
             {
+              "id": "concorso-dove-una-festa-per-le-tue-ascelle-vinci-4-viaggi-al-carnevale-di-rio-de-janeiro-2026",
+              "title": "Concorso Dove una festa per le tue ascelle… vinci 4 viaggi al Carnevale di Rio de Janeiro",
+              "prize": "4 viaggi al Carnevale di Rio de Janeiro",
+              "platform": "Dove",
+              "category": "Viaggi",
+              "deadline": "2026-09-30",
+              "url": "https://doveunafestaperleascelle.it/",
+              "termsUrl": "https://doveunafestaperleascelle.it/regolamento.pdf",
+              "approved": true,
+              "mechanic": "missions",
+              "badges": [
+                "Missioni",
+                "Con scontrino"
+              ],
+              "imageUrl": "https://doveunafestaperleascelle.it/_nuxt/prodotti.C2jVzkTk.png",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=doveunafestaperleascelle.it&sz=256",
+              "cover": "https://www.google.com/s2/favicons?domain=doveunafestaperleascelle.it&sz=256",
+              "coverUrl": "https://www.google.com/s2/favicons?domain=doveunafestaperleascelle.it&sz=256",
+              "brandImage": "https://www.google.com/s2/favicons?domain=doveunafestaperleascelle.it&sz=256",
+              "ogImage": "https://www.google.com/s2/favicons?domain=doveunafestaperleascelle.it&sz=256",
+              "twitterImage": "https://www.google.com/s2/favicons?domain=doveunafestaperleascelle.it&sz=256",
+              "image": "https://www.google.com/s2/favicons?domain=doveunafestaperleascelle.it&sz=256"
+            },
+            {
               "id": "concorso-chiquita-vinci-100-set-di-ceramiche-2027",
               "title": "Concorso Chiquita… vinci 100 set di ceramiche",
               "prize": "100 set di ceramiche",
@@ -328,30 +353,6 @@
               "ogImage": "https://www.google.com/s2/favicons?domain=nivea.it&sz=256",
               "twitterImage": "https://www.google.com/s2/favicons?domain=nivea.it&sz=256",
               "image": "https://www.google.com/s2/favicons?domain=nivea.it&sz=256"
-            },
-            {
-              "id": "concorso-dove-una-festa-per-le-tue-ascelle-vinci-4-viaggi-al-carnevale-di-rio-de-janeiro-2026",
-              "title": "Concorso Dove una festa per le tue ascelle… vinci 4 viaggi al Carnevale di Rio de Janeiro",
-              "prize": "4 viaggi al Carnevale di Rio de Janeiro",
-              "platform": "Dove",
-              "category": "Viaggi",
-              "deadline": "2026-09-30",
-              "url": "https://doveunafestaperleascelle.it/",
-              "termsUrl": "https://doveunafestaperleascelle.it/regolamento.pdf",
-              "approved": true,
-              "mechanic": "missions",
-              "badges": [
-                "Missioni",
-                "Con scontrino"
-              ],
-              "imageUrl": "https://doveunafestaperleascelle.it/_nuxt/prodotti.C2jVzkTk.png",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=doveunafestaperleascelle.it&sz=256",
-              "cover": "https://www.google.com/s2/favicons?domain=doveunafestaperleascelle.it&sz=256",
-              "coverUrl": "https://www.google.com/s2/favicons?domain=doveunafestaperleascelle.it&sz=256",
-              "brandImage": "https://www.google.com/s2/favicons?domain=doveunafestaperleascelle.it&sz=256",
-              "ogImage": "https://www.google.com/s2/favicons?domain=doveunafestaperleascelle.it&sz=256",
-              "twitterImage": "https://www.google.com/s2/favicons?domain=doveunafestaperleascelle.it&sz=256",
-              "image": "https://www.google.com/s2/favicons?domain=doveunafestaperleascelle.it&sz=256"
             },
             {
               "id": "concorso-borotalco-un-viaggio-di-abbracci-ogni-giorno-gift-card-trenitalia-da-150-2026",
