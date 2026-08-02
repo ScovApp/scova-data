@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-29T09:56:45+02:00",
+  "updatedAt": "2026-08-02T09:52:26+02:00",
   "pages": [
     {
       "id": "home",
@@ -26,54 +26,53 @@
             "showCategory": true
           },
           "contests": [
-            
             {
-              "id": "vileda-il-rosso-ti-premia-vinci-iphone-17-kitchenaid-apple-watch-11-o-fiat-500-elettrica-2026",
-              "title": "Vileda “Il rosso ti premia”: vinci iPhone 17, KitchenAid, Apple Watch 11 o… Fiat 500 elettrica!",
-              "prize": "iPhone 17, KitchenAid, Apple Watch 11 o",
-              "platform": "Vileda",
-              "category": "Shopping",
-              "deadline": "2026-11-30",
-              "url": "https://www.ilrossotipremia.vileda.it/",
-              "termsUrl": "https://www.ilrossotipremia.vileda.it/regolamento.pdf",
+              "id": "vivi-un-esperienza-con-bwt-alpine-formula-onetm-team-2026",
+              "title": "Vivi un'esperienza con BWT Alpine Formula One™ Team",
+              "prize": "per i Destinatari del Livello Più Insieme: ▪ N. 50 premi composti da 1 mini casco BWT Alpine Formula One™ Team + 1 Polo BWT Alpine Formula One™ Team del valore di 212,96 € ciascuno (IVA inclusa); ▪ N. 1 casco replica BWT Alpine Formula One™ Team del valore di 3750,00€ ciascuno (IVA inclusa).",
+              "platform": "Eni",
+              "category": "Tempo Libero",
+              "deadline": "2026-09-14",
+              "url": "https://piuinsieme.eni.com/programma-fedelta/concorsi-premi/bwt-alpine-formula-one.html",
+              "termsUrl": "https://piuinsieme.eni.com/content/dam/piuinsieme/documents/concorsi-e-premi/CU_Enilive_Plenitude_2026_CO_Alpine_Regolamento.pdf",
               "approved": true,
               "mechanic": "instant_win",
               "badges": [
                 "Vinci subito",
                 "Con scontrino"
               ],
-              "imageUrl": "https://www.ilrossotipremia.vileda.it/images/img-nowin.jpg",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=ilrossotipremia.vileda.it&sz=256",
-              "cover": "https://www.ilrossotipremia.vileda.it/images/img-nowin.jpg",
-              "coverUrl": "https://www.ilrossotipremia.vileda.it/images/img-nowin.jpg",
-              "brandImage": "https://www.ilrossotipremia.vileda.it/images/img-nowin.jpg",
-              "ogImage": "https://www.ilrossotipremia.vileda.it/images/img-nowin.jpg",
-              "twitterImage": "https://www.ilrossotipremia.vileda.it/images/img-nowin.jpg",
-              "image": "https://www.ilrossotipremia.vileda.it/images/img-nowin.jpg"
+              "imageUrl": "https://s7g10.scene7.com/is/image/eni/opengraph-alpine-1200x630?scl=1",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=piuinsieme.eni.com&sz=256",
+              "cover": "https://s7g10.scene7.com/is/image/eni/opengraph-alpine-1200x630?scl=1",
+              "coverUrl": "https://s7g10.scene7.com/is/image/eni/opengraph-alpine-1200x630?scl=1",
+              "brandImage": "https://s7g10.scene7.com/is/image/eni/opengraph-alpine-1200x630?scl=1",
+              "ogImage": "https://s7g10.scene7.com/is/image/eni/opengraph-alpine-1200x630?scl=1",
+              "twitterImage": "https://s7g10.scene7.com/is/image/eni/opengraph-alpine-1200x630?scl=1",
+              "image": "https://s7g10.scene7.com/is/image/eni/opengraph-alpine-1200x630?scl=1"
             },
             {
-              "id": "100-anni-usag-vinci-gratis-carrelli-portautensili-valore-oltre-1-000-2026",
-              "title": "100 anni USAG: vinci gratis carrelli portautensili (valore oltre 1.000€)",
-              "prize": "carrelli portautensili (valore oltre 1.000€)",
-              "platform": "100Anniusag",
-              "category": "Shopping",
-              "deadline": "2026-07-31",
-              "url": "https://100anniusag.it/",
-              "termsUrl": "https://100anniusag.it/wp-content/uploads/2026/04/Regolamento-Concorso-per-minisito.pdf",
+              "id": "concorso-la-molisana-primi-nel-benessere-vinci-friggitrici-ad-aria-philips-2026",
+              "title": "Concorso La Molisana “Primi nel benessere”… vinci friggitrici ad aria Philips",
+              "prize": "friggitrici ad aria Philips",
+              "platform": "La Molisana",
+              "category": "Benessere",
+              "deadline": "2026-08-08",
+              "url": "https://www.loverstenaci.com/contest",
+              "termsUrl": "https://www.loverstenaci.com/Regolamento_Benessere_2026.pdf",
               "approved": true,
-              "mechanic": "quiz",
+              "mechanic": "instant_win",
               "badges": [
-                "Quiz",
-                "Senza acquisto"
+                "Vinci subito",
+                "Con scontrino"
               ],
-              "imageUrl": "https://100anniusag.it/wp-content/uploads/2026/04/Carrello2.jpg",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=100anniusag.it&sz=256",
-              "cover": "https://100anniusag.it/wp-content/uploads/2026/04/Carrello2.jpg",
-              "coverUrl": "https://100anniusag.it/wp-content/uploads/2026/04/Carrello2.jpg",
-              "brandImage": "https://100anniusag.it/wp-content/uploads/2026/04/Carrello2.jpg",
-              "ogImage": "https://100anniusag.it/wp-content/uploads/2026/04/Carrello2.jpg",
-              "twitterImage": "https://100anniusag.it/wp-content/uploads/2026/04/Carrello2.jpg",
-              "image": "https://100anniusag.it/wp-content/uploads/2026/04/Carrello2.jpg"
+              "imageUrl": "https://www.loverstenaci.com/share.jpg",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=loverstenaci.com&sz=256",
+              "cover": "https://www.loverstenaci.com/share.jpg",
+              "coverUrl": "https://www.loverstenaci.com/share.jpg",
+              "brandImage": "https://www.loverstenaci.com/share.jpg",
+              "ogImage": "https://www.loverstenaci.com/share.jpg",
+              "twitterImage": "https://www.loverstenaci.com/share.jpg",
+              "image": "https://www.loverstenaci.com/share.jpg"
             },
             {
               "id": "bella-napoli-buitoni-accendi-la-tua-passione-vinci-gift-card-da-100-per-abbigliamento-sportivo-2026",
@@ -98,6 +97,30 @@
               "ogImage": "https://www.accendilatuapassione.it/webapp/assets/images/hero-claim.png",
               "twitterImage": "https://www.accendilatuapassione.it/webapp/assets/images/hero-claim.png",
               "image": "https://www.accendilatuapassione.it/webapp/assets/images/hero-claim.png"
+            },
+            {
+              "id": "vileda-il-rosso-ti-premia-vinci-iphone-17-kitchenaid-apple-watch-11-o-fiat-500-elettrica-2026",
+              "title": "Vileda “Il rosso ti premia”: vinci iPhone 17, KitchenAid, Apple Watch 11 o… Fiat 500 elettrica!",
+              "prize": "iPhone 17, KitchenAid, Apple Watch 11 o",
+              "platform": "Vileda",
+              "category": "Shopping",
+              "deadline": "2026-11-30",
+              "url": "https://www.ilrossotipremia.vileda.it/",
+              "termsUrl": "https://www.ilrossotipremia.vileda.it/regolamento.pdf",
+              "approved": true,
+              "mechanic": "instant_win",
+              "badges": [
+                "Vinci subito",
+                "Con scontrino"
+              ],
+              "imageUrl": "https://www.ilrossotipremia.vileda.it/images/img-nowin.jpg",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=ilrossotipremia.vileda.it&sz=256",
+              "cover": "https://www.ilrossotipremia.vileda.it/images/img-nowin.jpg",
+              "coverUrl": "https://www.ilrossotipremia.vileda.it/images/img-nowin.jpg",
+              "brandImage": "https://www.ilrossotipremia.vileda.it/images/img-nowin.jpg",
+              "ogImage": "https://www.ilrossotipremia.vileda.it/images/img-nowin.jpg",
+              "twitterImage": "https://www.ilrossotipremia.vileda.it/images/img-nowin.jpg",
+              "image": "https://www.ilrossotipremia.vileda.it/images/img-nowin.jpg"
             },
             {
               "id": "concorso-duck-e-mr-muscle-ogni-giorno-premi-philips-friggitrice-ad-aria-purificatore-2026",
@@ -173,30 +196,6 @@
               "image": "https://www.google.com/s2/favicons?domain=chanteclair.it&sz=256"
             },
             {
-              "id": "garda-trentino-notte-in-palafitta-2026",
-              "title": "Una notte in palafitta 2026",
-              "prize": "Notte in palafitta per massimo 3 persone, visita guidata, viaggio e voucher Garda Trentino da 150€",
-              "platform": "Garda Trentino / Comune di Ledro",
-              "category": "Viaggi",
-              "deadline": "2026-07-31",
-              "url": "https://www.gardatrentino.it/it/localita/valle-di-ledro/notte-in-palafitta",
-              "imageUrl": "https://www.gardatrentino.it/website_images/Scopri/Localita/Ledro/Palafitte/image-thumb__11186__header/GARDADOLOMITI_WATCHSOME_LEDRO_PALAFITTE_Notte_Iin_Palafitta.jpg",
-              "cover": "https://www.gardatrentino.it/website_images/Scopri/Localita/Ledro/Palafitte/image-thumb__11186__header/GARDADOLOMITI_WATCHSOME_LEDRO_PALAFITTE_Notte_Iin_Palafitta.jpg",
-              "coverUrl": "https://www.gardatrentino.it/website_images/Scopri/Localita/Ledro/Palafitte/image-thumb__11186__header/GARDADOLOMITI_WATCHSOME_LEDRO_PALAFITTE_Notte_Iin_Palafitta.jpg",
-              "brandImage": "https://www.gardatrentino.it/website_images/Scopri/Localita/Ledro/Palafitte/image-thumb__11186__header/GARDADOLOMITI_WATCHSOME_LEDRO_PALAFITTE_Notte_Iin_Palafitta.jpg",
-              "ogImage": "https://www.gardatrentino.it/website_images/Scopri/Localita/Ledro/Palafitte/image-thumb__11186__header/GARDADOLOMITI_WATCHSOME_LEDRO_PALAFITTE_Notte_Iin_Palafitta.jpg",
-              "twitterImage": "https://www.gardatrentino.it/website_images/Scopri/Localita/Ledro/Palafitte/image-thumb__11186__header/GARDADOLOMITI_WATCHSOME_LEDRO_PALAFITTE_Notte_Iin_Palafitta.jpg",
-              "image": "https://www.gardatrentino.it/website_images/Scopri/Localita/Ledro/Palafitte/image-thumb__11186__header/GARDADOLOMITI_WATCHSOME_LEDRO_PALAFITTE_Notte_Iin_Palafitta.jpg",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=gardatrentino.it&sz=256",
-              "termsUrl": "https://www.gardatrentino.it/documenti/Notte_In_Palafitta/312_26_003%20TerminiCondizioni_V.pdf",
-              "approved": true,
-              "mechanic": "final_draw",
-              "badges": [
-                "Estrazione",
-                "Senza acquisto"
-              ]
-            },
-            {
               "id": "dacia-sandrider-experience-tour-2026",
               "title": "Dacia Sandrider Experience Tour",
               "prize": "il partecipante che avrà registrato il miglior tempo assoluto a livello nazionale. Condividi Scadenza: 12-12-2026 Pubblicazione: 30-06-2026 Url:",
@@ -235,28 +234,52 @@
           },
           "contests": [
             {
-              "id": "concorso-dove-una-festa-per-le-tue-ascelle-vinci-4-viaggi-al-carnevale-di-rio-de-janeiro-2026",
-              "title": "Concorso Dove una festa per le tue ascelle… vinci 4 viaggi al Carnevale di Rio de Janeiro",
-              "prize": "4 viaggi al Carnevale di Rio de Janeiro",
-              "platform": "Dove",
+              "id": "prova-a-vincere-le-bahamas-e-scopri-la-tua-prossima-avventura-vinci-viaggio-da-12-000-con-voli-e-soggiorno-2026",
+              "title": "Prova a vincere le Bahamas e scopri la tua prossima avventura: vinci viaggio da 12.000€ (con voli e soggiorno)",
+              "prize": "viaggio da 12.000€ (con voli e soggiorno)",
+              "platform": "Myautogrill",
               "category": "Viaggi",
-              "deadline": "2026-09-30",
-              "url": "https://doveunafestaperleascelle.it/",
-              "termsUrl": "https://doveunafestaperleascelle.it/regolamento.pdf",
+              "deadline": "2026-09-06",
+              "url": "https://www.myautogrill.it/promotions/welcome-coffe?referralCode=5383LPS3",
+              "termsUrl": "https://www.autogrill.it/wp-content/uploads/2026/07/2026-PROVA-A-VINCERE-UN-VIAGGIO-DA-SOGNO-CON-MY-AUTOGRILL-co-web-estrazione-finale-02.07.2026-DEF.pdf?referralCode=5383LPS3",
               "approved": true,
               "mechanic": "missions",
               "badges": [
                 "Missioni",
+                "Senza acquisto"
+              ],
+              "imageUrl": "https://www.myautogrill.it/MyAutogrill.jpg",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=myautogrill.it&sz=256",
+              "cover": "https://www.myautogrill.it/MyAutogrill.jpg",
+              "coverUrl": "https://www.myautogrill.it/MyAutogrill.jpg",
+              "brandImage": "https://www.myautogrill.it/MyAutogrill.jpg",
+              "ogImage": "https://www.myautogrill.it/MyAutogrill.jpg",
+              "twitterImage": "https://www.myautogrill.it/MyAutogrill.jpg",
+              "image": "https://www.myautogrill.it/MyAutogrill.jpg"
+            },
+            {
+              "id": "president-vivi-il-piacere-gourmet-vinci-150-set-zwilling-con-coltello-e-tagliere-o-viaggio-a-londra-2026",
+              "title": "President “Vivi il Piacere Gourmet”: vinci 150 set Zwilling con coltello e tagliere o viaggio a Londra",
+              "prize": "150 set Zwilling con coltello e tagliere o viaggio a Londra",
+              "platform": "Presidentformaggi",
+              "category": "Viaggi",
+              "deadline": "2026-12-10",
+              "url": "https://www.presidentformaggi.it/vivi-il-piacere-gourmet/home",
+              "termsUrl": "https://storage.googleapis.com/bucket-standard-assets/galbanipresidentlocatelli2026/docs/regolamento.pdf",
+              "approved": true,
+              "mechanic": "instant_win",
+              "badges": [
+                "Vinci subito",
                 "Con scontrino"
               ],
-              "imageUrl": "https://doveunafestaperleascelle.it/_nuxt/prodotti.C2jVzkTk.png",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=doveunafestaperleascelle.it&sz=256",
-              "cover": "https://www.google.com/s2/favicons?domain=doveunafestaperleascelle.it&sz=256",
-              "coverUrl": "https://www.google.com/s2/favicons?domain=doveunafestaperleascelle.it&sz=256",
-              "brandImage": "https://www.google.com/s2/favicons?domain=doveunafestaperleascelle.it&sz=256",
-              "ogImage": "https://www.google.com/s2/favicons?domain=doveunafestaperleascelle.it&sz=256",
-              "twitterImage": "https://www.google.com/s2/favicons?domain=doveunafestaperleascelle.it&sz=256",
-              "image": "https://www.google.com/s2/favicons?domain=doveunafestaperleascelle.it&sz=256"
+              "imageUrl": "https://www.google.com/s2/favicons?domain=presidentformaggi.it&sz=256",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=presidentformaggi.it&sz=256",
+              "cover": "https://www.google.com/s2/favicons?domain=presidentformaggi.it&sz=256",
+              "coverUrl": "https://www.google.com/s2/favicons?domain=presidentformaggi.it&sz=256",
+              "brandImage": "https://www.google.com/s2/favicons?domain=presidentformaggi.it&sz=256",
+              "ogImage": "https://www.google.com/s2/favicons?domain=presidentformaggi.it&sz=256",
+              "twitterImage": "https://www.google.com/s2/favicons?domain=presidentformaggi.it&sz=256",
+              "image": "https://www.google.com/s2/favicons?domain=presidentformaggi.it&sz=256"
             },
             {
               "id": "concorso-chiquita-vinci-100-set-di-ceramiche-2027",
@@ -283,30 +306,6 @@
               "image": "https://gsewl.cstmapp.com/92/1013592/main/6a1838669bbb4.png"
             },
             {
-              "id": "arbre-magique-pop-win-vinci-buoni-carburante-da-50-o-fiat-topolino-2026",
-              "title": "Arbre Magique “Pop&Win”: vinci buoni carburante da 50€ o FIAT Topolino",
-              "prize": "buoni carburante da 50€ o FIAT Topolino",
-              "platform": "Popandgo",
-              "category": "Shopping",
-              "deadline": "2026-07-30",
-              "url": "https://www.popandgo.it/",
-              "termsUrl": "https://www.popandgo.it/regolamento.pdf",
-              "approved": true,
-              "mechanic": "instant_win",
-              "badges": [
-                "Vinci subito",
-                "Con scontrino"
-              ],
-              "imageUrl": "https://www.popandgo.it/images/claim.png",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=popandgo.it&sz=256",
-              "cover": "https://www.popandgo.it/images/claim.png",
-              "coverUrl": "https://www.popandgo.it/images/claim.png",
-              "brandImage": "https://www.popandgo.it/images/claim.png",
-              "ogImage": "https://www.popandgo.it/images/claim.png",
-              "twitterImage": "https://www.popandgo.it/images/claim.png",
-              "image": "https://www.popandgo.it/images/claim.png"
-            },
-            {
               "id": "coop-storie-a-tavola-vinci-gratis-viaggio-in-occasione-del-salone-del-gusto-2026",
               "title": "COOP “Storie a tavola”: vinci gratis viaggio in occasione del Salone del Gusto",
               "prize": "Una volta effettuata correttamente l’iscrizione al Concorso, l’Utente avrà accesso alla selezione, che si terrà alla presenza di un Notaio o di un 2 funzionario della Camera di Commercio, entro il termine indicato all’articolo",
@@ -331,28 +330,28 @@
               "image": "https://storieatavola.it/wp-content/uploads/2026/07/og-image.jpg"
             },
             {
-              "id": "concorso-nivea-sun-estate-2026-3-trolley-al-giorno-viaggio-ai-caraibi",
-              "title": "Concorso “Nivea Sun Estate 2026″… 3 Trolley al giorno + viaggio ai Caraibi!",
-              "prize": "per la fase di Instant Win:; N° 150 Valigie American Tourister Diablast Bagaglio a mano del valore stimato di Euro 81,89 cad iva escl Quantità premi in palio per la fase di Estrazione finale:; N° 1 viaggio per 2 persone in Repubblica Dominicana del valore stimato di Euro 8.200,00 iva escl ove esposta",
-              "platform": "Nivea",
+              "id": "concorso-dove-una-festa-per-le-tue-ascelle-vinci-4-viaggi-al-carnevale-di-rio-de-janeiro-2026",
+              "title": "Concorso Dove una festa per le tue ascelle… vinci 4 viaggi al Carnevale di Rio de Janeiro",
+              "prize": "4 viaggi al Carnevale di Rio de Janeiro",
+              "platform": "Dove",
               "category": "Viaggi",
-              "deadline": "2026-08-31",
-              "url": "https://www.nivea.it/niveasunestate26",
-              "termsUrl": "https://azext-eu.nivea.it/pdf/202607_NIVEASUNEstate2026_Regolamento.pdf",
+              "deadline": "2026-09-30",
+              "url": "https://doveunafestaperleascelle.it/",
+              "termsUrl": "https://doveunafestaperleascelle.it/regolamento.pdf",
               "approved": true,
-              "mechanic": "instant_win",
+              "mechanic": "missions",
               "badges": [
-                "Vinci subito",
+                "Missioni",
                 "Con scontrino"
               ],
-              "imageUrl": "https://www.google.com/s2/favicons?domain=nivea.it&sz=256",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=nivea.it&sz=256",
-              "cover": "https://www.google.com/s2/favicons?domain=nivea.it&sz=256",
-              "coverUrl": "https://www.google.com/s2/favicons?domain=nivea.it&sz=256",
-              "brandImage": "https://www.google.com/s2/favicons?domain=nivea.it&sz=256",
-              "ogImage": "https://www.google.com/s2/favicons?domain=nivea.it&sz=256",
-              "twitterImage": "https://www.google.com/s2/favicons?domain=nivea.it&sz=256",
-              "image": "https://www.google.com/s2/favicons?domain=nivea.it&sz=256"
+              "imageUrl": "https://doveunafestaperleascelle.it/_nuxt/prodotti.C2jVzkTk.png",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=doveunafestaperleascelle.it&sz=256",
+              "cover": "https://www.google.com/s2/favicons?domain=doveunafestaperleascelle.it&sz=256",
+              "coverUrl": "https://www.google.com/s2/favicons?domain=doveunafestaperleascelle.it&sz=256",
+              "brandImage": "https://www.google.com/s2/favicons?domain=doveunafestaperleascelle.it&sz=256",
+              "ogImage": "https://www.google.com/s2/favicons?domain=doveunafestaperleascelle.it&sz=256",
+              "twitterImage": "https://www.google.com/s2/favicons?domain=doveunafestaperleascelle.it&sz=256",
+              "image": "https://www.google.com/s2/favicons?domain=doveunafestaperleascelle.it&sz=256"
             },
             {
               "id": "concorso-borotalco-un-viaggio-di-abbracci-ogni-giorno-gift-card-trenitalia-da-150-2026",
@@ -401,30 +400,6 @@
               "ogImage": "https://vinciunkitviaggio.equilibra.it/images/sfondo_blu.jpg",
               "twitterImage": "https://vinciunkitviaggio.equilibra.it/images/sfondo_blu.jpg",
               "image": "https://vinciunkitviaggio.equilibra.it/images/sfondo_blu.jpg"
-            },
-            {
-              "id": "heineken-e-dj-party-station-vinci-ogni-ora-uno-speaker-a-forma-di-lattina-di-birra-2026",
-              "title": "Heineken e DJ Party Station”: vinci ogni ora uno speaker a forma di lattina di birra",
-              "prize": "Ogni ora uno speaker a forma di lattina di birra",
-              "platform": "Concorsi",
-              "category": "Tech",
-              "deadline": "2026-07-30",
-              "url": "https://heineken.concorsi.beer/dj-party-station/",
-              "termsUrl": "https://heineken.concorsi.beer/dj-party-station/regolamento.pdf",
-              "approved": true,
-              "mechanic": "missions",
-              "badges": [
-                "Missioni",
-                "Con scontrino"
-              ],
-              "imageUrl": "https://heineken.concorsi.beer/dj-party-station/_nuxt/music-box.6JDsFnYD.webp",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=heineken.concorsi.beer&sz=256",
-              "cover": "https://heineken.concorsi.beer/dj-party-station/images/bg-ichnusa.webp",
-              "coverUrl": "https://heineken.concorsi.beer/dj-party-station/images/bg-ichnusa.webp",
-              "brandImage": "https://heineken.concorsi.beer/dj-party-station/images/bg-ichnusa.webp",
-              "ogImage": "https://heineken.concorsi.beer/dj-party-station/images/bg-ichnusa.webp",
-              "twitterImage": "https://heineken.concorsi.beer/dj-party-station/images/bg-ichnusa.webp",
-              "image": "https://heineken.concorsi.beer/dj-party-station/images/bg-ichnusa.webp"
             }
           ]
         },
@@ -439,104 +414,7 @@
             "showDeadline": true,
             "showCategory": false
           },
-          "contests": [
-            {
-              "id": "philadelphia-light-gusta-leggerezza-2026",
-              "title": "Gusta la leggerezza con Philadelphia Light",
-              "prize": "Gift Card Decathlon e smartwatch Garmin Venu 4",
-              "platform": "Philadelphia Light",
-              "category": "Sport",
-              "deadline": "2026-07-19",
-              "url": "https://vincilight.philadelphia.it",
-              "imageUrl": "https://static.wixstatic.com/media/3131a2_db186bd2ab6647d699d6c233a382405e~mv2.jpg/v1/fill/w_980%2Ch_718%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/3131a2_db186bd2ab6647d699d6c233a382405e~mv2.jpg",
-              "cover": "https://static.wixstatic.com/media/3131a2_db186bd2ab6647d699d6c233a382405e~mv2.jpg/v1/fill/w_980%2Ch_718%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/3131a2_db186bd2ab6647d699d6c233a382405e~mv2.jpg",
-              "coverUrl": "https://static.wixstatic.com/media/3131a2_db186bd2ab6647d699d6c233a382405e~mv2.jpg/v1/fill/w_980%2Ch_718%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/3131a2_db186bd2ab6647d699d6c233a382405e~mv2.jpg",
-              "brandImage": "https://static.wixstatic.com/media/3131a2_db186bd2ab6647d699d6c233a382405e~mv2.jpg/v1/fill/w_980%2Ch_718%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/3131a2_db186bd2ab6647d699d6c233a382405e~mv2.jpg",
-              "ogImage": "https://static.wixstatic.com/media/3131a2_db186bd2ab6647d699d6c233a382405e~mv2.jpg/v1/fill/w_980%2Ch_718%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/3131a2_db186bd2ab6647d699d6c233a382405e~mv2.jpg",
-              "twitterImage": "https://static.wixstatic.com/media/3131a2_db186bd2ab6647d699d6c233a382405e~mv2.jpg/v1/fill/w_980%2Ch_718%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/3131a2_db186bd2ab6647d699d6c233a382405e~mv2.jpg",
-              "image": "https://static.wixstatic.com/media/3131a2_db186bd2ab6647d699d6c233a382405e~mv2.jpg/v1/fill/w_980%2Ch_718%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/3131a2_db186bd2ab6647d699d6c233a382405e~mv2.jpg",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=philadelphia.it&sz=256",
-              "termsUrl": "https://www.promotiempo.it/concorso/concorso-a-premi-gusta-la-leggerezza-con-philadelphia-light",
-              "approved": true,
-              "mechanic": "instant_win",
-              "badges": [
-                "Vinci subito",
-                "Con scontrino"
-              ]
-            },
-            {
-              "id": "comprami-e-vinci-giugno-2026",
-              "title": "Comprami e Vinci 2026",
-              "prize": "150 teli mare personalizzati e voucher spettacoli/concerti",
-              "platform": "Comprami",
-              "category": "Tempo Libero",
-              "deadline": "2026-07-20",
-              "url": "https://compramievinci.it/",
-              "imageUrl": "https://www.google.com/s2/favicons?domain=compramievinci.it&sz=256",
-              "cover": "https://www.google.com/s2/favicons?domain=compramievinci.it&sz=256",
-              "coverUrl": "https://www.google.com/s2/favicons?domain=compramievinci.it&sz=256",
-              "brandImage": "https://www.google.com/s2/favicons?domain=compramievinci.it&sz=256",
-              "ogImage": "",
-              "twitterImage": "",
-              "image": "https://www.google.com/s2/favicons?domain=compramievinci.it&sz=256",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=compramievinci.it&sz=256",
-              "termsUrl": "https://compramievinci.it/",
-              "approved": true,
-              "mechanic": "unique_code",
-              "badges": [
-                "Codice",
-                "Con scontrino"
-              ]
-            },
-            {
-              "id": "bud-for-fifa-world-cup-2026-despar",
-              "title": "Bud for FIFA World Cup 2026",
-              "prize": "Biglietti e palloni ufficiali",
-              "platform": "Bud / Despar",
-              "category": "Sport",
-              "deadline": "2026-07-19",
-              "url": "https://www.mydespar.it/news/bud-limited-edition",
-              "imageUrl": "https://www.mydespar.it/public/news//crop/Screenshot_2026-05-25_170246.jpg",
-              "cover": "https://www.mydespar.it/public/news//crop/Screenshot_2026-05-25_170246.jpg",
-              "coverUrl": "https://www.mydespar.it/public/news//crop/Screenshot_2026-05-25_170246.jpg",
-              "brandImage": "https://www.mydespar.it/public/news//crop/Screenshot_2026-05-25_170246.jpg",
-              "ogImage": "https://www.mydespar.it/public/news//crop/Screenshot_2026-05-25_170246.jpg",
-              "twitterImage": "https://www.mydespar.it/public/news//crop/Screenshot_2026-05-25_170246.jpg",
-              "image": "https://www.mydespar.it/public/news//crop/Screenshot_2026-05-25_170246.jpg",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=mydespar.it&sz=256",
-              "termsUrl": "https://www.mydespar.it/news/bud-limited-edition",
-              "approved": true,
-              "mechanic": "final_draw",
-              "badges": [
-                "Estrazione",
-                "Con scontrino"
-              ]
-            },
-            {
-              "id": "samsung-unpacked-members-app-luglio-2026",
-              "title": "Unpacked Members App Luglio 2026",
-              "prize": "10 codici sconto Samsung da 500€",
-              "platform": "Samsung",
-              "category": "Senza Acquisto",
-              "deadline": "2026-07-19",
-              "url": "https://www.samsung.com/it/offer/samsunggalaxyunpackedapp/",
-              "imageUrl": "https://img.global.news.samsung.com/it/wp-content/uploads/2026/07/MASTER_TEASING_1920x1080_H-e1783497633327.jpg",
-              "cover": "https://img.global.news.samsung.com/it/wp-content/uploads/2026/07/MASTER_TEASING_1920x1080_H-e1783497633327.jpg",
-              "coverUrl": "https://img.global.news.samsung.com/it/wp-content/uploads/2026/07/MASTER_TEASING_1920x1080_H-e1783497633327.jpg",
-              "brandImage": "https://img.global.news.samsung.com/it/wp-content/uploads/2026/07/MASTER_TEASING_1920x1080_H-e1783497633327.jpg",
-              "ogImage": "https://img.global.news.samsung.com/it/wp-content/uploads/2026/07/MASTER_TEASING_1920x1080_H-e1783497633327.jpg",
-              "twitterImage": "https://img.global.news.samsung.com/it/wp-content/uploads/2026/07/MASTER_TEASING_1920x1080_H-e1783497633327.jpg",
-              "image": "https://img.global.news.samsung.com/it/wp-content/uploads/2026/07/MASTER_TEASING_1920x1080_H-e1783497633327.jpg",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=samsung.com&sz=256",
-              "termsUrl": "https://images.samsung.com/is/content/samsung/assets/it/offer/samsunggalaxyunpackedapp/SEI_Concorso_Unpacked_Luglio_2026_Members_App.pdf",
-              "approved": true,
-              "mechanic": "instant_win",
-              "badges": [
-                "Vinci subito",
-                "Senza acquisto"
-              ]
-            }
-          ]
+          "contests": []
         },
         {
           "id": "all",
@@ -550,54 +428,6 @@
             "showCategory": true
           },
           "contests": [
-            {
-              "id": "pg-vinci-la-tua-estate-2026",
-              "title": "Vinci la tua estate",
-              "prize": "Buoni Regalo Amazon.it da 50€ ogni giorno e voucher viaggio alle Maldive per 2 persone",
-              "platform": "P&G Per Te",
-              "category": "Viaggi",
-              "deadline": "2026-07-31",
-              "url": "https://promozioni.pgperte.it/2026_0208p_procter_iw_multibrand_07042026_31072026/",
-              "imageUrl": "https://promozioni.pgperte.it/2026_0208p_procter_iw_multibrand_07042026_31072026/img/header_home_mobile.jpg",
-              "cover": "https://promozioni.pgperte.it/2026_0208p_procter_iw_multibrand_07042026_31072026/img/header_home_mobile.jpg",
-              "coverUrl": "https://promozioni.pgperte.it/2026_0208p_procter_iw_multibrand_07042026_31072026/img/header_home_mobile.jpg",
-              "brandImage": "https://promozioni.pgperte.it/2026_0208p_procter_iw_multibrand_07042026_31072026/img/header_home_mobile.jpg",
-              "ogImage": "https://promozioni.pgperte.it/2026_0208p_procter_iw_multibrand_07042026_31072026/img/header_home_mobile.jpg",
-              "twitterImage": "https://promozioni.pgperte.it/2026_0208p_procter_iw_multibrand_07042026_31072026/img/header_home_mobile.jpg",
-              "image": "https://promozioni.pgperte.it/2026_0208p_procter_iw_multibrand_07042026_31072026/img/header_home_mobile.jpg",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=pgperte.it&sz=256",
-              "termsUrl": "https://promozioni.pgperte.it/2026_0208p_procter_iw_multibrand_07042026_31072026/regolamento.php",
-              "approved": true,
-              "mechanic": "instant_win",
-              "badges": [
-                "Vinci subito",
-                "Con scontrino"
-              ]
-            },
-            {
-              "id": "nesquik-pokemon-fiamme-spettrali-2026",
-              "title": "Vinci Gioco di Carte Collezionabili Pokémon",
-              "prize": "100 confezioni da 10 carte collezionabili Pokémon MegaEvoluzione Fiamme Spettrali in estrazione finale",
-              "platform": "Nesquik",
-              "category": "Giochi",
-              "deadline": "2026-07-31",
-              "url": "https://www.promozionitaliane.it/nesquik-winter2026/",
-              "imageUrl": "https://www.promozionitaliane.it/nesquik-winter2026/webapp/assets/images/hero-home-mobile.png",
-              "cover": "https://www.promozionitaliane.it/nesquik-winter2026/webapp/assets/images/hero-home-mobile.png",
-              "coverUrl": "https://www.promozionitaliane.it/nesquik-winter2026/webapp/assets/images/hero-home-mobile.png",
-              "brandImage": "https://www.promozionitaliane.it/nesquik-winter2026/webapp/assets/images/hero-home-mobile.png",
-              "ogImage": "https://www.promozionitaliane.it/nesquik-winter2026/webapp/assets/images/hero-home-mobile.png",
-              "twitterImage": "https://www.promozionitaliane.it/nesquik-winter2026/webapp/assets/images/hero-home-mobile.png",
-              "image": "https://www.promozionitaliane.it/nesquik-winter2026/webapp/assets/images/hero-home-mobile.png",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=nesquik.it&sz=256",
-              "termsUrl": "https://www.promozionitaliane.it/nesquik-winter2026/documenti/regolamento",
-              "approved": true,
-              "mechanic": "final_draw",
-              "badges": [
-                "Estrazione",
-                "Con scontrino"
-              ]
-            },
             {
               "id": "equilibra-acquista-e-vinci-kit-viaggio-2026",
               "title": "Acquista e vinci un kit viaggio",
@@ -715,30 +545,6 @@
               "mechanic": "final_draw",
               "badges": [
                 "Estrazione",
-                "Con scontrino"
-              ]
-            },
-            {
-              "id": "grenade-esplosione-di-premi-2026",
-              "title": "Un'esplosione di premi",
-              "prize": "Gift card Adidas da 150€ e borsoni da allenamento Defender",
-              "platform": "Grenade",
-              "category": "Sport",
-              "deadline": "2026-07-31",
-              "url": "https://www.promotiempo.it/concorso/concorso-a-premi-un-esplosione-di-premi",
-              "imageUrl": "https://www.google.com/s2/favicons?domain=promotiempo.it&sz=256",
-              "cover": "https://www.google.com/s2/favicons?domain=promotiempo.it&sz=256",
-              "coverUrl": "https://www.google.com/s2/favicons?domain=promotiempo.it&sz=256",
-              "brandImage": "https://www.google.com/s2/favicons?domain=grenade.com&sz=256",
-              "ogImage": "",
-              "twitterImage": "",
-              "image": "https://www.google.com/s2/favicons?domain=promotiempo.it&sz=256",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=grenade.com&sz=256",
-              "termsUrl": "https://www.promotiempo.it/concorso/concorso-a-premi-un-esplosione-di-premi",
-              "approved": true,
-              "mechanic": "instant_win",
-              "badges": [
-                "Vinci subito",
                 "Con scontrino"
               ]
             },
@@ -863,102 +669,6 @@
               ]
             },
             {
-              "id": "mikado-summer-nights-2026",
-              "title": "Mikado Summer Nights",
-              "prize": "Polaroid Now Generation 2 e kit cinema all'aperto",
-              "platform": "Mikado",
-              "category": "Tempo Libero",
-              "deadline": "2026-07-26",
-              "url": "https://concorsomikadosummernights.it",
-              "imageUrl": "https://static.wixstatic.com/media/3131a2_28547fdd7bf54113a3dc5055414491c0~mv2.jpg/v1/fill/w_980%2Ch_718%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/3131a2_28547fdd7bf54113a3dc5055414491c0~mv2.jpg",
-              "cover": "https://static.wixstatic.com/media/3131a2_28547fdd7bf54113a3dc5055414491c0~mv2.jpg/v1/fill/w_980%2Ch_718%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/3131a2_28547fdd7bf54113a3dc5055414491c0~mv2.jpg",
-              "coverUrl": "https://static.wixstatic.com/media/3131a2_28547fdd7bf54113a3dc5055414491c0~mv2.jpg/v1/fill/w_980%2Ch_718%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/3131a2_28547fdd7bf54113a3dc5055414491c0~mv2.jpg",
-              "brandImage": "https://static.wixstatic.com/media/3131a2_28547fdd7bf54113a3dc5055414491c0~mv2.jpg/v1/fill/w_980%2Ch_718%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/3131a2_28547fdd7bf54113a3dc5055414491c0~mv2.jpg",
-              "ogImage": "https://static.wixstatic.com/media/3131a2_28547fdd7bf54113a3dc5055414491c0~mv2.jpg/v1/fill/w_980%2Ch_718%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/3131a2_28547fdd7bf54113a3dc5055414491c0~mv2.jpg",
-              "twitterImage": "https://static.wixstatic.com/media/3131a2_28547fdd7bf54113a3dc5055414491c0~mv2.jpg/v1/fill/w_980%2Ch_718%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/3131a2_28547fdd7bf54113a3dc5055414491c0~mv2.jpg",
-              "image": "https://static.wixstatic.com/media/3131a2_28547fdd7bf54113a3dc5055414491c0~mv2.jpg/v1/fill/w_980%2Ch_718%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/3131a2_28547fdd7bf54113a3dc5055414491c0~mv2.jpg",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=mikado.it&sz=256",
-              "termsUrl": "https://www.promotiempo.it/concorso/concorso-a-premi-mikado-summer-nights",
-              "approved": true,
-              "mechanic": "instant_win",
-              "badges": [
-                "Vinci subito",
-                "Con scontrino"
-              ]
-            },
-            {
-              "id": "philadelphia-light-gusta-leggerezza-2026",
-              "title": "Gusta la leggerezza con Philadelphia Light",
-              "prize": "Gift Card Decathlon e smartwatch Garmin Venu 4",
-              "platform": "Philadelphia Light",
-              "category": "Sport",
-              "deadline": "2026-07-19",
-              "url": "https://vincilight.philadelphia.it",
-              "imageUrl": "https://static.wixstatic.com/media/3131a2_db186bd2ab6647d699d6c233a382405e~mv2.jpg/v1/fill/w_980%2Ch_718%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/3131a2_db186bd2ab6647d699d6c233a382405e~mv2.jpg",
-              "cover": "https://static.wixstatic.com/media/3131a2_db186bd2ab6647d699d6c233a382405e~mv2.jpg/v1/fill/w_980%2Ch_718%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/3131a2_db186bd2ab6647d699d6c233a382405e~mv2.jpg",
-              "coverUrl": "https://static.wixstatic.com/media/3131a2_db186bd2ab6647d699d6c233a382405e~mv2.jpg/v1/fill/w_980%2Ch_718%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/3131a2_db186bd2ab6647d699d6c233a382405e~mv2.jpg",
-              "brandImage": "https://static.wixstatic.com/media/3131a2_db186bd2ab6647d699d6c233a382405e~mv2.jpg/v1/fill/w_980%2Ch_718%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/3131a2_db186bd2ab6647d699d6c233a382405e~mv2.jpg",
-              "ogImage": "https://static.wixstatic.com/media/3131a2_db186bd2ab6647d699d6c233a382405e~mv2.jpg/v1/fill/w_980%2Ch_718%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/3131a2_db186bd2ab6647d699d6c233a382405e~mv2.jpg",
-              "twitterImage": "https://static.wixstatic.com/media/3131a2_db186bd2ab6647d699d6c233a382405e~mv2.jpg/v1/fill/w_980%2Ch_718%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/3131a2_db186bd2ab6647d699d6c233a382405e~mv2.jpg",
-              "image": "https://static.wixstatic.com/media/3131a2_db186bd2ab6647d699d6c233a382405e~mv2.jpg/v1/fill/w_980%2Ch_718%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/3131a2_db186bd2ab6647d699d6c233a382405e~mv2.jpg",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=philadelphia.it&sz=256",
-              "termsUrl": "https://www.promotiempo.it/concorso/concorso-a-premi-gusta-la-leggerezza-con-philadelphia-light",
-              "approved": true,
-              "mechanic": "instant_win",
-              "badges": [
-                "Vinci subito",
-                "Con scontrino"
-              ]
-            },
-            {
-              "id": "equilibra-vacanza-zanzibar-2026",
-              "title": "Vinci la tua vacanza a Zanzibar",
-              "prize": "Buoni vacanza Alpitour da 1.000€ e viaggio per 4 persone a Zanzibar",
-              "platform": "Equilibra",
-              "category": "Viaggi",
-              "deadline": "2026-07-31",
-              "url": "https://www.promotiempo.it/concorso/concorso-a-premi-vinci-la-tua-vacanza-a-zanzibar-equilibra",
-              "imageUrl": "https://www.google.com/s2/favicons?domain=equilibra.it&sz=256",
-              "cover": "https://www.google.com/s2/favicons?domain=equilibra.it&sz=256",
-              "coverUrl": "https://www.google.com/s2/favicons?domain=equilibra.it&sz=256",
-              "brandImage": "https://www.google.com/s2/favicons?domain=equilibra.it&sz=256",
-              "ogImage": "",
-              "twitterImage": "",
-              "image": "https://www.google.com/s2/favicons?domain=equilibra.it&sz=256",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=equilibra.it&sz=256",
-              "termsUrl": "https://www.promotiempo.it/concorso/concorso-a-premi-vinci-la-tua-vacanza-a-zanzibar-equilibra",
-              "approved": true,
-              "mechanic": "instant_win",
-              "badges": [
-                "Vinci subito",
-                "Con scontrino"
-              ]
-            },
-            {
-              "id": "comprami-e-vinci-giugno-2026",
-              "title": "Comprami e Vinci 2026",
-              "prize": "150 teli mare personalizzati e voucher spettacoli/concerti",
-              "platform": "Comprami",
-              "category": "Tempo Libero",
-              "deadline": "2026-07-20",
-              "url": "https://compramievinci.it/",
-              "imageUrl": "https://www.google.com/s2/favicons?domain=compramievinci.it&sz=256",
-              "cover": "https://www.google.com/s2/favicons?domain=compramievinci.it&sz=256",
-              "coverUrl": "https://www.google.com/s2/favicons?domain=compramievinci.it&sz=256",
-              "brandImage": "https://www.google.com/s2/favicons?domain=compramievinci.it&sz=256",
-              "ogImage": "",
-              "twitterImage": "",
-              "image": "https://www.google.com/s2/favicons?domain=compramievinci.it&sz=256",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=compramievinci.it&sz=256",
-              "termsUrl": "https://compramievinci.it/",
-              "approved": true,
-              "mechanic": "unique_code",
-              "badges": [
-                "Codice",
-                "Con scontrino"
-              ]
-            },
-            {
               "id": "mediaworld-club-instant-win-giugno-2026",
               "title": "MediaWorld Club Instant Win",
               "prize": "Premi instant win giornalieri e premi classifica MediaWorld Club",
@@ -980,30 +690,6 @@
               "badges": [
                 "Vinci subito",
                 "Missioni"
-              ]
-            },
-            {
-              "id": "bud-for-fifa-world-cup-2026-despar",
-              "title": "Bud for FIFA World Cup 2026",
-              "prize": "Biglietti e palloni ufficiali",
-              "platform": "Bud / Despar",
-              "category": "Sport",
-              "deadline": "2026-07-19",
-              "url": "https://www.mydespar.it/news/bud-limited-edition",
-              "imageUrl": "https://www.mydespar.it/public/news//crop/Screenshot_2026-05-25_170246.jpg",
-              "cover": "https://www.mydespar.it/public/news//crop/Screenshot_2026-05-25_170246.jpg",
-              "coverUrl": "https://www.mydespar.it/public/news//crop/Screenshot_2026-05-25_170246.jpg",
-              "brandImage": "https://www.mydespar.it/public/news//crop/Screenshot_2026-05-25_170246.jpg",
-              "ogImage": "https://www.mydespar.it/public/news//crop/Screenshot_2026-05-25_170246.jpg",
-              "twitterImage": "https://www.mydespar.it/public/news//crop/Screenshot_2026-05-25_170246.jpg",
-              "image": "https://www.mydespar.it/public/news//crop/Screenshot_2026-05-25_170246.jpg",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=mydespar.it&sz=256",
-              "termsUrl": "https://www.mydespar.it/news/bud-limited-edition",
-              "approved": true,
-              "mechanic": "final_draw",
-              "badges": [
-                "Estrazione",
-                "Con scontrino"
               ]
             },
             {
@@ -1143,30 +829,6 @@
               "image": "https://www.google.com/s2/favicons?domain=chiccotipremia.it&sz=256",
               "providerLogoUrl": "https://www.google.com/s2/favicons?domain=chicco.it&sz=256",
               "termsUrl": "https://stagionali.chiccotipremia.it/",
-              "approved": true,
-              "mechanic": "instant_win",
-              "badges": [
-                "Vinci subito",
-                "Con scontrino"
-              ]
-            },
-            {
-              "id": "bosch-forni-porta-la-vittoria-a-casa-2026",
-              "title": "Forni Bosch 2026: porta la vittoria a casa",
-              "prize": "Buoni spesa da 500€",
-              "platform": "Bosch",
-              "category": "Casa & Famiglia",
-              "deadline": "2026-07-25",
-              "url": "https://www.bosch-home.com/it/it/c/spotlight/blt5658b3586546d7b4",
-              "imageUrl": "https://www.google.com/s2/favicons?domain=bosch-home.com&sz=256",
-              "cover": "https://www.google.com/s2/favicons?domain=bosch-home.com&sz=256",
-              "coverUrl": "https://www.google.com/s2/favicons?domain=bosch-home.com&sz=256",
-              "brandImage": "https://www.google.com/s2/favicons?domain=bosch-home.com&sz=256",
-              "ogImage": "",
-              "twitterImage": "",
-              "image": "https://www.google.com/s2/favicons?domain=bosch-home.com&sz=256",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=bosch-home.com&sz=256",
-              "termsUrl": "https://media3.bosch-home.com/Documents/28739680_Bosch_Regolamento-Instant-win-forni.pdf",
               "approved": true,
               "mechanic": "instant_win",
               "badges": [
@@ -2135,102 +1797,6 @@
               ]
             },
             {
-              "id": "winnis-tigota-meraviglie-da-scoprire-2026",
-              "title": "Winni's Meraviglie da scoprire 2026",
-              "prize": "1.300 gift card digitali Tigotà da 25€",
-              "platform": "Winni's / Tigotà",
-              "category": "Shopping",
-              "deadline": "2026-07-31",
-              "url": "https://wa.me/393399957307",
-              "imageUrl": "https://www.google.com/s2/favicons?domain=winnis.it&sz=256",
-              "cover": "https://www.google.com/s2/favicons?domain=winnis.it&sz=256",
-              "coverUrl": "https://www.google.com/s2/favicons?domain=winnis.it&sz=256",
-              "brandImage": "https://www.google.com/s2/favicons?domain=winnis.it&sz=256",
-              "ogImage": "",
-              "twitterImage": "",
-              "image": "https://www.google.com/s2/favicons?domain=winnis.it&sz=256",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=tigota.it&sz=256",
-              "termsUrl": "https://slangcomunicazione.it/wp-content/uploads/2026/06/MERAVIGLIE-DA-SCOPRIRE-2026-TC.pdf",
-              "approved": true,
-              "mechanic": "instant_win",
-              "badges": [
-                "Vinci subito",
-                "Con scontrino"
-              ]
-            },
-            {
-              "id": "superfive-tigota-casa-pulita-2026",
-              "title": "Casa Pulita con SuperFive 2026",
-              "prize": "1.500 gift card digitali Tigotà da 25€",
-              "platform": "SuperFive / Tigotà",
-              "category": "Shopping",
-              "deadline": "2026-07-31",
-              "url": "https://www.casapulitaconsuperfive.it/",
-              "imageUrl": "https://www.google.com/s2/favicons?domain=casapulitaconsuperfive.it&sz=256",
-              "cover": "https://www.google.com/s2/favicons?domain=casapulitaconsuperfive.it&sz=256",
-              "coverUrl": "https://www.google.com/s2/favicons?domain=casapulitaconsuperfive.it&sz=256",
-              "brandImage": "https://www.google.com/s2/favicons?domain=casapulitaconsuperfive.it&sz=256",
-              "ogImage": "",
-              "twitterImage": "",
-              "image": "https://www.google.com/s2/favicons?domain=casapulitaconsuperfive.it&sz=256",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=superfive.it&sz=256",
-              "termsUrl": "https://superfiveit.it/wp-content/uploads/2026/06/Regolamento-CASA-PULITA-CON-SUPERFIVE.docx",
-              "approved": true,
-              "mechanic": "instant_win",
-              "badges": [
-                "Vinci subito",
-                "Con scontrino"
-              ]
-            },
-            {
-              "id": "tampax-set-padel-tigota-2026",
-              "title": "Con Tampax puoi vincere un Set Padel",
-              "prize": "50 Set Padel Quicksand",
-              "platform": "Tampax / Tigotà",
-              "category": "Sport",
-              "deadline": "2026-07-31",
-              "url": "https://tampax.it/regolamenti",
-              "imageUrl": "assets/contests/tampax-set-padel-tigota-2026.jpg",
-              "cover": "assets/contests/tampax-set-padel-tigota-2026.jpg",
-              "coverUrl": "assets/contests/tampax-set-padel-tigota-2026.jpg",
-              "brandImage": "assets/contests/tampax-set-padel-tigota-2026.jpg",
-              "ogImage": "assets/contests/tampax-set-padel-tigota-2026.jpg",
-              "twitterImage": "assets/contests/tampax-set-padel-tigota-2026.jpg",
-              "image": "assets/contests/tampax-set-padel-tigota-2026.jpg",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=tigota.it&sz=256",
-              "termsUrl": "https://tampax.it/pdf/Regolamento-Conc%282186%29-Con-Tampax-puoi-vincere-un-set-padel.pdf",
-              "approved": true,
-              "mechanic": "instant_win",
-              "badges": [
-                "Vinci subito",
-                "Con scontrino"
-              ]
-            },
-            {
-              "id": "perla-nera-vinci-il-tesoro-dell-estate-2026",
-              "title": "Vinci il tesoro dell'estate",
-              "prize": "93 gift card Toys Center/Bimbostore da 100€ e viaggio a Disneyland Paris per 4 persone",
-              "platform": "Perla Nera",
-              "category": "Tempo Libero",
-              "deadline": "2026-07-31",
-              "url": "https://www.vinciiltesorodellestate.it/",
-              "imageUrl": "assets/contests/perla-nera-vinci-il-tesoro-dell-estate-2026.jpg",
-              "cover": "assets/contests/perla-nera-vinci-il-tesoro-dell-estate-2026.jpg",
-              "coverUrl": "assets/contests/perla-nera-vinci-il-tesoro-dell-estate-2026.jpg",
-              "brandImage": "assets/contests/perla-nera-vinci-il-tesoro-dell-estate-2026.jpg",
-              "ogImage": "assets/contests/perla-nera-vinci-il-tesoro-dell-estate-2026.jpg",
-              "twitterImage": "assets/contests/perla-nera-vinci-il-tesoro-dell-estate-2026.jpg",
-              "image": "assets/contests/perla-nera-vinci-il-tesoro-dell-estate-2026.jpg",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=perlanera.it&sz=256",
-              "termsUrl": "https://www.vinciiltesorodellestate.it/regolamento.pdf",
-              "approved": true,
-              "mechanic": "instant_win",
-              "badges": [
-                "Vinci subito",
-                "Con scontrino"
-              ]
-            },
-            {
               "id": "granterre-la-bonta-che-ti-pensa-2026",
               "title": "Granterre: La bontà che ti pensa 2026",
               "prize": "Buoni regalo Amazon.it da 250€, punti raccolta e premi missione GranTerre",
@@ -2327,30 +1893,6 @@
               ]
             },
             {
-              "id": "pril-ti-rimborsa-gel-excellence-2026",
-              "title": "Pril ti rimborsa Gel Excellence",
-              "prize": "Rimborso fino a 9,99€ su Pril Gel Excellence",
-              "platform": "DonnaD / Pril",
-              "category": "Casa & Famiglia",
-              "deadline": "2026-07-31",
-              "url": "https://concorsi.donnad.it/concorso/pril-ti-rimborsa-gel-excellence",
-              "imageUrl": "https://concorsi.donnad.it/brand/donnad/pril-ti-rimborsa-gel-excellence/icon-cashback.webp",
-              "cover": "https://concorsi.donnad.it/brand/donnad/pril-ti-rimborsa-gel-excellence/icon-cashback.webp",
-              "coverUrl": "https://concorsi.donnad.it/brand/donnad/pril-ti-rimborsa-gel-excellence/icon-cashback.webp",
-              "brandImage": "https://concorsi.donnad.it/brand/donnad/pril-ti-rimborsa-gel-excellence/logo_henkel_white.png",
-              "ogImage": "https://concorsi.donnad.it/brand/donnad/pril-ti-rimborsa-gel-excellence/icon-cashback.webp",
-              "twitterImage": "https://concorsi.donnad.it/brand/donnad/pril-ti-rimborsa-gel-excellence/icon-cashback.webp",
-              "image": "https://concorsi.donnad.it/brand/donnad/pril-ti-rimborsa-gel-excellence/icon-cashback.webp",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=pril.it&sz=256",
-              "termsUrl": "https://concorsi.donnad.it/brand/donnad/pril-ti-rimborsa-gel-excellence/regolamento.pdf",
-              "approved": true,
-              "mechanic": "purchase_required",
-              "badges": [
-                "Cashback",
-                "Con scontrino"
-              ]
-            },
-            {
               "id": "max-factory-il-tuo-parere-vale-2026",
               "title": "Il tuo parere vale",
               "prize": "Gift card Max Factory da 100€ in instant win",
@@ -2367,30 +1909,6 @@
               "image": "https://concorsi.maxfactory.eu/images/hero-illustrazione.webp",
               "providerLogoUrl": "https://www.google.com/s2/favicons?domain=maxfactory.eu&sz=256",
               "termsUrl": "https://concorsi.maxfactory.eu/documenti/regolamento.pdf",
-              "approved": true,
-              "mechanic": "instant_win",
-              "badges": [
-                "Vinci subito",
-                "Con scontrino"
-              ]
-            },
-            {
-              "id": "haribo-estate-vip-unipol-arena-2026",
-              "title": "Haribo Estate 2026",
-              "prize": "15 coppie di biglietti VIP Unipol Arena per concerti",
-              "platform": "Haribo",
-              "category": "Musica",
-              "deadline": "2026-07-26",
-              "url": "https://estate2026.hariboconcorsi.it/",
-              "imageUrl": "https://estate2026.hariboconcorsi.it/public/Estate_2026/visual_desktop_ilpremio-mobile.png",
-              "cover": "https://estate2026.hariboconcorsi.it/public/Estate_2026/visual_desktop_ilpremio-mobile.png",
-              "coverUrl": "https://estate2026.hariboconcorsi.it/public/Estate_2026/visual_desktop_ilpremio-mobile.png",
-              "brandImage": "https://estate2026.hariboconcorsi.it/public/Estate_2026/visual_default_header-mobile.png",
-              "ogImage": "https://estate2026.hariboconcorsi.it/public/Estate_2026/visual_desktop_ilpremio-mobile.png",
-              "twitterImage": "https://estate2026.hariboconcorsi.it/public/Estate_2026/visual_desktop_ilpremio-mobile.png",
-              "image": "https://estate2026.hariboconcorsi.it/public/Estate_2026/visual_desktop_ilpremio-mobile.png",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=haribo.com&sz=256",
-              "termsUrl": "https://estate2026.hariboconcorsi.it/public/Estate_2026/regolamento.pdf",
               "approved": true,
               "mechanic": "instant_win",
               "badges": [
@@ -2521,30 +2039,6 @@
               ]
             },
             {
-              "id": "hisense-vinci-il-gusto-coca-cola-2026",
-              "title": "Con Hisense vinci il gusto Coca-Cola",
-              "prize": "Premi Coca-Cola a estrazione con l'acquisto di frigoriferi Hisense selezionati",
-              "platform": "Hisense / Coca-Cola",
-              "category": "Casa & Famiglia",
-              "deadline": "2026-07-30",
-              "url": "https://tipremia.hisense.it/",
-              "imageUrl": "https://tipremia.hisense.it/app/uploads/2026/05/hero_coca_cola.jpg",
-              "cover": "https://tipremia.hisense.it/app/uploads/2026/05/hero_coca_cola.jpg",
-              "coverUrl": "https://tipremia.hisense.it/app/uploads/2026/05/hero_coca_cola.jpg",
-              "brandImage": "https://tipremia.hisense.it/app/uploads/2026/05/hero_coca_cola.jpg",
-              "ogImage": "https://tipremia.hisense.it/app/uploads/2026/05/hero_coca_cola.jpg",
-              "twitterImage": "https://tipremia.hisense.it/app/uploads/2026/05/hero_coca_cola.jpg",
-              "image": "https://tipremia.hisense.it/app/uploads/2026/05/hero_coca_cola.jpg",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=hisense.it&sz=256",
-              "termsUrl": "https://tipremia.hisense.it/app/uploads/2026/05/Regolamento_Promo-Hisense-REF-e-Coca-Cola-2026.pdf",
-              "approved": true,
-              "mechanic": "final_draw",
-              "badges": [
-                "Estrazione",
-                "Con scontrino"
-              ]
-            },
-            {
               "id": "aia-griglia-dove-vuoi-2026",
               "title": "Griglia dove vuoi",
               "prize": "Barbecue LotusGrill ogni giorno e tour gastronomico in Irlanda",
@@ -2590,30 +2084,6 @@
               "badges": [
                 "Vinci subito",
                 "Gioco"
-              ]
-            },
-            {
-              "id": "garda-trentino-notte-in-palafitta-2026",
-              "title": "Una notte in palafitta 2026",
-              "prize": "Notte in palafitta per massimo 3 persone, visita guidata, viaggio e voucher Garda Trentino da 150€",
-              "platform": "Garda Trentino / Comune di Ledro",
-              "category": "Viaggi",
-              "deadline": "2026-07-31",
-              "url": "https://www.gardatrentino.it/it/localita/valle-di-ledro/notte-in-palafitta",
-              "imageUrl": "https://www.gardatrentino.it/website_images/Scopri/Localita/Ledro/Palafitte/image-thumb__11186__header/GARDADOLOMITI_WATCHSOME_LEDRO_PALAFITTE_Notte_Iin_Palafitta.jpg",
-              "cover": "https://www.gardatrentino.it/website_images/Scopri/Localita/Ledro/Palafitte/image-thumb__11186__header/GARDADOLOMITI_WATCHSOME_LEDRO_PALAFITTE_Notte_Iin_Palafitta.jpg",
-              "coverUrl": "https://www.gardatrentino.it/website_images/Scopri/Localita/Ledro/Palafitte/image-thumb__11186__header/GARDADOLOMITI_WATCHSOME_LEDRO_PALAFITTE_Notte_Iin_Palafitta.jpg",
-              "brandImage": "https://www.gardatrentino.it/website_images/Scopri/Localita/Ledro/Palafitte/image-thumb__11186__header/GARDADOLOMITI_WATCHSOME_LEDRO_PALAFITTE_Notte_Iin_Palafitta.jpg",
-              "ogImage": "https://www.gardatrentino.it/website_images/Scopri/Localita/Ledro/Palafitte/image-thumb__11186__header/GARDADOLOMITI_WATCHSOME_LEDRO_PALAFITTE_Notte_Iin_Palafitta.jpg",
-              "twitterImage": "https://www.gardatrentino.it/website_images/Scopri/Localita/Ledro/Palafitte/image-thumb__11186__header/GARDADOLOMITI_WATCHSOME_LEDRO_PALAFITTE_Notte_Iin_Palafitta.jpg",
-              "image": "https://www.gardatrentino.it/website_images/Scopri/Localita/Ledro/Palafitte/image-thumb__11186__header/GARDADOLOMITI_WATCHSOME_LEDRO_PALAFITTE_Notte_Iin_Palafitta.jpg",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=gardatrentino.it&sz=256",
-              "termsUrl": "https://www.gardatrentino.it/documenti/Notte_In_Palafitta/312_26_003%20TerminiCondizioni_V.pdf",
-              "approved": true,
-              "mechanic": "final_draw",
-              "badges": [
-                "Estrazione",
-                "Senza acquisto"
               ]
             },
             {
@@ -2737,55 +2207,6 @@
               "badges": [
                 "Vinci subito",
                 "Con scontrino"
-              ]
-            },
-            {
-              "id": "samsung-unpacked-members-app-luglio-2026",
-              "title": "Unpacked Members App Luglio 2026",
-              "prize": "10 codici sconto Samsung da 500€",
-              "platform": "Samsung",
-              "category": "Senza Acquisto",
-              "deadline": "2026-07-19",
-              "url": "https://www.samsung.com/it/offer/samsunggalaxyunpackedapp/",
-              "imageUrl": "https://img.global.news.samsung.com/it/wp-content/uploads/2026/07/MASTER_TEASING_1920x1080_H-e1783497633327.jpg",
-              "cover": "https://img.global.news.samsung.com/it/wp-content/uploads/2026/07/MASTER_TEASING_1920x1080_H-e1783497633327.jpg",
-              "coverUrl": "https://img.global.news.samsung.com/it/wp-content/uploads/2026/07/MASTER_TEASING_1920x1080_H-e1783497633327.jpg",
-              "brandImage": "https://img.global.news.samsung.com/it/wp-content/uploads/2026/07/MASTER_TEASING_1920x1080_H-e1783497633327.jpg",
-              "ogImage": "https://img.global.news.samsung.com/it/wp-content/uploads/2026/07/MASTER_TEASING_1920x1080_H-e1783497633327.jpg",
-              "twitterImage": "https://img.global.news.samsung.com/it/wp-content/uploads/2026/07/MASTER_TEASING_1920x1080_H-e1783497633327.jpg",
-              "image": "https://img.global.news.samsung.com/it/wp-content/uploads/2026/07/MASTER_TEASING_1920x1080_H-e1783497633327.jpg",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=samsung.com&sz=256",
-              "termsUrl": "https://images.samsung.com/is/content/samsung/assets/it/offer/samsunggalaxyunpackedapp/SEI_Concorso_Unpacked_Luglio_2026_Members_App.pdf",
-              "approved": true,
-              "mechanic": "instant_win",
-              "badges": [
-                "Vinci subito",
-                "Senza acquisto"
-              ]
-            },
-            {
-              "id": "loreal-garnier-mixa-bici-elettrica-2026",
-              "title": "Prova a vincere una bici elettrica",
-              "prize": "31 biciclette elettriche Rambla 28, una al giorno",
-              "platform": "L'Oréal Paris / Garnier / Mixa / Tigotà",
-              "category": "Benessere",
-              "deadline": "2026-07-31",
-              "url": "https://www.garnier.it/concorsi-ed-altre-iniziative",
-              "imageUrl": "https://www.loreal-paris.it/-/media/project/loreal/brand-sites/oap/emea/it/articles/digital-banner-logo-oap.jpg?ch=600&cw=2000&cx=0.46&cy=0.42&hash=528B4CAB3E837CEF98CAD91E49808ECB",
-              "cover": "https://www.loreal-paris.it/-/media/project/loreal/brand-sites/oap/emea/it/articles/digital-banner-logo-oap.jpg?ch=600&cw=2000&cx=0.46&cy=0.42&hash=528B4CAB3E837CEF98CAD91E49808ECB",
-              "coverUrl": "https://www.loreal-paris.it/-/media/project/loreal/brand-sites/oap/emea/it/articles/digital-banner-logo-oap.jpg?ch=600&cw=2000&cx=0.46&cy=0.42&hash=528B4CAB3E837CEF98CAD91E49808ECB",
-              "brandImage": "https://www.loreal-paris.it/-/media/project/loreal/brand-sites/oap/emea/it/articles/digital-banner-logo-oap.jpg?ch=600&cw=2000&cx=0.46&cy=0.42&hash=528B4CAB3E837CEF98CAD91E49808ECB",
-              "ogImage": "https://www.loreal-paris.it/-/media/project/loreal/brand-sites/oap/emea/it/articles/digital-banner-logo-oap.jpg?ch=600&cw=2000&cx=0.46&cy=0.42&hash=528B4CAB3E837CEF98CAD91E49808ECB",
-              "twitterImage": "https://www.loreal-paris.it/-/media/project/loreal/brand-sites/oap/emea/it/articles/digital-banner-logo-oap.jpg?ch=600&cw=2000&cx=0.46&cy=0.42&hash=528B4CAB3E837CEF98CAD91E49808ECB",
-              "image": "https://www.loreal-paris.it/-/media/project/loreal/brand-sites/oap/emea/it/articles/digital-banner-logo-oap.jpg?ch=600&cw=2000&cx=0.46&cy=0.42&hash=528B4CAB3E837CEF98CAD91E49808ECB",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=garnier.it&sz=256",
-              "termsUrl": "https://www.garnier.it/-/media/project/loreal/brand-sites/garnier/emea/it/concorsi/2026/concorso-prova-a-vincere-una-bici-elettrica-con-loreal-paris-garnier-e-mixa.pdf?hash=599D3D7A51408535766D804671160701&rev=557bcc45e29e4688a61ed3b9fb3419e6",
-              "approved": true,
-              "mechanic": "instant_win",
-              "badges": [
-                "Vinci subito",
-                "Con scontrino",
-                "SMS"
               ]
             },
             {
@@ -3225,54 +2646,6 @@
               "image": "https://gsewl.cstmapp.com/92/1013592/main/6a1838669bbb4.png"
             },
             {
-              "id": "100-anni-usag-vinci-gratis-carrelli-portautensili-valore-oltre-1-000-2026",
-              "title": "100 anni USAG: vinci gratis carrelli portautensili (valore oltre 1.000€)",
-              "prize": "carrelli portautensili (valore oltre 1.000€)",
-              "platform": "100Anniusag",
-              "category": "Shopping",
-              "deadline": "2026-07-31",
-              "url": "https://100anniusag.it/",
-              "termsUrl": "https://100anniusag.it/wp-content/uploads/2026/04/Regolamento-Concorso-per-minisito.pdf",
-              "approved": true,
-              "mechanic": "quiz",
-              "badges": [
-                "Quiz",
-                "Senza acquisto"
-              ],
-              "imageUrl": "https://100anniusag.it/wp-content/uploads/2026/04/Carrello2.jpg",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=100anniusag.it&sz=256",
-              "cover": "https://100anniusag.it/wp-content/uploads/2026/04/Carrello2.jpg",
-              "coverUrl": "https://100anniusag.it/wp-content/uploads/2026/04/Carrello2.jpg",
-              "brandImage": "https://100anniusag.it/wp-content/uploads/2026/04/Carrello2.jpg",
-              "ogImage": "https://100anniusag.it/wp-content/uploads/2026/04/Carrello2.jpg",
-              "twitterImage": "https://100anniusag.it/wp-content/uploads/2026/04/Carrello2.jpg",
-              "image": "https://100anniusag.it/wp-content/uploads/2026/04/Carrello2.jpg"
-            },
-            {
-              "id": "arbre-magique-pop-win-vinci-buoni-carburante-da-50-o-fiat-topolino-2026",
-              "title": "Arbre Magique “Pop&Win”: vinci buoni carburante da 50€ o FIAT Topolino",
-              "prize": "buoni carburante da 50€ o FIAT Topolino",
-              "platform": "Popandgo",
-              "category": "Shopping",
-              "deadline": "2026-07-30",
-              "url": "https://www.popandgo.it/",
-              "termsUrl": "https://www.popandgo.it/regolamento.pdf",
-              "approved": true,
-              "mechanic": "instant_win",
-              "badges": [
-                "Vinci subito",
-                "Con scontrino"
-              ],
-              "imageUrl": "https://www.popandgo.it/images/claim.png",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=popandgo.it&sz=256",
-              "cover": "https://www.popandgo.it/images/claim.png",
-              "coverUrl": "https://www.popandgo.it/images/claim.png",
-              "brandImage": "https://www.popandgo.it/images/claim.png",
-              "ogImage": "https://www.popandgo.it/images/claim.png",
-              "twitterImage": "https://www.popandgo.it/images/claim.png",
-              "image": "https://www.popandgo.it/images/claim.png"
-            },
-            {
               "id": "coop-storie-a-tavola-vinci-gratis-viaggio-in-occasione-del-salone-del-gusto-2026",
               "title": "COOP “Storie a tavola”: vinci gratis viaggio in occasione del Salone del Gusto",
               "prize": "Una volta effettuata correttamente l’iscrizione al Concorso, l’Utente avrà accesso alla selezione, che si terrà alla presenza di un Notaio o di un 2 funzionario della Camera di Commercio, entro il termine indicato all’articolo",
@@ -3393,30 +2766,6 @@
               "image": "https://vinciunkitviaggio.equilibra.it/images/sfondo_blu.jpg"
             },
             {
-              "id": "heineken-e-dj-party-station-vinci-ogni-ora-uno-speaker-a-forma-di-lattina-di-birra-2026",
-              "title": "Heineken e DJ Party Station”: vinci ogni ora uno speaker a forma di lattina di birra",
-              "prize": "Ogni ora uno speaker a forma di lattina di birra",
-              "platform": "Concorsi",
-              "category": "Tech",
-              "deadline": "2026-07-30",
-              "url": "https://heineken.concorsi.beer/dj-party-station/",
-              "termsUrl": "https://heineken.concorsi.beer/dj-party-station/regolamento.pdf",
-              "approved": true,
-              "mechanic": "missions",
-              "badges": [
-                "Missioni",
-                "Con scontrino"
-              ],
-              "imageUrl": "https://heineken.concorsi.beer/dj-party-station/_nuxt/music-box.6JDsFnYD.webp",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=heineken.concorsi.beer&sz=256",
-              "cover": "https://heineken.concorsi.beer/dj-party-station/images/bg-ichnusa.webp",
-              "coverUrl": "https://heineken.concorsi.beer/dj-party-station/images/bg-ichnusa.webp",
-              "brandImage": "https://heineken.concorsi.beer/dj-party-station/images/bg-ichnusa.webp",
-              "ogImage": "https://heineken.concorsi.beer/dj-party-station/images/bg-ichnusa.webp",
-              "twitterImage": "https://heineken.concorsi.beer/dj-party-station/images/bg-ichnusa.webp",
-              "image": "https://heineken.concorsi.beer/dj-party-station/images/bg-ichnusa.webp"
-            },
-            {
               "id": "vileda-il-rosso-ti-premia-vinci-iphone-17-kitchenaid-apple-watch-11-o-fiat-500-elettrica-2026",
               "title": "Vileda “Il rosso ti premia”: vinci iPhone 17, KitchenAid, Apple Watch 11 o… Fiat 500 elettrica!",
               "prize": "iPhone 17, KitchenAid, Apple Watch 11 o",
@@ -3439,6 +2788,78 @@
               "ogImage": "https://www.ilrossotipremia.vileda.it/images/img-nowin.jpg",
               "twitterImage": "https://www.ilrossotipremia.vileda.it/images/img-nowin.jpg",
               "image": "https://www.ilrossotipremia.vileda.it/images/img-nowin.jpg"
+            },
+            {
+              "id": "president-vivi-il-piacere-gourmet-vinci-150-set-zwilling-con-coltello-e-tagliere-o-viaggio-a-londra-2026",
+              "title": "President “Vivi il Piacere Gourmet”: vinci 150 set Zwilling con coltello e tagliere o viaggio a Londra",
+              "prize": "150 set Zwilling con coltello e tagliere o viaggio a Londra",
+              "platform": "Presidentformaggi",
+              "category": "Viaggi",
+              "deadline": "2026-12-10",
+              "url": "https://www.presidentformaggi.it/vivi-il-piacere-gourmet/home",
+              "termsUrl": "https://storage.googleapis.com/bucket-standard-assets/galbanipresidentlocatelli2026/docs/regolamento.pdf",
+              "approved": true,
+              "mechanic": "instant_win",
+              "badges": [
+                "Vinci subito",
+                "Con scontrino"
+              ],
+              "imageUrl": "https://www.google.com/s2/favicons?domain=presidentformaggi.it&sz=256",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=presidentformaggi.it&sz=256",
+              "cover": "https://www.google.com/s2/favicons?domain=presidentformaggi.it&sz=256",
+              "coverUrl": "https://www.google.com/s2/favicons?domain=presidentformaggi.it&sz=256",
+              "brandImage": "https://www.google.com/s2/favicons?domain=presidentformaggi.it&sz=256",
+              "ogImage": "https://www.google.com/s2/favicons?domain=presidentformaggi.it&sz=256",
+              "twitterImage": "https://www.google.com/s2/favicons?domain=presidentformaggi.it&sz=256",
+              "image": "https://www.google.com/s2/favicons?domain=presidentformaggi.it&sz=256"
+            },
+            {
+              "id": "prova-a-vincere-le-bahamas-e-scopri-la-tua-prossima-avventura-vinci-viaggio-da-12-000-con-voli-e-soggiorno-2026",
+              "title": "Prova a vincere le Bahamas e scopri la tua prossima avventura: vinci viaggio da 12.000€ (con voli e soggiorno)",
+              "prize": "viaggio da 12.000€ (con voli e soggiorno)",
+              "platform": "Myautogrill",
+              "category": "Viaggi",
+              "deadline": "2026-09-06",
+              "url": "https://www.myautogrill.it/promotions/welcome-coffe?referralCode=5383LPS3",
+              "termsUrl": "https://www.autogrill.it/wp-content/uploads/2026/07/2026-PROVA-A-VINCERE-UN-VIAGGIO-DA-SOGNO-CON-MY-AUTOGRILL-co-web-estrazione-finale-02.07.2026-DEF.pdf?referralCode=5383LPS3",
+              "approved": true,
+              "mechanic": "missions",
+              "badges": [
+                "Missioni",
+                "Senza acquisto"
+              ],
+              "imageUrl": "https://www.myautogrill.it/MyAutogrill.jpg",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=myautogrill.it&sz=256",
+              "cover": "https://www.myautogrill.it/MyAutogrill.jpg",
+              "coverUrl": "https://www.myautogrill.it/MyAutogrill.jpg",
+              "brandImage": "https://www.myautogrill.it/MyAutogrill.jpg",
+              "ogImage": "https://www.myautogrill.it/MyAutogrill.jpg",
+              "twitterImage": "https://www.myautogrill.it/MyAutogrill.jpg",
+              "image": "https://www.myautogrill.it/MyAutogrill.jpg"
+            },
+            {
+              "id": "vivi-un-esperienza-con-bwt-alpine-formula-onetm-team-2026",
+              "title": "Vivi un'esperienza con BWT Alpine Formula One™ Team",
+              "prize": "per i Destinatari del Livello Più Insieme: ▪ N. 50 premi composti da 1 mini casco BWT Alpine Formula One™ Team + 1 Polo BWT Alpine Formula One™ Team del valore di 212,96 € ciascuno (IVA inclusa); ▪ N. 1 casco replica BWT Alpine Formula One™ Team del valore di 3750,00€ ciascuno (IVA inclusa).",
+              "platform": "Eni",
+              "category": "Tempo Libero",
+              "deadline": "2026-09-14",
+              "url": "https://piuinsieme.eni.com/programma-fedelta/concorsi-premi/bwt-alpine-formula-one.html",
+              "termsUrl": "https://piuinsieme.eni.com/content/dam/piuinsieme/documents/concorsi-e-premi/CU_Enilive_Plenitude_2026_CO_Alpine_Regolamento.pdf",
+              "approved": true,
+              "mechanic": "instant_win",
+              "badges": [
+                "Vinci subito",
+                "Con scontrino"
+              ],
+              "imageUrl": "https://s7g10.scene7.com/is/image/eni/opengraph-alpine-1200x630?scl=1",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=piuinsieme.eni.com&sz=256",
+              "cover": "https://s7g10.scene7.com/is/image/eni/opengraph-alpine-1200x630?scl=1",
+              "coverUrl": "https://s7g10.scene7.com/is/image/eni/opengraph-alpine-1200x630?scl=1",
+              "brandImage": "https://s7g10.scene7.com/is/image/eni/opengraph-alpine-1200x630?scl=1",
+              "ogImage": "https://s7g10.scene7.com/is/image/eni/opengraph-alpine-1200x630?scl=1",
+              "twitterImage": "https://s7g10.scene7.com/is/image/eni/opengraph-alpine-1200x630?scl=1",
+              "image": "https://s7g10.scene7.com/is/image/eni/opengraph-alpine-1200x630?scl=1"
             }
           ]
         }
