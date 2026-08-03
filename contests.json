@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-03T12:31:44+02:00",
+  "updatedAt": "2026-08-03T13:00:58+02:00",
   "pages": [
     {
       "id": "home",
@@ -41,7 +41,7 @@
                 "Vinci subito",
                 "Con scontrino"
               ],
-              "imageUrl": "https://vinci.camparisoda.it/img/hero-desk.jpg",
+              "imageUrl": "https://vinci.camparisoda.it/img/step1.png",
               "providerLogoUrl": "https://www.google.com/s2/favicons?domain=vinci.camparisoda.it&sz=256",
               "cover": "https://vinci.camparisoda.it/img/hero-desk.jpg",
               "coverUrl": "https://vinci.camparisoda.it/img/hero-desk.jpg",
@@ -163,7 +163,7 @@
             {
               "id": "galbani-quiz-2026",
               "title": "Galbani Quiz 2026",
-              "prize": "in modalità instant win nel periodo di riferimento, in base alla data di partecipazione. 3 Il sistema invierà un’ apposita comunicazione di risposta (HAI VINTO o NON HAI VINTO) tramite messaggio a video, e, solo in caso di vincita , verrà inviata una apposita e",
+              "prize": "Uno dei 2.000 Buoni Regalo Amazon.it* da 5€ come previsto dal regolamento dell'iniziativa",
               "platform": "Galbani",
               "category": "Moda",
               "deadline": "2026-11-30",
@@ -175,7 +175,7 @@
                 "Vinci subito",
                 "Con scontrino"
               ],
-              "imageUrl": "https://www.galbani.it/galbani-quiz/home-galbani-quiz-2026/images/logo-bandone.svg",
+              "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTERwq258kDLAYJmUlcpj_4ILeTSMZm7vN9VrD73Qzw8A&s=10",
               "providerLogoUrl": "https://www.google.com/s2/favicons?domain=galbani.it&sz=256",
               "cover": "https://www.google.com/s2/favicons?domain=galbani.it&sz=256",
               "coverUrl": "https://www.google.com/s2/favicons?domain=galbani.it&sz=256",
@@ -2791,7 +2791,7 @@
             {
               "id": "galbani-quiz-2026",
               "title": "Galbani Quiz 2026",
-              "prize": "in modalità instant win nel periodo di riferimento, in base alla data di partecipazione. 3 Il sistema invierà un’ apposita comunicazione di risposta (HAI VINTO o NON HAI VINTO) tramite messaggio a video, e, solo in caso di vincita , verrà inviata una apposita e",
+              "prize": "Uno dei 2.000 Buoni Regalo Amazon.it* da 5€ come previsto dal regolamento dell'iniziativa",
               "platform": "Galbani",
               "category": "Moda",
               "deadline": "2026-11-30",
@@ -2803,7 +2803,7 @@
                 "Vinci subito",
                 "Con scontrino"
               ],
-              "imageUrl": "https://www.galbani.it/galbani-quiz/home-galbani-quiz-2026/images/logo-bandone.svg",
+              "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTERwq258kDLAYJmUlcpj_4ILeTSMZm7vN9VrD73Qzw8A&s=10",
               "providerLogoUrl": "https://www.google.com/s2/favicons?domain=galbani.it&sz=256",
               "cover": "https://www.google.com/s2/favicons?domain=galbani.it&sz=256",
               "coverUrl": "https://www.google.com/s2/favicons?domain=galbani.it&sz=256",
@@ -2875,7 +2875,7 @@
                 "Vinci subito",
                 "Con scontrino"
               ],
-              "imageUrl": "https://vinci.camparisoda.it/img/hero-desk.jpg",
+              "imageUrl": "https://vinci.camparisoda.it/img/step1.png",
               "providerLogoUrl": "https://www.google.com/s2/favicons?domain=vinci.camparisoda.it&sz=256",
               "cover": "https://vinci.camparisoda.it/img/hero-desk.jpg",
               "coverUrl": "https://vinci.camparisoda.it/img/hero-desk.jpg",
