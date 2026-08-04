@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-03T13:00:58+02:00",
+  "updatedAt": "2026-08-04T17:32:59+02:00",
   "pages": [
     {
       "id": "home",
@@ -26,6 +26,54 @@
             "showCategory": true
           },
           "contests": [
+            {
+              "id": "vinci-il-kit-dell-estate-con-bilboa-in-palio-kit-con-telo-mare-e-materassini-giganti-2026",
+              "title": "Vinci il kit dell’estate con Bilboa: in palio kit con telo mare e materassini giganti!",
+              "prize": "n. 115 Kit spiaggia del valore medio di mercato di 42,00 euro",
+              "platform": "Borotalco",
+              "category": "Shopping",
+              "deadline": "2026-08-31",
+              "url": "https://labellezzatipremia.it/concorsobilboa/",
+              "termsUrl": "https://labellezzatipremia.it/concorsobilboa/assets/pdf/regolamento.pdf",
+              "approved": true,
+              "mechanic": "instant_win",
+              "badges": [
+                "Vinci subito",
+                "Con scontrino"
+              ],
+              "imageUrl": "https://labellezzatipremia.it/concorsobilboa/assets/img/Logo%20Bilboa.png",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=labellezzatipremia.it&sz=256",
+              "cover": "https://www.google.com/s2/favicons?domain=labellezzatipremia.it&sz=256",
+              "coverUrl": "https://www.google.com/s2/favicons?domain=labellezzatipremia.it&sz=256",
+              "brandImage": "https://www.google.com/s2/favicons?domain=labellezzatipremia.it&sz=256",
+              "ogImage": "https://www.google.com/s2/favicons?domain=labellezzatipremia.it&sz=256",
+              "twitterImage": "https://www.google.com/s2/favicons?domain=labellezzatipremia.it&sz=256",
+              "image": "https://www.google.com/s2/favicons?domain=labellezzatipremia.it&sz=256"
+            },
+            {
+              "id": "concorso-neutro-roberts-vinci-gift-card-cheerz-50-per-foto-fotolibri-calamite-2026",
+              "title": "Concorso Neutro Roberts… vinci gift card Cheerz 50€ (per foto, fotolibri, calamite…)",
+              "prize": "5 card digitali Cheerz da 50€!",
+              "platform": "Promozionimr",
+              "category": "Shopping",
+              "deadline": "2026-09-30",
+              "url": "https://www.promozionimr.it/neutrorobertstiregalaunricordo/",
+              "termsUrl": "https://www.promozionimr.it/neutrorobertstiregalaunricordo/assets/pdf/regolamento.pdf",
+              "approved": true,
+              "mechanic": "instant_win",
+              "badges": [
+                "Vinci subito",
+                "Con scontrino"
+              ],
+              "imageUrl": "https://www.neutroroberts.it/wp-content/uploads/2024/02/Groupage-Fresco_DEO_760x600-1024x808.png",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=promozionimr.it&sz=256",
+              "cover": "https://www.promozionimr.it/neutrorobertstiregalaunricordo/assets/img/home.jpg",
+              "coverUrl": "https://www.promozionimr.it/neutrorobertstiregalaunricordo/assets/img/home.jpg",
+              "brandImage": "https://www.promozionimr.it/neutrorobertstiregalaunricordo/assets/img/home.jpg",
+              "ogImage": "https://www.promozionimr.it/neutrorobertstiregalaunricordo/assets/img/home.jpg",
+              "twitterImage": "https://www.promozionimr.it/neutrorobertstiregalaunricordo/assets/img/home.jpg",
+              "image": "https://www.promozionimr.it/neutrorobertstiregalaunricordo/assets/img/home.jpg"
+            },
             {
               "id": "vinci-con-campari-soda-2026",
               "title": "Vinci con Campari Soda 2026",
@@ -161,6 +209,30 @@
           },
           "contests": [
             {
+              "id": "tavernello-brinda-e-vinci-vinci-set-tavola-con-4-piatti-4-bicchieri-e-buono-spesa-da-100-2026",
+              "title": "Tavernello “Brinda e vinci”: vinci set tavola con 4 piatti + 4 bicchieri e buono spesa da 100€",
+              "prize": "n. 78 set del valore medio di mercato di 165,00 euro (IVA inclusa ove dovuta) composti da n. 1 Buono Spesa del valore unitario di 100,00 euro (escluso IVA art. 2 dpr 633/72) + n. 1 kit tavola Tavernello del valore unitario di 65,00 euro (IVA inclusa)",
+              "platform": "Brindaevinci",
+              "category": "Shopping",
+              "deadline": "2026-08-31",
+              "url": "https://brindaevinci.it/index.php",
+              "termsUrl": "https://brindaevinci.it/assets/pdf/regolamento.pdf",
+              "approved": true,
+              "mechanic": "instant_win",
+              "badges": [
+                "Vinci subito",
+                "Con scontrino"
+              ],
+              "imageUrl": "https://brindaevinci.it/assets/img/pack.png",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=brindaevinci.it&sz=256",
+              "cover": "https://brindaevinci.it/assets/img/title.png",
+              "coverUrl": "https://brindaevinci.it/assets/img/title.png",
+              "brandImage": "https://brindaevinci.it/assets/img/title.png",
+              "ogImage": "https://brindaevinci.it/assets/img/title.png",
+              "twitterImage": "https://brindaevinci.it/assets/img/title.png",
+              "image": "https://brindaevinci.it/assets/img/title.png"
+            },
+            {
               "id": "galbani-quiz-2026",
               "title": "Galbani Quiz 2026",
               "prize": "Uno dei 2.000 Buoni Regalo Amazon.it* da 5€ come previsto dal regolamento dell'iniziativa",
@@ -279,6 +351,78 @@
               "ogImage": "https://www.google.com/s2/favicons?domain=presidentformaggi.it&sz=256",
               "twitterImage": "https://www.google.com/s2/favicons?domain=presidentformaggi.it&sz=256",
               "image": "https://www.google.com/s2/favicons?domain=presidentformaggi.it&sz=256"
+            },
+            {
+              "id": "concorso-purity-program-by-levissima-2027",
+              "title": "Concorso “PURITY PROGRAM BY LEVISSIMA",
+              "prize": "I migliori 15 di ogni status vincono un’esperienza unica, uno smartwatch Garmin o una giftcard da 150€ di Decathlon",
+              "platform": "Rigeneriamoinsieme",
+              "category": "Shopping",
+              "deadline": "2027-04-29",
+              "url": "https://www.rigeneriamoinsieme.it/purity-program",
+              "termsUrl": "https://www.rigeneriamoinsieme.it/modules/custom/loyalty/MK%2012_26%20RIGENERIAMO%20INSIEME%20BY%20LEVISSIMA.pdf",
+              "approved": true,
+              "mechanic": "instant_win",
+              "badges": [
+                "Vinci subito",
+                "Con scontrino"
+              ],
+              "imageUrl": "https://www.rigeneriamoinsieme.it/themes/custom/rigeneriamo_insieme/assets/images/bg.jpg",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=rigeneriamoinsieme.it&sz=256",
+              "cover": "https://www.rigeneriamoinsieme.it/themes/custom/rigeneriamo_insieme/assets/images/bg.jpg",
+              "coverUrl": "https://www.rigeneriamoinsieme.it/themes/custom/rigeneriamo_insieme/assets/images/bg.jpg",
+              "brandImage": "https://www.rigeneriamoinsieme.it/themes/custom/rigeneriamo_insieme/assets/images/bg.jpg",
+              "ogImage": "https://www.rigeneriamoinsieme.it/themes/custom/rigeneriamo_insieme/assets/images/bg.jpg",
+              "twitterImage": "https://www.rigeneriamoinsieme.it/themes/custom/rigeneriamo_insieme/assets/images/bg.jpg",
+              "image": "https://www.rigeneriamoinsieme.it/themes/custom/rigeneriamo_insieme/assets/images/bg.jpg"
+            },
+            {
+              "id": "amatormentone-vol-3-2026",
+              "title": "Amatormentone Vol 3",
+              "prize": "Una delle 50 Card Vivaticket del valore di 100,00 euro. Inoltre partecipi all’estrazione finale per un buono Vivaticket del valore di 700,00 euro utilizzabile per l’acquisto di 2 pacchetti VIP.",
+              "platform": "Amadori",
+              "category": "Shopping",
+              "deadline": "2026-08-09",
+              "url": "https://www.amadori.it/promozioni",
+              "termsUrl": "https://www.amadori.it/hubfs/Promozioni-concorsi/concorso_AMAtormentone_VOL.3/2026-517_Regolamento_1.1_DEF.pdf?hsLang=it",
+              "approved": true,
+              "mechanic": "instant_win",
+              "badges": [
+                "Vinci subito",
+                "Con scontrino"
+              ],
+              "imageUrl": "https://www.amadori.it/hubfs/Promozioni-concorsi/concorso_AMAtormentone_VOL.3/Banner_sito_amatormentone_V2.jpg",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=amadori.it&sz=256",
+              "cover": "https://www.amadori.it/hubfs/Promozioni-concorsi/concorso_AMAtormentone_VOL.3/Banner_sito_amatormentone_V2.jpg",
+              "coverUrl": "https://www.amadori.it/hubfs/Promozioni-concorsi/concorso_AMAtormentone_VOL.3/Banner_sito_amatormentone_V2.jpg",
+              "brandImage": "https://www.amadori.it/hubfs/Promozioni-concorsi/concorso_AMAtormentone_VOL.3/Banner_sito_amatormentone_V2.jpg",
+              "ogImage": "https://www.amadori.it/hubfs/Promozioni-concorsi/concorso_AMAtormentone_VOL.3/Banner_sito_amatormentone_V2.jpg",
+              "twitterImage": "https://www.amadori.it/hubfs/Promozioni-concorsi/concorso_AMAtormentone_VOL.3/Banner_sito_amatormentone_V2.jpg",
+              "image": "https://www.amadori.it/hubfs/Promozioni-concorsi/concorso_AMAtormentone_VOL.3/Banner_sito_amatormentone_V2.jpg"
+            },
+            {
+              "id": "concorso-lavazza-capsule-in-palio-15-samsung-galaxy-watch-fe-2026",
+              "title": "Concorso Lavazza capsule: in palio 15 Samsung Galaxy Watch FE",
+              "prize": "Smartwatch Samsung!",
+              "platform": "Lavazza",
+              "category": "Shopping",
+              "deadline": "2026-09-14",
+              "url": "https://mylavazza.lavazza.it/contest/vinci-uno-smartwatch",
+              "termsUrl": "https://lavazza-stage.youser.tech/loyalty/documents/Reg_VINCI_UNO_SMARTWATCH.pdf",
+              "approved": true,
+              "mechanic": "instant_win",
+              "badges": [
+                "Vinci subito",
+                "Con scontrino"
+              ],
+              "imageUrl": "https://mylavazza.lavazza.it/fe-web/img/loyalty/logos/logo-white.png",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=mylavazza.lavazza.it&sz=256",
+              "cover": "https://lavazza.youser.tech/upl/entities/page/hero_desktop.jpg",
+              "coverUrl": "https://lavazza.youser.tech/upl/entities/page/hero_desktop.jpg",
+              "brandImage": "https://lavazza.youser.tech/upl/entities/page/hero_desktop.jpg",
+              "ogImage": "https://lavazza.youser.tech/upl/entities/page/hero_desktop.jpg",
+              "twitterImage": "https://lavazza.youser.tech/upl/entities/page/hero_desktop.jpg",
+              "image": "https://lavazza.youser.tech/upl/entities/page/hero_desktop.jpg"
             }
           ]
         },
@@ -372,54 +516,6 @@
               "image": "https://www.google.com/s2/favicons?domain=promotiempo.it&sz=256",
               "providerLogoUrl": "https://www.google.com/s2/favicons?domain=fonzies.it&sz=256",
               "termsUrl": "https://www.promotiempo.it/concorso/concorso-a-premi-l-estate-di-fonzies",
-              "approved": true,
-              "mechanic": "final_draw",
-              "badges": [
-                "Estrazione",
-                "Con scontrino"
-              ]
-            },
-            {
-              "id": "oro-evento-anniversario-2026",
-              "title": "Oro Evento Anniversario",
-              "prize": "14 carte MyGiftCardSquare da 5.000€",
-              "platform": "Oro Saiwa / Oro Ciok",
-              "category": "Shopping",
-              "deadline": "2026-08-02",
-              "url": "https://www.promotiempo.it/concorso/concorso-a-premi-oro-evento-anniversario",
-              "imageUrl": "https://www.google.com/s2/favicons?domain=promotiempo.it&sz=256",
-              "cover": "https://www.google.com/s2/favicons?domain=promotiempo.it&sz=256",
-              "coverUrl": "https://www.google.com/s2/favicons?domain=promotiempo.it&sz=256",
-              "brandImage": "https://www.google.com/s2/favicons?domain=orosaiwa.it&sz=256",
-              "ogImage": "",
-              "twitterImage": "",
-              "image": "https://www.google.com/s2/favicons?domain=promotiempo.it&sz=256",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=orosaiwa.it&sz=256",
-              "termsUrl": "https://www.promotiempo.it/concorso/concorso-a-premi-oro-evento-anniversario",
-              "approved": true,
-              "mechanic": "periodic_draw",
-              "badges": [
-                "Estrazione",
-                "Con scontrino"
-              ]
-            },
-            {
-              "id": "old-wild-west-coca-cola-grandi-concerti-2026",
-              "title": "Ti regaliamo i grandi concerti",
-              "prize": "20 coppie di biglietti per concerti dell'estate",
-              "platform": "Old Wild West / Coca-Cola",
-              "category": "Musica",
-              "deadline": "2026-08-02",
-              "url": "https://www.promotiempo.it/concorso/concorso-a-premi-ti-regaliamo-i-grandi-concerti",
-              "imageUrl": "https://www.google.com/s2/favicons?domain=promotiempo.it&sz=256",
-              "cover": "https://www.google.com/s2/favicons?domain=promotiempo.it&sz=256",
-              "coverUrl": "https://www.google.com/s2/favicons?domain=promotiempo.it&sz=256",
-              "brandImage": "https://www.google.com/s2/favicons?domain=coca-cola.com&sz=256",
-              "ogImage": "",
-              "twitterImage": "",
-              "image": "https://www.google.com/s2/favicons?domain=promotiempo.it&sz=256",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=oldwildwest.it&sz=256",
-              "termsUrl": "https://www.promotiempo.it/concorso/concorso-a-premi-ti-regaliamo-i-grandi-concerti",
               "approved": true,
               "mechanic": "final_draw",
               "badges": [
@@ -2162,31 +2258,6 @@
               "image": "https://www.google.com/s2/favicons?domain=chanteclair.it&sz=256"
             },
             {
-              "id": "sirene-blu-vinci-e-gusta-2026",
-              "title": "Vinci e Gusta con Sirene Blu",
-              "prize": "100 friggitrici ad aria Moulinex Easy Fry Silence, 35 Moulinex Cookeo e 5 I-Companion Touch XL",
-              "platform": "Sirene Blu",
-              "category": "Casa & Famiglia",
-              "mechanic": "instant_win",
-              "badges": [
-                "Vinci subito",
-                "Con scontrino",
-                "Estrazione"
-              ],
-              "deadline": "2026-08-02",
-              "url": "https://sireneblu.it/concorso/",
-              "termsUrl": "https://sireneblu.it/concorso/",
-              "approved": true,
-              "imageUrl": "https://www.google.com/s2/favicons?domain=sireneblu.it&sz=256",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=sireneblu.it&sz=256",
-              "cover": "https://www.google.com/s2/favicons?domain=sireneblu.it&sz=256",
-              "coverUrl": "https://www.google.com/s2/favicons?domain=sireneblu.it&sz=256",
-              "brandImage": "https://www.google.com/s2/favicons?domain=sireneblu.it&sz=256",
-              "ogImage": "",
-              "twitterImage": "",
-              "image": "https://www.google.com/s2/favicons?domain=sireneblu.it&sz=256"
-            },
-            {
               "id": "santangelo-premia-i-tuoi-acquisti-2026",
               "title": "Santangelo premia i tuoi acquisti",
               "prize": "Premi instant win e mensili, scooter Yamaha NEO'S, e-bike Yamaha CrossCore e Gift Card da 1.000€",
@@ -2907,6 +2978,150 @@
               "ogImage": "https://www.google.com/s2/favicons?domain=rtl.it&sz=256",
               "twitterImage": "https://www.google.com/s2/favicons?domain=rtl.it&sz=256",
               "image": "https://www.google.com/s2/favicons?domain=rtl.it&sz=256"
+            },
+            {
+              "id": "concorso-purity-program-by-levissima-2027",
+              "title": "Concorso “PURITY PROGRAM BY LEVISSIMA",
+              "prize": "I migliori 15 di ogni status vincono un’esperienza unica, uno smartwatch Garmin o una giftcard da 150€ di Decathlon",
+              "platform": "Rigeneriamoinsieme",
+              "category": "Shopping",
+              "deadline": "2027-04-29",
+              "url": "https://www.rigeneriamoinsieme.it/purity-program",
+              "termsUrl": "https://www.rigeneriamoinsieme.it/modules/custom/loyalty/MK%2012_26%20RIGENERIAMO%20INSIEME%20BY%20LEVISSIMA.pdf",
+              "approved": true,
+              "mechanic": "instant_win",
+              "badges": [
+                "Vinci subito",
+                "Con scontrino"
+              ],
+              "imageUrl": "https://www.rigeneriamoinsieme.it/themes/custom/rigeneriamo_insieme/assets/images/bg.jpg",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=rigeneriamoinsieme.it&sz=256",
+              "cover": "https://www.rigeneriamoinsieme.it/themes/custom/rigeneriamo_insieme/assets/images/bg.jpg",
+              "coverUrl": "https://www.rigeneriamoinsieme.it/themes/custom/rigeneriamo_insieme/assets/images/bg.jpg",
+              "brandImage": "https://www.rigeneriamoinsieme.it/themes/custom/rigeneriamo_insieme/assets/images/bg.jpg",
+              "ogImage": "https://www.rigeneriamoinsieme.it/themes/custom/rigeneriamo_insieme/assets/images/bg.jpg",
+              "twitterImage": "https://www.rigeneriamoinsieme.it/themes/custom/rigeneriamo_insieme/assets/images/bg.jpg",
+              "image": "https://www.rigeneriamoinsieme.it/themes/custom/rigeneriamo_insieme/assets/images/bg.jpg"
+            },
+            {
+              "id": "amatormentone-vol-3-2026",
+              "title": "Amatormentone Vol 3",
+              "prize": "Una delle 50 Card Vivaticket del valore di 100,00 euro. Inoltre partecipi all’estrazione finale per un buono Vivaticket del valore di 700,00 euro utilizzabile per l’acquisto di 2 pacchetti VIP.",
+              "platform": "Amadori",
+              "category": "Shopping",
+              "deadline": "2026-08-09",
+              "url": "https://www.amadori.it/promozioni",
+              "termsUrl": "https://www.amadori.it/hubfs/Promozioni-concorsi/concorso_AMAtormentone_VOL.3/2026-517_Regolamento_1.1_DEF.pdf?hsLang=it",
+              "approved": true,
+              "mechanic": "instant_win",
+              "badges": [
+                "Vinci subito",
+                "Con scontrino"
+              ],
+              "imageUrl": "https://www.amadori.it/hubfs/Promozioni-concorsi/concorso_AMAtormentone_VOL.3/Banner_sito_amatormentone_V2.jpg",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=amadori.it&sz=256",
+              "cover": "https://www.amadori.it/hubfs/Promozioni-concorsi/concorso_AMAtormentone_VOL.3/Banner_sito_amatormentone_V2.jpg",
+              "coverUrl": "https://www.amadori.it/hubfs/Promozioni-concorsi/concorso_AMAtormentone_VOL.3/Banner_sito_amatormentone_V2.jpg",
+              "brandImage": "https://www.amadori.it/hubfs/Promozioni-concorsi/concorso_AMAtormentone_VOL.3/Banner_sito_amatormentone_V2.jpg",
+              "ogImage": "https://www.amadori.it/hubfs/Promozioni-concorsi/concorso_AMAtormentone_VOL.3/Banner_sito_amatormentone_V2.jpg",
+              "twitterImage": "https://www.amadori.it/hubfs/Promozioni-concorsi/concorso_AMAtormentone_VOL.3/Banner_sito_amatormentone_V2.jpg",
+              "image": "https://www.amadori.it/hubfs/Promozioni-concorsi/concorso_AMAtormentone_VOL.3/Banner_sito_amatormentone_V2.jpg"
+            },
+            {
+              "id": "concorso-lavazza-capsule-in-palio-15-samsung-galaxy-watch-fe-2026",
+              "title": "Concorso Lavazza capsule: in palio 15 Samsung Galaxy Watch FE",
+              "prize": "Smartwatch Samsung!",
+              "platform": "Lavazza",
+              "category": "Shopping",
+              "deadline": "2026-09-14",
+              "url": "https://mylavazza.lavazza.it/contest/vinci-uno-smartwatch",
+              "termsUrl": "https://lavazza-stage.youser.tech/loyalty/documents/Reg_VINCI_UNO_SMARTWATCH.pdf",
+              "approved": true,
+              "mechanic": "instant_win",
+              "badges": [
+                "Vinci subito",
+                "Con scontrino"
+              ],
+              "imageUrl": "https://mylavazza.lavazza.it/fe-web/img/loyalty/logos/logo-white.png",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=mylavazza.lavazza.it&sz=256",
+              "cover": "https://lavazza.youser.tech/upl/entities/page/hero_desktop.jpg",
+              "coverUrl": "https://lavazza.youser.tech/upl/entities/page/hero_desktop.jpg",
+              "brandImage": "https://lavazza.youser.tech/upl/entities/page/hero_desktop.jpg",
+              "ogImage": "https://lavazza.youser.tech/upl/entities/page/hero_desktop.jpg",
+              "twitterImage": "https://lavazza.youser.tech/upl/entities/page/hero_desktop.jpg",
+              "image": "https://lavazza.youser.tech/upl/entities/page/hero_desktop.jpg"
+            },
+            {
+              "id": "concorso-neutro-roberts-vinci-gift-card-cheerz-50-per-foto-fotolibri-calamite-2026",
+              "title": "Concorso Neutro Roberts… vinci gift card Cheerz 50€ (per foto, fotolibri, calamite…)",
+              "prize": "5 card digitali Cheerz da 50€!",
+              "platform": "Promozionimr",
+              "category": "Shopping",
+              "deadline": "2026-09-30",
+              "url": "https://www.promozionimr.it/neutrorobertstiregalaunricordo/",
+              "termsUrl": "https://www.promozionimr.it/neutrorobertstiregalaunricordo/assets/pdf/regolamento.pdf",
+              "approved": true,
+              "mechanic": "instant_win",
+              "badges": [
+                "Vinci subito",
+                "Con scontrino"
+              ],
+              "imageUrl": "https://www.neutroroberts.it/wp-content/uploads/2024/02/Groupage-Fresco_DEO_760x600-1024x808.png",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=promozionimr.it&sz=256",
+              "cover": "https://www.promozionimr.it/neutrorobertstiregalaunricordo/assets/img/home.jpg",
+              "coverUrl": "https://www.promozionimr.it/neutrorobertstiregalaunricordo/assets/img/home.jpg",
+              "brandImage": "https://www.promozionimr.it/neutrorobertstiregalaunricordo/assets/img/home.jpg",
+              "ogImage": "https://www.promozionimr.it/neutrorobertstiregalaunricordo/assets/img/home.jpg",
+              "twitterImage": "https://www.promozionimr.it/neutrorobertstiregalaunricordo/assets/img/home.jpg",
+              "image": "https://www.promozionimr.it/neutrorobertstiregalaunricordo/assets/img/home.jpg"
+            },
+            {
+              "id": "tavernello-brinda-e-vinci-vinci-set-tavola-con-4-piatti-4-bicchieri-e-buono-spesa-da-100-2026",
+              "title": "Tavernello “Brinda e vinci”: vinci set tavola con 4 piatti + 4 bicchieri e buono spesa da 100€",
+              "prize": "n. 78 set del valore medio di mercato di 165,00 euro (IVA inclusa ove dovuta) composti da n. 1 Buono Spesa del valore unitario di 100,00 euro (escluso IVA art. 2 dpr 633/72) + n. 1 kit tavola Tavernello del valore unitario di 65,00 euro (IVA inclusa)",
+              "platform": "Brindaevinci",
+              "category": "Shopping",
+              "deadline": "2026-08-31",
+              "url": "https://brindaevinci.it/index.php",
+              "termsUrl": "https://brindaevinci.it/assets/pdf/regolamento.pdf",
+              "approved": true,
+              "mechanic": "instant_win",
+              "badges": [
+                "Vinci subito",
+                "Con scontrino"
+              ],
+              "imageUrl": "https://brindaevinci.it/assets/img/pack.png",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=brindaevinci.it&sz=256",
+              "cover": "https://brindaevinci.it/assets/img/title.png",
+              "coverUrl": "https://brindaevinci.it/assets/img/title.png",
+              "brandImage": "https://brindaevinci.it/assets/img/title.png",
+              "ogImage": "https://brindaevinci.it/assets/img/title.png",
+              "twitterImage": "https://brindaevinci.it/assets/img/title.png",
+              "image": "https://brindaevinci.it/assets/img/title.png"
+            },
+            {
+              "id": "vinci-il-kit-dell-estate-con-bilboa-in-palio-kit-con-telo-mare-e-materassini-giganti-2026",
+              "title": "Vinci il kit dell’estate con Bilboa: in palio kit con telo mare e materassini giganti!",
+              "prize": "n. 115 Kit spiaggia del valore medio di mercato di 42,00 euro",
+              "platform": "Borotalco",
+              "category": "Shopping",
+              "deadline": "2026-08-31",
+              "url": "https://labellezzatipremia.it/concorsobilboa/",
+              "termsUrl": "https://labellezzatipremia.it/concorsobilboa/assets/pdf/regolamento.pdf",
+              "approved": true,
+              "mechanic": "instant_win",
+              "badges": [
+                "Vinci subito",
+                "Con scontrino"
+              ],
+              "imageUrl": "https://labellezzatipremia.it/concorsobilboa/assets/img/Logo%20Bilboa.png",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=labellezzatipremia.it&sz=256",
+              "cover": "https://www.google.com/s2/favicons?domain=labellezzatipremia.it&sz=256",
+              "coverUrl": "https://www.google.com/s2/favicons?domain=labellezzatipremia.it&sz=256",
+              "brandImage": "https://www.google.com/s2/favicons?domain=labellezzatipremia.it&sz=256",
+              "ogImage": "https://www.google.com/s2/favicons?domain=labellezzatipremia.it&sz=256",
+              "twitterImage": "https://www.google.com/s2/favicons?domain=labellezzatipremia.it&sz=256",
+              "image": "https://www.google.com/s2/favicons?domain=labellezzatipremia.it&sz=256"
             }
           ]
         }
