@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-04T17:32:59+02:00",
+  "updatedAt": "2026-08-12T15:04:13+02:00",
   "pages": [
     {
       "id": "home",
@@ -26,6 +26,54 @@
             "showCategory": true
           },
           "contests": [
+            {
+              "id": "stocker-garden-schiaccia-la-zanzara-vinci-gratis-kit-anti-zanzare-2026",
+              "title": "Stocker Garden “Schiaccia la zanzara”: vinci gratis kit anti-zanzare",
+              "prize": "kit anti-zanzare",
+              "platform": "Stockergarden",
+              "category": "Shopping",
+              "deadline": "2026-08-30",
+              "url": "https://play.stockergarden.com/schiaccia-la-zanzara",
+              "termsUrl": "https://www.stockergarden.com/wp-content/uploads/2026/03/IT_Regolamento_Schiaccia_la_Zanzara1_signed.pdf",
+              "approved": true,
+              "mechanic": "play_and_win",
+              "badges": [
+                "Gioco",
+                "Con scontrino"
+              ],
+              "imageUrl": "https://play.stockergarden.com/schiaccia-la-zanzara/images/background.jpeg",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=play.stockergarden.com&sz=256",
+              "cover": "https://play.stockergarden.com/schiaccia-la-zanzara/images/background.jpeg",
+              "coverUrl": "https://play.stockergarden.com/schiaccia-la-zanzara/images/background.jpeg",
+              "brandImage": "https://play.stockergarden.com/schiaccia-la-zanzara/images/background.jpeg",
+              "ogImage": "https://play.stockergarden.com/schiaccia-la-zanzara/images/background.jpeg",
+              "twitterImage": "https://play.stockergarden.com/schiaccia-la-zanzara/images/background.jpeg",
+              "image": "https://play.stockergarden.com/schiaccia-la-zanzara/images/background.jpeg"
+            },
+            {
+              "id": "prova-a-vincere-le-bahamas-e-scopri-la-tua-prossima-avventura-vinci-viaggio-da-12-000-con-voli-e-soggiorno-2026",
+              "title": "Prova a vincere le Bahamas e scopri la tua prossima avventura: vinci viaggio da 12.000€ (con voli e soggiorno)",
+              "prize": "viaggio da 12.000€ (con voli e soggiorno)",
+              "platform": "Myautogrill",
+              "category": "Viaggi",
+              "deadline": "2026-09-06",
+              "url": "https://www.myautogrill.it/promotions/welcome-coffe?referralCode=5383LPS3",
+              "termsUrl": "https://www.autogrill.it/wp-content/uploads/2026/07/2026-PROVA-A-VINCERE-UN-VIAGGIO-DA-SOGNO-CON-MY-AUTOGRILL-co-web-estrazione-finale-02.07.2026-DEF.pdf?referralCode=5383LPS3",
+              "approved": true,
+              "mechanic": "missions",
+              "badges": [
+                "Missioni",
+                "Senza acquisto"
+              ],
+              "imageUrl": "https://www.myautogrill.it/MyAutogrill.jpg",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=myautogrill.it&sz=256",
+              "cover": "https://www.myautogrill.it/MyAutogrill.jpg",
+              "coverUrl": "https://www.myautogrill.it/MyAutogrill.jpg",
+              "brandImage": "https://www.myautogrill.it/MyAutogrill.jpg",
+              "ogImage": "https://www.myautogrill.it/MyAutogrill.jpg",
+              "twitterImage": "https://www.myautogrill.it/MyAutogrill.jpg",
+              "image": "https://www.myautogrill.it/MyAutogrill.jpg"
+            },
             {
               "id": "vinci-il-kit-dell-estate-con-bilboa-in-palio-kit-con-telo-mare-e-materassini-giganti-2026",
               "title": "Vinci il kit dell’estate con Bilboa: in palio kit con telo mare e materassini giganti!",
@@ -209,6 +257,30 @@
           },
           "contests": [
             {
+              "id": "ogni-sorso-e-un-viaggio-2026",
+              "title": "Ogni sorso è un viaggio",
+              "prize": "immediati in palio. Inoltre fra tutti i partecipanti verrà effettuata l’estrazione finale di un viaggio da sogno da 5.000€. L'acquisto di prodotti SkipWater raddoppia le possibilità di vincere. Condividi Scadenza: 30-08-2026 Pubblicazione: 09-06-2026 Url:",
+              "platform": "Zuegg",
+              "category": "Viaggi",
+              "deadline": "2026-12-21",
+              "url": "https://myarea.zuegg.it/concorsi2026",
+              "termsUrl": "https://myarea.zuegg.it/upl/loyalty/Regolamento_Raccogli_i_tuoi_frutti2026.pdf",
+              "approved": true,
+              "mechanic": "instant_win",
+              "badges": [
+                "Vinci subito",
+                "Con scontrino"
+              ],
+              "imageUrl": "https://zuegg.youser.tech/upl/entities/page/skipper-visual.png",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=myarea.zuegg.it&sz=256",
+              "cover": "https://zuegg.youser.tech/upl/entities/page/skipper-visual.png",
+              "coverUrl": "https://zuegg.youser.tech/upl/entities/page/skipper-visual.png",
+              "brandImage": "https://zuegg.youser.tech/upl/entities/page/skipper-visual.png",
+              "ogImage": "https://zuegg.youser.tech/upl/entities/page/skipper-visual.png",
+              "twitterImage": "https://zuegg.youser.tech/upl/entities/page/skipper-visual.png",
+              "image": "https://zuegg.youser.tech/upl/entities/page/skipper-visual.png"
+            },
+            {
               "id": "tavernello-brinda-e-vinci-vinci-set-tavola-con-4-piatti-4-bicchieri-e-buono-spesa-da-100-2026",
               "title": "Tavernello “Brinda e vinci”: vinci set tavola con 4 piatti + 4 bicchieri e buono spesa da 100€",
               "prize": "n. 78 set del valore medio di mercato di 165,00 euro (IVA inclusa ove dovuta) composti da n. 1 Buono Spesa del valore unitario di 100,00 euro (escluso IVA art. 2 dpr 633/72) + n. 1 kit tavola Tavernello del valore unitario di 65,00 euro (IVA inclusa)",
@@ -279,54 +351,6 @@
               "ogImage": "https://www.google.com/s2/favicons?domain=rtl.it&sz=256",
               "twitterImage": "https://www.google.com/s2/favicons?domain=rtl.it&sz=256",
               "image": "https://www.google.com/s2/favicons?domain=rtl.it&sz=256"
-            },
-            {
-              "id": "stocker-garden-schiaccia-la-zanzara-vinci-gratis-kit-anti-zanzare-2026",
-              "title": "Stocker Garden “Schiaccia la zanzara”: vinci gratis kit anti-zanzare",
-              "prize": "kit anti-zanzare",
-              "platform": "Stockergarden",
-              "category": "Shopping",
-              "deadline": "2026-08-30",
-              "url": "https://play.stockergarden.com/schiaccia-la-zanzara",
-              "termsUrl": "https://www.stockergarden.com/wp-content/uploads/2026/03/IT_Regolamento_Schiaccia_la_Zanzara1_signed.pdf",
-              "approved": true,
-              "mechanic": "play_and_win",
-              "badges": [
-                "Gioco",
-                "Con scontrino"
-              ],
-              "imageUrl": "https://play.stockergarden.com/schiaccia-la-zanzara/images/background.jpeg",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=play.stockergarden.com&sz=256",
-              "cover": "https://play.stockergarden.com/schiaccia-la-zanzara/images/background.jpeg",
-              "coverUrl": "https://play.stockergarden.com/schiaccia-la-zanzara/images/background.jpeg",
-              "brandImage": "https://play.stockergarden.com/schiaccia-la-zanzara/images/background.jpeg",
-              "ogImage": "https://play.stockergarden.com/schiaccia-la-zanzara/images/background.jpeg",
-              "twitterImage": "https://play.stockergarden.com/schiaccia-la-zanzara/images/background.jpeg",
-              "image": "https://play.stockergarden.com/schiaccia-la-zanzara/images/background.jpeg"
-            },
-            {
-              "id": "prova-a-vincere-le-bahamas-e-scopri-la-tua-prossima-avventura-vinci-viaggio-da-12-000-con-voli-e-soggiorno-2026",
-              "title": "Prova a vincere le Bahamas e scopri la tua prossima avventura: vinci viaggio da 12.000€ (con voli e soggiorno)",
-              "prize": "viaggio da 12.000€ (con voli e soggiorno)",
-              "platform": "Myautogrill",
-              "category": "Viaggi",
-              "deadline": "2026-09-06",
-              "url": "https://www.myautogrill.it/promotions/welcome-coffe?referralCode=5383LPS3",
-              "termsUrl": "https://www.autogrill.it/wp-content/uploads/2026/07/2026-PROVA-A-VINCERE-UN-VIAGGIO-DA-SOGNO-CON-MY-AUTOGRILL-co-web-estrazione-finale-02.07.2026-DEF.pdf?referralCode=5383LPS3",
-              "approved": true,
-              "mechanic": "missions",
-              "badges": [
-                "Missioni",
-                "Senza acquisto"
-              ],
-              "imageUrl": "https://www.myautogrill.it/MyAutogrill.jpg",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=myautogrill.it&sz=256",
-              "cover": "https://www.myautogrill.it/MyAutogrill.jpg",
-              "coverUrl": "https://www.myautogrill.it/MyAutogrill.jpg",
-              "brandImage": "https://www.myautogrill.it/MyAutogrill.jpg",
-              "ogImage": "https://www.myautogrill.it/MyAutogrill.jpg",
-              "twitterImage": "https://www.myautogrill.it/MyAutogrill.jpg",
-              "image": "https://www.myautogrill.it/MyAutogrill.jpg"
             },
             {
               "id": "president-vivi-il-piacere-gourmet-vinci-150-set-zwilling-con-coltello-e-tagliere-o-viaggio-a-londra-2026",
@@ -423,6 +447,54 @@
               "ogImage": "https://lavazza.youser.tech/upl/entities/page/hero_desktop.jpg",
               "twitterImage": "https://lavazza.youser.tech/upl/entities/page/hero_desktop.jpg",
               "image": "https://lavazza.youser.tech/upl/entities/page/hero_desktop.jpg"
+            },
+            {
+              "id": "rio-mare-per-l-area-marina-protetta-isole-egadi-2026",
+              "title": "Rio Mare per l’area Marina Protetta Isole Egadi",
+              "prize": "buoni spesa spendibili presso i punti vendita Coop aderenti, per un importo massimo di 150€ ** il premio consiste in un voucher Golden Moments del valore di 1.000€",
+              "platform": "Rio Mare",
+              "category": "Shopping",
+              "deadline": "2026-10-21",
+              "url": "https://insiemeperleegadi.riomare.it/",
+              "termsUrl": "https://insiemeperleegadi.riomare.it/regolamento.pdf",
+              "approved": true,
+              "mechanic": "instant_win",
+              "badges": [
+                "Vinci subito",
+                "Con scontrino"
+              ],
+              "imageUrl": "https://www.google.com/s2/favicons?domain=insiemeperleegadi.riomare.it&sz=256",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=insiemeperleegadi.riomare.it&sz=256",
+              "cover": "https://www.google.com/s2/favicons?domain=insiemeperleegadi.riomare.it&sz=256",
+              "coverUrl": "https://www.google.com/s2/favicons?domain=insiemeperleegadi.riomare.it&sz=256",
+              "brandImage": "https://www.google.com/s2/favicons?domain=insiemeperleegadi.riomare.it&sz=256",
+              "ogImage": "https://www.google.com/s2/favicons?domain=insiemeperleegadi.riomare.it&sz=256",
+              "twitterImage": "https://www.google.com/s2/favicons?domain=insiemeperleegadi.riomare.it&sz=256",
+              "image": "https://www.google.com/s2/favicons?domain=insiemeperleegadi.riomare.it&sz=256"
+            },
+            {
+              "id": "vivi-l-estate-con-calve-2026",
+              "title": "Vivi L’Estate Con Calvè",
+              "prize": "-",
+              "platform": "Vivilestateconcalve",
+              "category": "Shopping",
+              "deadline": "2026-08-30",
+              "url": "https://www.vivilestateconcalve.it/wave2/",
+              "termsUrl": "https://www.vivilestateconcalve.it/assets/pdf/regolamento.pdf",
+              "approved": true,
+              "mechanic": "instant_win",
+              "badges": [
+                "Vinci subito",
+                "Con scontrino"
+              ],
+              "imageUrl": "https://www.vivilestateconcalve.it/wave2/assets/img/home.jpg",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=vivilestateconcalve.it&sz=256",
+              "cover": "https://www.vivilestateconcalve.it/wave2/assets/img/home.jpg",
+              "coverUrl": "https://www.vivilestateconcalve.it/wave2/assets/img/home.jpg",
+              "brandImage": "https://www.vivilestateconcalve.it/wave2/assets/img/home.jpg",
+              "ogImage": "https://www.vivilestateconcalve.it/wave2/assets/img/home.jpg",
+              "twitterImage": "https://www.vivilestateconcalve.it/wave2/assets/img/home.jpg",
+              "image": "https://www.vivilestateconcalve.it/wave2/assets/img/home.jpg"
             }
           ]
         },
@@ -1796,30 +1868,6 @@
               ]
             },
             {
-              "id": "galbanetto-aperitivo-perfetto-2026",
-              "title": "Galbanetto L'Aperitivo Perfetto",
-              "prize": "34 spillatrici HKoenig BW1880 e 34 set da 4 calici birra L'Aperitivo Perfetto",
-              "platform": "Galbani / Galbanetto",
-              "category": "Gastronomia",
-              "deadline": "2026-08-03",
-              "url": "https://www.galbani.it/galbanetto-aperitivo-perfetto",
-              "imageUrl": "https://www.galbani.it/sites/default/files/styles/255x158/public/2026-06/box_preview_510x316_0.jpg?itok=7e-_6t92",
-              "cover": "https://www.galbani.it/sites/default/files/styles/255x158/public/2026-06/box_preview_510x316_0.jpg?itok=7e-_6t92",
-              "coverUrl": "https://www.galbani.it/sites/default/files/styles/255x158/public/2026-06/box_preview_510x316_0.jpg?itok=7e-_6t92",
-              "brandImage": "https://www.galbani.it/sites/default/files/styles/255x158/public/2026-06/box_preview_510x316_0.jpg?itok=7e-_6t92",
-              "ogImage": "https://www.galbani.it/sites/default/files/styles/255x158/public/2026-06/box_preview_510x316_0.jpg?itok=7e-_6t92",
-              "twitterImage": "https://www.galbani.it/sites/default/files/styles/255x158/public/2026-06/box_preview_510x316_0.jpg?itok=7e-_6t92",
-              "image": "https://www.galbani.it/sites/default/files/styles/255x158/public/2026-06/box_preview_510x316_0.jpg?itok=7e-_6t92",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=galbani.it&sz=256",
-              "termsUrl": "https://www.galbani.it/sites/default/files/2026-06/Galbanetto%20l%27aperitivo%20Perfetto%202026.pdf",
-              "approved": true,
-              "mechanic": "instant_win",
-              "badges": [
-                "Vinci subito",
-                "Con scontrino"
-              ]
-            },
-            {
               "id": "galbani-benvenuti-a-tavola-2026",
               "title": "Benvenuti a tavola",
               "prize": "1.950 premi Galbani per la tavola",
@@ -3122,6 +3170,78 @@
               "ogImage": "https://www.google.com/s2/favicons?domain=labellezzatipremia.it&sz=256",
               "twitterImage": "https://www.google.com/s2/favicons?domain=labellezzatipremia.it&sz=256",
               "image": "https://www.google.com/s2/favicons?domain=labellezzatipremia.it&sz=256"
+            },
+            {
+              "id": "rio-mare-per-l-area-marina-protetta-isole-egadi-2026",
+              "title": "Rio Mare per l’area Marina Protetta Isole Egadi",
+              "prize": "buoni spesa spendibili presso i punti vendita Coop aderenti, per un importo massimo di 150€ ** il premio consiste in un voucher Golden Moments del valore di 1.000€",
+              "platform": "Rio Mare",
+              "category": "Shopping",
+              "deadline": "2026-10-21",
+              "url": "https://insiemeperleegadi.riomare.it/",
+              "termsUrl": "https://insiemeperleegadi.riomare.it/regolamento.pdf",
+              "approved": true,
+              "mechanic": "instant_win",
+              "badges": [
+                "Vinci subito",
+                "Con scontrino"
+              ],
+              "imageUrl": "https://www.google.com/s2/favicons?domain=insiemeperleegadi.riomare.it&sz=256",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=insiemeperleegadi.riomare.it&sz=256",
+              "cover": "https://www.google.com/s2/favicons?domain=insiemeperleegadi.riomare.it&sz=256",
+              "coverUrl": "https://www.google.com/s2/favicons?domain=insiemeperleegadi.riomare.it&sz=256",
+              "brandImage": "https://www.google.com/s2/favicons?domain=insiemeperleegadi.riomare.it&sz=256",
+              "ogImage": "https://www.google.com/s2/favicons?domain=insiemeperleegadi.riomare.it&sz=256",
+              "twitterImage": "https://www.google.com/s2/favicons?domain=insiemeperleegadi.riomare.it&sz=256",
+              "image": "https://www.google.com/s2/favicons?domain=insiemeperleegadi.riomare.it&sz=256"
+            },
+            {
+              "id": "vivi-l-estate-con-calve-2026",
+              "title": "Vivi L’Estate Con Calvè",
+              "prize": "-",
+              "platform": "Vivilestateconcalve",
+              "category": "Shopping",
+              "deadline": "2026-08-30",
+              "url": "https://www.vivilestateconcalve.it/wave2/",
+              "termsUrl": "https://www.vivilestateconcalve.it/assets/pdf/regolamento.pdf",
+              "approved": true,
+              "mechanic": "instant_win",
+              "badges": [
+                "Vinci subito",
+                "Con scontrino"
+              ],
+              "imageUrl": "https://www.vivilestateconcalve.it/wave2/assets/img/home.jpg",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=vivilestateconcalve.it&sz=256",
+              "cover": "https://www.vivilestateconcalve.it/wave2/assets/img/home.jpg",
+              "coverUrl": "https://www.vivilestateconcalve.it/wave2/assets/img/home.jpg",
+              "brandImage": "https://www.vivilestateconcalve.it/wave2/assets/img/home.jpg",
+              "ogImage": "https://www.vivilestateconcalve.it/wave2/assets/img/home.jpg",
+              "twitterImage": "https://www.vivilestateconcalve.it/wave2/assets/img/home.jpg",
+              "image": "https://www.vivilestateconcalve.it/wave2/assets/img/home.jpg"
+            },
+            {
+              "id": "ogni-sorso-e-un-viaggio-2026",
+              "title": "Ogni sorso è un viaggio",
+              "prize": "immediati in palio. Inoltre fra tutti i partecipanti verrà effettuata l’estrazione finale di un viaggio da sogno da 5.000€. L'acquisto di prodotti SkipWater raddoppia le possibilità di vincere. Condividi Scadenza: 30-08-2026 Pubblicazione: 09-06-2026 Url:",
+              "platform": "Zuegg",
+              "category": "Viaggi",
+              "deadline": "2026-12-21",
+              "url": "https://myarea.zuegg.it/concorsi2026",
+              "termsUrl": "https://myarea.zuegg.it/upl/loyalty/Regolamento_Raccogli_i_tuoi_frutti2026.pdf",
+              "approved": true,
+              "mechanic": "instant_win",
+              "badges": [
+                "Vinci subito",
+                "Con scontrino"
+              ],
+              "imageUrl": "https://zuegg.youser.tech/upl/entities/page/skipper-visual.png",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=myarea.zuegg.it&sz=256",
+              "cover": "https://zuegg.youser.tech/upl/entities/page/skipper-visual.png",
+              "coverUrl": "https://zuegg.youser.tech/upl/entities/page/skipper-visual.png",
+              "brandImage": "https://zuegg.youser.tech/upl/entities/page/skipper-visual.png",
+              "ogImage": "https://zuegg.youser.tech/upl/entities/page/skipper-visual.png",
+              "twitterImage": "https://zuegg.youser.tech/upl/entities/page/skipper-visual.png",
+              "image": "https://zuegg.youser.tech/upl/entities/page/skipper-visual.png"
             }
           ]
         }
