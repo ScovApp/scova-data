@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-12T15:08:45+02:00",
+  "updatedAt": "2026-08-12T15:44:12+02:00",
   "pages": [
     {
       "id": "home",
@@ -247,11 +247,11 @@
                 "Vinci subito",
                 "Con scontrino"
               ],
-              "imageUrl": "https://zuegg.youser.tech/upl/entities/page/prodotti-skipper.png",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=myarea.zuegg.it&sz=256",
-              "cover": "https://zuegg.youser.tech/upl/entities/page/skipper-visual.png",
-              "coverUrl": "https://zuegg.youser.tech/upl/entities/page/skipper-visual.png",
-              "brandImage": "https://zuegg.youser.tech/upl/entities/page/skipper-visual.png",
+              "imageUrl": "https://www.skipperzuegg.it/wp-content/uploads/2023/11/products-ph-1.jpg",
+              "providerLogoUrl": "https://www.skipperzuegg.it/wp-content/uploads/2023/11/products-ph-1.jpg",
+              "cover": "https://www.skipperzuegg.it/wp-content/uploads/2023/11/products-ph-1.jpg",
+              "coverUrl": "https://www.skipperzuegg.it/wp-content/uploads/2023/11/products-ph-1.jpg",
+              "brandImage": "https://www.skipperzuegg.it/wp-content/uploads/2023/11/products-ph-1.jpg",
               "ogImage": "https://zuegg.youser.tech/upl/entities/page/skipper-visual.png",
               "twitterImage": "https://zuegg.youser.tech/upl/entities/page/skipper-visual.png",
               "image": "https://zuegg.youser.tech/upl/entities/page/skipper-visual.png"
@@ -2970,11 +2970,11 @@
                 "Vinci subito",
                 "Con scontrino"
               ],
-              "imageUrl": "https://zuegg.youser.tech/upl/entities/page/prodotti-skipper.png",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=myarea.zuegg.it&sz=256",
-              "cover": "https://zuegg.youser.tech/upl/entities/page/skipper-visual.png",
-              "coverUrl": "https://zuegg.youser.tech/upl/entities/page/skipper-visual.png",
-              "brandImage": "https://zuegg.youser.tech/upl/entities/page/skipper-visual.png",
+              "imageUrl": "https://www.skipperzuegg.it/wp-content/uploads/2023/11/products-ph-1.jpg",
+              "providerLogoUrl": "https://www.skipperzuegg.it/wp-content/uploads/2023/11/products-ph-1.jpg",
+              "cover": "https://www.skipperzuegg.it/wp-content/uploads/2023/11/products-ph-1.jpg",
+              "coverUrl": "https://www.skipperzuegg.it/wp-content/uploads/2023/11/products-ph-1.jpg",
+              "brandImage": "https://www.skipperzuegg.it/wp-content/uploads/2023/11/products-ph-1.jpg",
               "ogImage": "https://zuegg.youser.tech/upl/entities/page/skipper-visual.png",
               "twitterImage": "https://zuegg.youser.tech/upl/entities/page/skipper-visual.png",
               "image": "https://zuegg.youser.tech/upl/entities/page/skipper-visual.png"
