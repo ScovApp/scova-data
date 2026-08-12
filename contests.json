@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-12T15:04:13+02:00",
+  "updatedAt": "2026-08-12T15:08:45+02:00",
   "pages": [
     {
       "id": "home",
@@ -147,30 +147,6 @@
               "image": "https://vinci.camparisoda.it/img/hero-desk.jpg"
             },
             {
-              "id": "concorso-la-molisana-primi-nel-benessere-vinci-friggitrici-ad-aria-philips-2026",
-              "title": "Concorso La Molisana “Primi nel benessere”… vinci friggitrici ad aria Philips",
-              "prize": "friggitrici ad aria Philips",
-              "platform": "La Molisana",
-              "category": "Benessere",
-              "deadline": "2026-08-08",
-              "url": "https://www.loverstenaci.com/contest",
-              "termsUrl": "https://www.loverstenaci.com/Regolamento_Benessere_2026.pdf",
-              "approved": true,
-              "mechanic": "instant_win",
-              "badges": [
-                "Vinci subito",
-                "Con scontrino"
-              ],
-              "imageUrl": "https://www.loverstenaci.com/share.jpg",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=loverstenaci.com&sz=256",
-              "cover": "https://www.loverstenaci.com/share.jpg",
-              "coverUrl": "https://www.loverstenaci.com/share.jpg",
-              "brandImage": "https://www.loverstenaci.com/share.jpg",
-              "ogImage": "https://www.loverstenaci.com/share.jpg",
-              "twitterImage": "https://www.loverstenaci.com/share.jpg",
-              "image": "https://www.loverstenaci.com/share.jpg"
-            },
-            {
               "id": "vivi-un-esperienza-con-bwt-alpine-formula-onetm-team-2026",
               "title": "Vivi un'esperienza con BWT Alpine Formula One™ Team",
               "prize": "per i Destinatari del Livello Più Insieme: ▪ N. 50 premi composti da 1 mini casco BWT Alpine Formula One™ Team + 1 Polo BWT Alpine Formula One™ Team del valore di 212,96 € ciascuno (IVA inclusa); ▪ N. 1 casco replica BWT Alpine Formula One™ Team del valore di 3750,00€ ciascuno (IVA inclusa).",
@@ -271,7 +247,7 @@
                 "Vinci subito",
                 "Con scontrino"
               ],
-              "imageUrl": "https://zuegg.youser.tech/upl/entities/page/skipper-visual.png",
+              "imageUrl": "https://zuegg.youser.tech/upl/entities/page/prodotti-skipper.png",
               "providerLogoUrl": "https://www.google.com/s2/favicons?domain=myarea.zuegg.it&sz=256",
               "cover": "https://zuegg.youser.tech/upl/entities/page/skipper-visual.png",
               "coverUrl": "https://zuegg.youser.tech/upl/entities/page/skipper-visual.png",
@@ -401,30 +377,6 @@
               "image": "https://www.rigeneriamoinsieme.it/themes/custom/rigeneriamo_insieme/assets/images/bg.jpg"
             },
             {
-              "id": "amatormentone-vol-3-2026",
-              "title": "Amatormentone Vol 3",
-              "prize": "Una delle 50 Card Vivaticket del valore di 100,00 euro. Inoltre partecipi all’estrazione finale per un buono Vivaticket del valore di 700,00 euro utilizzabile per l’acquisto di 2 pacchetti VIP.",
-              "platform": "Amadori",
-              "category": "Shopping",
-              "deadline": "2026-08-09",
-              "url": "https://www.amadori.it/promozioni",
-              "termsUrl": "https://www.amadori.it/hubfs/Promozioni-concorsi/concorso_AMAtormentone_VOL.3/2026-517_Regolamento_1.1_DEF.pdf?hsLang=it",
-              "approved": true,
-              "mechanic": "instant_win",
-              "badges": [
-                "Vinci subito",
-                "Con scontrino"
-              ],
-              "imageUrl": "https://www.amadori.it/hubfs/Promozioni-concorsi/concorso_AMAtormentone_VOL.3/Banner_sito_amatormentone_V2.jpg",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=amadori.it&sz=256",
-              "cover": "https://www.amadori.it/hubfs/Promozioni-concorsi/concorso_AMAtormentone_VOL.3/Banner_sito_amatormentone_V2.jpg",
-              "coverUrl": "https://www.amadori.it/hubfs/Promozioni-concorsi/concorso_AMAtormentone_VOL.3/Banner_sito_amatormentone_V2.jpg",
-              "brandImage": "https://www.amadori.it/hubfs/Promozioni-concorsi/concorso_AMAtormentone_VOL.3/Banner_sito_amatormentone_V2.jpg",
-              "ogImage": "https://www.amadori.it/hubfs/Promozioni-concorsi/concorso_AMAtormentone_VOL.3/Banner_sito_amatormentone_V2.jpg",
-              "twitterImage": "https://www.amadori.it/hubfs/Promozioni-concorsi/concorso_AMAtormentone_VOL.3/Banner_sito_amatormentone_V2.jpg",
-              "image": "https://www.amadori.it/hubfs/Promozioni-concorsi/concorso_AMAtormentone_VOL.3/Banner_sito_amatormentone_V2.jpg"
-            },
-            {
               "id": "concorso-lavazza-capsule-in-palio-15-samsung-galaxy-watch-fe-2026",
               "title": "Concorso Lavazza capsule: in palio 15 Samsung Galaxy Watch FE",
               "prize": "Smartwatch Samsung!",
@@ -548,54 +500,6 @@
               ]
             },
             {
-              "id": "equilibra-speciale-esselunga-2026",
-              "title": "Equilibra speciale Esselunga",
-              "prize": "200 carte prepagate digitali Esselunga da 50€ e 1 viaggio in Messico per 4 persone",
-              "platform": "Equilibra / Esselunga",
-              "category": "Viaggi",
-              "deadline": "2026-08-10",
-              "url": "https://www.promotiempo.it/concorso/concorso-equilibra-speciale-esselunga",
-              "imageUrl": "https://www.google.com/s2/favicons?domain=promotiempo.it&sz=256",
-              "cover": "https://www.google.com/s2/favicons?domain=promotiempo.it&sz=256",
-              "coverUrl": "https://www.google.com/s2/favicons?domain=promotiempo.it&sz=256",
-              "brandImage": "https://www.google.com/s2/favicons?domain=equilibra.it&sz=256",
-              "ogImage": "",
-              "twitterImage": "",
-              "image": "https://www.google.com/s2/favicons?domain=promotiempo.it&sz=256",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=esselunga.it&sz=256",
-              "termsUrl": "https://www.promotiempo.it/concorso/concorso-equilibra-speciale-esselunga",
-              "approved": true,
-              "mechanic": "instant_win",
-              "badges": [
-                "Vinci subito",
-                "Con scontrino"
-              ]
-            },
-            {
-              "id": "fonzies-estate-kit-spiaggia-2026",
-              "title": "L'estate di Fonzies",
-              "prize": "150 kit spiaggia Fonzies con ombrellone e sedia sdraio",
-              "platform": "Fonzies",
-              "category": "Tempo Libero",
-              "deadline": "2026-08-10",
-              "url": "https://www.promotiempo.it/concorso/concorso-a-premi-l-estate-di-fonzies",
-              "imageUrl": "https://www.google.com/s2/favicons?domain=promotiempo.it&sz=256",
-              "cover": "https://www.google.com/s2/favicons?domain=promotiempo.it&sz=256",
-              "coverUrl": "https://www.google.com/s2/favicons?domain=promotiempo.it&sz=256",
-              "brandImage": "https://www.google.com/s2/favicons?domain=fonzies.it&sz=256",
-              "ogImage": "",
-              "twitterImage": "",
-              "image": "https://www.google.com/s2/favicons?domain=promotiempo.it&sz=256",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=fonzies.it&sz=256",
-              "termsUrl": "https://www.promotiempo.it/concorso/concorso-a-premi-l-estate-di-fonzies",
-              "approved": true,
-              "mechanic": "final_draw",
-              "badges": [
-                "Estrazione",
-                "Con scontrino"
-              ]
-            },
-            {
               "id": "dixan-prova-gratis-discs-2026",
               "title": "Prova gratis Dixan Discs 2026",
               "prize": "Carnet buoni spesa pari al costo del prodotto e 5 carnet da 1.000€",
@@ -641,30 +545,6 @@
               "badges": [
                 "Missioni",
                 "Gioco"
-              ]
-            },
-            {
-              "id": "hamericas-10-years-on-the-road-2026",
-              "title": "10 years on the road",
-              "prize": "Voli per New York, Chicago e Los Angeles, biglietti Disneyland Paris e gift card",
-              "platform": "Hamerica's",
-              "category": "Viaggi",
-              "deadline": "2026-08-04",
-              "url": "https://concorso.hamericas.com/",
-              "imageUrl": "https://concorso.hamericas.com/assets/primo_premio.jpg",
-              "cover": "https://concorso.hamericas.com/assets/primo_premio.jpg",
-              "coverUrl": "https://concorso.hamericas.com/assets/primo_premio.jpg",
-              "brandImage": "https://concorso.hamericas.com/assets/primo_premio.jpg",
-              "ogImage": "https://concorso.hamericas.com/assets/primo_premio.jpg",
-              "twitterImage": "https://concorso.hamericas.com/assets/primo_premio.jpg",
-              "image": "https://concorso.hamericas.com/assets/primo_premio.jpg",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=hamericas.com&sz=256",
-              "termsUrl": "https://www.hamericas.com/media/regolamento-concorso.pdf",
-              "approved": true,
-              "mechanic": "final_draw",
-              "badges": [
-                "Estrazione",
-                "Con scontrino"
               ]
             },
             {
@@ -737,30 +617,6 @@
               "badges": [
                 "Vinci subito",
                 "Missioni"
-              ]
-            },
-            {
-              "id": "prosecco-doc-indovina-vincitore-motogp-2026",
-              "title": "Indovina il Vincitore MotoGP 2026",
-              "prize": "Esperienze MotoGP VIP, ingressi gara e bottiglie Prosecco DOC",
-              "platform": "Prosecco DOC",
-              "category": "Sport",
-              "deadline": "2026-08-09",
-              "url": "https://www.proseccowine-motogp.it/",
-              "imageUrl": "https://www.google.com/s2/favicons?domain=proseccowine-motogp.it&sz=256",
-              "cover": "https://www.google.com/s2/favicons?domain=proseccowine-motogp.it&sz=256",
-              "coverUrl": "https://www.google.com/s2/favicons?domain=proseccowine-motogp.it&sz=256",
-              "brandImage": "https://www.google.com/s2/favicons?domain=proseccowine-motogp.it&sz=256",
-              "ogImage": "",
-              "twitterImage": "",
-              "image": "https://www.google.com/s2/favicons?domain=proseccowine-motogp.it&sz=256",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=proseccowine-motogp.it&sz=256",
-              "termsUrl": "https://www.proseccowine-motogp.it/",
-              "approved": true,
-              "mechanic": "quiz",
-              "badges": [
-                "Quiz",
-                "Estrazione"
               ]
             },
             {
@@ -2038,30 +1894,6 @@
               ]
             },
             {
-              "id": "coca-cola-autogrill-calcio-2026",
-              "title": "Coca-Cola e Autogrill calcio 2026",
-              "prize": "Palloni Coca-Cola e calcetti Garlando",
-              "platform": "Coca-Cola / Autogrill",
-              "category": "Sport",
-              "deadline": "2026-08-04",
-              "url": "https://www.autogrill.it/",
-              "imageUrl": "https://www.google.com/s2/favicons?domain=autogrill.it&sz=256",
-              "cover": "https://www.google.com/s2/favicons?domain=autogrill.it&sz=256",
-              "coverUrl": "https://www.google.com/s2/favicons?domain=autogrill.it&sz=256",
-              "brandImage": "https://www.google.com/s2/favicons?domain=coca-cola.com&sz=256",
-              "ogImage": "",
-              "twitterImage": "",
-              "image": "https://www.google.com/s2/favicons?domain=autogrill.it&sz=256",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=autogrill.it&sz=256",
-              "termsUrl": "https://www.autogrill.it/wp-content/uploads/2026/06/2026-COCA-COLA-AUTOGRILL-DA-AUTOGRILL-PROVA-A-VINCERE-CON-COCA-COLA-co-instant-win-WhatsApp-OCRtag-05.06.2026-DEF.pdf",
-              "approved": true,
-              "mechanic": "instant_win",
-              "badges": [
-                "Vinci subito",
-                "Con scontrino"
-              ]
-            },
-            {
               "id": "aia-griglia-dove-vuoi-2026",
               "title": "Griglia dove vuoi",
               "prize": "Barbecue LotusGrill ogni giorno e tour gastronomico in Irlanda",
@@ -2206,30 +2038,6 @@
                 "Vinci subito",
                 "Estrazione",
                 "Codice"
-              ]
-            },
-            {
-              "id": "estathe-borsa-mare-2026",
-              "title": "Estathé Borsa Mare 2026",
-              "prize": "500 borse mare Gassa d'Amante del valore di 95€ ciascuna",
-              "platform": "Estathé",
-              "category": "Tempo Libero",
-              "deadline": "2026-08-05",
-              "url": "https://estatheborsamare26.estathe.it/index.html",
-              "imageUrl": "https://s3.eu-west-1.amazonaws.com/ferrero-kube-stack-prod-static/estathe-it-d11/estathe-it-d11/2026-06/promo_borsa%20mare.png",
-              "cover": "https://s3.eu-west-1.amazonaws.com/ferrero-kube-stack-prod-static/estathe-it-d11/estathe-it-d11/2026-06/promo_borsa%20mare.png",
-              "coverUrl": "https://s3.eu-west-1.amazonaws.com/ferrero-kube-stack-prod-static/estathe-it-d11/estathe-it-d11/2026-06/promo_borsa%20mare.png",
-              "brandImage": "https://s3.eu-west-1.amazonaws.com/ferrero-kube-stack-prod-static/estathe-it-d11/estathe-it-d11/2026-06/promo_borsa%20mare.png",
-              "ogImage": "https://s3.eu-west-1.amazonaws.com/ferrero-kube-stack-prod-static/estathe-it-d11/estathe-it-d11/2026-06/promo_borsa%20mare.png",
-              "twitterImage": "https://s3.eu-west-1.amazonaws.com/ferrero-kube-stack-prod-static/estathe-it-d11/estathe-it-d11/2026-06/promo_borsa%20mare.png",
-              "image": "https://s3.eu-west-1.amazonaws.com/ferrero-kube-stack-prod-static/estathe-it-d11/estathe-it-d11/2026-06/promo_borsa%20mare.png",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=estathe.it&sz=256",
-              "termsUrl": "https://estatheborsamare26.estathe.it/docs/regolamento-ferrero-estathe.pdf",
-              "approved": true,
-              "mechanic": "instant_win",
-              "badges": [
-                "Vinci subito",
-                "Con scontrino"
               ]
             },
             {
@@ -2380,30 +2188,6 @@
               "image": "https://lavazza.youser.tech/upl/entities/page/madagascar-hero.png"
             },
             {
-              "id": "concorso-duck-e-mr-muscle-ogni-giorno-premi-philips-friggitrice-ad-aria-purificatore-2026",
-              "title": "Concorso Duck e Mr Muscle: ogni giorno premi Philips (friggitrice ad aria, purificatore)",
-              "prize": "Philips Airfryer Serie 3000 – Philips Purificatore d’aria PureProtect Mini Serie 900",
-              "platform": "Vinciconscj",
-              "category": "Shopping",
-              "deadline": "2026-08-09",
-              "url": "https://www.vinciconscj.it/",
-              "termsUrl": "https://www.vinciconscj.it/documenti/regolamento",
-              "approved": true,
-              "mechanic": "instant_win",
-              "badges": [
-                "Vinci subito",
-                "Con scontrino"
-              ],
-              "imageUrl": "https://www.vinciconscj.it/webapp/assets/images/og-image.jpg",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=vinciconscj.it&sz=256",
-              "cover": "https://www.vinciconscj.it/webapp/assets/images/og-image.jpg",
-              "coverUrl": "https://www.vinciconscj.it/webapp/assets/images/og-image.jpg",
-              "brandImage": "https://www.vinciconscj.it/webapp/assets/images/og-image.jpg",
-              "ogImage": "https://www.vinciconscj.it/webapp/assets/images/og-image.jpg",
-              "twitterImage": "https://www.vinciconscj.it/webapp/assets/images/og-image.jpg",
-              "image": "https://www.vinciconscj.it/webapp/assets/images/og-image.jpg"
-            },
-            {
               "id": "concorso-rio-mare-vinci-sup-e-voucher-da-10-000-2026",
               "title": "Concorso Rio Mare, vinci SUP e voucher da 10.000€",
               "prize": "SUP e voucher da 10.000€",
@@ -2450,30 +2234,6 @@
               "ogImage": "https://www.comix.it/wp-content/themes/twentyseventeen-child/concorso/assets/slide1.png",
               "twitterImage": "",
               "image": ""
-            },
-            {
-              "id": "concorso-la-molisana-primi-nel-benessere-vinci-friggitrici-ad-aria-philips-2026",
-              "title": "Concorso La Molisana “Primi nel benessere”… vinci friggitrici ad aria Philips",
-              "prize": "friggitrici ad aria Philips",
-              "platform": "La Molisana",
-              "category": "Benessere",
-              "deadline": "2026-08-08",
-              "url": "https://www.loverstenaci.com/contest",
-              "termsUrl": "https://www.loverstenaci.com/Regolamento_Benessere_2026.pdf",
-              "approved": true,
-              "mechanic": "instant_win",
-              "badges": [
-                "Vinci subito",
-                "Con scontrino"
-              ],
-              "imageUrl": "https://www.loverstenaci.com/share.jpg",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=loverstenaci.com&sz=256",
-              "cover": "https://www.loverstenaci.com/share.jpg",
-              "coverUrl": "https://www.loverstenaci.com/share.jpg",
-              "brandImage": "https://www.loverstenaci.com/share.jpg",
-              "ogImage": "https://www.loverstenaci.com/share.jpg",
-              "twitterImage": "https://www.loverstenaci.com/share.jpg",
-              "image": "https://www.loverstenaci.com/share.jpg"
             },
             {
               "id": "concorso-dove-una-festa-per-le-tue-ascelle-vinci-4-viaggi-al-carnevale-di-rio-de-janeiro-2026",
@@ -3052,30 +2812,6 @@
               "image": "https://www.rigeneriamoinsieme.it/themes/custom/rigeneriamo_insieme/assets/images/bg.jpg"
             },
             {
-              "id": "amatormentone-vol-3-2026",
-              "title": "Amatormentone Vol 3",
-              "prize": "Una delle 50 Card Vivaticket del valore di 100,00 euro. Inoltre partecipi all’estrazione finale per un buono Vivaticket del valore di 700,00 euro utilizzabile per l’acquisto di 2 pacchetti VIP.",
-              "platform": "Amadori",
-              "category": "Shopping",
-              "deadline": "2026-08-09",
-              "url": "https://www.amadori.it/promozioni",
-              "termsUrl": "https://www.amadori.it/hubfs/Promozioni-concorsi/concorso_AMAtormentone_VOL.3/2026-517_Regolamento_1.1_DEF.pdf?hsLang=it",
-              "approved": true,
-              "mechanic": "instant_win",
-              "badges": [
-                "Vinci subito",
-                "Con scontrino"
-              ],
-              "imageUrl": "https://www.amadori.it/hubfs/Promozioni-concorsi/concorso_AMAtormentone_VOL.3/Banner_sito_amatormentone_V2.jpg",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=amadori.it&sz=256",
-              "cover": "https://www.amadori.it/hubfs/Promozioni-concorsi/concorso_AMAtormentone_VOL.3/Banner_sito_amatormentone_V2.jpg",
-              "coverUrl": "https://www.amadori.it/hubfs/Promozioni-concorsi/concorso_AMAtormentone_VOL.3/Banner_sito_amatormentone_V2.jpg",
-              "brandImage": "https://www.amadori.it/hubfs/Promozioni-concorsi/concorso_AMAtormentone_VOL.3/Banner_sito_amatormentone_V2.jpg",
-              "ogImage": "https://www.amadori.it/hubfs/Promozioni-concorsi/concorso_AMAtormentone_VOL.3/Banner_sito_amatormentone_V2.jpg",
-              "twitterImage": "https://www.amadori.it/hubfs/Promozioni-concorsi/concorso_AMAtormentone_VOL.3/Banner_sito_amatormentone_V2.jpg",
-              "image": "https://www.amadori.it/hubfs/Promozioni-concorsi/concorso_AMAtormentone_VOL.3/Banner_sito_amatormentone_V2.jpg"
-            },
-            {
               "id": "concorso-lavazza-capsule-in-palio-15-samsung-galaxy-watch-fe-2026",
               "title": "Concorso Lavazza capsule: in palio 15 Samsung Galaxy Watch FE",
               "prize": "Smartwatch Samsung!",
@@ -3234,7 +2970,7 @@
                 "Vinci subito",
                 "Con scontrino"
               ],
-              "imageUrl": "https://zuegg.youser.tech/upl/entities/page/skipper-visual.png",
+              "imageUrl": "https://zuegg.youser.tech/upl/entities/page/prodotti-skipper.png",
               "providerLogoUrl": "https://www.google.com/s2/favicons?domain=myarea.zuegg.it&sz=256",
               "cover": "https://zuegg.youser.tech/upl/entities/page/skipper-visual.png",
               "coverUrl": "https://zuegg.youser.tech/upl/entities/page/skipper-visual.png",
