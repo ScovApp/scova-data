@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-12T15:44:12+02:00",
+  "updatedAt": "2026-08-13T19:01:31+02:00",
   "pages": [
     {
       "id": "home",
@@ -26,6 +26,30 @@
             "showCategory": true
           },
           "contests": [
+            {
+              "id": "concorso-a-premi-vinci-con-kaloderma-2026",
+              "title": "Concorso a premi Vinci con Kaloderma 2026",
+              "prize": "per la fase Instant Win (1 premio al giorno) N° 122 Card digitali “Tutto in Uno MODA” del valore unitario di Euro 200,00 per un valore totale di Euro 24.400,00 IVA esente Quantità premi in palio per la fase estrazione finale N° 1 pacchetto soggiorno di 2 notti presso Palazzo Varignana (Castel San Pietro Terme BO) per due persone, comprensivo di sistemazione in camera Suite con prima colazione, pranzo e cena, trattamenti SPA e esperienza “Metodo Acquaviva” del valore massimo stimato di Euro 2.619,76 IVA esclusa",
+              "platform": "Linkedin",
+              "category": "Moda",
+              "deadline": "2026-09-30",
+              "url": "https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fshowcase%2Fpromotiempo%2Fabout",
+              "termsUrl": "https://www.promotiempo.it/regolamentoconcorsokaloderma",
+              "approved": true,
+              "mechanic": "instant_win",
+              "badges": [
+                "Vinci subito",
+                "Con scontrino"
+              ],
+              "imageUrl": "https://kaloderma.it/wp-content/uploads/2022/02/thumb-kaloderma-fluida-aloe.png?v=2",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=linkedin.com&sz=256",
+              "cover": "https://www.google.com/s2/favicons?domain=linkedin.com&sz=256",
+              "coverUrl": "https://www.google.com/s2/favicons?domain=linkedin.com&sz=256",
+              "brandImage": "https://www.google.com/s2/favicons?domain=linkedin.com&sz=256",
+              "ogImage": "https://www.google.com/s2/favicons?domain=linkedin.com&sz=256",
+              "twitterImage": "https://www.google.com/s2/favicons?domain=linkedin.com&sz=256",
+              "image": "https://www.google.com/s2/favicons?domain=linkedin.com&sz=256"
+            },
             {
               "id": "stocker-garden-schiaccia-la-zanzara-vinci-gratis-kit-anti-zanzare-2026",
               "title": "Stocker Garden “Schiaccia la zanzara”: vinci gratis kit anti-zanzare",
@@ -193,30 +217,6 @@
               "ogImage": "https://www.accendilatuapassione.it/webapp/assets/images/hero-claim.png",
               "twitterImage": "https://www.accendilatuapassione.it/webapp/assets/images/hero-claim.png",
               "image": "https://www.accendilatuapassione.it/webapp/assets/images/hero-claim.png"
-            },
-            {
-              "id": "dacia-sandrider-experience-tour-2026",
-              "title": "Dacia Sandrider Experience Tour",
-              "prize": "il partecipante che avrà registrato il miglior tempo assoluto a livello nazionale. Condividi Scadenza: 12-12-2026 Pubblicazione: 30-06-2026 Url:",
-              "platform": "Dacia",
-              "category": "Shopping",
-              "deadline": "2026-12-12",
-              "url": "https://sandriderexperiencetour.dacia.it/",
-              "termsUrl": "https://sandriderexperiencetour.dacia.it/assets/docs/Regolamento_def.pdf",
-              "approved": true,
-              "mechanic": "instant_win",
-              "badges": [
-                "Vinci subito",
-                "Con scontrino"
-              ],
-              "imageUrl": "https://sandriderexperiencetour.dacia.it/assets/img/hero-bg.jpg",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=sandriderexperiencetour.dacia.it&sz=256",
-              "cover": "https://sandriderexperiencetour.dacia.it/assets/img/hero-bg.jpg",
-              "coverUrl": "https://sandriderexperiencetour.dacia.it/assets/img/hero-bg.jpg",
-              "brandImage": "https://sandriderexperiencetour.dacia.it/assets/img/hero-bg.jpg",
-              "ogImage": "https://sandriderexperiencetour.dacia.it/assets/img/hero-bg.jpg",
-              "twitterImage": "https://sandriderexperiencetour.dacia.it/assets/img/hero-bg.jpg",
-              "image": "https://sandriderexperiencetour.dacia.it/assets/img/hero-bg.jpg"
             }
           ]
         },
@@ -232,6 +232,54 @@
             "showCategory": true
           },
           "contests": [
+            {
+              "id": "con-ferrari-e-tutto-un-altro-gusto-2026",
+              "title": "Con Ferrari…è tutto un altro gusto!",
+              "prize": "Una planetaria Kenwood",
+              "platform": "Concorsoferrariformaggi",
+              "category": "Shopping",
+              "deadline": "2027-01-31",
+              "url": "https://www.concorsoferrariformaggi.it/",
+              "termsUrl": "https://www.concorsoferrariformaggi.it/assets/pdf/regolamento.pdf",
+              "approved": true,
+              "mechanic": "instant_win",
+              "badges": [
+                "Vinci subito",
+                "Con scontrino"
+              ],
+              "imageUrl": "https://www.ferrariformaggi.it/img/Concorso2026Popup.png",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=concorsoferrariformaggi.it&sz=256",
+              "cover": "https://www.concorsoferrariformaggi.it/assets/img/index.jpg",
+              "coverUrl": "https://www.concorsoferrariformaggi.it/assets/img/index.jpg",
+              "brandImage": "https://www.concorsoferrariformaggi.it/assets/img/index.jpg",
+              "ogImage": "https://www.concorsoferrariformaggi.it/assets/img/index.jpg",
+              "twitterImage": "https://www.concorsoferrariformaggi.it/assets/img/index.jpg",
+              "image": "https://www.concorsoferrariformaggi.it/assets/img/index.jpg"
+            },
+            {
+              "id": "8-6-feel-the-party-2026",
+              "title": "8.6 Feel The Party",
+              "prize": "con altri aventi medesime prestazioni e valore, nel caso quelli descritti e presentati ai partecipanti non siano più disponibili per cessata produzione/importazione o per modifiche/aggiornamenti apportati dai fornitori dei premi. ❖ I premi non assegnati verranno devoluti in beneficenza alla: Onlus Fondazione Theodora sede Milano Via Bernardo Quaranta, 45 – 20139 Milano (MI)",
+              "platform": "Concorso86",
+              "category": "Shopping",
+              "deadline": "2026-10-31",
+              "url": "https://concorso86.com/",
+              "termsUrl": "https://concorso86.com/pdf/regolamento.pdf",
+              "approved": true,
+              "mechanic": "instant_win",
+              "badges": [
+                "Vinci subito",
+                "Con scontrino"
+              ],
+              "imageUrl": "https://concorso86.com/images/1200x800_GALLERY_01.jpg",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=concorso86.com&sz=256",
+              "cover": "https://concorso86.com/images/1200x800_GALLERY_01.jpg",
+              "coverUrl": "https://concorso86.com/images/1200x800_GALLERY_01.jpg",
+              "brandImage": "https://concorso86.com/images/1200x800_GALLERY_01.jpg",
+              "ogImage": "https://concorso86.com/images/1200x800_GALLERY_01.jpg",
+              "twitterImage": "https://concorso86.com/images/1200x800_GALLERY_01.jpg",
+              "image": "https://concorso86.com/images/1200x800_GALLERY_01.jpg"
+            },
             {
               "id": "ogni-sorso-e-un-viaggio-2026",
               "title": "Ogni sorso è un viaggio",
@@ -2978,6 +3026,78 @@
               "ogImage": "https://zuegg.youser.tech/upl/entities/page/skipper-visual.png",
               "twitterImage": "https://zuegg.youser.tech/upl/entities/page/skipper-visual.png",
               "image": "https://zuegg.youser.tech/upl/entities/page/skipper-visual.png"
+            },
+            {
+              "id": "8-6-feel-the-party-2026",
+              "title": "8.6 Feel The Party",
+              "prize": "con altri aventi medesime prestazioni e valore, nel caso quelli descritti e presentati ai partecipanti non siano più disponibili per cessata produzione/importazione o per modifiche/aggiornamenti apportati dai fornitori dei premi. ❖ I premi non assegnati verranno devoluti in beneficenza alla: Onlus Fondazione Theodora sede Milano Via Bernardo Quaranta, 45 – 20139 Milano (MI)",
+              "platform": "Concorso86",
+              "category": "Shopping",
+              "deadline": "2026-10-31",
+              "url": "https://concorso86.com/",
+              "termsUrl": "https://concorso86.com/pdf/regolamento.pdf",
+              "approved": true,
+              "mechanic": "instant_win",
+              "badges": [
+                "Vinci subito",
+                "Con scontrino"
+              ],
+              "imageUrl": "https://concorso86.com/images/1200x800_GALLERY_01.jpg",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=concorso86.com&sz=256",
+              "cover": "https://concorso86.com/images/1200x800_GALLERY_01.jpg",
+              "coverUrl": "https://concorso86.com/images/1200x800_GALLERY_01.jpg",
+              "brandImage": "https://concorso86.com/images/1200x800_GALLERY_01.jpg",
+              "ogImage": "https://concorso86.com/images/1200x800_GALLERY_01.jpg",
+              "twitterImage": "https://concorso86.com/images/1200x800_GALLERY_01.jpg",
+              "image": "https://concorso86.com/images/1200x800_GALLERY_01.jpg"
+            },
+            {
+              "id": "concorso-a-premi-vinci-con-kaloderma-2026",
+              "title": "Concorso a premi Vinci con Kaloderma 2026",
+              "prize": "per la fase Instant Win (1 premio al giorno) N° 122 Card digitali “Tutto in Uno MODA” del valore unitario di Euro 200,00 per un valore totale di Euro 24.400,00 IVA esente Quantità premi in palio per la fase estrazione finale N° 1 pacchetto soggiorno di 2 notti presso Palazzo Varignana (Castel San Pietro Terme BO) per due persone, comprensivo di sistemazione in camera Suite con prima colazione, pranzo e cena, trattamenti SPA e esperienza “Metodo Acquaviva” del valore massimo stimato di Euro 2.619,76 IVA esclusa",
+              "platform": "Linkedin",
+              "category": "Moda",
+              "deadline": "2026-09-30",
+              "url": "https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fshowcase%2Fpromotiempo%2Fabout",
+              "termsUrl": "https://www.promotiempo.it/regolamentoconcorsokaloderma",
+              "approved": true,
+              "mechanic": "instant_win",
+              "badges": [
+                "Vinci subito",
+                "Con scontrino"
+              ],
+              "imageUrl": "https://kaloderma.it/wp-content/uploads/2022/02/thumb-kaloderma-fluida-aloe.png?v=2",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=linkedin.com&sz=256",
+              "cover": "https://www.google.com/s2/favicons?domain=linkedin.com&sz=256",
+              "coverUrl": "https://www.google.com/s2/favicons?domain=linkedin.com&sz=256",
+              "brandImage": "https://www.google.com/s2/favicons?domain=linkedin.com&sz=256",
+              "ogImage": "https://www.google.com/s2/favicons?domain=linkedin.com&sz=256",
+              "twitterImage": "https://www.google.com/s2/favicons?domain=linkedin.com&sz=256",
+              "image": "https://www.google.com/s2/favicons?domain=linkedin.com&sz=256"
+            },
+            {
+              "id": "con-ferrari-e-tutto-un-altro-gusto-2026",
+              "title": "Con Ferrari…è tutto un altro gusto!",
+              "prize": "Una planetaria Kenwood",
+              "platform": "Concorsoferrariformaggi",
+              "category": "Shopping",
+              "deadline": "2027-01-31",
+              "url": "https://www.concorsoferrariformaggi.it/",
+              "termsUrl": "https://www.concorsoferrariformaggi.it/assets/pdf/regolamento.pdf",
+              "approved": true,
+              "mechanic": "instant_win",
+              "badges": [
+                "Vinci subito",
+                "Con scontrino"
+              ],
+              "imageUrl": "https://www.ferrariformaggi.it/img/Concorso2026Popup.png",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=concorsoferrariformaggi.it&sz=256",
+              "cover": "https://www.concorsoferrariformaggi.it/assets/img/index.jpg",
+              "coverUrl": "https://www.concorsoferrariformaggi.it/assets/img/index.jpg",
+              "brandImage": "https://www.concorsoferrariformaggi.it/assets/img/index.jpg",
+              "ogImage": "https://www.concorsoferrariformaggi.it/assets/img/index.jpg",
+              "twitterImage": "https://www.concorsoferrariformaggi.it/assets/img/index.jpg",
+              "image": "https://www.concorsoferrariformaggi.it/assets/img/index.jpg"
             }
           ]
         }
