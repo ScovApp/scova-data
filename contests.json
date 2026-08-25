@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-25T10:44:20+02:00",
+  "updatedAt": "2026-08-25T11:05:18+02:00",
   "pages": [
     {
       "id": "home",
@@ -41,7 +41,7 @@
                 "Vinci subito",
                 "Con scontrino"
               ],
-              "imageUrl": "https://concorsi.mrday.it/img/header-hp.png",
+              "imageUrl": "https://concorsi.mrday.it/img/logo-mrday.png",
               "providerLogoUrl": "https://www.google.com/s2/favicons?domain=concorsi.mrday.it&sz=256",
               "cover": "https://concorsi.mrday.it/img/header-hp.png",
               "coverUrl": "https://concorsi.mrday.it/img/header-hp.png",
@@ -343,7 +343,7 @@
                 "Vinci subito",
                 "Con scontrino"
               ],
-              "imageUrl": "https://www.sanbenedetto70anni.it/images/sfondo-home.jpg",
+              "imageUrl": "https://www.sanbenedetto70anni.it/images/logo.png",
               "providerLogoUrl": "https://www.google.com/s2/favicons?domain=sanbenedetto70anni.it&sz=256",
               "cover": "https://www.sanbenedetto70anni.it/images/sfondo-home.jpg",
               "coverUrl": "https://www.sanbenedetto70anni.it/images/sfondo-home.jpg",
@@ -519,30 +519,6 @@
               "ogImage": "https://www.google.com/s2/favicons?domain=galbani.it&sz=256",
               "twitterImage": "https://www.google.com/s2/favicons?domain=galbani.it&sz=256",
               "image": "https://www.google.com/s2/favicons?domain=galbani.it&sz=256"
-            },
-            {
-              "id": "vota-il-tuo-power-hit-dell-estate-2026-vinci-gratis-i-biglietti-dell-evento",
-              "title": "Vota il tuo Power Hit Dell’Estate 2026: vinci gratis i biglietti dell’evento",
-              "prize": "i biglietti dell’evento",
-              "platform": "Rtl",
-              "category": "Shopping",
-              "deadline": "2026-08-21",
-              "url": "https://rtl.it/power-hits-estate/2026/canzoni-in-gara/",
-              "termsUrl": "https://rtl.it/power-hits-estate/2026/regolamento/",
-              "approved": true,
-              "mechanic": "vote_and_win",
-              "badges": [
-                "Vota e vinci",
-                "Senza acquisto"
-              ],
-              "imageUrl": "https://cloud.rtl.it/RTLFM/events/600xH/rtl-1025-power-hits-estate-2026-wide-site-kztjj.jpg",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=rtl.it&sz=256",
-              "cover": "https://www.google.com/s2/favicons?domain=rtl.it&sz=256",
-              "coverUrl": "https://www.google.com/s2/favicons?domain=rtl.it&sz=256",
-              "brandImage": "https://www.google.com/s2/favicons?domain=rtl.it&sz=256",
-              "ogImage": "https://www.google.com/s2/favicons?domain=rtl.it&sz=256",
-              "twitterImage": "https://www.google.com/s2/favicons?domain=rtl.it&sz=256",
-              "image": "https://www.google.com/s2/favicons?domain=rtl.it&sz=256"
             },
             {
               "id": "president-vivi-il-piacere-gourmet-vinci-150-set-zwilling-con-coltello-e-tagliere-o-viaggio-a-londra-2026",
@@ -788,30 +764,6 @@
           },
           "contests": [
             {
-              "id": "equilibra-acquista-e-vinci-kit-viaggio-2026",
-              "title": "Acquista e vinci un kit viaggio",
-              "prize": "100 set American Tourister e 1 Long Weekend a Formentera per 2 persone",
-              "platform": "Equilibra",
-              "category": "Viaggi",
-              "deadline": "2026-08-15",
-              "url": "https://www.promotiempo.it/concorso/concorso-a-premi-acquista-e-vinci-un-kit-viaggio",
-              "imageUrl": "https://www.google.com/s2/favicons?domain=promotiempo.it&sz=256",
-              "cover": "https://www.google.com/s2/favicons?domain=promotiempo.it&sz=256",
-              "coverUrl": "https://www.google.com/s2/favicons?domain=promotiempo.it&sz=256",
-              "brandImage": "https://www.google.com/s2/favicons?domain=equilibra.it&sz=256",
-              "ogImage": "",
-              "twitterImage": "",
-              "image": "https://www.google.com/s2/favicons?domain=promotiempo.it&sz=256",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=equilibra.it&sz=256",
-              "termsUrl": "https://www.promotiempo.it/concorso/concorso-a-premi-acquista-e-vinci-un-kit-viaggio",
-              "approved": true,
-              "mechanic": "instant_win",
-              "badges": [
-                "Vinci subito",
-                "Con scontrino"
-              ]
-            },
-            {
               "id": "dixan-prova-gratis-discs-2026",
               "title": "Prova gratis Dixan Discs 2026",
               "prize": "Carnet buoni spesa pari al costo del prodotto e 5 carnet da 1.000€",
@@ -857,30 +809,6 @@
               "badges": [
                 "Missioni",
                 "Gioco"
-              ]
-            },
-            {
-              "id": "cesar-concorso-2026",
-              "title": "Cesar Concorso 2026",
-              "prize": "70 friggitrici ad aria Air Fryer Glass bianca 9L Ariete",
-              "platform": "Cesar",
-              "category": "Casa & Famiglia",
-              "deadline": "2026-08-23",
-              "url": "https://www.it.cesar.com/",
-              "imageUrl": "https://www.google.com/s2/favicons?domain=it.cesar.com&sz=256",
-              "cover": "https://www.google.com/s2/favicons?domain=it.cesar.com&sz=256",
-              "coverUrl": "https://www.google.com/s2/favicons?domain=it.cesar.com&sz=256",
-              "brandImage": "https://www.google.com/s2/favicons?domain=it.cesar.com&sz=256",
-              "ogImage": "",
-              "twitterImage": "",
-              "image": "https://www.google.com/s2/favicons?domain=it.cesar.com&sz=256",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=it.cesar.com&sz=256",
-              "termsUrl": "https://www.it.cesar.com/sites/g/files/fnmzdf8821/files/2026-05/Regolamento_CESAR%20Rendi%20Ogni%20Giorno%20Delizioso.pdf",
-              "approved": true,
-              "mechanic": "final_draw",
-              "badges": [
-                "Estrazione",
-                "Con scontrino"
               ]
             },
             {
@@ -1988,30 +1916,6 @@
               ]
             },
             {
-              "id": "latte-sole-intrecci-di-bonta-2026",
-              "title": "Intrecci di Bontà Latte Sole",
-              "prize": "150 elettrodomestici Ariete",
-              "platform": "Latte Sole",
-              "category": "Casa & Famiglia",
-              "deadline": "2026-08-23",
-              "url": "https://intreccidibonta.it/",
-              "imageUrl": "https://www.google.com/s2/favicons?domain=intreccidibonta.it&sz=256",
-              "cover": "https://www.google.com/s2/favicons?domain=intreccidibonta.it&sz=256",
-              "coverUrl": "https://www.google.com/s2/favicons?domain=intreccidibonta.it&sz=256",
-              "brandImage": "https://www.google.com/s2/favicons?domain=intreccidibonta.it&sz=256",
-              "ogImage": "",
-              "twitterImage": "",
-              "image": "https://www.google.com/s2/favicons?domain=intreccidibonta.it&sz=256",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=lattesole.it&sz=256",
-              "termsUrl": "https://intreccidibonta.it/",
-              "approved": true,
-              "mechanic": "final_draw",
-              "badges": [
-                "Estrazione",
-                "Con scontrino"
-              ]
-            },
-            {
               "id": "granterre-la-bonta-che-ti-pensa-2026",
               "title": "Granterre: La bontà che ti pensa 2026",
               "prize": "Buoni regalo Amazon.it da 250€, punti raccolta e premi missione GranTerre",
@@ -2401,31 +2305,6 @@
               "image": "https://www.google.com/s2/favicons?domain=barilla.com&sz=256"
             },
             {
-              "id": "chanteclair-sgrassa-e-balla-2026",
-              "title": "Sgrassa e Balla",
-              "prize": "Un voucher viaggio per 2 persone a Formentera del valore di 5.000€",
-              "platform": "Chanteclair",
-              "category": "Viaggi",
-              "mechanic": "quiz",
-              "badges": [
-                "Quiz",
-                "Senza acquisto",
-                "Estrazione"
-              ],
-              "deadline": "2026-08-24",
-              "url": "https://chanteclair.it/sgrassaeballa/",
-              "termsUrl": "https://chanteclair.it/dm_2023/wp-content/uploads/2026/06/Reg_CO_Sgrassa_e_balla_DEF-1.pdf",
-              "approved": true,
-              "imageUrl": "https://www.google.com/s2/favicons?domain=chanteclair.it&sz=256",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=chanteclair.it&sz=256",
-              "cover": "https://www.google.com/s2/favicons?domain=chanteclair.it&sz=256",
-              "coverUrl": "https://www.google.com/s2/favicons?domain=chanteclair.it&sz=256",
-              "brandImage": "https://www.google.com/s2/favicons?domain=chanteclair.it&sz=256",
-              "ogImage": "",
-              "twitterImage": "",
-              "image": "https://www.google.com/s2/favicons?domain=chanteclair.it&sz=256"
-            },
-            {
               "id": "santangelo-premia-i-tuoi-acquisti-2026",
               "title": "Santangelo premia i tuoi acquisti",
               "prize": "Premi instant win e mensili, scooter Yamaha NEO'S, e-bike Yamaha CrossCore e Gift Card da 1.000€",
@@ -2449,31 +2328,6 @@
               "ogImage": "",
               "twitterImage": "",
               "image": "https://www.google.com/s2/favicons?domain=santangeloutlet.com&sz=256"
-            },
-            {
-              "id": "sammontana-gusta-vinci-gardaland-resort-2026",
-              "title": "Gusta e Vinci Gardaland Resort 2026",
-              "prize": "Biglietti Gardaland, gadget Prezzemolo e 3 soggiorni per 4 persone al Gardaland Resort",
-              "platform": "Sammontana / Gardaland",
-              "category": "Tempo Libero",
-              "mechanic": "unique_code",
-              "badges": [
-                "Codice",
-                "Vinci subito",
-                "Estrazione"
-              ],
-              "deadline": "2026-08-23",
-              "url": "https://vincigardaland.sammontana.it/regolamento-e-premi.html",
-              "termsUrl": "https://vincigardaland.sammontana.it/content/dam/vincigardaland/website/regolamento/GUSTA_E_VINCI_GARDALAND_RESORT_2026_DEF%20%284%29.pdf",
-              "approved": true,
-              "imageUrl": "https://www.google.com/s2/favicons?domain=sammontana.it&sz=256",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=sammontana.it&sz=256",
-              "cover": "https://www.google.com/s2/favicons?domain=sammontana.it&sz=256",
-              "coverUrl": "https://www.google.com/s2/favicons?domain=sammontana.it&sz=256",
-              "brandImage": "https://www.google.com/s2/favicons?domain=sammontana.it&sz=256",
-              "ogImage": "",
-              "twitterImage": "",
-              "image": "https://www.google.com/s2/favicons?domain=sammontana.it&sz=256"
             },
             {
               "id": "concorso-lavazza-vinci-un-viaggio-in-madagascar-e-50-trolley-2026",
@@ -2812,30 +2666,6 @@
               "image": "https://sandriderexperiencetour.dacia.it/assets/img/hero-bg.jpg"
             },
             {
-              "id": "equilibra-acquista-e-vinci-un-kit-viaggio-vinci-100-set-american-tourister-o-long-weekend-a-formentera-2026",
-              "title": "Equilibra “Acquista e vinci un kit viaggio”: vinci 100 set American Tourister o long weekend a Formentera",
-              "prize": "per la fase di Instant win:; N° 100 set American Tourister del valore stimato complessivo di Euro 167,87 cad iva escl Quantità premi in palio per la fase di estrazione finale:; N° 1 Long Weekend a Formentera per 2 persone del valore stimato di Euro 3.500,00 iva escl ove esposta",
-              "platform": "Equilibra",
-              "category": "Viaggi",
-              "deadline": "2026-08-15",
-              "url": "https://vinciunkitviaggio.equilibra.it/",
-              "termsUrl": "https://vinciunkitviaggio.equilibra.it/doc/regolamento-eq-potassio-26.pdf",
-              "approved": true,
-              "mechanic": "instant_win",
-              "badges": [
-                "Vinci subito",
-                "Con scontrino"
-              ],
-              "imageUrl": "https://vinciunkitviaggio.equilibra.it/images/sfondo_blu.jpg",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=vinciunkitviaggio.equilibra.it&sz=256",
-              "cover": "https://vinciunkitviaggio.equilibra.it/images/sfondo_blu.jpg",
-              "coverUrl": "https://vinciunkitviaggio.equilibra.it/images/sfondo_blu.jpg",
-              "brandImage": "https://vinciunkitviaggio.equilibra.it/images/sfondo_blu.jpg",
-              "ogImage": "https://vinciunkitviaggio.equilibra.it/images/sfondo_blu.jpg",
-              "twitterImage": "https://vinciunkitviaggio.equilibra.it/images/sfondo_blu.jpg",
-              "image": "https://vinciunkitviaggio.equilibra.it/images/sfondo_blu.jpg"
-            },
-            {
               "id": "vileda-il-rosso-ti-premia-vinci-iphone-17-kitchenaid-apple-watch-11-o-fiat-500-elettrica-2026",
               "title": "Vileda “Il rosso ti premia”: vinci iPhone 17, KitchenAid, Apple Watch 11 o… Fiat 500 elettrica!",
               "prize": "iPhone 17, KitchenAid, Apple Watch 11 o",
@@ -2956,30 +2786,6 @@
               "image": "https://www.google.com/s2/favicons?domain=direzionegardaland.discovera.it&sz=256"
             },
             {
-              "id": "dufour-100-anni-vinci-gift-card-da-100-o-visita-alla-fabbrica-delle-caramelle-2026",
-              "title": "Dufour 100 Anni: vinci gift card da 100€ o visita alla Fabbrica delle Caramelle",
-              "prize": "gift card da 100€ o visita alla Fabbrica delle Caramelle",
-              "platform": "Vincicondufour",
-              "category": "Shopping",
-              "deadline": "2026-08-22",
-              "url": "https://www.vincicondufour.it/index.asp",
-              "termsUrl": "https://www.vincicondufour.it/Reg_EDN_100anni_DUFOUR.pdf",
-              "approved": true,
-              "mechanic": "instant_win",
-              "badges": [
-                "Vinci subito",
-                "Con scontrino"
-              ],
-              "imageUrl": "https://www.vincicondufour.it/images/index.jpg?v=20260512114705",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=vincicondufour.it&sz=256",
-              "cover": "https://www.vincicondufour.it/images/index.jpg?v=20260512114705",
-              "coverUrl": "https://www.vincicondufour.it/images/index.jpg?v=20260512114705",
-              "brandImage": "https://www.vincicondufour.it/images/index.jpg?v=20260512114705",
-              "ogImage": "https://www.vincicondufour.it/images/index.jpg?v=20260512114705",
-              "twitterImage": "https://www.vincicondufour.it/images/index.jpg?v=20260512114705",
-              "image": "https://www.vincicondufour.it/images/index.jpg?v=20260512114705"
-            },
-            {
               "id": "galbani-quiz-2026",
               "title": "Galbani Quiz 2026",
               "prize": "Uno dei 2.000 Buoni Regalo Amazon.it* da 5€ come previsto dal regolamento dell'iniziativa",
@@ -3074,30 +2880,6 @@
               "ogImage": "https://vinci.camparisoda.it/img/hero-desk.jpg",
               "twitterImage": "https://vinci.camparisoda.it/img/hero-desk.jpg",
               "image": "https://vinci.camparisoda.it/img/hero-desk.jpg"
-            },
-            {
-              "id": "vota-il-tuo-power-hit-dell-estate-2026-vinci-gratis-i-biglietti-dell-evento",
-              "title": "Vota il tuo Power Hit Dell’Estate 2026: vinci gratis i biglietti dell’evento",
-              "prize": "i biglietti dell’evento",
-              "platform": "Rtl",
-              "category": "Shopping",
-              "deadline": "2026-08-21",
-              "url": "https://rtl.it/power-hits-estate/2026/canzoni-in-gara/",
-              "termsUrl": "https://rtl.it/power-hits-estate/2026/regolamento/",
-              "approved": true,
-              "mechanic": "vote_and_win",
-              "badges": [
-                "Vota e vinci",
-                "Senza acquisto"
-              ],
-              "imageUrl": "https://cloud.rtl.it/RTLFM/events/600xH/rtl-1025-power-hits-estate-2026-wide-site-kztjj.jpg",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=rtl.it&sz=256",
-              "cover": "https://www.google.com/s2/favicons?domain=rtl.it&sz=256",
-              "coverUrl": "https://www.google.com/s2/favicons?domain=rtl.it&sz=256",
-              "brandImage": "https://www.google.com/s2/favicons?domain=rtl.it&sz=256",
-              "ogImage": "https://www.google.com/s2/favicons?domain=rtl.it&sz=256",
-              "twitterImage": "https://www.google.com/s2/favicons?domain=rtl.it&sz=256",
-              "image": "https://www.google.com/s2/favicons?domain=rtl.it&sz=256"
             },
             {
               "id": "concorso-purity-program-by-levissima-2027",
@@ -3522,7 +3304,7 @@
                 "Vinci subito",
                 "Con scontrino"
               ],
-              "imageUrl": "https://concorsi.mrday.it/img/header-hp.png",
+              "imageUrl": "https://concorsi.mrday.it/img/logo-mrday.png",
               "providerLogoUrl": "https://www.google.com/s2/favicons?domain=concorsi.mrday.it&sz=256",
               "cover": "https://concorsi.mrday.it/img/header-hp.png",
               "coverUrl": "https://concorsi.mrday.it/img/header-hp.png",
@@ -3570,7 +3352,7 @@
                 "Vinci subito",
                 "Con scontrino"
               ],
-              "imageUrl": "https://www.sanbenedetto70anni.it/images/sfondo-home.jpg",
+              "imageUrl": "https://www.sanbenedetto70anni.it/images/logo.png",
               "providerLogoUrl": "https://www.google.com/s2/favicons?domain=sanbenedetto70anni.it&sz=256",
               "cover": "https://www.sanbenedetto70anni.it/images/sfondo-home.jpg",
               "coverUrl": "https://www.sanbenedetto70anni.it/images/sfondo-home.jpg",
