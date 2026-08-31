@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-25T11:05:18+02:00",
+  "updatedAt": "2026-08-31T18:04:22+02:00",
   "pages": [
     {
       "id": "home",
@@ -265,6 +265,30 @@
               "ogImage": "https://www.accendilatuapassione.it/webapp/assets/images/hero-claim.png",
               "twitterImage": "https://www.accendilatuapassione.it/webapp/assets/images/hero-claim.png",
               "image": "https://www.accendilatuapassione.it/webapp/assets/images/hero-claim.png"
+            },
+            {
+              "id": "griglia-gusta-e-vinci-con-birra-moretti-2026",
+              "title": "Griglia, Gusta e Vinci con Birra Moretti",
+              "prize": "con Birra Moretti",
+              "platform": "Concorsi",
+              "category": "Gastronomia",
+              "deadline": "2026-10-31",
+              "url": "https://birramoretti.concorsi.beer/griglia-gusta-e-vinci/",
+              "termsUrl": "https://birramoretti.concorsi.beer/griglia-gusta-e-vinci/regolamento.pdf",
+              "approved": true,
+              "mechanic": "instant_win",
+              "badges": [
+                "Vinci subito",
+                "Con scontrino"
+              ],
+              "imageUrl": "https://www.birramoretti.it/wp-content/uploads/2025/05/logo-baffo-birra-moretti.svg",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=birramoretti.concorsi.beer&sz=256",
+              "cover": "https://birramoretti.concorsi.beer/griglia-gusta-e-vinci/_nuxt/hero-moretti.D63WJ97g.webp",
+              "coverUrl": "https://birramoretti.concorsi.beer/griglia-gusta-e-vinci/_nuxt/hero-moretti.D63WJ97g.webp",
+              "brandImage": "https://birramoretti.concorsi.beer/griglia-gusta-e-vinci/_nuxt/hero-moretti.D63WJ97g.webp",
+              "ogImage": "https://birramoretti.concorsi.beer/griglia-gusta-e-vinci/_nuxt/hero-moretti.D63WJ97g.webp",
+              "twitterImage": "https://birramoretti.concorsi.beer/griglia-gusta-e-vinci/_nuxt/hero-moretti.D63WJ97g.webp",
+              "image": "https://birramoretti.concorsi.beer/griglia-gusta-e-vinci/_nuxt/hero-moretti.D63WJ97g.webp"
             }
           ]
         },
@@ -280,6 +304,30 @@
             "showCategory": true
           },
           "contests": [
+            {
+              "id": "vinci-a-colazione-2026",
+              "title": "Vinci A Colazione!",
+              "prize": "cia scun Destinatario dovrà collegarsi, dal 15 Luglio 2026 al 17 Ottobre 2026, al sito www.vinciconbalocco.it nella sezione dedicata al presente concorso: 1. Registrarsi indicando i propri dati anagrafici ed un indiriz zo e; mail valido; 2. Fornire facoltativamente i consensi alla privacy richiesti; 3. Caricare la foto/scansione integra e leggibile del documento d’ acquisto “parlante”, secondo le indicazioni del form",
+              "platform": "Vinciconbalocco",
+              "category": "Shopping",
+              "deadline": "2026-10-17",
+              "url": "https://vinciconbalocco.it/",
+              "termsUrl": "https://vinciconbalocco.it/assets/pdf/regolamento.pdf",
+              "approved": true,
+              "mechanic": "instant_win",
+              "badges": [
+                "Vinci subito",
+                "Con scontrino"
+              ],
+              "imageUrl": "https://vinciconbalocco.it/assets/img/logo_desktop.png",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=vinciconbalocco.it&sz=256",
+              "cover": "https://vinciconbalocco.it/assets/img/home_desktop.jpg",
+              "coverUrl": "https://vinciconbalocco.it/assets/img/home_desktop.jpg",
+              "brandImage": "https://vinciconbalocco.it/assets/img/home_desktop.jpg",
+              "ogImage": "https://vinciconbalocco.it/assets/img/home_desktop.jpg",
+              "twitterImage": "https://vinciconbalocco.it/assets/img/home_desktop.jpg",
+              "image": "https://vinciconbalocco.it/assets/img/home_desktop.jpg"
+            },
             {
               "id": "star-trova-il-dado-d-oro-e-vinci-fino-a-5-000-2027",
               "title": "STAR: trova il dado d’oro e vinci fino a 5.000€",
@@ -375,30 +423,6 @@
               "ogImage": "https://www.google.com/s2/favicons?domain=town.kelloggs.com&sz=256",
               "twitterImage": "https://www.google.com/s2/favicons?domain=town.kelloggs.com&sz=256",
               "image": "https://www.google.com/s2/favicons?domain=town.kelloggs.com&sz=256"
-            },
-            {
-              "id": "griglia-gusta-e-vinci-con-birra-moretti-2026",
-              "title": "Griglia, Gusta e Vinci con Birra Moretti",
-              "prize": "con Birra Moretti",
-              "platform": "Concorsi",
-              "category": "Gastronomia",
-              "deadline": "2026-10-31",
-              "url": "https://birramoretti.concorsi.beer/griglia-gusta-e-vinci/",
-              "termsUrl": "https://birramoretti.concorsi.beer/griglia-gusta-e-vinci/regolamento.pdf",
-              "approved": true,
-              "mechanic": "instant_win",
-              "badges": [
-                "Vinci subito",
-                "Con scontrino"
-              ],
-              "imageUrl": "https://www.birramoretti.it/wp-content/uploads/2025/05/logo-baffo-birra-moretti.svg",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=birramoretti.concorsi.beer&sz=256",
-              "cover": "https://birramoretti.concorsi.beer/griglia-gusta-e-vinci/_nuxt/hero-moretti.D63WJ97g.webp",
-              "coverUrl": "https://birramoretti.concorsi.beer/griglia-gusta-e-vinci/_nuxt/hero-moretti.D63WJ97g.webp",
-              "brandImage": "https://birramoretti.concorsi.beer/griglia-gusta-e-vinci/_nuxt/hero-moretti.D63WJ97g.webp",
-              "ogImage": "https://birramoretti.concorsi.beer/griglia-gusta-e-vinci/_nuxt/hero-moretti.D63WJ97g.webp",
-              "twitterImage": "https://birramoretti.concorsi.beer/griglia-gusta-e-vinci/_nuxt/hero-moretti.D63WJ97g.webp",
-              "image": "https://birramoretti.concorsi.beer/griglia-gusta-e-vinci/_nuxt/hero-moretti.D63WJ97g.webp"
             },
             {
               "id": "con-ferrari-e-tutto-un-altro-gusto-2026",
@@ -711,30 +735,6 @@
               "ogImage": "https://www.myautogrill.it/MyAutogrill.jpg",
               "twitterImage": "https://www.myautogrill.it/MyAutogrill.jpg",
               "image": "https://www.myautogrill.it/MyAutogrill.jpg"
-            },
-            {
-              "id": "estathe-sdraio-2026-vinci-500-sdraio-seletti",
-              "title": "Estathé “Sdraio 2026”: vinci 500 sdraio Seletti",
-              "prize": "500 sdraio Seletti",
-              "platform": "Estathe",
-              "category": "Shopping",
-              "deadline": "2026-08-30",
-              "url": "https://estathesdraio26.estathe.it/index.html",
-              "termsUrl": "https://estathesdraio26.estathe.it/docs/regolamento-ferrero-estathe.pdf",
-              "approved": true,
-              "mechanic": "instant_win",
-              "badges": [
-                "Vinci subito",
-                "Con scontrino"
-              ],
-              "imageUrl": "https://estathesdraio26.estathe.it/media/home-bg-radiant-7LKV4F6Q.png",
-              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=estathesdraio26.estathe.it&sz=256",
-              "cover": "https://estathesdraio26.estathe.it/media/home-bg-radiant-7LKV4F6Q.png",
-              "coverUrl": "https://estathesdraio26.estathe.it/media/home-bg-radiant-7LKV4F6Q.png",
-              "brandImage": "https://estathesdraio26.estathe.it/media/home-bg-radiant-7LKV4F6Q.png",
-              "ogImage": "https://estathesdraio26.estathe.it/media/home-bg-radiant-7LKV4F6Q.png",
-              "twitterImage": "https://estathesdraio26.estathe.it/media/home-bg-radiant-7LKV4F6Q.png",
-              "image": "https://estathesdraio26.estathe.it/media/home-bg-radiant-7LKV4F6Q.png"
             }
           ]
         },
@@ -3408,6 +3408,30 @@
               "ogImage": "https://concorsodadostar.it/images/lady.png",
               "twitterImage": "https://concorsodadostar.it/images/lady.png",
               "image": "https://concorsodadostar.it/images/lady.png"
+            },
+            {
+              "id": "vinci-a-colazione-2026",
+              "title": "Vinci A Colazione!",
+              "prize": "cia scun Destinatario dovrà collegarsi, dal 15 Luglio 2026 al 17 Ottobre 2026, al sito www.vinciconbalocco.it nella sezione dedicata al presente concorso: 1. Registrarsi indicando i propri dati anagrafici ed un indiriz zo e; mail valido; 2. Fornire facoltativamente i consensi alla privacy richiesti; 3. Caricare la foto/scansione integra e leggibile del documento d’ acquisto “parlante”, secondo le indicazioni del form",
+              "platform": "Vinciconbalocco",
+              "category": "Shopping",
+              "deadline": "2026-10-17",
+              "url": "https://vinciconbalocco.it/",
+              "termsUrl": "https://vinciconbalocco.it/assets/pdf/regolamento.pdf",
+              "approved": true,
+              "mechanic": "instant_win",
+              "badges": [
+                "Vinci subito",
+                "Con scontrino"
+              ],
+              "imageUrl": "https://vinciconbalocco.it/assets/img/logo_desktop.png",
+              "providerLogoUrl": "https://www.google.com/s2/favicons?domain=vinciconbalocco.it&sz=256",
+              "cover": "https://vinciconbalocco.it/assets/img/home_desktop.jpg",
+              "coverUrl": "https://vinciconbalocco.it/assets/img/home_desktop.jpg",
+              "brandImage": "https://vinciconbalocco.it/assets/img/home_desktop.jpg",
+              "ogImage": "https://vinciconbalocco.it/assets/img/home_desktop.jpg",
+              "twitterImage": "https://vinciconbalocco.it/assets/img/home_desktop.jpg",
+              "image": "https://vinciconbalocco.it/assets/img/home_desktop.jpg"
             }
           ]
         }
